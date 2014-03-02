@@ -1,12 +1,14 @@
 ; --- INDEX ---
-; lines starting with ; as first no-whitespace are comments
-; - in case you need to flag changes, etc...
+; lines starting with ; as first non-whitespace are comments
+; 
 ; File format is single lines formatted as Key:Value
 ; KEYS
 ;	page: 	comic page ID and link: heads a comic page entry.
 ;	url: 	the actual comic page url (no url, no link)
+;		(to insert pageID replace in the url with {0} )
 ;	tag: 	tags for the page's story items of note: character, item, location, etc.
 ;	desc: 	text relevant to the page (description, line of dialogue, etc)
+;	note:	footnotes, links, etc
 ;
 ; Can use multiple tags per page, but only one of each of the other keys
 ;
@@ -17,29 +19,39 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
 ;
-page:1320
-	url: http://www.gunnerkrigg.com/?p=1320
+page:1321
+	auth: Tom: Don't let the door hit you on the way out, buddy.
+	desc: Bonus Page: But... it's my room...
+	note: a different perspective on the bottom left panel of [p.1319](#p1319)
+	tag: Bonus
 	tag: ch-46
+	tag: FinalRecords
+	tag: Kat
+	tag: Librarian
+	url: http://www.gunnerkrigg.com/?p={0}
+page:1320
+	desc: And to help you practice... I want you to take me into the ether
 	tag: Annie
+	tag: ch-46
 	tag: FinalRecords
 	tag: Kat
 	tag: Mort
 	tag: Rolodex
-	desc: And to help you practice... I want you to take me into the ether
+	url: http://www.gunnerkrigg.com/?p={0}
 page:1319
-	url: http://www.gunnerkrigg.com/?p=1319
-	tag: ch-46
+	desc: Well don't blame me if you can't do your job right!
 	tag: Annie
+	tag: ch-46
 	tag: FinalRecords
 	tag: Kat
 	tag: Librarian
 	tag: Mort
-	desc: Well don't blame me if you can't do your job right!
+	url: http://www.gunnerkrigg.com/?p={0}
 page:1318
-	url: http://www.gunnerkrigg.com/?p=1318
-	tag: ch-46
+	desc: I wonder... if my mother is in here somewhere
 	tag: Annie
-	tag:FinalRecords
+	tag: ch-46
+	tag: FinalRecords
 	tag: Kat
 	tag: Librarian
 	tag: Mort
@@ -48,11 +60,11 @@ page:1318
 	tag: Steadman
 	tag: VHStape
 	tag: VideoPlayer
-	desc: I wonder... if my mother is in here somewhere
+	url: http://www.gunnerkrigg.com/?p={0}
 page:1317
-	url:http://www.gunnerkrigg.com/?p=1317
-	tag:ch-46
+	desc:I really wish I hadn't tripped over that damned dog
 	tag:Annie
+	tag:ch-46
 	tag:FinalRecords
 	tag:Kat
 	tag:Librarian
@@ -62,7 +74,7 @@ page:1317
 	tag:Steadman
 	tag:VHStape
 	tag:VideoPlayer
-	desc:I really wish I hadn't tripped over that damned dog
+	url:http://www.gunnerkrigg.com/?p={0}
 page:1316
 	url:http://www.gunnerkrigg.com/?p=1316
 	tag:ch-46
@@ -159,7 +171,8 @@ page:1308
 	tag:Mort
 	tag:Rolodex
 	tag:Zombie
-	desc:_This_ is the library?<br>_Tom: The ROTD is pretty proud of its library_
+	desc:_This_ is the library?
+	auth: Tom: The ROTD is pretty proud of its library
 page:1307
 	url:http://www.gunnerkrigg.com/?p=1307
 	tag:ch-46
@@ -175,7 +188,8 @@ page:1307
 	tag:Spider
 	tag:Tombstone
 	tag:Zombie
-	desc:I think they have a library around here somewhere<br>_Tom: This labyrinth of madness_
+	desc:I think they have a library around here somewhere
+auth: Tom: This labyrinth of madness
 page:1306
 	url:http://www.gunnerkrigg.com/?p=1306
 	tag:ch-46
@@ -291,14 +305,16 @@ page:1295
 	tag:Bonus
 	tag:Paz
 	tag:WhiteMouse
-	desc:Bonus page: Squeak<br>I'm a mouse!<br>_Tom: They like to talk, but don't really have a lot to say_
+	desc:Bonus page: Squeak<br>I'm a mouse!
+	auth: Tom: They like to talk, but don't really have a lot to say
 page:1294
 	url:http://www.gunnerkrigg.com/?p=1294
 	tag:ch-45
 	tag:KatsWorkshop
 	tag:Robot
 	tag:Robots
-	desc:It was worth it<br>_Tom: Thanks for reading this chapter about girls being friends_
+	desc:It was worth it
+	auth: Tom: Thanks for reading this chapter about girls being friends
 page:1293
 	url:http://www.gunnerkrigg.com/?p=1293
 	tag:ch-45
@@ -373,7 +389,8 @@ page:1285
 	tag:Habitat
 	tag:HabitatSymbol
 	tag:Kat
-	desc:We can work it out<br>_Tom: Working out an issue by talking? Pretty risky._
+	desc:We can work it out
+	auth: Tom: Working out an issue by talking? Pretty risky.
 page:1284
 	url:http://www.gunnerkrigg.com/?p=1284
 	tag:ch-45
@@ -381,7 +398,8 @@ page:1284
 	tag:CherryTree
 	tag:Habitat
 	tag:HabitatSymbol
-	desc:(slow zoom out from the tree)<br>_Tom: Here she is. There is where Annie was. Right here._
+	desc:(slow zoom out from the tree)
+	auth: Tom: Here she is. There is where Annie was. Right here.
 page:1283
 	url:http://www.gunnerkrigg.com/?p=1283
 	tag:ch-45
@@ -454,7 +472,8 @@ page:1275
 	tag:Kiss
 	tag:Paz
 	tag:Robots
-	desc:I better deal with that…<br>_Tom: Tough to focus_
+	desc:I better deal with that…
+	auth: Tom: Tough to focus
 page:1274
 	url:http://www.gunnerkrigg.com/?p=1274
 	tag:ch-45
@@ -462,7 +481,8 @@ page:1274
 	tag:KatsWorkshop
 	tag:Kiss
 	tag:Paz
-	desc:Waaaaaait, wait, wait<br>_Tom: Results continue to be guaranteed_
+	desc:Waaaaaait, wait, wait
+	auth: Tom: Results continue to be guaranteed
 page:1273
 	url:http://www.gunnerkrigg.com/?p=1273
 	tag:ch-45
@@ -471,7 +491,8 @@ page:1273
 	tag:Kiss
 	tag:Paz
 	tag:Smoke
-	desc:You do not have to show off for me, Kat<br>_Tom: Results Guaranteed_
+	desc:You do not have to show off for me, Kat
+	auth: Tom: Results Guaranteed
 page:1272
 	url:http://www.gunnerkrigg.com/?p=1272
 	tag:ch-45
@@ -481,7 +502,8 @@ page:1272
 	tag:Paz
 	tag:RobotParts
 	tag:Smoke
-	desc:Oh I think we can manage... just the two of us... <br>_Tom: Make Vomit Noises_
+	desc:Oh I think we can manage... just the two of us...
+	auth: Tom: Make Vomit Noises
 page:1271
 	url:http://www.gunnerkrigg.com/?p=1271
 	tag:ch-45
@@ -490,7 +512,8 @@ page:1271
 	tag:KatsWorkshop
 	tag:Paz
 	tag:RobotParts
-	desc:I could do with your... assistance<br>_Tom: Rapidly bring face towards subject_
+	desc:I could do with your... assistance
+	auth:Tom: Rapidly bring face towards subject
 page:1270
 	url:http://www.gunnerkrigg.com/?p=1270
 	tag:ch-45
@@ -500,7 +523,8 @@ page:1270
 	tag:KatsWorkshop
 	tag:Paz
 	tag:RobotParts
-	desc:A few minutes of hasty planning later<br>_Tom: When trying to impress, keep eyes closed_
+	desc:A few minutes of hasty planning later
+	auth: Tom: When trying to impress, keep eyes closed
 page:1269
 	url:http://www.gunnerkrigg.com/?p=1269
 	tag:ch-45
@@ -509,7 +533,8 @@ page:1269
 	tag:Paz
 	tag:Robots
 	tag:Seraph
-	desc:I... I have to be sure!<br>_Tom: Never ask, only guess._
+	desc:I... I have to be sure!
+	auth: Tom: Never ask, only guess.
 page:1268
 	url:http://www.gunnerkrigg.com/?p=1268
 	tag:ch-45
@@ -518,7 +543,8 @@ page:1268
 	tag:Paz
 	tag:Robots
 	tag:Seraph
-	desc:State your name and the name of your hairdresser!<br>_Tom: Top security._
+	desc:State your name and the name of your hairdresser!
+	auth: Tom: Top security.
 page:1267
 	url:http://www.gunnerkrigg.com/?p=1267
 	tag:ch-45
@@ -528,7 +554,8 @@ page:1267
 	tag:Paz
 	tag:Robots
 	tag:Seraph
-	desc:No! I like to see it! You are so clever, Kat!<br>_Tom: Paz and Kat and robots_
+	desc:No! I like to see it! You are so clever, Kat!
+	auth: Tom: Paz and Kat and robots
 page:1266
 	url:http://www.gunnerkrigg.com/?p=1266
 	tag:ch-45
@@ -536,14 +563,16 @@ page:1266
 	tag:Kat
 	tag:KatsWorkshop
 	tag:Paz
-	desc:What is this room?<br>_Tom: Pat and Kaz_
+	desc:What is this room?
+	auth: Tom: Pat and Kaz
 page:1265
 	url:http://www.gunnerkrigg.com/?p=1265
 	tag:ch-45
 	tag:Kat
 	tag:KatsWorkshop
 	tag:Paz
-	desc:So this is where you spend all your time!<br>_Tom: Kat and Paz_
+	desc:So this is where you spend all your time!
+	auth: Tom: Kat and Paz
 page:1264
 	url:http://www.gunnerkrigg.com/?p=1264
 	tag:ch-45
@@ -605,7 +634,7 @@ page:1258
 	tag:Monster
 	tag:OldCourt
 	tag:Ysengrin
-	desc:_Tom: Set yourself on fire_
+	auth: Tom: Set yourself on fire
 page:1257
 	url:http://www.gunnerkrigg.com/?p=1257
 	tag:ch-44
@@ -616,7 +645,7 @@ page:1257
 	tag:Monster
 	tag:OldCourt
 	tag:Ysengrin
-	desc:_Tom: Create a fire around yourself_
+	auth: Tom: Create a fire around yourself
 page:1256
 	url:http://www.gunnerkrigg.com/?p=1256
 	tag:ch-44
@@ -774,7 +803,8 @@ page:1242
 	tag:Monster
 	tag:OldCourt
 	tag:Ysengrin
-	desc:Ysengrin / been a while / thought you'd forgotten about us<br>_Tom: Ysengrin's army_
+	desc:Ysengrin / been a while / thought you'd forgotten about us
+	auth: Tom: Ysengrin's army
 page:1241
 	url:http://www.gunnerkrigg.com/?p=1241
 	tag:ch-44
@@ -832,7 +862,8 @@ page:1235
 	tag:Annie
 	tag:Kat
 	tag:Paz
-	desc:Are you sure about going there on your own?<br>_Tom: A shared love of rhythm games_
+	desc:Are you sure about going there on your own?
+	auth: Tom: A shared love of rhythm games
 page:1234
 	url:http://www.gunnerkrigg.com/?p=1234
 	tag:ch-44
@@ -859,7 +890,7 @@ page:1231
 	tag:Hetty
 	tag:Rey
 	tag:StepsHouse
-	desc:_Tom: Bye, Hetty_
+	auth: Tom: Bye, Hetty
 page:1230
 	url:http://www.gunnerkrigg.com/?p=1230
 	tag:ch-43
@@ -949,7 +980,8 @@ page:1222
 	tag:Hetty
 	tag:Rey
 	tag:SchoolYard
-	desc:I'm sure you'd cut a handsome figure if you just _try!_<br>_Tom: The monster, revealed!_
+	desc:I'm sure you'd cut a handsome figure if you just _try!_
+	auth: Tom: The monster, revealed!
 page:1221
 	url:http://www.gunnerkrigg.com/?p=1221
 	tag:ch-43
@@ -1054,7 +1086,8 @@ page:1211
 	tag:GlassFiber
 	tag:Hetty
 	tag:Rey
-	desc:Up to more acts of unspeakable evil today, Hetty? _(Adam 1st reference)_
+	desc:Up to more acts of unspeakable evil today, Hetty? 
+	note: _(Adam 1st reference)_
 page:1210
 	url:http://www.gunnerkrigg.com/?p=1210
 	tag:ch-43
@@ -1062,7 +1095,8 @@ page:1210
 	tag:Court
 	tag:Hetty
 	tag:Rey
-	desc:Oh Reynardine!<br>_Tom: Renard Renard Renard Hetty_
+	desc:Oh Reynardine!
+	auth: Tom: Renard Renard Renard Hetty
 page:1209
 	url:http://www.gunnerkrigg.com/?p=1209
 	tag:ch-43
@@ -1070,7 +1104,8 @@ page:1209
 	tag:Court
 	tag:StepsHouse
 	tag:Rey
-	desc:(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)<br>_Tom: Renard Renard Renard_
+	desc:(Rey scrapes at the door and scratches it; no-one answers; he walks down the street)
+	auth: Tom: Renard Renard Renard
 page:1208
 	url:http://www.gunnerkrigg.com/?p=1208
 	tag:ch-43
@@ -1078,14 +1113,16 @@ page:1208
 	tag:Court
 	tag:StepsHouse
 	tag:Rey
-	desc:(Rey walks down the street in the outer parts of the court and sees a house)<br>_Tom: Renard Renard_
+	desc:(Rey walks down the street in the outer parts of the court and sees a house)
+	auth: Tom: Renard Renard
 page:1207
 	url:http://www.gunnerkrigg.com/?p=1207
 	tag:ch-43
 	tag:Lindsey
 	tag:Rey
 	tag:SubDorm
-	desc:Out and about today Renard (toy to white wolf transform)<br>_Tom: Renard_
+	desc:Out and about today Renard (toy to white wolf transform)
+	auth: Tom: Renard
 page:1206
 	url:http://www.gunnerkrigg.com/?p=1206
 	tag:ch-43
@@ -1095,7 +1132,7 @@ page:1206
 	tag:Paz
 	tag:Rey
 	tag:SubDorm
-	desc:_Tom: Annie does not know yet_
+	auth: Tom: Annie does not know yet
 page:1205
 	url:http://www.gunnerkrigg.com/?p=1205
 	tag:ch-43
@@ -1462,7 +1499,8 @@ page:1163
 	tag:Kat
 	tag:LoveLetter
 	tag:Rey
-	desc:It’s a _Love Letter_<br>_Tom: Oh no_
+	desc:It’s a _Love Letter_
+	auth: Tom: Oh no
 page:1162
 	url:http://www.gunnerkrigg.com/?p=1162
 	tag:ch-41
@@ -1530,7 +1568,8 @@ page:1156
 	tag:Parley
 	tag:Rey
 	tag:Smitty
-	desc:Are you husband and wife?<br>_Tom: Personal space? What’s that?_
+	desc:Are you husband and wife?
+	auth: Tom: Personal space? What’s that?
 page:1155
 	url:http://www.gunnerkrigg.com/?p=1155
 	tag:ch-41
@@ -1556,7 +1595,7 @@ page:1154
 	tag:LeadSymbol
 	tag:Parley
 	tag:Rey
-	desc:_Tom: Nice to have career options_
+	auth:Tom: Nice to have career options
 page:1153
 	url:http://www.gunnerkrigg.com/?p=1153
 	tag:ch-41
@@ -2031,13 +2070,15 @@ page:1100
 	tag:ch-40
 	tag:Blood
 	tag:Jones
-	desc:Several decades ago: (WWII?) (Mr Jones)<br>_Tom: Emma becomes Jones_
+	desc:Several decades ago: (WWII?) (Mr Jones)
+	auth: Tom: Emma becomes Jones
 page:1099
 	url:http://www.gunnerkrigg.com/?p=1099
 	tag:ch-40
 	tag:Eglamore
 	tag:Jones
-	desc:Decades ago: (Late 50s/early 60s?) Wave to your parents James (Eglamore is 9, see p1118)<br>_Tom: Mr Eglamore whistles, “Do all their teachers look like that?” and Mrs Eglamore playfully slaps him. There are tears in her eyes._
+	desc:Decades ago: (Late 50s/early 60s?) Wave to your parents James (Eglamore is 9, see p1118)
+	auth: Tom: Mr Eglamore whistles, “Do all their teachers look like that?” and Mrs Eglamore playfully slaps him. There are tears in her eyes.
 page:1098
 	url:http://www.gunnerkrigg.com/?p=1098
 	tag:ch-40
@@ -2195,7 +2236,8 @@ page:1080
 	tag:Gillitie
 	tag:TreeBody
 	tag:Ysengrin
-	desc:creak … snap … GRUUH!<br>_Tom: Ysengrin seems to disagree_
+	desc:creak … snap … GRUUH!
+	auth: Tom: Ysengrin seems to disagree
 page:1079
 	url:http://www.gunnerkrigg.com/?p=1079
 	tag:ch-39
@@ -2317,7 +2359,8 @@ page:1068
 	tag:GreatSecret
 	tag:Sun
 	tag:SunSymbol
-	desc:I. Do Not. Exist!<br>_Tom: Also: kind of a jerk._
+	desc:I. Do Not. Exist!
+	auth: Tom: Also: kind of a jerk.
 page:1067
 	url:http://www.gunnerkrigg.com/?p=1067
 	tag:ch-39
@@ -2327,7 +2370,8 @@ page:1067
 	tag:GreatSecret
 	tag:Sun
 	tag:Ysengrin
-	desc:and so, Fire Head Girl told Coyote lovely stories about how amazing he is<br>_Tom: Try not to look at the camera, Coyote_
+	desc:and so, Fire Head Girl told Coyote lovely stories about how amazing he is
+	auth: Tom: Try not to look at the camera, Coyote
 page:1066
 	url:http://www.gunnerkrigg.com/?p=1066
 	tag:ch-39
@@ -2336,7 +2380,8 @@ page:1066
 	tag:Gillitie
 	tag:GreatSecret
 	tag:Ysengrin
-	desc:Your great secret?<br>_Tom: Coyote gets his way_
+	desc:Your great secret?
+	auth: Tom: Coyote gets his way
 page:1065
 	url:http://www.gunnerkrigg.com/?p=1065
 	tag:ch-39
@@ -2345,7 +2390,8 @@ page:1065
 	tag:Gillitie
 	tag:GreatSecret
 	tag:Ysengrin
-	desc:Coyote! Hove some dignity!<br>_Tom: A new range of expressions for Ysengrin_
+	desc:Coyote! Hove some dignity!
+	auth: Tom: A new range of expressions for Ysengrin
 page:1064
 	url:http://www.gunnerkrigg.com/?p=1064
 	tag:ch-39
@@ -2353,7 +2399,8 @@ page:1064
 	tag:Bones
 	tag:Coyote
 	tag:Gillitie
-	desc:Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!<br>_Tom: The Great Coyote_
+	desc:Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!
+	auth: Tom: The Great Coyote
 page:1063
 	url:http://www.gunnerkrigg.com/?p=1063
 	tag:ch-39
@@ -2362,14 +2409,16 @@ page:1063
 	tag:Gillitie
 	tag:Spankies
 	tag:Ysengrin
-	desc:Who said you had any choice in the matter, Fire Head Girl?<br>_Tom: Flick_
+	desc:Who said you had any choice in the matter, Fire Head Girl?
+	auth: Tom: Flick
 page:1062
 	url:http://www.gunnerkrigg.com/?p=1062
 	tag:ch-39
 	tag:Annie
 	tag:Coyote
 	tag:Gillitie
-	desc:You will tell me stories<br>_Tom: Told you he was a jerk_
+	desc:You will tell me stories
+	auth: Tom: Told you he was a jerk
 page:1061
 	url:http://www.gunnerkrigg.com/?p=1061
 	tag:ch-39
@@ -2377,7 +2426,8 @@ page:1061
 	tag:Coyote
 	tag:Gillitie
 	tag:Ysengrin
-	desc:Boo!<br>_Tom: This jerk again_
+	desc:Boo!
+	auth: Tom: This jerk again
 page:1060
 	url:http://www.gunnerkrigg.com/?p=1060
 	tag:ch-39
@@ -2386,7 +2436,7 @@ page:1060
 	tag:Etherium
 	tag:Gillitie
 	tag:Ysengrin
-	desc:_Tom: Walkin’ along_
+	auth: Tom: Walkin’ along
 page:1059
 	url:http://www.gunnerkrigg.com/?p=1059
 	tag:ch-39
@@ -2398,7 +2448,7 @@ page:1059
 	tag:Sword
 	tag:TreeBody
 	tag:Ysengrin
-	desc:_Tom: Been a while_
+	auth:Tom: Been a while
 page:1058
 	url:http://www.gunnerkrigg.com/?p=1058
 	tag:ch-39
@@ -2744,7 +2794,8 @@ page:1027
 	tag:AnnieCut
 	tag:Zimmy
 	tag:Zimmingham
-	desc:Not mine!<br>_Tom: Look who’s scrambling around in the trash again._
+	desc:Not mine!
+	auth: Tom: Look who’s scrambling around in the trash again.
 page:1026
 	url:http://www.gunnerkrigg.com/?p=1026
 	tag:ch-38
@@ -2823,7 +2874,7 @@ page:1019
 	tag:Flashback
 	tag:Sparring
 	tag:Tony
-	desc:_Tom: She doesn’t remember much else from that day_
+	auth: Tom: She doesn’t remember much else from that day
 page:1018
 	url:http://www.gunnerkrigg.com/?p=1018
 	tag:ch-37
@@ -2831,7 +2882,7 @@ page:1018
 	tag:Flashback
 	tag:Sparring
 	tag:Tony
-	desc:_Tom: Martial arts experts, please calm down. Their belts are grey because they are no specific colour_
+	auth: Tom: Martial arts experts, please calm down. Their belts are grey because they are no specific colour
 page:1017
 	url:http://www.gunnerkrigg.com/?p=1017
 	tag:ch-37
@@ -2887,7 +2938,8 @@ page:1013
 	tag:Surma
 	tag:Tony
 	tag:Valknut
-	desc:All he had to do was ask [Brinnie](#brinnie) if she wanted to go too<br>_Tom: Donny watches a friend shoot himself down. What more can he do?_
+	desc:All he had to do was ask [Brinnie](#brinnie) if she wanted to go too
+	auth: Tom: Donny watches a friend shoot himself down. What more can he do?
 page:1012
 	url:http://www.gunnerkrigg.com/?p=1012
 	tag:ch-37
@@ -2946,7 +2998,8 @@ page:1006
 	tag:Donny
 	tag:Etherics
 	tag:Robotics
-	desc:anyway, about the call, did it seem strange to you? <br>_Tom: Whatever you do, don’t say the message out loud_
+	desc:anyway, about the call, did it seem strange to you? 
+	auth: Tom: Whatever you do, don’t say the message out loud
 page:1005
 	url:http://www.gunnerkrigg.com/?p=1005
 	tag:ch-37
@@ -3064,7 +3117,7 @@ page:995
 	tag:HedgehogFae
 	tag:MarineFae
 	tag:Red
-	desc:_Tom: Here it is. The best page of Gunnerkrigg Court._
+	auth: Tom: Here it is. The best page of Gunnerkrigg Court.
 page:994
 	url:http://www.gunnerkrigg.com/?p=994
 	tag:ch-36
@@ -3406,7 +3459,7 @@ page:965
 	tag:Parley
 	tag:Robot
 	tag:Shadow
-	desc:_Tom: sharp enough to cut a shadow from the floor_
+	auth: Tom: sharp enough to cut a shadow from the floor
 page:964
 	url:http://www.gunnerkrigg.com/?p=964
 	tag:ch-35
@@ -4416,7 +4469,8 @@ page:864
 	tag:Kat
 	tag:Lindsey
 	tag:SubDorm
-	desc:(traumatized Kat) <br>_Tom: Next: A rhino beetle that enjoys Sudoku._
+	desc:(traumatized Kat) 
+	auth: Tom: Next: A rhino beetle that enjoys Sudoku.
 page:863
 	url:http://www.gunnerkrigg.com/?p=863
 	tag:ch-32
@@ -4475,7 +4529,8 @@ page:858
 	tag:Kat
 	tag:Lindsey
 	tag:SubDorm
-	desc:Enough already! <br>_Tom: Not even sure how she’s doing that in panel 2_
+	desc:Enough already! 
+	auth: Tom: Not even sure how she’s doing that in panel 2
 page:857
 	url:http://www.gunnerkrigg.com/?p=857
 	tag:ch-32
@@ -5871,7 +5926,8 @@ page:749
 	tag:CityFace
 	tag:Kat
 	tag:Train
-	desc:How can you be so tiny and fragile?<br>_Tom: The train is nicknamed Blaine_
+	desc:How can you be so tiny and fragile?
+	auth: Tom: The train is nicknamed Blaine
 page:748
 	url:http://www.gunnerkrigg.com/?p=748
 	tag:ch-29
@@ -8338,7 +8394,7 @@ page:526
 	tag:Kat
 	tag:Ketrak
 	tag:Psychopomps
-	desc:Now I know there is some creepy insect guy that appears when he dies makes it hard to- oh.
+	desc:Now I know there is some creepy insect guy that appears when he dies makes it hard to-- oh.
 page:525
 	url:http://www.gunnerkrigg.com/?p=525
 	tag:ch-21
@@ -8349,7 +8405,7 @@ page:525
 	tag:Kat
 	tag:Latin
 	tag:Mort
-	desc:_Tom: You screwed up big time Carver_
+	auth: Tom: You screwed up big time Carver
 page:524
 	url:http://www.gunnerkrigg.com/?p=524
 	tag:ch-21
@@ -8437,7 +8493,7 @@ page:517
 	tag:EthericShield
 	tag:Kat
 	tag:Rey
-	desc:_Tom: Annie’s just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds._
+	auth: Tom: Annie’s just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds.
 page:516
 	url:http://www.gunnerkrigg.com/?p=516
 	tag:ch-21
@@ -8460,7 +8516,7 @@ page:515
 	tag:Court
 	tag:Etherics
 	tag:Kat
-	desc:Others may call these methods Magic, The court, prefers to refer to them as “Etheric Sciences”
+	desc: Others may call these methods Magic, The court, prefers to refer to them as “Etheric Sciences”
 page:514
 	url:http://www.gunnerkrigg.com/?p=514
 	tag:ch-21
@@ -11752,7 +11808,8 @@ page:203
 	tag:ScienceLab
 	tag:Shadow
 	tag:Terrible
-	desc:On my way over I saw… Robots! (helloooo!)<br>_Tom: nobody likes boxbot_
+	desc:On my way over I saw… Robots! (helloooo!)
+	auth: Tom: nobody likes boxbot
 page:202
 	url:http://www.gunnerkrigg.com/?p=202
 	tag:ch-12
@@ -13574,7 +13631,8 @@ page:16
 	tag:Queslett
 	tag:Tea
 	tag:Thornhill
-	desc:Bonus Page: Houses at Gunnerkrigg Court<br>_Tom: Year 7 is the first year of [UK] secondary school, and is the equivalent of 6th grade in the US. Children in Year 7 are 11-12 years old._
+	desc:Bonus Page: Houses at Gunnerkrigg Court
+	auth: Tom: Year 7 is the first year of [UK] secondary school, and is the equivalent of 6th grade in the US. Children in Year 7 are 11-12 years old.
 page:15
 	url:http://www.gunnerkrigg.com/?p=15
 	tag:ch-01
