@@ -64,6 +64,7 @@ page:1318
 page:1317
 	desc:I really wish I hadn't tripped over that damned dog
 	tag:Annie
+	tag: Artillaryman
 	tag:ch-46
 	tag:FinalRecords
 	tag:Kat
@@ -7210,6 +7211,7 @@ page:630
 	url:http://www.gunnerkrigg.com/?p=630
 	tag:ch-24
 	tag:Annie
+	tag: BismuthSymbol
 	tag:Bob
 	tag:Eglamore
 	tag:LaserCow
@@ -7222,6 +7224,7 @@ page:629
 	url:http://www.gunnerkrigg.com/?p=629
 	tag:ch-24
 	tag:Annie
+	tag: BismuthSymbol
 	tag:Bob
 	tag:Eglamore
 	tag:Jack
@@ -7236,6 +7239,7 @@ page:628
 	url:http://www.gunnerkrigg.com/?p=628
 	tag:ch-24
 	tag:Annie
+	tag: BismuthSymbol
 	tag:Bob
 	tag:Dryad
 	tag:Eglamore
@@ -7249,6 +7253,7 @@ page:627
 	url:http://www.gunnerkrigg.com/?p=627
 	tag:ch-24
 	tag:Annie
+	tag: BismuthSymbol
 	tag:BlinkerStone
 	tag:Bob
 	tag:Dryad
@@ -7262,6 +7267,7 @@ page:626
 	url:http://www.gunnerkrigg.com/?p=626
 	tag:ch-24
 	tag:Annie
+	tag: BismuthSymbol
 	tag:BlinkerStone
 	tag:Bob
 	tag:Eglamore
@@ -7512,6 +7518,7 @@ page:607
 	tag:ch-24
 	tag:Annie
 	tag:Bob
+	tag:BismuthSymbol
 	tag:CourtSymbol
 	tag:Eglamore
 	tag:ForestSymbol
@@ -7591,6 +7598,7 @@ page:602
 	tag:Robots
 	tag:YoungsPark
 	desc:Auditory response: Moo
+	auth: Tom: Laser Cows. Just like real cows.<br>Only with lasers.<br>T-shirt coming soon.
 page:601
 	url:http://www.gunnerkrigg.com/?p=601
 	tag:ch-24
@@ -7608,6 +7616,7 @@ page:600
 	url:http://www.gunnerkrigg.com/?p=600
 	tag:ch-24
 	tag:Annie
+	tag:BismuthSymbol
 	tag:Bob
 	tag:Eglamore
 	tag:Kat
@@ -7641,6 +7650,7 @@ page:598
 	tag:Students
 	tag:Train
 	desc:I still can’t believe the park we’re camping in is IN the court
+	auth: Tom: Kat, Annie, and classmates are on a train headed to the place they will be camping. Kat has slightly longer hair due to the passage of time (only a few weeks since we last saw her).
 page:597
 	url:http://www.gunnerkrigg.com/?p=597
 	tag:ch-24
@@ -7678,6 +7688,7 @@ page:593
 	url:http://www.gunnerkrigg.com/?p=593
 	tag:ch-23
 	tag:Annie
+	tag:Flowers
 	tag:Jack
 	tag:Monster
 	tag:Rey
@@ -7688,6 +7699,7 @@ page:592
 	tag:ch-23
 	tag:Annie
 	tag:Chester
+	tag:Flowers
 	tag:Jack
 	tag:Zimmy
 	desc:Yeah… Zimmy. What class is she in?
@@ -7695,6 +7707,7 @@ page:591
 	url:http://www.gunnerkrigg.com/?p=591
 	tag:ch-23
 	tag:Annie
+	tag:Flowers
 	tag:Jack
 	tag:Rey
 	tag:Students
@@ -7703,16 +7716,18 @@ page:590
 	url:http://www.gunnerkrigg.com/?p=590
 	tag:ch-23
 	tag:Annie
+	tag:Flowers
 	tag:Jones
 	tag:Surma
 	tag:Rey
 	tag:Robots
-	desc:Is Ms Jones a robot?
+	desc: You have a fire in you, child, a fire that belonged to your mother!
 page:589
 	url:http://www.gunnerkrigg.com/?p=589
 	tag:ch-23
 	tag:Annie
 	tag:BismuthSymbol
+	tag:Flowers
 	tag:Mort
 	tag:Rey
 	desc:Poor Mort… I still feel terrible about it.
@@ -7761,6 +7776,8 @@ page:584
 	url:http://www.gunnerkrigg.com/?p=584
 	tag:ch-23
 	tag:Annie
+	tag: Artillaryman
+	tag:Bip
 	tag:Flowers
 	tag:Founding
 	tag:Jones
@@ -7769,6 +7786,7 @@ page:584
 	tag:Steadman
 	tag:Rey
 	desc:Ha! A flower? Y-you sap…
+	note: Steadman mentioned as close friend of Artilleryman
 page:583
 	url:http://www.gunnerkrigg.com/?p=583
 	tag:ch-23
@@ -7802,6 +7820,7 @@ page:581
 	url:http://www.gunnerkrigg.com/?p=581
 	tag:ch-23
 	tag:Annie
+	tag: Artillaryman
 	tag:Court
 	tag:Diego
 	tag:Flowers
@@ -7819,8 +7838,10 @@ page:580
 	url:http://www.gunnerkrigg.com/?p=580
 	tag:ch-23
 	tag:Annie
+	tag: Artillaryman
 	tag:Court
 	tag:Diego
+	tag:Flowers
 	tag:Founding
 	tag:Gillitie
 	tag:Jones
@@ -7836,6 +7857,7 @@ page:579
 	tag:ch-23
 	tag:Annie
 	tag:Etherics
+	tag:Flowers
 	tag:Founding
 	tag:Jones
 	tag:Parley

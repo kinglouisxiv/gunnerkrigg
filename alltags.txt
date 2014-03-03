@@ -32,6 +32,7 @@ Argument	Somewhere between a disagreement and a fight
 Armour	protective plates and other such wearable items
 Armoury	Place where lots of weapons are stored
 Arsenic	A highly poisonous metalloid _{[wiki](http://gunnerkrigg.wikia.com/wiki/Arsenic_(alchemy))}_
+Artilleryman	present at the [founding](#founding), friend of [Steadman](#steadman) the archer
 Axe	Often used to chop wood
 BadgerFae	‘him too’ – white hair, two black stripes, former badger
 BakingDistraction	Otherwise known as [Plan Theta](#plantheta); Cunningly devised to distract others while sneaking around
@@ -328,7 +329,7 @@ SpecialCircumstances	"beyond those metaphysical event-horizons, there exist ... 
 Spider	Often white and [etheric](#etherics), also often real.
 StarHeadband	A headband with stars on antennae that [Annie](#annie) uses to pretend she is a [robot](#robots)
 Stars	Celestial bodies
-Steadman	An archer, present at the [founding](#founding) of the court
+Steadman	An archer, present at the [founding](#founding) of the court a close friends of the [Artilleryman](#artilleryman)
 StepsHouse	[Eglamore](#eglamore) lives here
 StopBot	Model B [robot](#robots) with stop signs for heads and boxing glove arms
 Students	Miscellaneous students
