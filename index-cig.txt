@@ -19,10 +19,15 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
 ;
+page:1322
+	desc: Chapter 47:<br><br>**See Ya!**<br><br>_Icon: Mort_
+	tag: ch-47
+	tag: Mort
+	url: http://www.gunnerkrigg.com/?p={0}
 page:1321
 	auth: Tom: Don't let the door hit you on the way out, buddy.
 	desc: Bonus Page: But... it's my room...
-	note: a different perspective on the bottom left panel of [p.1319](#p1319)
+	note: A different perspective on the bottom left panel of [p.1319](#p1319)
 	tag: Bonus
 	tag: ch-46
 	tag: FinalRecords
