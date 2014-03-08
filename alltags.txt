@@ -40,6 +40,7 @@ Basil	Minotaur _{[wiki](http://gunnerkrigg.wikia.com/wiki/Basil)}_
 Bats	The animal kind.
 Beacon	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated, much like [Brinnie](#brinnie)’s teleport _{[wiki](http://gunnerkrigg.wikia.com/wiki/Safety_beacon)}_
 BeckyGround	A student _{[wiki](http://gunnerkrigg.wikia.com/wiki/Becky_Ground)}_
+Betty	had a crush on her brother [Nigel's]( friend [Morty](#mort), WWII
 Bind	[Etheric](#etherics) binding, hold or constraint hoodoo
 Bip	[Parley](#parley)’s teleportation. May be accompanied by BARGE
 Birds	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
@@ -260,6 +261,7 @@ NancyDrew	A series of books featuring a teenage girl solving mysteries
 NapoleonHat	A fitting hat for [Reynardine](#rey) the Great!
 Neith	Egyptian goddess of war; [psychopomp](#psychopomps) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Neith)}_
 Nevihta	Rogat Orjak to [Sir Young](#siryoung), first protector of the court _{[wiki](http://gunnerkrigg.wikia.com/wiki/Rogat_Orjak#Nevihta)}_
+Nigel	friend of [Morty](#mort), brother of [Betty](#betty), WWII
 Observatory	A massive telescope
 Ocean	A whole bunch of [water](#water)
 Octopus	A flying / floating octopus

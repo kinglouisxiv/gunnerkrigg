@@ -19,6 +19,18 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
 ;
+page:1324
+	desc: Morty!
+	tag: ch-47
+	tag: Betty
+	tag: Nigel
+	tag: Mort
+	url: http://www.gunnerkrigg.com/?p={0}
+page:1323
+	desc: "MOTHERS: Your children are safer in the country" (a small boy in short trousers, with helmet & popgun reads a wall poster – WWII, 1939 or '40)
+	tag: ch-47
+	tag: Mort
+	url: http://www.gunnerkrigg.com/?p={0}
 page:1322
 	desc: Chapter 47:<br><br>**See Ya!**<br><br>_Icon: Mort_
 	tag: ch-47
@@ -6946,6 +6958,7 @@ page:654
 	tag:ch-25
 	tag:Annan
 	tag:Archery
+	tag: Artillaryman
 	tag:Court
 	tag:Diego
 	tag:DiegoBot
@@ -6953,6 +6966,7 @@ page:654
 	tag:Jeanne
 	tag:SirYoung
 	desc:It must be Jeanne
+	note: (apparantly a WoT refers to the character in the top left frame as the Artilleryman - link?)
 page:653
 	url:http://www.gunnerkrigg.com/?p=653
 	tag:ch-25
