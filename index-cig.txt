@@ -19,27 +19,35 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch- are chapter identifiers
 ;
+; TODO: Kat's T-shirt logos/mottos
+;
+page:1325
+	desc: (An air raid siren sounds: Rooooo...)
+	tag: ch-47
+	tag: Mort
+	url: http://www.gunnerkrigg.com/?p={0}
 page:1324
-	desc: Morty!
+	desc: I know they'll find a nice safe place to send ya soon!
 	tag: ch-47
 	tag: Betty
 	tag: Nigel
 	tag: Mort
 	url: http://www.gunnerkrigg.com/?p={0}
 page:1323
-	desc: "MOTHERS: Your children are safer in the country" (a small boy in short trousers, with helmet & popgun reads a wall poster – WWII, 1939 or '40)
+	desc: "MOTHERS: Your children are safer in the country" (a small boy in short trousers, with helmet & popgun reads a wall poster – WWII, 1939 or ’40)
 	tag: ch-47
 	tag: Mort
 	url: http://www.gunnerkrigg.com/?p={0}
 page:1322
 	desc: Chapter 47:<br><br>**See Ya!**<br><br>_Icon: Mort_
 	tag: ch-47
+	tag: Cover
 	tag: Mort
 	url: http://www.gunnerkrigg.com/?p={0}
 page:1321
 	auth: Tom: Don't let the door hit you on the way out, buddy.
 	desc: Bonus Page: But... it's my room...
-	note: A different perspective on the bottom left panel of [p.1319](#p1319)
+	note: (A slightly different perspective on the bottom left panel of [p.1319](#p1319))
 	tag: Bonus
 	tag: ch-46
 	tag: FinalRecords
@@ -81,7 +89,7 @@ page:1318
 page:1317
 	desc:I really wish I hadn't tripped over that damned dog
 	tag:Annie
-	tag: Artillaryman
+	tag: Artilleryman
 	tag:ch-46
 	tag:FinalRecords
 	tag:Kat
@@ -6958,7 +6966,7 @@ page:654
 	tag:ch-25
 	tag:Annan
 	tag:Archery
-	tag: Artillaryman
+	tag: Artilleryman
 	tag:Court
 	tag:Diego
 	tag:DiegoBot
@@ -7795,7 +7803,7 @@ page:584
 	url:http://www.gunnerkrigg.com/?p=584
 	tag:ch-23
 	tag:Annie
-	tag: Artillaryman
+	tag: Artilleryman
 	tag:Bip
 	tag:Flowers
 	tag:Founding
@@ -7839,7 +7847,7 @@ page:581
 	url:http://www.gunnerkrigg.com/?p=581
 	tag:ch-23
 	tag:Annie
-	tag: Artillaryman
+	tag: Artilleryman
 	tag:Court
 	tag:Diego
 	tag:Flowers
@@ -7857,7 +7865,7 @@ page:580
 	url:http://www.gunnerkrigg.com/?p=580
 	tag:ch-23
 	tag:Annie
-	tag: Artillaryman
+	tag: Artilleryman
 	tag:Court
 	tag:Diego
 	tag:Flowers
