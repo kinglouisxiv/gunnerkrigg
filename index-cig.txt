@@ -21,6 +21,19 @@
 ;
 ; TODO: Kat's T-shirt logos/mottos
 ;
+page:1327
+	desc: It is too late for you (RRRRRRRRRR...)
+	tag: ch-47
+	tag: Bomb
+	tag: Mort
+	tag: Jones
+	url: http://www.gunnerkrigg.com/?p={0}
+page:1326
+	desc: Hey! You're going the wrong way, miss! (Rooooo...)
+	tag: ch-47
+	tag: Mort
+	tag: Jones
+	url: http://www.gunnerkrigg.com/?p={0}
 page:1325
 	desc: (An air raid siren sounds: Rooooo...)
 	tag: ch-47
@@ -2096,7 +2109,8 @@ page:1100
 	tag:ch-40
 	tag:Blood
 	tag:Jones
-	desc:Several decades ago: (WWII?) (Mr Jones)
+	desc: Several decades ago (Mr Jones)
+	note: (see, perhaps, the [Slade Green Disaster](http://www.bexleytimes.co.uk/news/memorial_service_for_victims_of_1924_slade_green_disaster_1_811458)
 	auth: Tom: Emma becomes Jones
 page:1099
 	url:http://www.gunnerkrigg.com/?p=1099
