@@ -1,30 +1,32 @@
 #Gunnerkrigg Online Searchable Site
 Files for the online searchable Gunnerkrigg Court site: http://www.louisxiv.co.uk/gunnerkrigg/
-Index.txt is parsed into HTML by a python script
+Index.txt is parsed into HTML by a python script [cig.py](https://github.com/kinglouisxiv/cig)
 
 ##Getting Started
-Please send me a PM on the <a href="http://gunnerkrigg.proboards.com/">forums</a> or reply to the <a href="http://gunnerkrigg.proboards.com/thread/1883/searchable-database-comics?page=1">forum post</a> if you want to get involved and we can get you started.
+Please send snipergirl a PM on the <a href="http://gunnerkrigg.proboards.com/">forums</a> or reply to the <a href="http://gunnerkrigg.proboards.com/thread/1883/searchable-database-comics?page=1">forum post</a> if you want to get involved and we can get you started.
 
 For more information see the <a href="https://github.com/snipergirl/gunnerkrigg/wiki">Wiki</a> for this project
 
 ###Tagging guide
 - What to tag? Anything relevant that can be seen in the page that people might want to search for
-- The top priority is to tag all the characters, settings and important props; other things can be added later if you're not sure
-- It's best to use tags that already exist (check alltags.txt) if possible. If you need to add a new tag, add it to alltags.txt at the same time with a description; use tags such as "GoodHope" rather than "GoodHopeHospital" as tags can be described
-- At the moment, just tag characters who are seen (in the main action, flashbacks, memories), rather than mentioned (this may change)
-- Important props/items such as the blinker stone need to be tagged
-- Recurring characters should be tagged by name or a specific description if possible; generic characters should be referred to as "teacher" or "students" or "LaserCow"
-- If you can tag things like alchemical symbols that would be very useful. If you are not sure what a symbol is, tag it as "symbol" and make a new post on the forum and ask- there are a lot of knowledgeable people out there!
+- The top priority is to tag all the characters, settings and important props; other things can be added later if you're not sure.
+- It's best to use tags that already exist (check alltags.txt) if possible. If you need to add a new tag, add it to alltags.txt at the same time with a description; keep tags short but meaningful: "GoodHope" rather than "GoodHopeHospital" -- as tags can be described.
+- At the moment, just tag characters who are seen (in the main action, flashbacks, memories), rather than mentioned (this may change).
+- Important props/items such as the blinker stone need to be tagged.
+- Recurring characters should be tagged by name or a specific description if possible; generic characters should be referred to as "teacher" or "students" or "LaserCow".
+- If you can tag things like alchemical symbols that would be very useful. If you are not sure what a symbol is, tag it as "symbol" and make a new post on the forum and ask -- there are a lot of knowledgeable people out there!
 - The forum, tvtropes and the Gunnerkrigg Wiki (gunnerkrigg.wikia.com) are invaluable for information on who and what exists in the comic
-- At the moment we are not tagging the cover pages however this might change
-- Treatises are obviously full of tag-material! Have a go and we'll all contribute further tags as necessary
+- At the moment we are not tagging the cover pages however this might change (update: it has changed!)
+- Treatises are obviously full of tag-material! Have a go and we'll all contribute further tags as necessary.
 
 ###How to use the tagging helper
+_N.B. the tagging helper probably does not work with the newer ```key:value``` index_
+
 - The tagging helper will work out of the box- just open "taghelper.htm".
 - Ideally, install Python 2.x.x (current production version 2.7.5) (available at http://www.python.org/getit/); then whenever you want to update it with your latest index.txt, just run "taghelper.py".
 
 ###Starting with GitHub
-- First you need one of us (probably me) to give you access to the repo. Please send me a PM on the <a href="http://gunnerkrigg.proboards.com/">forums</a> or reply to the <a href="http://gunnerkrigg.proboards.com/thread/1883/searchable-database-comics?page=1">forum post</a> if you want access.
+- First you need one of us (probably snipergirl) to give you access to the repo. Please send snipergirl a PM on the <a href="http://gunnerkrigg.proboards.com/">forums</a> or reply to the <a href="http://gunnerkrigg.proboards.com/thread/1883/searchable-database-comics?page=1">forum post</a> if you want access.
 - You can either edit the files directly on the website and commit changes that way or:
 - You can download a program for win/mac/linux
 - Install it and run it
@@ -41,57 +43,73 @@ For more information see the <a href="https://github.com/snipergirl/gunnerkrigg/
 ##Format
 
 ###Index of pages - Index.txt
-- The comics are in reverse order
-- Each comic is on a separate line, starting with the page number (look at the URL of the comic and find the number at the end)
-- Each item is separated by tab-spacing
-- The tags are in alphabetical order and include relevant locations, characters, symbols and items
-- Page titles are preceded by "#"
-- The order is [page number] [tag] [tag] ... [comment] [page title]
-- Covers are simply: [page number] Cover #&lt;hr&gt;[Title of cover]&lt;hr&gt;
-- Bonus pages are: [page number] Bonus [tags] #&lt;b&gt;Bonus Page:&lt;/b&gt; [What is in the bonus page]&lt;hr&gt;
-eg:
-<pre><code>16	Bonus	Blackboard	Chester	Foley	Queslett	Tea	Thornhill	#&lt;b&gt;Bonus Page:&lt;/b&gt; Houses at Gunnerkrigg Court&lt;hr&gt;
-15	Annie	Bridge	Gillitie	Teacher	#Sorry sir. I got lost.
-14	Bridge	Gillitie	Robot	Shadow	Shadowmen	#Here you go little buddie!
-13	Bridge	Robot	Shadow	TicToc	#Oh look! A birdie!
-12	Annie	Bridge	Robot	Shadow	#Never fear little guy. I have this under control!
-11	Annie	Bridge	Robot	Shadow	#Once darkness fell, Shadow 2, Robot and I got ready at the foot of the bridge
-10	Annie	Bridge	Robot	Shadow	#Together the three of us returned to the bridge
-9	Annie	Robot	Shadow	#Luckily, piecing the contraption together was relatively easy
-8	Annie	Shadow	Library	#Snatching a nearby box of spare parts
-7	Annie	Shadow	Library	#I hadn’t the first idea how to build a robot
-6	Annan	Annie	Shadow	#I must construct a robotic walking device
-5	Annan	Annie	Bridge	Gillitie	Shadow	#Gunnerkrigg Court is a boarding school
-4	Annie	Shadow	#Where are you trying to go?
-3	Annie	Shadow	#At times I would ssee this creature jump from shadow to shadow
-2	Annie	Shadow	#Gunnerkrigg Court does not look much like a school at all
-1	Annie	Cover	#&lt;hr&gt;Chapter 1: The Shadow and The Robot&lt;hr&gt;
-</code></pre>
+- The comics are in reverse order, most recent at the top.
+- Each comic has a bunch of entries, in ```key: value``` format, starting with a ```page:``` and the page number (look at the URL of the comic and find the number at the end)
+- KEYS
+	- page: 	comic page ID and link: heads a comic page entry.
+	- url: 	the actual comic page url (to insert page ID  value replace in the url with {0} )
+	- tag: 	tags for the page's story items of note: character, item, location, etc.
+	- desc: 	text relevant to the page (description, line of dialogue, etc)
+	- note:	footnotes, links, etc
+	- auth:	relevant notes from 
+- Each ```key: value``` pair is on a separate line
+- the text in desc:, note: and auth: can have Markdown formatting and links.
 
-###Tags & descriptions - Alltags.txt
+E.g.:
+```markdown
+page:16
+	url: http://www.gunnerkrigg.com/?p={0}
+	; the page number is substituted for the {0}
+	tag: ch-01
+	; tags starting ch- are special case chapter identifiers & selectors
+	tag: Bonus
+	tag: Blackboard
+	tag: Chester
+	tag: Foley
+	tag: Queslett
+	tag: Tea
+	tag: Thornhill
+	desc: Bonus Page: Houses at Gunnerkrigg Court
+	auth: **Tom**: Year 7 is the first year of [UK] secondary school, and is the equivalent of 6th grade in the US. Children in Year 7 are 11-12 years old.
+page:15
+	url: http://www.gunnerkrigg.com/?p=15
+	tag: ch-01
+	tag: Annie
+	tag: Bridge
+	tag: Gillitie
+	tag: Teacher
+	desc: Sorry sir. I got lost.
+page: AitF-1
+	;N.B. different style of page ID to avoid clash with original comic page 1
+	tag: ch-31b
+	tag: Annie
+	tag: Bind
+	tag: Coyote
+	tag: Gillitie
+	tag: Jones
+	tag: Ysengrin
+	desc: I can stay here?
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=1
+	;N.B. fully specified url as the page: id can't be substituted
+```
+
+###Tags & descriptions -- Alltags.txt
 - The tags are in alphabetical order
 - Each tag is on a separate line
-- The tag and its description are separated by tab-spacing: [tag] [description]
-eg:
-<pre><code>AnimalCells	the secret Court large animal holding cells
-AnimalLab	a Court research lab
-Anja	Anja Donlan, Kat's mother
-Annan	Annan Waters, a wide river in a deep gorge
-Annie	Antimony Carver, our protagonist
-AntimonySymbol	The alchemical symbol for antimony; associated with Annie and Surma
-Basil	Minotaur
-BeckyGround	A student
-BismuthSymbol	The alchemical symbol for bismuth; associated with the Court
-Blush	happy/embarrassed
-Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of Young's Park with his wife, Marcia
-Bobbie	A robot at the AnimalLab
-Bonus	Extra pages at the end of the chapter
-Bridge	over the Annan Water to Gillitie Wood
-Brinnie	Sultry childhood friend of Surma, Anja, Donny, Eggers & co.
-Chickcharney	see Hardwick & Little’s Bestiary, p65
-CherryTree	Comes as advertised
-Chester	One of the other school Houses
-Circus	creepy and filled with clowns
-Classroom	Where they have classes
-Clowns	creepy, no-one likes them
-</code></pre>
+- The tag and its description are separated by tab-spacing: [tag] tab [description]
+- the description can have Markdown formatting and links to other tags or out to the wiki.
+- tag names should be unique when folded to lowercase (for links)
+
+E.g.:
+
+```markdown
+AnimalCells	the Court’s large animal holding cells
+AnimalLab	a Court research lab _{[wiki](http://gunnerkrigg.wikia.com/wiki/Animal_Lab)}_
+Anja	Anja Donlan, [Kat](#kat)’s mother; Roma origin but lived mostly in Spain _{[wiki](http://gunnerkrigg.wikia.com/wiki/Anja)}_
+Ankou	Breton grim reaper; [psychopomp](#psychopomps)_{[wiki](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ankou)}_
+Annan	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forest' _{[wiki](http://gunnerkrigg.wikia.com/wiki/Annan_Waters)}_
+Annie	Antimony Carver, our protagonist ([fire](#fire) Head Girl) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Antimony_Carver)}_
+AnnieCut	The cut on [Annie](#annie)’s ethereal face from [Jeanne](#jeanne)’s [sword](#sword)
+AnnieJumper	[Annie](#annie)’s original school jumper
+```
+
