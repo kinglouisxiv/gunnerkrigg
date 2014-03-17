@@ -4709,9 +4709,112 @@ page:844
 	tag:Cover
 	tag:Flowers
 	desc:Chapter 32:<br><br>**From the Forest She Came**<br><br>_Icon: SubDorm_
+page:AitF2-10
+	desc: A boy likes to know when a lass has her eye on him! 
+	tag: Annie
+	tag: Anwyn
+	tag: Irial
+	tag: Kamlen
+	tag: JumpersPool
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=10
+page:AitF2-9
+	desc: (Banner: BOYS I KNOW)
+	tag: Annie
+	tag: Anwyn
+	tag: Eglamore
+	tag: Jack
+	tag: Jem
+	tag: JumpersPool
+	tag: Mort
+	tag: Rey
+	tag: Robot
+	tag: Shadow
+	tag: Winsbury
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=9
+page:AitF2-8
+	desc: You got a love back home, Annie?
+	tag: Annie
+	tag: Anwyn
+	tag: JumpersPool
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=8
+page:AitF2-7
+	desc: Well... We have robots which I suppose are metal men
+	tag: Annie
+	tag: Anwyn
+	tag: Irial
+	tag: Jem
+	tag: JumpersPool
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=7
+page:AitF2-6
+	desc: Annie! Is it true you got metal men with red eyes walkin' around the court?
+	tag: Annie
+	tag: Anwyn
+	tag: Fire
+	tag: Irial
+	tag: JumpersPool
+	tag: Moon
+	tag: MoonPrint
+	tag: Stars
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=6
+page:AitF2-5
+	desc: (introductions; evening; night)
+	tag: Annie
+	tag: Anwyn
+	tag: Irial
+	tag: JumpersPool
+	tag: Moon
+	tag: MoonPrint
+	tag: Stars
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=5
+page:AitF2-4
+	desc: Some of us are stickin' around here tonight. You wanna stay?
+	tag: Annie
+	tag: Anwyn
+	tag: Irial
+	tag: JumpersPool
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=4
+page:AitF2-3
+	desc: You got lovely hair. Can I mess with it? 
+	tag: Annie
+	tag: Anwyn
+	tag: Irial
+	tag: JumpersPool
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=3
+page:AitF2-2
+	desc: Aye, Kamlen, good, good!
+	tag: Annie
+	tag:Anwyn
+	tag: Irial
+	tag: JumpersPool
+	tag: Kamlen
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=2
+page:AitF2-1
+	tag: ch-31c
+	tag: Annie
+	tag: Cover
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=1
+page:AitF2-0
+	desc: **Annie in the Forest**<br>Part 2
+	tag: ch-31c
+	tag: Annie
+	tag: Gillitie
+	tag: JumpersPool
+	tag: Cover
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202
+	note: A Story from _Beyond the Walls_<br>Robot Voice Comics
 page:AitF-32
 	tag:ch-31b
 	tag:Annie
+	tag:Anwyn
 	tag:Gillitie
 	tag:Irial
 	tag:JumpersPool
@@ -4721,6 +4824,7 @@ page:AitF-32
 page:AitF-31
 	tag:ch-31b
 	tag:Annie
+	tag:Anwyn
 	tag:Gillitie
 	tag:JumpersPool
 	tag:Kamlen
@@ -4729,6 +4833,7 @@ page:AitF-31
 page:AitF-30
 	tag:ch-31b
 	tag:Annie
+	tag:Anwyn
 	tag:Blush
 	tag:Gillitie
 	tag:Kamlen
@@ -4766,6 +4871,7 @@ page:AitF-26
 page:AitF-25
 	tag:ch-31b
 	tag:Annie
+	tag:Anwyn
 	tag:Gillitie
 	tag:Kamlen
 	tag:Ysengrin
@@ -4774,6 +4880,7 @@ page:AitF-25
 page:AitF-24
 	tag:ch-31b
 	tag:Annie
+	tag:Anwyn
 	tag:Gillitie
 	tag:Kamlen
 	tag:Ysengrin
@@ -4782,6 +4889,7 @@ page:AitF-24
 page:AitF-23
 	tag:ch-31b
 	tag:Annie
+	tag:Anwyn
 	tag:Gillitie
 	tag:Kamlen
 	desc: Out of sight is out of mind, right?
@@ -4789,6 +4897,7 @@ page:AitF-23
 page:AitF-22
 	tag:ch-31b
 	tag:Annie
+	tag:Anwyn
 	tag:Blush
 	tag:Gillitie
 	tag:Kamlen
@@ -4797,6 +4906,7 @@ page:AitF-22
 page:AitF-21
 	tag:ch-31b
 	tag:Annie
+	tag:Anwyn
 	tag:Gillitie
 	tag:Kamlen
 	desc: Why do ya wear them paints on your face?

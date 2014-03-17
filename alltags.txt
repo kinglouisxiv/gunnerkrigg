@@ -182,15 +182,16 @@ Hetty	a small animate devil doll inhabited by a shrimp-like spirit, victimising 
 HettySymbol	sometimes visible on [Hetty](#hetty)’s forehead _{[wiki](http://gunnerkrigg.wikia.com/wiki/Hetty#Symbol)}_
 Hexagram	Means the art of alchemy, the quintessence or “fire-water”/alcohol; the Jewish Kingdom (Star of David)
 Homework	School work done outside class hours
-Horsebot	H model [Robot](#robots) in a horse frame, as motive power for carriages, carts etc _{[wiki](http://gunnerkrigg.wikia.com/wiki/H_Model)}_
+Horsebot	H model [robot](#robots) in a horse frame, as motive power for carriages, carts etc _{[wiki](http://gunnerkrigg.wikia.com/wiki/H_Model)}_
 Hospital	The hospital/infirmary within the court
 Hyland	[Jack](#jack)’s father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma). _{[wiki](http://gunnerkrigg.wikia.com/wiki/Hyland)}_
 Jack	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Jack_Hyland)}_
 JackOLantern	A carved, decorative pumpkin used for Hallowe'en/Halloween as a lantern
 Jan	January, curt friend of [Parley](#parley) _{[wiki](http://gunnerkrigg.wikia.com/wiki/January)}_
-Janet	Janet Llanwellyn; Fierce daughter of the [Headmaster](#headmaster); dating [Winsbury](#winsbury) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Janet_Llanwellyn)}_
+Janet	Janet Llanwellyn; fierce daughter of the [Headmaster](#headmaster); dating [Winsbury](#winsbury) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Janet_Llanwellyn)}_
 Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a fencer belonging to the court. _"She died and we did nothing"_ _{[wiki](http://gunnerkrigg.wikia.com/wiki/Jeanne)}_
 JeannesLover	Jeanne's [Anwyn](#anwyn) [forest](#gillitie) lover, name as yet unknown. _{[wiki](http://gunnerkrigg.wikia.com/wiki/Anwyn#Jeanne.27s_lover)}_
+Jem	a credulous young [Anwyn](#anwyn)
 John	John Sullivan [[ref](http://gunnerkrigg.proboards.com/thread/361/tom-2?page=30&scrollTo=18295)] _a.k.a._ [Sullivan's John](http://www.gunnerkrigg.com/art/john.jpg). A musical student, plays strings _e.g._ guitar, [mandolin](#mandolin). Dating [Margo](#margo) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Sullivan's_John)}_
 Jokes	Ha ha.
 JollyElfsberry	A prancing elf, and alias of [Coyote](#coyote)
@@ -435,6 +436,7 @@ ch-30	The Coward Heart
 ch-31	Fire Spike
 ch-31a	Intermission: City Face 2
 ch-31b	Annie in the Forest, part 1
+ch-31c	Annie in the Forest, part 2
 ch-32	From the Forest She Came
 ch-33	Give and Take
 ch-34	Faraway Morning (and three short tales)
