@@ -22,6 +22,13 @@
 ; TODO: Kat's T-shirt logos/mottos
 ;
 page:1327
+	desc: (3-D 'exploded' cutaway of the bomb))
+	tag: ch-47
+	tag: Bomb
+	tag: Mort
+	url: http://www.gunnerkrigg.com/?p={0}
+	auth: Tom: This is a pretty standard SC50 bomb. In my research I wasn't able to find clear pictures of what the interior filling charges looked like, so if any of you know where I can find good reference for them, I'd like to update the page in the future if needed.
+page:1327
 	desc: It is too late for you (RRRRRRRRRR...)
 	tag: ch-47
 	tag: Bomb
@@ -4481,7 +4488,7 @@ page:866
 	url:http://www.gunnerkrigg.com/?p=866
 	tag:ch-32
 	tag:Annie
-	tag:Boots
+	tag: Boots
 	tag:Dirty
 	tag:Dorm
 	tag:Etherics
@@ -4641,7 +4648,7 @@ page:850
 	tag:ch-32
 	tag:Annie
 	tag:AntimonySymbol
-	tag:Boots
+	tag: Boots
 	tag:Dirty
 	tag:Dorm
 	tag:Kat
@@ -4709,10 +4716,214 @@ page:844
 	tag:Cover
 	tag:Flowers
 	desc:Chapter 32:<br><br>**From the Forest She Came**<br><br>_Icon: SubDorm_
+page:AitF2-32
+	desc: (Annie climbs a rope)
+	tag: Annie
+	tag: Anwyn
+	tag: Etherics
+	tag: Gillitie
+	tag: Kamlen
+	tag: Sareed
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=32
+page:AitF2-31
+	desc: No! Let go of the rope
+	tag: Annie
+	tag: Anwyn
+	tag: Etherics
+	tag: Gillitie
+	tag: Kamlen
+	tag: Sareed
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=31
+page:AitF2-30
+	desc: We was all spittin' mad at her!
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Kamlen
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=30
+page:AitF2-29
+	desc: Kamlen!
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Kamlen
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=29
+page:AitF2-28
+	desc: Hrmm. Good.
+	tag: Annie
+	tag: Etherium
+	tag: Gillitie
+	tag: Ysengrin
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=28
+page:AitF2-27
+	desc: How have you been?
+	tag: Annie
+	tag: Gillitie
+	tag: Ysengrin
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=27
+page:AitF2-26
+	desc: (Ysengrin and Annie sit and look at the forest)
+	tag: Annie
+	tag: Gillitie
+	tag: TreeBody
+	tag: Ysengrin
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=26
+page:AitF2-25
+	desc: I heard you were taken ill
+	tag: Annie
+	tag: Anwyn
+	tag: Boots
+	tag: Gillitie
+	tag: Sareed
+	tag: Ysengrin
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=25
+page:AitF2-24
+	desc: Antimony
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Sareed
+	tag: Ysengrin
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=24
+page:AitF2-23
+	desc: Well, we don't have to stay cooped up in here all day
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Sareed
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=23
+page:AitF2-22
+	desc: Why are you here, Sareed?
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Sareed
+	tag: Woventree
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=22
+page:AitF2-21
+	desc: Is that how the buildings in the village are made?
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Sareed
+	tag: Woventree
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=21
+page:AitF2-20
+	desc: It... It's just water
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Sareed
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=20
+page:AitF2-19
+	desc: That's beautiful
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Sareed
+	tag: WavenTree
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=19
+page:AitF2-18
+	desc: My mum... died... because of me...
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Sareed
+	tag: Tears
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=18
+page:AitF2-17
+	desc: How ya feelin?
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Sareed
+	tag: Tears
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=17
+page:AitF2-16
+	desc: I gave you some achewater ... I didn't think it would do such a number on ya!
+	tag: Achewater
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Sareed
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=16
+	note: (Hangover Annie)
+page:AitF2-15
+	desc: (Achewater'd Annie wakes)
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Sareed
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=15
+	note: (Sareed has a noticable mark -- bruide? -- on her cheek now)
+page:AitF2-14
+	desc: (Achewater'd Annie's out for the count)
+	tag: Achewater
+	tag: Annie
+	tag: Anwyn
+	tag: Irial
+	tag: Gillitie
+	tag: JumpersPool
+	tag: Kamlen
+	tag: Sareed
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=14
+page:AitF2-13
+	desc: (Achewater'd Annie's fireworks)
+	tag: Achewater
+	tag: Annie
+	tag: Anwyn
+	tag: Fire
+	tag: Gillitie
+	tag: JumpersPool
+	tag: Moon
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=13
+page:AitF2-12
+	desc: (Achewater'd Annie)
+	tag: Achewater
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: JumpersPool
+	tag: Moon
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=12
+page:AitF2-11
+	desc: Does that really work?
+	tag: Achewater
+	tag: Annie
+	tag: Anwyn
+	tag: Gillitie
+	tag: Irial
+	tag: JumpersPool
+	tag: Kamlen
+	tag: Sareed
+	tag: ch-31c
+	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=11
 page:AitF2-10
 	desc: A boy likes to know when a lass has her eye on him! 
 	tag: Annie
 	tag: Anwyn
+	tag: Gillitie
 	tag: Irial
 	tag: Kamlen
 	tag: JumpersPool
@@ -4723,6 +4934,7 @@ page:AitF2-9
 	tag: Annie
 	tag: Anwyn
 	tag: Eglamore
+	tag: Gillitie
 	tag: Jack
 	tag: Jem
 	tag: JumpersPool
@@ -4737,6 +4949,7 @@ page:AitF2-8
 	desc: You got a love back home, Annie?
 	tag: Annie
 	tag: Anwyn
+	tag: Gillitie
 	tag: JumpersPool
 	tag: ch-31c
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=8
@@ -4744,6 +4957,7 @@ page:AitF2-7
 	desc: Well... We have robots which I suppose are metal men
 	tag: Annie
 	tag: Anwyn
+	tag: Gillitie
 	tag: Irial
 	tag: Jem
 	tag: JumpersPool
@@ -4754,6 +4968,7 @@ page:AitF2-6
 	tag: Annie
 	tag: Anwyn
 	tag: Fire
+	tag: Gillitie
 	tag: Irial
 	tag: JumpersPool
 	tag: Moon
@@ -4765,6 +4980,7 @@ page:AitF2-5
 	desc: (introductions; evening; night)
 	tag: Annie
 	tag: Anwyn
+	tag: Gillitie
 	tag: Irial
 	tag: JumpersPool
 	tag: Moon
@@ -4776,6 +4992,7 @@ page:AitF2-4
 	desc: Some of us are stickin' around here tonight. You wanna stay?
 	tag: Annie
 	tag: Anwyn
+	tag: Gillitie
 	tag: Irial
 	tag: JumpersPool
 	tag: ch-31c
@@ -4784,6 +5001,7 @@ page:AitF2-3
 	desc: You got lovely hair. Can I mess with it? 
 	tag: Annie
 	tag: Anwyn
+	tag: Gillitie
 	tag: Irial
 	tag: JumpersPool
 	tag: ch-31c
@@ -4791,7 +5009,8 @@ page:AitF2-3
 page:AitF2-2
 	desc: Aye, Kamlen, good, good!
 	tag: Annie
-	tag:Anwyn
+	tag: Anwyn
+	tag: Gillitie
 	tag: Irial
 	tag: JumpersPool
 	tag: Kamlen

@@ -8,6 +8,7 @@
 113	A number that appears in many places in the court _{[wiki](http://gunnerkrigg.wikia.com/wiki/113)}_
 Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell _{[wiki](http://gunnerkrigg.wikia.com/wiki/Aata)}_
 Abacus	An ancient calculation aid
+Achewater	[Anwyn](#anwyn) intoxicant, perhaps named for how you feel afterwards
 Adam	A boy with rashes; owner, and victim, of [Hetty](#hetty)
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Administrator_Robot)}_
 Agni	Hindu [fire](#fire) god; [psychopomp](#psychopomps) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Agni)}_
@@ -302,6 +303,7 @@ Rolodex	the scryer, for incantations pertaining to names
 Roof	The top of the court
 S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robot) _{[wiki](http://gunnerkrigg.wikia.com/wiki/S1)}_
 Salon	Court hair salon, staffed by the HairdresserBot
+Sareed	Anwyn tree-weaver
 ScienceLab	A school science lab where [Kat](#kat) does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
 SecurityDevice	Small devices that supposedly warn [Jack](#jack) when people are coming
@@ -392,6 +394,7 @@ Wisp	a misleading monster of [Gillitie Wood](#gillitie) (_see_ [Will-o'-the-Wisp
 WolfToy	A small wolf toy made by [Annie](#annie)’s mother (tagged when _not_ animated by [Reynardine](#rey))
 WoodenArm	A mysterious wooden arm from [Gillitie](#gillitie); initially attached to [Robot](#robot); finds its way to [Habitat](#habitat) [113](#113) and finally to [Young's Park](#youngspark)
 WorkshopKey	The key for [Kat](#kat)’s Workshop
+WovenTree	more of a bonsai than full tree
 YellowFae	‘him’ -- yellow hair, kinda sideways windswept
 YoungBot	A large, bull-like [robot](#robots) made by [Diego](#diego) that resembles [Sir Young](#siryoung)
 YoungsPark	A large park within the Court, looked after by [Bob](#bob) and his wife [Marcia](#marcia); named after [Sir Young](#siryoung), the original Protector of the Court
