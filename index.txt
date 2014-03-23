@@ -21,7 +21,23 @@
 ;
 ; TODO: Kat's T-shirt logos/mottos
 ;
-page:1327
+page:1330
+	desc: Mortimer, your time has come early.
+	tag: Ankou
+	tag: ch-47
+	tag: Jones
+	tag: Mort
+	tag: Psychopomps
+	url: http://www.gunnerkrigg.com/?p={0}
+page:1329
+	desc: Miss, were you hurt?!
+	tag: Ankou
+	tag: ch-47
+	tag: Jones
+	tag: Mort
+	tag: Psychopomps
+	url: http://www.gunnerkrigg.com/?p={0}
+page:1328
 	desc: (3-D 'exploded' cutaway of the bomb))
 	tag: ch-47
 	tag: Bomb
@@ -30,10 +46,10 @@ page:1327
 	auth: Tom: This is a pretty standard SC50 bomb. In my research I wasn't able to find clear pictures of what the interior filling charges looked like, so if any of you know where I can find good reference for them, I'd like to update the page in the future if needed.
 page:1327
 	desc: It is too late for you (RRRRRRRRRR...)
-	tag: ch-47
 	tag: Bomb
-	tag: Mort
+	tag: ch-47
 	tag: Jones
+	tag: Mort
 	url: http://www.gunnerkrigg.com/?p={0}
 page:1326
 	desc: Hey! You're going the wrong way, miss! (Rooooo...)
@@ -12681,17 +12697,17 @@ page:156
 	tag:Mort
 	desc:It's probably because you are so attractive.
 page:155
-	url:http://www.gunnerkrigg.com/?p=155
-	tag:ch-09
-	tag:Agni
-	tag:Ankou
-	tag:Annie
-	tag:GoodHope
-	tag:Mercury
-	tag:Neith
-	tag:Psychopomps
-	tag:Veles
-	desc:For the longest time I never understood why these people were gone the next day.
+	url: http://www.gunnerkrigg.com/?p=155
+	tag: ch-09
+	tag: Agni
+	tag: Ankou
+	tag: Annie
+	tag: GoodHope
+	tag: Mercury
+	tag: Neith
+	tag: Psychopomps
+	tag: Veles
+	desc: For the longest time I never understood why these people were gone the next day.
 page:154
 	url:http://www.gunnerkrigg.com/?p=154
 	tag:ch-09
