@@ -186,6 +186,7 @@ Homework	School work done outside class hours
 Horsebot	H model [robot](#robots) in a horse frame, as motive power for carriages, carts etc _{[wiki](http://gunnerkrigg.wikia.com/wiki/H_Model)}_
 Hospital	The hospital/infirmary within the court
 Hyland	[Jack](#jack)’s father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma). _{[wiki](http://gunnerkrigg.wikia.com/wiki/Hyland)}_
+Irial	[Kamlen’s](#kamlen) [Anwyn](#anwyn) love
 Jack	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Jack_Hyland)}_
 JackOLantern	A carved, decorative pumpkin used for Hallowe'en/Halloween as a lantern
 Jan	January, curt friend of [Parley](#parley) _{[wiki](http://gunnerkrigg.wikia.com/wiki/January)}_
