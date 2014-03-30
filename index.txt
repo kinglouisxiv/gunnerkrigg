@@ -21,14 +21,37 @@
 ;
 ; TODO: Kat's T-shirt logos/mottos
 ;
-page:1331
-	desc: Okay, okay, what's going on here?
+page:1333
+	desc: How could you ask me to do this?
+	tag: ch-47
+	tag: Annie
+	tag: Kat
+	tag: Mort
 	tag: ROTD
+	url: http://www.gunnerkrigg.com/?p={0}
+page:1332
+	desc: We've got an important job for you, now that you're a ghost!
 	tag: Ankou
 	tag: ch-47
+	tag: Dracula
 	tag: Jones
 	tag: Mort
 	tag: Psychopomps
+	tag: ROTD
+	tag: Vampire
+	url: http://www.gunnerkrigg.com/?p={0}
+page:1331
+	desc: Okay, okay, what's going on here?
+	note: (Gunnerkrigg Court mentioned)
+	tag: Ankou
+	tag: ch-47
+	tag: Court
+	tag: Dracula
+	tag: Jones
+	tag: Mort
+	tag: Psychopomps
+	tag: ROTD
+	tag: Vampire
 	url: http://www.gunnerkrigg.com/?p={0}
 page:1330
 	desc: Mortimer, your time has come early.
@@ -233,17 +256,17 @@ page:1309
 	tag:Tombstone
 	desc:We're trying to find out stuff about a ghost called Jeanne
 page:1308
-	url:http://www.gunnerkrigg.com/?p=1308
-	tag:ch-46
-	tag:Annie
-	tag:Bats
-	tag:Kat
-	tag:Librarian
-	tag:Mort
-	tag:Rolodex
-	tag:Zombie
-	desc:_This_ is the library?
-	auth: Tom: The ROTD is pretty proud of its library
+	url: http://www.gunnerkrigg.com/?p=1308
+	tag: ch-46
+	tag: Annie
+	tag: Bats
+	tag: Kat
+	tag: Librarian
+	tag: Mort
+	tag: Rolodex
+	tag: Zombie
+	desc: _This_ is the library?
+	auth:  Tom: The ROTD is pretty proud of its library
 page:1307
 	url:http://www.gunnerkrigg.com/?p=1307
 	tag:ch-46
@@ -262,13 +285,14 @@ page:1307
 	desc:I think they have a library around here somewhere
 auth: Tom: This labyrinth of madness
 page:1306
-	url:http://www.gunnerkrigg.com/?p=1306
-	tag:ch-46
-	tag:Annie
-	tag:Bats
-	tag:DeathsHead
-	tag:Kat
-	tag:ROTD
+	url: http://www.gunnerkrigg.com/?p=1306
+	tag: ch-46
+	tag: Annie
+	tag: Bats
+	tag: DeathsHead
+	tag: Kat
+	tag: ROTD
+	tag: Vampire
 	desc:Here. Touch the bat for verification
 page:1305
 	url:http://www.gunnerkrigg.com/?p=1305

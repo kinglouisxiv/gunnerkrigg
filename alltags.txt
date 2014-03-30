@@ -111,6 +111,7 @@ DonlanSymbol	A symbol found in the Donlan house and in [Anja](#anja) &amp; [Donn
 Donny	Donald Donlan, [Kat](#kat)’s father _{[wiki](http://gunnerkrigg.wikia.com/wiki/Donald_Donlan)}_
 DoorBot	A cranky old man [robot](#robots) who guards the door to the [RobotHQ](#robothq) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Doorbot)}_
 Dorm	Living quarters at school
+Dracula	the stereotypical [vampire](#vampire) count 
 DrDisaster	Dr Randy Disaster sends the students on hologram simulation adventures and woos [Jones](#jones)! _{[wiki](http://gunnerkrigg.wikia.com/wiki/Randy_Disaster)}_
 Dryad	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one
 Earth	Ancient element; the planet on which we live; the great mother and life-giver _{[wiki](http://gunnerkrigg.wikia.com/wiki/Earth)}_
@@ -376,6 +377,7 @@ Trees	Come as advertised (usually)
 Umbrella	Hand-held cover to keep the [rain](#rain) off.
 Uniform	An outfit one wears when on official business
 Valknut	A Norse triangular knot symbol, indicates a form of teleport/gateway such as that used by [Brinnie](#brinnie) or the [beacon](#beacon) that [Eglamore](#eglamore) gave to [Annie](#annie)
+Vampire	a creature, perhaps undead, which exists by sucking the blood (and life) of the living
 Veles	Ancient Slav snake-like god who guards the underworld; [psychopomp](#psychopomps)
 VenusFigurine	in the manner of a [prehistoric stylised female figure](https://en.wikipedia.org/wiki/Venus_figurines)
 VenusSymbol	A symbol for Venus/Aphrodite; also the symbol of females/femininity
