@@ -284,7 +284,7 @@ PrincessMononoke	Animated movie by Hayao Miyazaki
 Psychopomps	Escort the dead to the afterlife/[Ether](#etherium) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Psychopomps)}_
 Queslett	[Annie](#annie) &amp; [Kat](#kat)’s school House _{[wiki](http://gunnerkrigg.wikia.com/wiki/Queslett)}_
 Rain	[water](#water), falling from the sky
-ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them.
+ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them. (see also the [Vasty Hall of Death](#vastyhall))
 Red	A crazy and abrasive fairy _{[wiki](http://gunnerkrigg.wikia.com/wiki/Red)}_
 Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie) _{[wiki](http://gunnerkrigg.wikia.com/wiki/Reynardine)}_
 ReyComic	A comic page authored by [Reynardine](#rey)
@@ -378,6 +378,7 @@ Umbrella	Hand-held cover to keep the [rain](#rain) off.
 Uniform	An outfit one wears when on official business
 Valknut	A Norse triangular knot symbol, indicates a form of teleport/gateway such as that used by [Brinnie](#brinnie) or the [beacon](#beacon) that [Eglamore](#eglamore) gave to [Annie](#annie)
 Vampire	a creature, perhaps undead, which exists by sucking the blood (and life) of the living
+VastyHall	the vasty hall of Death, an alternative visualisation of the [Realm of the Dead](#rotd) to a fairground fright house
 Veles	Ancient Slav snake-like god who guards the underworld; [psychopomp](#psychopomps)
 VenusFigurine	in the manner of a [prehistoric stylised female figure](https://en.wikipedia.org/wiki/Venus_figurines)
 VenusSymbol	A symbol for Venus/Aphrodite; also the symbol of females/femininity

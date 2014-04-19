@@ -28,35 +28,103 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1342
+	desc: Has there ever been an attempt to disable the device?
+	tag: ch-47
+	tag: Annie
+	tag: Ankou
+	tag: Annan
+	tag: Sword
+	tag: Jeanne
+	tag: Dracula
+	tag: ROTD
+	tag: VastyHall
+page:1341
+	desc: If the ROTD is responsible for ghosts, how was Jeanne allowed to stay?
+	tag: ch-47
+	tag: Annie
+	tag: Jeanne
+	tag: Dracula
+	tag: ROTD
+	tag: VastyHall
+	tag: GreenArrow
+	note: (some sort of bird (raptor) symbol and a sun-like symbol associated with the Green Arrow)
+page:1340
+	desc: This is what I used to look like
+	tag: ch-47
+	tag: Annie
+	tag: Coffin
+	tag: Dracula
+	tag: ROTD
+	tag: VastyHall
+page:1339
+	desc: Mort was free to leave whenever he wanted
+	tag: ch-47
+	tag: Ankou
+	tag: Annie
+	tag: Coffin
+	tag: Dracula
+	tag: ROTD
+	tag: VastyHall
+page:1338
+	desc: Are you telling me that you've kept Mort trapped here... as a _joke?_
+	tag: ch-47
+	tag: Ankou
+	tag: Annie
+	tag: Coffin
+	tag: Dracula
+	tag: ROTD
+	tag: VastyHall
+page:1337
+	desc: We are here about the young ghost, Mortimer
+	note: (Annie sees a more Nosferatu image of the Count)
+	tag: ch-47
+	tag: Ankou
+	tag: Annie
+	tag: Coffin
+	tag: Dracula
+	tag: ROTD
+	tag: VastyHall
+page:1336
+	desc: I was not aware of the Final Record procedure
+	;date: 2014-04-04
+	tag: ch-47
+	tag: Ankou
+	tag: Annie
+	tag: ROTD
+	tag: VastyHall
 page:1335
 	desc: Is there someone I can talk to about releasing Mort from the obligations of his job?
-	date: 2014-04-02
+	;date: 2014-04-02
 	tag: ch-47
 	tag: Ankou
 	tag: Annie
 	tag: Kat
 	tag: Mort
 	tag: ROTD
+	tag: VastyHall
 page:1334
 	desc: I Guess I gotta talk to this Ankou guy too, but I don't know how to contact–
-	date: 2014-03-31
+	;date: 2014-03-31
 	tag: ch-47
 	tag: Ankou
 	tag: Annie
 	tag: Kat
 	tag: Mort
 	tag: ROTD
+	tag: VastyHall
 page:1333
 	desc: How could you ask me to do this?
-	date: 2014-03-28
+	;date: 2014-03-28
 	tag: ch-47
 	tag: Annie
 	tag: Kat
 	tag: Mort
 	tag: ROTD
+	tag: VastyHall
 page:1332
 	desc: We've got an important job for you, now that you're a ghost!
-	date: 2014-03-26
+	;date: 2014-03-26
 	tag: Ankou
 	tag: ch-47
 	tag: Dracula
@@ -67,7 +135,7 @@ page:1332
 	tag: Vampire
 page:1331
 	desc: Okay, okay, what's going on here?
-	date: 2014-03-24
+	;date: 2014-03-24
 	note: (Gunnerkrigg Court mentioned)
 	tag: Ankou
 	tag: ch-47
@@ -80,7 +148,7 @@ page:1331
 	tag: Vampire
 page:1330
 	desc: Mortimer, your time has come early
-	date: 2014-03-21
+	;date: 2014-03-21
 	tag: Ankou
 	tag: ch-47
 	tag: Jones
@@ -88,7 +156,7 @@ page:1330
 	tag: Psychopomps
 page:1329
 	desc: Miss, were you hurt?!
-	date: 2014-03-19
+	;date: 2014-03-19
 	tag: Ankou
 	tag: ch-47
 	tag: Jones
@@ -96,39 +164,39 @@ page:1329
 	tag: Psychopomps
 page:1328
 	desc: (3-D 'exploded' cutaway of the bomb)
-	date: 2014-03-17
+	;date: 2014-03-17
 	tag: ch-47
 	tag: Bomb
 	tag: Mort
 	auth: Tom: This is a pretty standard SC50 bomb. In my research I wasn't able to find clear pictures of what the interior filling charges looked like, so if any of you know where I can find good reference for them, I'd like to update the page in the future if needed.
 page:1327
 	desc: It is too late for you 
-	date: 2014-03-14
+	;date: 2014-03-14
 	tag: Bomb
 	tag: ch-47
 	tag: Jones
 	tag: Mort
 page:1326
 	desc: Hey! You're going the wrong way, miss! (Rooooo...)
-	date: 2014-03-12
+	;date: 2014-03-12
 	tag: ch-47
 	tag: Mort
 	tag: Jones
 page:1325
 	desc: (An air raid siren sounds: Rooooo...)
-	date: 2014-03-10
+	;date: 2014-03-10
 	tag: ch-47
 	tag: Mort
 page:1324
 	desc: I know they'll find a nice safe place to send ya soon!
-	date: 2014-03-07
+	;date: 2014-03-07
 	tag: ch-47
 	tag: Betty
 	tag: Nigel
 	tag: Mort
 page:1323
 	desc: "MOTHERS: Your children are safer in the country" (a small boy in short trousers, with helmet & popgun reads a wall poster – WWII, 1939 or ’40)
-	date: 2014-03-05
+	;date: 2014-03-05
 	tag: ch-47
 	tag: Mort
 page:1322
@@ -146,6 +214,8 @@ page:1321
 	tag: FinalRecords
 	tag: Kat
 	tag: Librarian
+	tag: ROTD
+	tag: VastyHall
 page:1320
 	desc: And to help you practice... I want you to take me into the ether
 	tag: Annie
@@ -3919,6 +3989,7 @@ page:888
 	tag:GolemHeart
 	tag:Kat
 	tag:KatsWorkshop
+	tag:MoonPrint
 	tag:Moon
 	tag:Robot
 	tag:Robots
