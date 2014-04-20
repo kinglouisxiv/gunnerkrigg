@@ -48,7 +48,7 @@ page:1341
 	tag: ROTD
 	tag: VastyHall
 	tag: GreenArrow
-	note: (some sort of bird (raptor) symbol and a sun-like symbol associated with the Green Arrow)
+	note: some sort of bird (raptor) symbol and a sun-like symbol associated with the Green Arrow
 page:1340
 	desc: This is what I used to look like
 	tag: ch-47
@@ -77,7 +77,7 @@ page:1338
 	tag: VastyHall
 page:1337
 	desc: We are here about the young ghost, Mortimer
-	note: (Annie sees a more Nosferatu image of the Count)
+	note: Annie sees a more _Nosferatu_ image of the Count
 	tag: ch-47
 	tag: Ankou
 	tag: Annie
@@ -136,7 +136,7 @@ page:1332
 page:1331
 	desc: Okay, okay, what's going on here?
 	;date: 2014-03-24
-	note: (Gunnerkrigg Court mentioned)
+	note: _Gunnerkrigg Court_ mentioned
 	tag: Ankou
 	tag: ch-47
 	tag: Court
@@ -208,7 +208,7 @@ page:1322
 page:1321
 	auth: Tom: Don't let the door hit you on the way out, buddy.
 	desc: Bonus Page: But... it's my room...
-	note: (A slightly different perspective on the bottom left panel of [p.1319](#p1319))
+	note: A slightly different perspective on the bottom left panel of [p.1319](#p1319)
 	tag: Bonus
 	tag: ch-46
 	tag: FinalRecords
@@ -1171,7 +1171,7 @@ page:1211
 	tag:Hetty
 	tag:Rey
 	desc:Up to more acts of unspeakable evil today, Hetty? 
-	note: _(Adam 1st reference)_
+	note: _Adam 1st reference_
 page:1210
 	tag:ch-43
 	tag:AntimonySymbol
@@ -2047,7 +2047,7 @@ page:1100
 	tag:Blood
 	tag:Jones
 	desc: Several decades ago (Mr Jones)
-	note: (see, perhaps, the [Slade Green Disaster](http://www.bexleytimes.co.uk/news/memorial_service_for_victims_of_1924_slade_green_disaster_1_811458)
+	note: see, perhaps, the [Slade Green Disaster](http://www.bexleytimes.co.uk/news/memorial_service_for_victims_of_1924_slade_green_disaster_1_811458
 	auth: Tom: Emma becomes Jones
 page:1099
 	tag:ch-40
@@ -4561,7 +4561,7 @@ page:AitF2-16
 	tag: Sareed
 	tag: ch-31c
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=16
-	note: (Hangover Annie)
+	note: Hangover Annie
 page:AitF2-15
 	desc: (Achewater'd Annie wakes)
 	tag: Annie
@@ -4571,7 +4571,7 @@ page:AitF2-15
 	tag: Sareed
 	tag: ch-31c
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=15
-	note: (Sareed has a noticable mark -- bruide? -- on her cheek now)
+	note: Sareed has a noticable mark -- bruide? -- on her cheek now
 page:AitF2-14
 	desc: (Achewater'd Annie's out for the count)
 	tag: Achewater
@@ -6848,7 +6848,7 @@ page:654
 	tag:Jeanne
 	tag:SirYoung
 	desc:It must be Jeanne
-	note: (apparantly a WoT refers to the character in the top left frame as the Artilleryman - link?)
+	note: apparantly a WoT refers to the character in the top left frame as the Artilleryman - link?
 page:653
 	tag:ch-25
 	tag:Archery
@@ -10362,7 +10362,7 @@ page:305
 	tag:Scissors
 	desc:Chapter 15:<br><br>**Red Returns**<br><br>_Icon: Red_<br>
 	date: 2007-10-01
-	note: (Year 8)
+	note: Year 8
 page:304
 	tag:ch-14a
 	tag:Filler
