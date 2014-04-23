@@ -91,7 +91,7 @@ Cover	A chapter cover [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chapter
 Coyote	Trickster; the creator of all; he does not exist, he says [_{W}_](http://gunnerkrigg.wikia.com/wiki/Coyote)
 CoyoteStories	Stories told about or by [Coyote](#coyote)
 CoyoteTooth	It’s a tooth, or is it? [_{W}_](http://gunnerkrigg.wikia.com/wiki/Coyote's_Tooth)
-CreatorGlyph	Mark of the [robot](#robots)’s creator: now associated with [Kat](#kat)
+CreatorGlyph	Mark of the [robots'](#robots) creator: now associated with [Kat](#kat)
 Creeper	Someone who is creeping
 Crying	When salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
 CrystalBall	A crystal ball is traditionally used for scrying, future-telling or other Gypsy/Roma past-times
@@ -158,6 +158,7 @@ Glass	A transparent silicon oxide substance used to make windows and the water b
 GlassFiber	Strands of glass used in insulation. Exposure causes itchiness and respiratory problems.
 God	What is god?
 Gol-shogeg	Big worm slug monster
+GoldSymbol	Alchemical symbol for gold, or sometimes for the Sun
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
 GoodHope	Good Hope Hospital is where [Surma](#surma) was before she died [_{W}_](http://gunnerkrigg.wikia.com/wiki/Good_Hope_Hospital)
 GraveYard	a field of the dead
@@ -284,7 +285,6 @@ PrincessMononoke	Animated movie by Hayao Miyazaki
 Psychopomps	Escort the dead to the afterlife/[Ether](#etherium) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps)
 Queslett	[Annie](#annie) &amp; [Kat](#kat)’s school House [_{W}_](http://gunnerkrigg.wikia.com/wiki/Queslett)
 Rain	[water](#water), falling from the sky
-ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them. (see also the [Vasty Hall of Death](#vastyhall))
 Red	A crazy and abrasive fairy [_{W}_](http://gunnerkrigg.wikia.com/wiki/Red)
 Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Reynardine)
 ReyComic	A comic page authored by [Reynardine](#rey)
@@ -303,6 +303,7 @@ Rocket	A cylindrical projectile that can be propelled to a great height or dista
 RogatOrjak	Dragon-like giant [_{W}_](http://gunnerkrigg.wikia.com/wiki/Rogat_Orjak)
 Rolodex	the scryer, for incantations pertaining to names
 Roof	The top of the court
+ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them. (see also the [Vasty Hall of Death](#vastyhall))
 S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robot) [_{W}_](http://gunnerkrigg.wikia.com/wiki/S1)
 Salon	Court hair salon, staffed by the HairdresserBot
 Sareed	Anwyn tree-weaver
@@ -343,7 +344,7 @@ Students	Miscellaneous students
 SubDorm	Year 9’s dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors.
 SullivansJohn	see [John](#john)
 Sun	Our closest [star](#stars)!
-SunSymbol	Alchemical symbol for the Sun, doubles as the symbol for gold
+SunSymbol	symbolic representations of the Sun other than [GoldSymbol](#goldsymbol)
 Surma	Surma Stibnite, [Annie](#annie)’s mother
 SurmaWhisper	[Surma](#surma) whispers something in the past to [Annie](#annie)
 Sweets	Tasty and sugary
@@ -361,8 +362,8 @@ TicToc	Birdlike robotic watchers: the "Thousand Eyes"; [Zimmy](#zimmy) can feel 
 Tiki	A Polynesian totem
 TimeStop	When time is stopped from passing; [Coyote](#coyote) can do this.
 Tom	Tom Siddell, author of Gunnerkrigg Court
-Tombstone	The marker for a grave.
 TomatoWangFae	likes to wang tomatoes. Friends with BlushFae
+Tombstone	The marker for a grave.
 Tony	Anthony Carver, [Annie](#annie)’s father
 Torus	A city fairy who deals with pigeons such as City Face. Sister of [Ogee](#ogee).
 Tower	A tower in the Court where [Aly](#aly) stays, while transitioning

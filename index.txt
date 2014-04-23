@@ -25,52 +25,71 @@
 ; tags starting ch-* are treated separately as chapter identifiers
 ;
 ; TODO: Kat's T-shirt logos/mottos
+; TODO: check ROTD, VastyHall and Library, etc, use for consistency
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
-page:1342
-	desc: Has there ever been an attempt to disable the device?
-	tag: ch-47
+page:1344
+	desc: Is your scarecrow friend gone?
 	tag: Annie
+	tag: Kat
+	tag: ch-47
+	tag: Mort
+	tag: ROTD
+	tag: VastyHall
+page:1343
+	desc: Look, I'm sorry about Mort. He's a good kid and he got overlooked
 	tag: Ankou
-	tag: Annan
-	tag: Sword
-	tag: Jeanne
+	tag: Annie
+	tag: Bats
+	tag: ch-47
 	tag: Dracula
 	tag: ROTD
+	tag: Vampire
+	tag: VastyHall
+page:1342
+	desc: Has there ever been an attempt to disable the device?
+	tag: Ankou
+	tag: Annan
+	tag: Annie
+	tag: ch-47
+	tag: Dracula
+	tag: Jeanne
+	tag: ROTD
+	tag: Sword
 	tag: VastyHall
 page:1341
 	desc: If the ROTD is responsible for ghosts, how was Jeanne allowed to stay?
-	tag: ch-47
+	note: some sort of bird (raptor) symbol and a sun-like symbol associated with the Green Arrow
 	tag: Annie
-	tag: Jeanne
+	tag: ch-47
 	tag: Dracula
+	tag: GreenArrow
+	tag: Jeanne
 	tag: ROTD
 	tag: VastyHall
-	tag: GreenArrow
-	note: some sort of bird (raptor) symbol and a sun-like symbol associated with the Green Arrow
 page:1340
 	desc: This is what I used to look like
-	tag: ch-47
 	tag: Annie
+	tag: ch-47
 	tag: Coffin
 	tag: Dracula
 	tag: ROTD
 	tag: VastyHall
 page:1339
 	desc: Mort was free to leave whenever he wanted
-	tag: ch-47
 	tag: Ankou
 	tag: Annie
+	tag: ch-47
 	tag: Coffin
 	tag: Dracula
 	tag: ROTD
 	tag: VastyHall
 page:1338
 	desc: Are you telling me that you've kept Mort trapped here... as a _joke?_
-	tag: ch-47
 	tag: Ankou
 	tag: Annie
+	tag: ch-47
 	tag: Coffin
 	tag: Dracula
 	tag: ROTD
@@ -78,53 +97,53 @@ page:1338
 page:1337
 	desc: We are here about the young ghost, Mortimer
 	note: Annie sees a more _Nosferatu_ image of the Count
-	tag: ch-47
 	tag: Ankou
 	tag: Annie
+	tag: ch-47
 	tag: Coffin
 	tag: Dracula
 	tag: ROTD
 	tag: VastyHall
 page:1336
-	desc: I was not aware of the Final Record procedure
 	;date: 2014-04-04
-	tag: ch-47
+	desc: I was not aware of the Final Record procedure
 	tag: Ankou
 	tag: Annie
+	tag: ch-47
 	tag: ROTD
 	tag: VastyHall
 page:1335
-	desc: Is there someone I can talk to about releasing Mort from the obligations of his job?
 	;date: 2014-04-02
-	tag: ch-47
+	desc: Is there someone I can talk to about releasing Mort from the obligations of his job?
 	tag: Ankou
 	tag: Annie
+	tag: ch-47
 	tag: Kat
 	tag: Mort
 	tag: ROTD
 	tag: VastyHall
 page:1334
-	desc: I Guess I gotta talk to this Ankou guy too, but I don't know how to contact–
 	;date: 2014-03-31
-	tag: ch-47
+	desc: I Guess I gotta talk to this Ankou guy too, but I don't know how to contact---
 	tag: Ankou
 	tag: Annie
+	tag: ch-47
 	tag: Kat
 	tag: Mort
 	tag: ROTD
 	tag: VastyHall
 page:1333
-	desc: How could you ask me to do this?
 	;date: 2014-03-28
-	tag: ch-47
+	desc: How could you ask me to do this?
 	tag: Annie
+	tag: ch-47
 	tag: Kat
 	tag: Mort
 	tag: ROTD
 	tag: VastyHall
 page:1332
-	desc: We've got an important job for you, now that you're a ghost!
 	;date: 2014-03-26
+	desc: We've got an important job for you, now that you're a ghost!
 	tag: Ankou
 	tag: ch-47
 	tag: Dracula
@@ -1626,22 +1645,22 @@ page:1154
 	tag:Rey
 	auth:Tom: Nice to have career options
 page:1153
-	tag:ch-41
-	tag:Anja
-	tag:Annie
-	tag:BismuthSymbol
-	tag:Blush
-	tag:CourtHall
-	tag:Coyote
-	tag:Donny
-	tag:Eglamore
-	tag:Headmaster
-	tag:Jones
-	tag:Smitty
-	tag:SunSymbol
-	tag:Tears
-	tag:Ysengrin
-	desc:MURMRMR
+	desc: MURMRMR
+	tag: Anja
+	tag: Annie
+	tag: BismuthSymbol
+	tag: Blush
+	tag: ch-41
+	tag: CourtHall
+	tag: Coyote
+	tag: Donny
+	tag: Eglamore
+	tag: GoldSymbol
+	tag: Headmaster
+	tag: Jones
+	tag: Smitty
+	tag: Tears
+	tag: Ysengrin
 page:1152
 	tag:ch-41
 	tag:Annie
@@ -1652,16 +1671,16 @@ page:1152
 	tag:Smitty
 	desc:Andrew Smith the court has decided you shall be the next medium
 page:1151
-	tag:ch-41
-	tag:Annie
-	tag:CourtHall
-	tag:Coyote
-	tag:Headmaster
-	tag:Parley
-	tag:Smitty
-	tag:SunSymbol
-	tag:Ysengrin
-	desc:We do so love visiting your rabbit warren!
+	desc: We do so love visiting your rabbit warren!
+	tag: Annie
+	tag: ch-41
+	tag: CourtHall
+	tag: Coyote
+	tag: GoldSymbol
+	tag: Headmaster
+	tag: Parley
+	tag: Smitty
+	tag: Ysengrin
 page:1150
 	tag:ch-41
 	tag:Annie
@@ -1673,19 +1692,19 @@ page:1150
 	tag:Ysengrin
 	desc:Nod
 page:1149
-	tag:ch-41
+	desc:Did we miss anything?
 	tag:Anja
+	tag:Annie
 	tag:Bip
 	tag:BismuthSymbol
 	tag:Blush
-	tag:Annie
+	tag:ch-41
 	tag:CourtHall
 	tag:Donny
+	tag:GoldSymbol
 	tag:Parley
 	tag:Rey
 	tag:Smitty
-	tag:SunSymbol
-	desc:Did we miss anything?
 page:1148
 	tag:ch-41
 	tag:Annie
@@ -2297,16 +2316,15 @@ page:1069
 	tag:GreatSecret
 	desc:… Can I go home now? [and: a coyote]
 page:1068
-	tag:ch-39
+	auth: Tom: Also: kind of a jerk.
+	desc:I. Do Not. Exist!
 	tag:Bones
+	tag:ch-39
 	tag:Coyote
 	tag:Etherium
 	tag:Gillitie
 	tag:GreatSecret
-	tag:Sun
 	tag:SunSymbol
-	desc:I. Do Not. Exist!
-	auth: Tom: Also: kind of a jerk.
 page:1067
 	tag:ch-39
 	tag:Annie
@@ -5114,6 +5132,7 @@ page:833
 	tag:Tea
 	desc:Intermission:<br><br>**City Face 2**<br><br>_Tea announcing a ten page short story_
 page:832
+	desc:Bonus Page: Fourth Treatise, end of the third book
 	tag:Annie
 	tag:AntimonySymbol
 	tag:Birds
@@ -5131,13 +5150,11 @@ page:832
 	tag:Robot
 	tag:Robots
 	tag:Spider
-	tag:Sun
 	tag:SunSymbol
 	tag:Sword
 	tag:Treatise
 	tag:WhiteSpider
 	tag:Ysengrin
-	desc:Bonus Page: Fourth Treatise, end of the third book
 page:831
 	tag:ch-31
 	tag:Annie
@@ -5215,19 +5232,22 @@ page:823
 	tag:Ysengrin
 	desc:You put many people in danger today
 page:822
-	tag:ch-31
+	desc:I... I think I would like to stay. Just for the Summer?
+	note: Black sun
 	tag:Annie
+	tag:ch-31
 	tag:Court
 	tag:Coyote
 	tag:Etherics
 	tag:Gillitie
 	tag:Jones
+	tag:SunSymbol
 	tag:WanderingEye
 	tag:Ysengrin
-	desc:I... I think I would like to stay. Just for the Summer?
 page:821
-	tag:ch-31
+	desc:You could stay here!
 	tag:Annie
+	tag:ch-31
 	tag:Court
 	tag:Coyote
 	tag:Etherics
@@ -5235,9 +5255,8 @@ page:821
 	tag:Gillitie
 	tag:Jones
 	tag:Moon
-	tag:Sun
+	tag:SunSymbol
 	tag:WanderingEye
-	desc:You could stay here!
 page:820
 	tag:ch-31
 	tag:Annie
@@ -5671,6 +5690,7 @@ page:774
 	tag:Steadman
 	desc:(Jeanne receives a note, writes a letter and gets Steadman to fire it into the forest on an arrow)
 page:773
+	desc:(Jeanne and her lover seperated, (by coyote??) into the court and the forest sides.
 	tag:ch-30
 	tag:Court
 	tag:Coyote
@@ -5679,12 +5699,11 @@ page:773
 	tag:Gillitie
 	tag:Jeanne
 	tag:JeannesLover
-	tag:Moon
+	tag:MoonSymbol
 	tag:Rey
-	tag:Sun
+	tag:SunSymbol
 	tag:Sword
 	tag:Ysengrin
-	desc:(Jeanne and her lover seperated, (by coyote??) into the court and the forest sides.
 page:772
 	tag:ch-30
 	tag:Birds
@@ -6927,18 +6946,18 @@ page:647
 	tag:Robots
 	desc:What IS all this?
 page:646
-	tag:ch-25
+	desc:It was created by a divine being and sent to watch over us all
 	tag:AdminBot
 	tag:Angel
 	tag:Annie
 	tag:AntimonySymbol
+	tag:ch-25
+	tag:GoldSymbol
 	tag:Kat
 	tag:RobotHQ
 	tag:RobotKing
 	tag:Robots
-	tag:SunSymbol
 	tag:TicToc
-	desc:It was created by a divine being and sent to watch over us all
 page:645
 	tag:ch-25
 	tag:Angel
@@ -6976,17 +6995,17 @@ page:643
 	tag:RobotTomb
 	desc:I demand to see it!
 page:642
-	tag:ch-25
+	desc:What’s this now?
 	tag:Annie
 	tag:BismuthSymbol
+	tag:ch-25
+	tag:GoldSymbol
 	tag:Kat
 	tag:KatsWorkshop
 	tag:Music
 	tag:RobotKing
 	tag:Robots
 	tag:SkyWatcher
-	tag:SunSymbol
-	desc:What’s this now?
 page:641
 	tag:ch-25
 	tag:Annie
@@ -7858,11 +7877,11 @@ page:558
 	tag:Moon
 	tag:Rey
 	tag:Shadowman
-	tag:Sun
+	tag:SunSymbol
 	tag:Sword
 	tag:VenusFigurine
 	tag:Ysengrin
-	desc:Bonus Page:  Treatise Three. The end of the Second book.
+	desc:Bonus Page: Treatise Three. The end of the Second book.
 page:557
 	tag:ch-22
 	tag:Anja
@@ -8466,20 +8485,20 @@ page:498
 	tag:Ysengrin
 	desc:That is all for tonight, I think!
 page:497
-	tag:ch-20
+	desc:Why... It is man’s endevour to become God!
 	tag:Annie
+	tag:ch-20
 	tag:Court
 	tag:Coyote
 	tag:CoyoteStories
 	tag:Etherium
 	tag:Gillitie
 	tag:God
+	tag:GoldSymbol
 	tag:Moon
 	tag:Stars
-	tag:SunSymbol
 	tag:Uniform
 	tag:Ysengrin
-	desc:Why… It is man’s endevour to become God!
 page:496
 	tag:ch-20
 	tag:Annie
@@ -8576,6 +8595,7 @@ page:489
 	tag:ch-20
 	tag:Annan
 	tag:Annie
+	tag:Artilleryman
 	tag:BismuthSymbol
 	tag:Court
 	tag:CourtSymbol
@@ -8588,10 +8608,11 @@ page:489
 	tag:Rey
 	tag:SirYoung
 	tag:Steadman
-	tag:Sun
+	tag:SunSymbol
 	tag:Uniform
 	tag:Ysengrin
 	desc:You made the Annan waters and the ravine?
+	note: Artilleryman, SirYoung, Steadman as icons
 page:488
 	tag:ch-20
 	tag:Annie
@@ -8601,14 +8622,14 @@ page:488
 	tag:Earth
 	tag:Etherium
 	tag:Gillitie
-	tag:Moon
+	tag:MoonSymbol
 	tag:Ocean
 	tag:Rey
 	tag:Sky
 	tag:Stars
-	tag:Sun
+	tag:SunSymbol
 	tag:Ysengrin
-	desc:Together we came to this grand forest
+	desc:Coyote, How did you come to be in this forest?
 page:487
 	tag:ch-20
 	tag:Annie
@@ -8655,7 +8676,8 @@ page:484
 	tag:River
 	tag:Sun
 	tag:Trees
-	desc:(Coyote, talking about himself. Really that could describe any page with him in…)
+	desc: See the might _trees_, the strong _bones_ of my body!
+	note: Coyote, talking about himself. Really that could describe any page with him in...)
 page:483
 	tag:ch-20
 	tag:Annan
@@ -8776,6 +8798,7 @@ page:473
 	tag:Cover
 	tag:Annan
 	tag:Annie
+	tag: Cog
 	tag:GreenArrow
 	tag:BismuthSymbol
 	tag:Bridge
@@ -8785,15 +8808,17 @@ page:473
 	tag:Gillitie
 	tag:Jeanne
 	tag:LeadSymbol
+	tag:MoonSymbol
 	tag:Robotics
 	tag:Shadowmen
-	tag:Sun
+	tag:SunSymbol
 	tag:Sword
 	tag:TreeBody
 	tag:Trees
 	tag:Ysengrin
 	desc:Chapter 20:<br><br>**Coyote Stories**<br><br>_Icon: Coyote_
 	date: 2008-10-27
+	note: The 'green arrow' may just be a river flow direction symbol
 page:472
 	tag:ch-19
 	tag:Bonus
@@ -9816,11 +9841,11 @@ page:372
 	tag:Founding
 	tag:Gillitie
 	tag:Jones
-	tag:Moon
+	tag:MoonSymbol
 	tag:Parley
 	tag:SeedBismuth
 	tag:Sparring
-	tag:Sun
+	tag:SunSymbol
 	tag:Sword
 	tag:Trees
 	desc:But if the court has been without a medium since my mother left, why are there now suddenly three candidates?
@@ -10165,23 +10190,23 @@ page:330
 	tag:TomatoWangFae
 	desc:Bonus Page:  The wonderful plan. (Blue's friends discuss the day's events)
 page:329
-	tag:ch-15
-	tag:Annie
-	tag:BismuthSymbol
-	tag:Blue
-	tag:Kat
-	tag:Red
-	tag:SunSymbol
 	desc:So long, jerks!
-page:328
-	tag:ch-15
 	tag:Annie
 	tag:BismuthSymbol
 	tag:Blue
+	tag:ch-15
+	tag:GoldSymbol
 	tag:Kat
 	tag:Red
-	tag:SunSymbol
+page:328
 	desc:It goes up again!
+	tag:Annie
+	tag:BismuthSymbol
+	tag:Blue
+	tag:ch-15
+	tag:GoldSymbol
+	tag:Kat
+	tag:Red
 page:327
 	tag:ch-15
 	tag:BismuthSymbol
@@ -10452,17 +10477,18 @@ page:294
 	tag:Tom
 	desc:Intermission:<br><br>**A Selection of Guest Comics and Other Surprises**<br><br>_Tea, and some dude with a telescope_
 page:293
-	tag:Bonus
-	tag:Treatise
+	desc:Bonus Page: Treatise 2 End of Book One
 	tag:Aly
 	tag:Annie
 	tag:AntimonySymbol
 	tag:BismuthSymbol
-	tag:CreatorGlyph
+	tag:Bonus
 	tag:Court
 	tag:Coyote
+	tag:CreatorGlyph
 	tag:FireSymbol
 	tag:Gillitie
+	tag:GoldSymbol
 	tag:Hammer
 	tag:Jeanne
 	tag:Kat
@@ -10472,11 +10498,10 @@ page:293
 	tag:Rocket
 	tag:Shadowmen
 	tag:Sun
-	tag:SunSymbol
 	tag:Sword
+	tag:Treatise
 	tag:WaterSymbol
 	tag:Ysengrin
-	desc:Bonus Page: Treatise 2 End of Book One
 page:292
 	tag:ch-14
 	tag:Annie
@@ -10661,9 +10686,10 @@ page:274
 	tag:Coyote
 	tag:EyeSymbol
 	tag:Shadowmen
-	tag:Sun
+	tag:SunSymbol
 	tag:Ysengrin
 	desc:Your creations had glass eyes because of it
+	note: some other possible symbols: snake, star, lightning, hunter / native american, game animals, mesa, river
 page:273
 	tag:ch-14
 	tag:Anja
@@ -10722,16 +10748,16 @@ page:268
 	tag:Smitty
 	desc:Jeez! You’re Surma Stibnite’s kid?!
 page:267
-	tag:ch-14
+	desc:Bah! I had all me stuff packed already. I look a mess! (People gather in the main court hall)
 	tag:Annie
 	tag:BismuthSymbol
+	tag:ch-14
 	tag:CourtHall
+	tag:GoldSymbol
 	tag:Headmaster
 	tag:Jones
 	tag:Parley
 	tag:Smitty
-	tag:SunSymbol
-	desc:Bah! I had all me stuff packed already. I look a mess! (People gather in the main court hall)
 page:266
 	tag:ch-14
 	tag:AlyShirt
@@ -11747,18 +11773,18 @@ page:151
 	tag:Mort
 	desc:(Annie scares Mort instead)
 page:150
-	tag:ch-09
+	desc:Oh boy! Someone is in the room! (Mort decides to scare Kat)
 	tag:113
 	tag:AlchemyChart
 	tag:BismuthSymbol
+	tag:ch-09
 	tag:Classroom
+	tag:GoldSymbol
 	tag:Kat
 	tag:LeadSymbol
 	tag:MercurySymbol
 	tag:MetalGearSolid
-	tag:SunSymbol
 	tag:VenusSymbol
-	desc:(Mort decides to scare Kat)
 page:149
 	tag:ch-09
 	tag:Cover
@@ -12042,12 +12068,12 @@ page:120
 	tag:FireSymbol
 	tag:Kat
 	tag:MercurySymbol
-	tag:Moon
+	tag:MoonSymbol
 	tag:Orb
 	tag:River
 	tag:Hexagram
 	tag:Stars
-	tag:Sun
+	tag:SunSymbol
 	tag:Trees
 	tag:VII
 	tag:WaterSymbol
