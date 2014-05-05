@@ -29,16 +29,67 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
-page:1344
-	desc: Is your scarecrow friend gone?
+page:1349
+	desc: Annie: Mortimer, you were a very brave boy. 
 	tag: Annie
-	tag: Kat
 	tag: ch-47
+	tag: Etherium
+	tag: Mort
+	tag: ROTD
+	tag: VastyHall
+page:1348
+	desc: Mort: So! Shall we?
+	tag: Annie
+	tag: ch-47
+	tag: FinalRecords
+	tag: Kat
+	tag: Mort
+	tag: ROTD
+	tag: Tears
+	tag: VastyHall
+page:1347
+	auth: Tom: The eye is the tape
+	desc: Mort: How was that?
+	tag: Annie
+	tag: ch-47
+	tag: Camcorder
+	tag: FinalRecords
+	tag: Kat
+	tag: Mort
+	tag: ROTD
+	tag: Tears
+	tag: VastyHall
+	tag: VHStape
+page:1346
+	desc: Mort: My name is Mort and I wanted to say thanks, I had a really good time!
+	tag: Annie
+	tag: ch-47
+	tag: FinalRecords
+	tag: Kat
+	tag: Mort
+	tag: Tears
+page:1345
+	desc: Annie: What have you two been up to?
+	tag: Annie
+	tag: Camcorder
+	tag: ch-47
+	tag: FinalRecords
+	tag: Kat
+	tag: Mort
+	tag: ROTD
+	tag: VHStape
+	tag: VastyHall
+page:1344
+	desc: Kat: Is your scarecrow friend gone?
+	tag: Annie
+	tag: ch-47
+	tag: FinalRecords
+	tag: Kat
 	tag: Mort
 	tag: ROTD
 	tag: VastyHall
 page:1343
-	desc: Look, I'm sorry about Mort. He's a good kid and he got overlooked
+	desc: Dracula: Look, I'm sorry about Mort. He's a good kid and he got overlooked
 	tag: Ankou
 	tag: Annie
 	tag: Bats
@@ -48,7 +99,7 @@ page:1343
 	tag: Vampire
 	tag: VastyHall
 page:1342
-	desc: Has there ever been an attempt to disable the device?
+	desc: Annie: Has there ever been an attempt to disable the device?
 	tag: Ankou
 	tag: Annan
 	tag: Annie
@@ -59,7 +110,7 @@ page:1342
 	tag: Sword
 	tag: VastyHall
 page:1341
-	desc: If the ROTD is responsible for ghosts, how was Jeanne allowed to stay?
+	desc: Annie: If the ROTD is responsible for ghosts, how was Jeanne allowed to stay?
 	note: some sort of bird (raptor) symbol and a sun-like symbol associated with the Green Arrow
 	tag: Annie
 	tag: ch-47
@@ -69,7 +120,7 @@ page:1341
 	tag: ROTD
 	tag: VastyHall
 page:1340
-	desc: This is what I used to look like
+	desc: Dracula: This is what I used to look like
 	tag: Annie
 	tag: ch-47
 	tag: Coffin
@@ -77,7 +128,7 @@ page:1340
 	tag: ROTD
 	tag: VastyHall
 page:1339
-	desc: Mort was free to leave whenever he wanted
+	desc: Dracula: Mort was free to leave whenever he wanted
 	tag: Ankou
 	tag: Annie
 	tag: ch-47
@@ -86,7 +137,7 @@ page:1339
 	tag: ROTD
 	tag: VastyHall
 page:1338
-	desc: Are you telling me that you've kept Mort trapped here... as a _joke?_
+	desc: Annie: Are you telling me that you've kept Mort trapped here... as a _joke?_
 	tag: Ankou
 	tag: Annie
 	tag: ch-47
@@ -95,7 +146,7 @@ page:1338
 	tag: ROTD
 	tag: VastyHall
 page:1337
-	desc: We are here about the young ghost, Mortimer
+	desc: Ankou: We are here about the young ghost, Mortimer
 	note: Annie sees a more _Nosferatu_ image of the Count
 	tag: Ankou
 	tag: Annie
@@ -106,7 +157,7 @@ page:1337
 	tag: VastyHall
 page:1336
 	;date: 2014-04-04
-	desc: I was not aware of the Final Record procedure
+	desc: Annie: I was not aware of the Final Record procedure
 	tag: Ankou
 	tag: Annie
 	tag: ch-47
@@ -114,36 +165,39 @@ page:1336
 	tag: VastyHall
 page:1335
 	;date: 2014-04-02
-	desc: Is there someone I can talk to about releasing Mort from the obligations of his job?
+	desc: Annie: Is there someone I can talk to about releasing Mort from the obligations of his job?
 	tag: Ankou
 	tag: Annie
 	tag: ch-47
+	tag: FinalRecords
 	tag: Kat
 	tag: Mort
 	tag: ROTD
 	tag: VastyHall
 page:1334
 	;date: 2014-03-31
-	desc: I Guess I gotta talk to this Ankou guy too, but I don't know how to contact---
+	desc: Mort: I Guess I gotta talk to this Ankou guy too, but I don't know how to contact---
 	tag: Ankou
 	tag: Annie
 	tag: ch-47
+	tag: FinalRecords
 	tag: Kat
 	tag: Mort
 	tag: ROTD
 	tag: VastyHall
 page:1333
 	;date: 2014-03-28
-	desc: How could you ask me to do this?
+	desc: Annie: How could you ask me to do this?
 	tag: Annie
 	tag: ch-47
+	tag: FinalRecords
 	tag: Kat
 	tag: Mort
 	tag: ROTD
 	tag: VastyHall
 page:1332
 	;date: 2014-03-26
-	desc: We've got an important job for you, now that you're a ghost!
+	desc: Dracula: We've got an important job for you, now that you're a ghost!
 	tag: Ankou
 	tag: ch-47
 	tag: Dracula
@@ -153,8 +207,8 @@ page:1332
 	tag: ROTD
 	tag: Vampire
 page:1331
-	desc: Okay, okay, what's going on here?
 	;date: 2014-03-24
+	desc: Dracula: Okay, okay, what's going on here?
 	note: _Gunnerkrigg Court_ mentioned
 	tag: Ankou
 	tag: ch-47
@@ -166,61 +220,61 @@ page:1331
 	tag: ROTD
 	tag: Vampire
 page:1330
-	desc: Mortimer, your time has come early
 	;date: 2014-03-21
+	desc: Mortimer, your time has come early
 	tag: Ankou
 	tag: ch-47
 	tag: Jones
 	tag: Mort
 	tag: Psychopomps
 page:1329
-	desc: Miss, were you hurt?!
 	;date: 2014-03-19
+	desc: Mort: Miss, were you hurt?!
 	tag: Ankou
 	tag: ch-47
 	tag: Jones
 	tag: Mort
 	tag: Psychopomps
 page:1328
-	desc: (3-D 'exploded' cutaway of the bomb)
 	;date: 2014-03-17
-	tag: ch-47
-	tag: Bomb
-	tag: Mort
 	auth: Tom: This is a pretty standard SC50 bomb. In my research I wasn't able to find clear pictures of what the interior filling charges looked like, so if any of you know where I can find good reference for them, I'd like to update the page in the future if needed.
+	desc: (3-D 'exploded' cutaway of the bomb)
+	tag: Bomb
+	tag: ch-47
+	tag: Mort
 page:1327
-	desc: It is too late for you 
 	;date: 2014-03-14
+	desc: Jones: It is too late for you 
 	tag: Bomb
 	tag: ch-47
 	tag: Jones
 	tag: Mort
 page:1326
-	desc: Hey! You're going the wrong way, miss! (Rooooo...)
 	;date: 2014-03-12
+	desc: Mort: Hey! You're going the wrong way, miss! (Rooooo...)
 	tag: ch-47
-	tag: Mort
 	tag: Jones
+	tag: Mort
 page:1325
-	desc: (An air raid siren sounds: Rooooo...)
 	;date: 2014-03-10
+	desc: (An air raid siren sounds: Rooooo...)
 	tag: ch-47
 	tag: Mort
 page:1324
-	desc: I know they'll find a nice safe place to send ya soon!
 	;date: 2014-03-07
-	tag: ch-47
+	desc: I know they'll find a nice safe place to send ya soon!
 	tag: Betty
-	tag: Nigel
+	tag: ch-47
 	tag: Mort
+	tag: Nigel
 page:1323
-	desc: "MOTHERS: Your children are safer in the country" (a small boy in short trousers, with helmet & popgun reads a wall poster – WWII, 1939 or ’40)
 	;date: 2014-03-05
+	desc: "MOTHERS: Your children are safer in the country" (a small boy in short trousers, with helmet & popgun reads a wall poster – WWII, 1939 or ’40)
 	tag: ch-47
 	tag: Mort
 page:1322
-	desc: Chapter 47:<br><br>**See Ya!**<br><br>_Icon: Annie in front of dust clouds_
 	date: 2014-03-03
+	desc: Chapter 47:<br><br>**See Ya!**<br><br>_Icon: Annie in front of dust clouds_
 	tag: ch-47
 	tag: Cover
 	tag: Mort
@@ -1450,9 +1504,10 @@ page:1178
 	date: 2013-04-01
 page:1177
 	tag:ch-41a
-	tag:CityFace
-	tag:Filler
-	desc:City Face guest comic by City Face
+	tag: CityFace
+	tag: Filler
+	desc: City Face guest comic by City Face himself
+	note: [Chamberlain Square, Birmingham](https://www.google.com/maps/@52.4802168,-1.9040331,70m/data=!3m1!1e3). The view shown is looking north, similar to [this](https://www.google.com/maps/@52.479438,-1.904232,3a,75y,16.18h,92.67t/data=!3m4!1e1!3m2!1sV_SjngFX2QH1RA8gfbjkzA!2e0) - Thx: Ian Patient. 
 page:1176
 	tag:ch-41a
 	tag:CityFace

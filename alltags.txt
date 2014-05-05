@@ -70,6 +70,7 @@ Bullbot	A robot that represents [Sir Young](#siryoung) in the [Robot Tomb](#robo
 Buzz	The buzzing in [Zimmy](#zimmy)’s head when the stimuli get too much
 Buzzer	Bug shaped device for fooling the court’s student tracking system
 Caduceus	“Herald’s staff” borne by Hermes/[Mercury](#mercury), symbol of commerce
+Camcorder	ancient 20th century technology records moving images on magnetic tape
 Cards	A pack of playing cards
 Castle	Where royalty live. Even space alien royalty
 Chemicals	May be used to perform terrifying skills of Chemistry or Alchemy
@@ -95,12 +96,12 @@ CreatorGlyph	Mark of the [robots'](#robots) creator: now associated with [Kat](#
 Creeper	Someone who is creeping
 Crying	When salty water with enzymes comes out of one’s lacrimal ducts; also, a sign of sadness
 CrystalBall	A crystal ball is traditionally used for scrying, future-telling or other Gypsy/Roma past-times
-CurlyFae	‘this girl too’ -- short curly blue hair, red dot below right eye [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
+CurlyFae	'this girl too' -- short curly blue hair, red dot below right eye [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/[psychopomps](#psychopomps) of Wales; red ears
 DanielRSchiff	[Rey](#rey)’s victim [_{W}_](http://gunnerkrigg.wikia.com/wiki/Daniel_R_Schiff)
 DeathsHead	admissions clerk to the [Realm of the Dead](#rotd), a 2 dimensional skull
 Desert	No rain in here. Where [Coyotes](#coyote) live, sometimes
-Diego	creepy robotics expert of the Court's early days; creator of the original [robot](#robots) (but not the TicTocs); and referred to as "creator" by them. Implicated in the [Jeanne](#jeanne) affair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Diego)
+Diego	creepy robotics expert of the Court's early days; creator of the original [robots](#robots) (but not the TicTocs); and referred to as "creator" by them. Implicated in the [Jeanne](#jeanne) affair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Diego)
 DiegoBot	One of the original [robot](#robots) created by Diego many years ago [_{W}_](http://gunnerkrigg.wikia.com/wiki/Old_Robot)
 DiegoStudy	Home of all things ancient [robot](#robots)
 Dirty	What you become when you don't wash for a while
