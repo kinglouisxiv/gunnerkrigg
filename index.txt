@@ -29,6 +29,41 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1354
+	date: 2014-05-16
+	desc: Chapter 48:<br><br>**Tall Tales**<br><br>_Icon: Music notes_
+	tag: ch-48
+	tag: Cover
+page:1353
+	desc: Pro Patria Mori
+	note: Mort's old haunt: a single room and corridor corner of Gunnerkrigg Court, empty:<br>&middot;&nbsp;[Classroom with ventillation grill](http://www.gunnerkrigg.com/?p=67) (the "_silenti_" room?)<br>&middot;&nbsp;[A door marked "_silenti_"](http://www.gunnerkrigg.com/?p=67)<br>&middot;&nbsp; the corridor and ["_dulce et decorum est_"](http://www.gunnerkrigg.com/?p=60)
+	tag: Bonus
+	tag: ch-47
+	tag: Court
+page:1352
+	desc: Kat: Hah, you are tough as nails, Annie...
+	tag: Annie
+	tag: ch-47
+	tag: Kat
+	tag: ROTD
+	tag: Tears
+	tag: VastyHall
+page:1351
+	desc: Kat: Is–Is that it? He goes through that door and...
+	tag: Annie
+	tag: ch-47
+	tag: Etherium
+	tag: Kat
+	tag: Mort
+	tag: ROTD
+	tag: Tears
+	tag: VastyHall
+page:1350
+	desc: Annie: We will never forget you 
+	tag: Annie
+	tag: ch-47
+	tag: Etherium
+	tag: Mort
 page:1349
 	desc: Annie: Mortimer, you were a very brave boy. 
 	tag: Annie
@@ -11829,6 +11864,7 @@ page:151
 	desc:(Annie scares Mort instead)
 page:150
 	desc:Oh boy! Someone is in the room! (Mort decides to scare Kat)
+	auth: Tom: Here, Mort is whistling [_I My Me Mine_ by the Polysics.](http://www.myspace.com/polysicsordie)
 	tag:113
 	tag:AlchemyChart
 	tag:BismuthSymbol
@@ -12633,39 +12669,39 @@ page:66
 	tag:Paz
 	desc:(Paz gets frightened by a creepy circus clown, screams and runs away)
 page:65
+	desc:(Paz follows the balloon to some creepy circus clowns)
 	tag:ch-04
 	tag:Circus
 	tag:Clowns
 	tag:Paz
-	desc:(Paz follows the balloon to some creepy circus clowns)
 page:64
+	desc:(Paz is walking along, humming, when she realises the door is gone, and a nice balloon)
 	tag:ch-04
 	tag:Court
 	tag:Paz
-	desc:(Paz is walking along, humming, when she realises the door is gone, and a nice balloon)
 page:63
-	tag:ch-04
-	tag:Annie
-	tag:Court
-	tag:Mort
 	desc:Find out what scares them and take it from there
+	tag:Annie
+	tag:ch-04
+	tag:Court
+	tag:Mort
 page:62
-	tag:ch-04
-	tag:Annie
-	tag:Court
-	tag:Mort
 	desc:I don’t think anyone has been scared of the bedsheet phantasm ensemble for a long time
-page:61
-	tag:ch-04
 	tag:Annie
+	tag:ch-04
 	tag:Court
 	tag:Mort
+page:61
 	desc:I’m a ghost! Aren’t you scared?!
-page:60
-	tag:ch-04
 	tag:Annie
+	tag:ch-04
 	tag:Court
+	tag:Mort
+page:60
 	desc:(Annie trims a bonsai, then hears a ghost wailing)
+	tag:Annie
+	tag:ch-04
+	tag:Court
 page:59
 	tag:ch-04
 	tag:Cover

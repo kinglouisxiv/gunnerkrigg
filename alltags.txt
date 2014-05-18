@@ -213,6 +213,7 @@ KershawHouse	Where [Aly](#aly) and his parents Mr and Mrs [Kershaw](#kershaws) u
 Kershaws	[Aly](#aly)’s parents. [birds](#birds).
 Ketrak	[Psychopomp](#psychopomps) to the insects! [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ketrak)
 Khepi	Head of an [Anwyn](#anwyn) family [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn#Khepi)
+KhepiHouse	Where Khepi and family live in [Gillitie Forest](#gillitie), and [Annie](#annie) spends a summer
 Kiss	Smooshing, pashing, making out, a peck on the cheek, first base, kissing
 Knight	A traditional warrior and military leader who is part of the landed gentry class; often trained in swordsmanship; a chess piece; _e.g._ [Eglamore](#eglamore) and [Sir Young](#siryoung).
 Labyrinth	Not quite a maze. Home to [Basil the Minotaur](#basil)
@@ -463,4 +464,5 @@ ch-44	Crash Course
 ch-45	Thread
 ch-46	The Realm of the Dead
 ch-47	See Ya!
+ch-48	Tall Tales
 ; ---TAGS EOF ---
