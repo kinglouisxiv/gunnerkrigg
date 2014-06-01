@@ -29,6 +29,59 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1360
+	desc: Fairy: One hundred years?
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: Jackalope
+	tag: RabbitRider
+	tag: Snowflake
+	tag: SunSymbol
+page:1359
+	desc: Canvey: She spent one hundred years living with the tree people!
+	tag: Annie
+	tag: Anwyn
+	tag: Canvey
+	tag: ch-48
+	tag: Kamlen
+page:1358
+	auth: Tom: Can't argue with a pbth
+	desc: Fairy: Huh? *Every* animal in the forest? She didn't meet with me!
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: Jackalope
+	tag: RabbitRider
+page:1357
+	auth: Tom: She met a jellyfish once
+	desc: Canvey: Y'know, she is being _personally_ instructed by Ysengrin, right?
+	note: Ysengrin and Annie shown stylised; multiple 'animal' silhouettes 
+	tag: ch-48
+	tag: Annie
+	tag: Canvey
+	tag: Fairies
+	tag: Gillitie
+	tag: Ysengrin
+page:1356
+	auth: Tom: Long way from home, friend. 
+	desc: Canvey: Are you going to the gathering?
+	tag: ch-48
+	tag: Canvey
+	tag: Fairies
+	tag: Gillitie
+	tag: Jackalope
+	tag: RabbitRider
+page:1355
+	auth: Tom: Let's get this show (fairy) on the road (rabbit).
+	desc: (a sad fairy rides a jackalope (horned rabbit) beside a stream, through sun dappled Gillite Wood)
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: Jackalope
+	tag: RabbitRider
 page:1354
 	date: 2014-05-16
 	desc: Chapter 48:<br><br>**Tall Tales**<br><br>_Icon: Music notes_
@@ -8459,15 +8512,17 @@ page:511
 	tag:Rey
 	desc:I hid your stone outside
 page:510
-	tag:ch-21
+	auth: What do you think this is, Kat, Nine Tomorrows?
+	desc:It’s gotta be some kind of matter transference!
+	note: [Nine Tomorrows](https://en.wikipedia.org/wiki/Nine_Tomorrows) 
 	tag:Anja
 	tag:Annie
 	tag:AnnieCut
 	tag:BlinkerStone
+	tag:ch-21
 	tag:Etherics
 	tag:Kat
 	tag:KatsWorkshop
-	desc:It’s gotta be some kind of matter transference!
 page:509
 	tag:ch-21
 	tag:Anja

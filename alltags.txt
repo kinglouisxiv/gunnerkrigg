@@ -71,6 +71,7 @@ Buzz	The buzzing in [Zimmy](#zimmy)’s head when the stimuli get too much
 Buzzer	Bug shaped device for fooling the court’s student tracking system
 Caduceus	“Herald’s staff” borne by Hermes/[Mercury](#mercury), symbol of commerce
 Camcorder	ancient 20th century technology records moving images on magnetic tape
+Canvey	a [Canvey Island Monster](https://en.wikipedia.org/wiki/Canvey_Island_Monster)
 Cards	A pack of playing cards
 Castle	Where royalty live. Even space alien royalty
 Chemicals	May be used to perform terrifying skills of Chemistry or Alchemy
@@ -159,7 +160,7 @@ Glass	A transparent silicon oxide substance used to make windows and the water b
 GlassFiber	Strands of glass used in insulation. Exposure causes itchiness and respiratory problems.
 God	What is god?
 Gol-shogeg	Big worm slug monster
-GoldSymbol	Alchemical symbol for gold, or sometimes for the Sun
+GoldSymbol	Alchemical symbol for gold, or sometimes for the Sun (see also [SunSymbol](#sunsymbol))
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
 GoodHope	Good Hope Hospital is where [Surma](#surma) was before she died [_{W}_](http://gunnerkrigg.wikia.com/wiki/Good_Hope_Hospital)
 GraveYard	a field of the dead
@@ -181,14 +182,14 @@ HardwickLittleBestiary	Reference on mystical creatures [_{W}_](http://gunnerkrig
 HarryPotter	Deserves to be taped to a flag pole for being a ponce
 Headmaster	Jonathan Llanwellyn, [Janet](#janet)’s father; surprisingly grey, apathetic man, with bad posture [_{W}_](http://gunnerkrigg.wikia.com/wiki/Headmaster)
 Heart	A heart, or heart sign, symbol, glyph or character; either the body's blood pump, the core of a mechanism or a symbol of love
-HedgehogFae	‘and him’ -- dreads, former hedgehog
+HedgehogFae	'and him' -- dreads, former hedgehog
 Hetty	a small animate devil doll inhabited by a shrimp-like spirit, victimising [Adam](#adam) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hetty)
 HettySymbol	sometimes visible on [Hetty](#hetty)’s forehead [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hetty#Symbol)
 Hexagram	Means the art of alchemy, the quintessence or “fire-water”/alcohol; the Jewish Kingdom (Star of David)
 Homework	School work done outside class hours
 Horsebot	H model [robot](#robots) in a horse frame, as motive power for carriages, carts etc [_{W}_](http://gunnerkrigg.wikia.com/wiki/H_Model)
 Hospital	The hospital/infirmary within the court
-Hyland	[Jack](#jack)’s father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma). [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hyland)
+Hyland	[Jack's](#jack) father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma). [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hyland)
 Irial	[Kamlen’s](#kamlen) [Anwyn](#anwyn) love
 Jack	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jack_Hyland)
 JackOLantern	A carved, decorative pumpkin used for Hallowe'en/Halloween as a lantern
