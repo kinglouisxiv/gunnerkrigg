@@ -29,6 +29,44 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1363
+	auth: Tom: She heard it from a floating octopus in a hurry
+	desc: Canvey: Sounds fake to me
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: Jackalope
+	tag: RabbitRider
+	tag: Smitty
+page:1362
+	auth: Tom: Seems Legit.
+	desc: Canvey: Besides, you can see it's true cos she left her finger mark on the mon when she pushed them together
+	tag: Annie
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: Hearts
+	tag: Jackalope
+	tag: Moon
+	tag: MoonPrint
+	tag: RabbitRider
+	tag: Stars
+page:1361
+	auth: Tom: [Citation needed]
+	desc: Canvey: Ysengrin sent her off to the wilderness and there she settled a dispute between two angry moons!
+	note: a Red and a Blue moon
+	tag: Annie
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: FireElemental
+	tag: FireSpike
+	tag: Gillitie
+	tag: Moon
+	tag: RabbitRider
+	tag: Ysengrin
 page:1360
 	desc: Fairy: One hundred years?
 	tag: Canvey
@@ -511,49 +549,48 @@ page:1308
 	desc: _This_ is the library?
 	auth:  Tom: The ROTD is pretty proud of its library
 page:1307
-	tag:ch-46
+	auth: Tom: This labyrinth of madness
+	desc:I think they have a library around here somewhere
 	tag:Annie
 	tag:Bats
 	tag:Cells
+	tag:ch-46
 	tag:Cobwebs
+	tag:JackOLantern
 	tag:Kat
 	tag:Moon
 	tag:Mort
-	tag:JackOLantern
 	tag:ROTD
 	tag:Spider
 	tag:Tombstone
 	tag:Zombie
-	desc:I think they have a library around here somewhere
-	auth: Tom: This labyrinth of madness
 page:1306
-	url: http://www.gunnerkrigg.com/?p=1306
-	tag: ch-46
+	desc: Here. Touch the bat for verification
 	tag: Annie
 	tag: Bats
+	tag: ch-46
 	tag: DeathsHead
 	tag: Kat
 	tag: ROTD
 	tag: Vampire
-	desc:Here. Touch the bat for verification
 page:1305
-	tag:ch-46
+	desc:Oh, Uh... Mort and... two guests?
 	tag:Annie
 	tag:AntimonySymbol
 	tag:Bats
+	tag:ch-46
 	tag:Cobwebs
 	tag:CourtSymbol
 	tag:CreatorGlyph
 	tag:DeathsHead
 	tag:FireSpike
 	tag:ForestSymbol
+	tag:JackOLantern
 	tag:Kat
 	tag:Mort
-	tag:JackOLantern
 	tag:ROTD
 	tag:Spider
 	tag:Tombstone
-	desc:Oh, Uh... Mort and... two guests?
 page:1304
 	tag:ch-46
 	tag:Annie
@@ -13222,11 +13259,11 @@ page:2
 	desc:Gunnerkrigg Court does not look much like a school at all
 	date: 2005-04-05
 page:1
-	tag:ch-01
-	tag:Cover
-	tag:Annie
-	tag:Court
-	tag:Sky
-	desc:Chapter 1:<br><br>**The Shadow and The Robot**<br><br>_Icon: Gunnerkrigg Court_
 	date: 2005-04-04
+	desc: Chapter 1:<br><br>**The Shadow and The Robot**<br><br>_Icon: Gunnerkrigg Court_
+	tag: Annie
+	tag: ch-01
+	tag: Court
+	tag: Cover
+	tag: Sky
 ; --- INDEX EOF ---
