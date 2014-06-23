@@ -29,6 +29,85 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1370
+	desc: Annie: _My_ name, is Antimony
+	tag: Annie
+	tag: ch-48
+	tag: Gillitie
+	tag: Canvey
+	tag: RabbitRider
+	tag: Fire
+	tag: FireElemental
+	tag: Parley
+	tag: Smitty
+	tag: Ysengrin
+page:1369
+	desc: Annie: He is accompanied by _Parley!_
+	tag: Annie
+	tag: ch-48
+	tag: Gillitie
+	tag: Jones
+	tag: Parley
+	tag: Smitty
+	tag: Ysengrin
+page:1368
+	desc: Annie: _Friends!_ After many years, a new medium comes from the court!
+	note: Anwyn clapping, birds tweeting, moose (?) bellowing, wolf howling, small fairies calling out. Handholding mediums [reference](http://www.gunnerkrigg.com/?p=372).
+	tag: Anwyn
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: Jones
+	tag: Kamlen
+	tag: Parley
+	tag: Sareed
+	tag: Smitty
+page:1367
+	desc: Canvey: Who's that?
+	tag: Armour
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: Jackalope
+	tag: Parley
+	tag: RabbitRider
+	tag: Smitty
+page:1366
+	desc: Canvey: What are you so sad about? I thought you wanted to come here?
+	tag: Armour
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: Jackalope
+	tag: Jones
+	tag: Parley
+	tag: RabbitRider
+	tag: Smitty
+page:1365
+	desc: Canvey: Omigoo! There she is!
+	note: also beaver (?), deer (2), sparrows (2), butterfly, horse, pheasant, bear & cub 
+	tag: Annie
+	tag: Canvey
+	tag: ch-48
+	tag: Coyote
+	tag: Fairies
+	tag: Gillitie
+	tag: Jackalope
+	tag: RabbitRider
+	tag: Ysengrin
+page:1364
+	auth: Tom: Looks like this is the place
+	desc: (an avenues of trees / clearing in the woods, and a small number of animals)
+	note: also badger, fox, squirrels
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: Jackalope
+	tag: RabbitRider
 page:1363
 	auth: Tom: She heard it from a floating octopus in a hurry
 	desc: Canvey: Sounds fake to me

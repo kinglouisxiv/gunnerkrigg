@@ -300,7 +300,7 @@ Robotics	Like [Etherics](#etherics) but with metal
 RobotKing	A [robot](#robots) with a crown, blank face, and a pen
 RobotParts	Bits of [robot](#robots) currently not attached
 Robots	A collective noun
-RobotTomb	Tomb/theatre full of [robot](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/The_Tomb)
+RobotTomb	Tomb/theatre full of [robots](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/The_Tomb)
 Robox	Has no hands; awesome; everybody loves Robox. The opposite of [terrible](#terrible) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Robox)
 Rocket	A cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents.
 RogatOrjak	Dragon-like giant [_{W}_](http://gunnerkrigg.wikia.com/wiki/Rogat_Orjak)
@@ -326,7 +326,7 @@ Simulation	One of [Dr. Disaster](#drdisaster)’s holographic adventures
 SirYoung	Protector of the Court at its [founding](#founding); has a park dedicated to him, associated with [Nevihta](#nevihta), also see [Bullbot](#bullbot) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Sir_Young)
 Sivo	A [Rogat Orjak](#rogatorjak) who was close friends with [Eglamore](#eglamore) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Sivo)
 Skeleton	The bones of a once living thing, or the representation thereof
-SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises death; associated with pirates
+SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises death; also associated with pirates
 Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
 SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological data [_{W}_](http://gunnerkrigg.wikia.com/wiki/Sky_Watcher)
 SmallBot	A young eye-witness model [robot](#robots)
