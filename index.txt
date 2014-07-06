@@ -29,20 +29,83 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1375
+	desc: (Fairy aerobatics)
+	tag: Annie
+	tag: Anwyn
+	tag: Blush
+	tag: Canvey
+	tag: ch-48
+	tag: Fire
+	tag: Gillitie
+	tag: Fairies
+	tag: GreenFairy
+	tag: Jackalope
+	tag: Parley
+	tag: Party
+	tag: Smitty
+page:1374
+	desc: Canvey: How do you even become human anyway?
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: GreenFairy
+	tag: Jackalope
+	tag: Party
+page:1373
+	desc: Canvey: Okay, okay. So everybody is having fun but you.
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Gillitie
+	tag: GreenFairy
+	tag: Jackalope
+	tag: Party
+page:1372
+	desc: (music winds through the forest night and the Anwyn village)
+	tag: Anwyn
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Fire
+	tag: Gillitie
+	tag: GreenFairy
+	tag: Jackalope
+	tag: Moon
+	tag: MoonPrint
+	tag: Music
+	tag: Party
+page:1371
+	desc: Coyote: Party
+	tag: Annie
+	tag: Canvey
+	tag: ch-48
+	tag: Coyote
+	tag: Fairies
+	tag: Gillitie
+	tag: GreenFairy
+	tag: Jones
+	tag: Parley
+	tag: Smitty
+	tag: WoodsDweller
+	tag: Ysengrin
 page:1370
 	desc: Annie: _My_ name, is Antimony
+	note: audience includes a giraffe and other large animals
 	tag: Annie
-	tag: ch-48
-	tag: Gillitie
 	tag: Canvey
-	tag: RabbitRider
+	tag: ch-48
 	tag: Fire
 	tag: FireElemental
+	tag: Gillitie
+	tag: GreenFairy
 	tag: Parley
 	tag: Smitty
 	tag: Ysengrin
 page:1369
 	desc: Annie: He is accompanied by _Parley!_
+	note: Handshake
 	tag: Annie
 	tag: ch-48
 	tag: Gillitie
@@ -70,10 +133,11 @@ page:1367
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
+	tag: GreenFairy
 	tag: Jackalope
 	tag: Parley
-	tag: RabbitRider
 	tag: Smitty
+	tag: WoodsDweller
 page:1366
 	desc: Canvey: What are you so sad about? I thought you wanted to come here?
 	tag: Armour
@@ -81,10 +145,10 @@ page:1366
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
+	tag: GreenFairy
 	tag: Jackalope
 	tag: Jones
 	tag: Parley
-	tag: RabbitRider
 	tag: Smitty
 page:1365
 	desc: Canvey: Omigoo! There she is!
@@ -95,8 +159,8 @@ page:1365
 	tag: Coyote
 	tag: Fairies
 	tag: Gillitie
+	tag: GreenFairy
 	tag: Jackalope
-	tag: RabbitRider
 	tag: Ysengrin
 page:1364
 	auth: Tom: Looks like this is the place
@@ -106,8 +170,8 @@ page:1364
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
+	tag: GreenFairy
 	tag: Jackalope
-	tag: RabbitRider
 page:1363
 	auth: Tom: She heard it from a floating octopus in a hurry
 	desc: Canvey: Sounds fake to me
@@ -115,8 +179,8 @@ page:1363
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
+	tag: GreenFairy
 	tag: Jackalope
-	tag: RabbitRider
 	tag: Smitty
 page:1362
 	auth: Tom: Seems Legit.
@@ -126,11 +190,11 @@ page:1362
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: Hearts
+	tag: GreenFairy
+	tag: Heart
 	tag: Jackalope
 	tag: Moon
 	tag: MoonPrint
-	tag: RabbitRider
 	tag: Stars
 page:1361
 	auth: Tom: [Citation needed]
@@ -143,8 +207,8 @@ page:1361
 	tag: FireElemental
 	tag: FireSpike
 	tag: Gillitie
+	tag: GreenFairy
 	tag: Moon
-	tag: RabbitRider
 	tag: Ysengrin
 page:1360
 	desc: Fairy: One hundred years?
@@ -152,8 +216,8 @@ page:1360
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
+	tag: GreenFairy
 	tag: Jackalope
-	tag: RabbitRider
 	tag: Snowflake
 	tag: SunSymbol
 page:1359
@@ -170,35 +234,35 @@ page:1358
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
+	tag: GreenFairy
 	tag: Jackalope
-	tag: RabbitRider
 page:1357
 	auth: Tom: She met a jellyfish once
 	desc: Canvey: Y'know, she is being _personally_ instructed by Ysengrin, right?
 	note: Ysengrin and Annie shown stylised; multiple 'animal' silhouettes 
-	tag: ch-48
 	tag: Annie
 	tag: Canvey
+	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
 	tag: Ysengrin
 page:1356
 	auth: Tom: Long way from home, friend. 
 	desc: Canvey: Are you going to the gathering?
-	tag: ch-48
 	tag: Canvey
+	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
+	tag: GreenFairy
 	tag: Jackalope
-	tag: RabbitRider
 page:1355
 	auth: Tom: Let's get this show (fairy) on the road (rabbit).
 	desc: (a sad fairy rides a jackalope (horned rabbit) beside a stream, through sun dappled Gillite Wood)
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
+	tag: GreenFairy
 	tag: Jackalope
-	tag: RabbitRider
 page:1354
 	date: 2014-05-16
 	desc: Chapter 48:<br><br>**Tall Tales**<br><br>_Icon: Music notes_

@@ -165,8 +165,9 @@ GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps
 GoodHope	Good Hope Hospital is where [Surma](#surma) was before she died [_{W}_](http://gunnerkrigg.wikia.com/wiki/Good_Hope_Hospital)
 GraveYard	a field of the dead
 GreatSecret	[Coyote's](#coyote) Great Secret.
-GreenArrow	Green arrow with horseshoe tip. Created by [Diego](#diego), shot by [Steadman](#steadman), hit Jeanne's Lover in the [Annan](#annan)
+GreenArrow	Green arrow with horseshoe tip. Created by [Diego](#diego), shot by [Steadman](#steadman), hit [Jeanne's Lover](#jeanneslover) swimming the [Annan](#annan) to her
 GreenFae	‘this other one’ -- long straight green hair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
+GreenFairy	friend of, speaker for, the [Jackalope](#jackalope)
 Grounds	The grounds/gardens of Gunnerkrigg Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
 GroundSymbol	The electronic symbol for ground
 GuestComic	Guest comic strips from end of Year 7/Book one
@@ -192,6 +193,7 @@ Hospital	The hospital/infirmary within the court
 Hyland	[Jack's](#jack) father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma). [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hyland)
 Irial	[Kamlen’s](#kamlen) [Anwyn](#anwyn) love
 Jack	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jack_Hyland)
+Jackalope	appears as a rabbit with stub horns, a denizen of [Gillite Wood](#gillitie); friend of [GreenFairy](#greenfairy); wishes to be human
 JackOLantern	A carved, decorative pumpkin used for Hallowe'en/Halloween as a lantern
 Jan	January, curt friend of [Parley](#parley) [_{W}_](http://gunnerkrigg.wikia.com/wiki/January)
 Janet	Janet Llanwellyn; fierce daughter of the [Headmaster](#headmaster); dating [Winsbury](#winsbury) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Janet_Llanwellyn)
@@ -392,7 +394,7 @@ VII	The number seven, numerologically symbolises virginity, change, completion o
 VincentPrice	A famous actor
 WanderingEye	Symbol of that which calls itself [Jones](#jones), currently
 Warehouse113	Warehouse [113](#113) is Not a secret base at Long Acre
-Water	Ancient element; H2O; necessary for life; rivers, lakes and oceans are made of this
+Water	Ancient element; H<small><sub>2</sub></small>O; necessary for life; rivers, lakes and oceans are made of this
 WaterFae	‘this girl’ -- short blue spikey hair, 2 dots under right eye, had a waterfall?
 WaterSymbol	Alchemical symbol for [water](#water)
 WhiteRabbit	Every story begins with a rabbit (except the ones that don’t)
@@ -401,6 +403,7 @@ Winsbury	William (Willie) Winsbury; student with [Annie](#annie) and [Kat](#kat)
 Wisp	a misleading monster of [Gillitie Wood](#gillitie) (_see_ [Will-o'-the-Wisp](https://en.wikipedia.org/wiki/Will-o%27-the-wisp))
 WolfToy	A small wolf toy made by [Annie](#annie)’s mother (tagged when _not_ animated by [Reynardine](#rey))
 WoodenArm	A mysterious wooden arm from [Gillitie](#gillitie); initially attached to [Robot](#robot); finds its way to [Habitat](#habitat) [113](#113) and finally to [Young's Park](#youngspark)
+WoodsDweller	A humanoid inhabitant of [Gillitie Wood](#gillitie) with knowledge of [Court](#court) uniforms
 WorkshopKey	The key for [Kat](#kat)’s Workshop
 WovenTree	more of a bonsai than full tree
 YellowFae	‘him’ -- yellow hair, kinda sideways windswept
