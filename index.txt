@@ -29,6 +29,46 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1378
+	desc: GreenFairy: Will she forget me?
+	note: [Flashback](http://www.gunnerkrigg.com/?p=1286)
+	tag: Annie
+	tag: Anwyn
+	tag: ch-48
+	tag: Fire
+	tag: Gillitie
+	tag: Fairies
+	tag: Flashback
+	tag: GreenFairy
+	tag: Jackalope
+	tag: Party
+	tag: Smitty
+page:1377
+	desc: GreenFairy: She says she wants to be more than she is...
+	tag: Annie
+	tag: Anwyn
+	tag: Canvey
+	tag: ch-48
+	tag: Fire
+	tag: Gillitie
+	tag: Fairies
+	tag: GreenFairy
+	tag: Jackalope
+	tag: Party
+	tag: Smitty
+page:1376
+	desc: GreenFairy: It's my friend... She wants to be human
+	tag: Annie
+	tag: Anwyn
+	tag: Canvey
+	tag: ch-48
+	tag: Fire
+	tag: Gillitie
+	tag: Fairies
+	tag: GreenFairy
+	tag: Jackalope
+	tag: Party
+	tag: Smitty
 page:1375
 	desc: (Fairy aerobatics)
 	tag: Annie
