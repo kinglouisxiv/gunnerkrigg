@@ -29,6 +29,15 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1380
+	date: 2014-07-16
+	desc: GreenFairy: Did you hear that? You're gonna do it!
+	tag: ch-48
+	tag: Fire
+	tag: Gillitie
+	tag: Fairies
+	tag: GreenFairy
+	tag: Tears
 page:1379
 	desc: Annie: I've met students that were forest creatures and they seemed to remember their lives here
 	tag: Annie
@@ -592,6 +601,7 @@ page:1323
 	tag: ch-47
 	tag: Mort
 page:1322
+	;date: 2014-03-03
 	date: 2014-03-03
 	desc: Chapter 47:<br><br>**See Ya!**<br><br>_Icon: Annie in front of dust clouds_
 	tag: ch-47
@@ -851,11 +861,11 @@ page:1297
 	tag:Sword
 	desc:(camera -- blade -- camera halves)
 page:1296
+	date: 2014-01-01
+	desc:Chapter 46:<br><br>**The Realm of the Dead**<br><br>_Icon: Door with a broken window_
+	tag:Bones
 	tag:ch-46
 	tag:Cover
-	tag:Bones
-	desc:Chapter 46:<br><br>**The Realm of the Dead**<br><br>_Icon: Door with a broken window_
-	date: 2014-04-01
 page:1295
 	tag:ch-45
 	tag:AnimalLab
@@ -1101,10 +1111,10 @@ page:1265
 	desc:So this is where you spend all your time!
 	auth: Tom: Kat and Paz
 page:1264
+	date: 2013-10-18
+	desc:Chapter 45:<br><br>**Thread**<br><br>_Icon: A Bunsen burner_
 	tag:ch-45
 	tag:Cover
-	desc:Chapter 45:<br><br>**Thread**<br><br>_Icon: A Bunsen burner_
-	date: 2013-10-18
 page:1263
 	tag:ch-44
 	tag:Annie
@@ -1363,10 +1373,10 @@ page:1235
 	desc:Are you sure about going there on your own?
 	auth: Tom: A shared love of rhythm games
 page:1234
+	date: 2013-08-09
+	desc:Chapter 44:<br><br>**Crash Course**<br><br>_Icon: Ruins in a forest_
 	tag:ch-44
 	tag:Cover
-	desc:Chapter 44:<br><br>**Crash Course**<br><br>_Icon: Ruins in a forest_
-	date: 2013-08-09
 page:1233
 	tag:ch-43
 	tag:Bonus
@@ -1612,13 +1622,13 @@ page:1205
 	tag:Rey
 	desc:Renard, we’re heading off to class now
 page:1204
+	date: 2013-05-31
+	desc:Chapter 43:<br><br>**Quicksilver**<br><br>_Icon: a packet of sewing needles_
 	tag:ch-43
-	tag:Cover
 	tag:Chemicals
+	tag:Cover
 	tag:ScienceLab
 	tag:SkullCrossbones
-	desc:Chapter 43:<br><br>**Quicksilver**<br><br>_Icon: a packet of sewing needles_
-	date: 2013-05-31
 page:1203
 	tag:ch-42
 	tag:Bonus
@@ -2274,20 +2284,20 @@ page:1129
 	tag:Shadow
 	desc:Here, you just sit like that… (a tender moment)
 page:1128
-	tag:ch-41
+	date: 2012-12-14
+	desc:Chapter 41:<br><br>**Changes**<br><br>_Icon: Kat's workshop_
 	tag:Annie
+	tag:ch-41
 	tag:Cover
 	tag:Coyote
 	tag:Kat
 	tag:Parley
-	tag:Smitty
 	tag:Rey
 	tag:Robot
 	tag:Robots
 	tag:Seraph
 	tag:Shadow
-	desc:Chapter 41:<br><br>**Changes**<br><br>_Icon: Kat's workshop_
-	date: 2012-12-14
+	tag:Smitty
 page:1127
 	tag:ch-40
 	tag:Annie
@@ -2480,11 +2490,11 @@ page:1093
 	tag:Jones
 	desc:What are you?
 page:1092
+	date: 2012-09-21
+	desc:Chapter 40:<br><br>**The Stone**<br><br>_Icon: Jones's eye_
 	tag:ch-40
 	tag:Cover
 	tag:Landscape
-	desc:Chapter 40:<br><br>**The Stone**<br><br>_Icon: Jones's eye_
-	date: 2012-09-21
 page:1091
 	tag:ch-39
 	tag:Bonus
@@ -2798,13 +2808,13 @@ page:1057
 	tag:Sword
 	desc:You know, you don’t have to wear that outfit every time we go across the bridge
 page:1056
+	date: 2012-06-29
+	desc:Chapter 39:<br><br>**The Great Secret**<br><br>_Icon: A memory in Coyote's claws_
+	tag:Bones
 	tag:ch-39
 	tag:Cover
-	tag:Bones
 	tag:Coyote
 	tag:GreatSecret
-	desc:Chapter 39:<br><br>**The Great Secret**<br><br>_Icon: A memory in Coyote's claws_
-	date: 2012-06-29
 page:1055
 	tag:ch-38
 	tag:113
@@ -3094,11 +3104,11 @@ page:1027
 	desc:Not mine!
 	auth: Tom: Look who’s scrambling around in the trash again.
 page:1026
+	date: 2012-04-20
+	desc:Chapter 38:<br><br>**Divine**<br><br>_Icon: Kat with the pink headband and "city face" pigeon on her head_
 	tag:ch-38
 	tag:CityFace
 	tag:Cover
-	desc:Chapter 38:<br><br>**Divine**<br><br>_Icon: Kat with the pink headband and "city face" pigeon on her head_
-	date: 2012-04-20
 page:1025
 	tag:ch-37
 	tag:Bonus
@@ -3301,13 +3311,13 @@ page:1003
 	tag:Tony
 	desc:my father called me.
 page:1002
+	date: 2012-02-24
+	desc:Chapter 37:<br><br>**Microsat 5**<br><br>_Icon: a packet of scalpel blades_
 	tag:ch-37
 	tag:Cover
 	tag:Earth
 	tag:Microsat5
 	tag:Sky
-	desc:Chapter 37:<br><br>**Microsat 5**<br><br>_Icon: a packet of scalpel blades_
-	date: 2012-02-24
 page:1001
 	tag:ch-36
 	tag:Bonus
@@ -3339,7 +3349,7 @@ page:999
 	tag:Foley
 	tag:Jones
 	tag:Shadow
-	desc:So, shadow, did you find a nice class?
+	desc:So, Shadow, did you find a nice class?
 page:998
 	tag:ch-36
 	tag:Annie
@@ -3614,11 +3624,11 @@ page:975
 	tag:Shadowmen
 	desc:how the glass eyed men became shadow men
 page:974
+	date: 2011-12-21
+	desc:Chapter 36:<br><br>**Red Gets a Name**<br><br>_Icon: Annie's hair and the Etherium_
 	tag:ch-36
 	tag:Cover
 	tag:Red
-	desc:Chapter 36:<br><br>**Red Gets a Name**<br><br>_Icon: Annie's hair and the Etherium_
-	date: 2011-12-21
 page:973
 	tag:ch-35
 	tag:Bonus
@@ -3842,11 +3852,11 @@ page:949
 	tag:Smitty
 	desc:is she not here yet? Ahem… bam. BIP
 page:948
+	date: 2011-10-21
+	desc:Chapter 35:<br><br>**Parley and Smitty Are In This One**<br><br>_Icon: a flower_
 	tag:ch-35
 	tag:Cover
 	tag:Flowers
-	desc:Chapter 35:<br><br>**Parley and Smitty Are In This One**<br><br>_Icon: a flower_
-	date: 2011-10-21
 page:947
 	tag:ch-34
 	tag:Bonus
@@ -4550,12 +4560,12 @@ page:871
 	tag:Roof
 	desc:So… you’re descended from a fire spirit?
 page:870
+	date: 2011-04-22
+	desc:Chapter 33:<br><br>**Give and Take**<br><br>_Icon: Robot design script/code_
 	tag:ch-33
 	tag:Cover
 	tag:GolemHeart
 	tag:RobotDesigns
-	desc:Chapter 33:<br><br>**Give and Take**<br><br>_Icon: Robot design script/code_
-	date: 2011-04-22
 page:869
 	tag:ch-32
 	tag:Annie
@@ -4786,13 +4796,13 @@ page:845
 	tag:SubDorm
 	desc:(Reynardine is waiting, looking outside, sadly, in the Submarine dorm)
 page:844
-	url: http://www.gunnerkrigg.com/?p=844
+	auth: Tom: Welcome back to the start of another school year.
+	date: 2011-02-21
+	desc: Chapter 32:<br><br>**From the Forest She Came**<br><br>_Icon: SubDorm_
 	tag: ch-32
 	tag: Cover
 	tag: Flowers
-	desc: Chapter 32:<br><br>**From the Forest She Came**<br><br>_Icon: SubDorm_
-	date: 2011-02-21
-	auth: Tom: Welcome back to the start of another school year.
+	url: http://www.gunnerkrigg.com/?p=844
 page:AitF2-32
 	desc: (Annie climbs a rope)
 	tag: Annie
@@ -5914,11 +5924,11 @@ page:790
 	tag:Surma
 	desc:Easy now Reynardine!
 page:789
+	date: 2010-10-25
+	desc:Chapter 31:<br><br>**Fire Spike**<br><br>_Icon: Fire Spike flame / crown_
 	tag:ch-31
 	tag:Cover
 	tag:FireSpike
-	desc:Chapter 31:<br><br>**Fire Spike**<br><br>_Icon: Fire Spike flame / crown_
-	date: 2010-10-25
 page:788
 	tag:ch-30
 	tag:Bonus
@@ -6187,11 +6197,11 @@ page:762
 	tag:BlinkerStone
 	desc:(The blinkerstone bounces over the ground next to the court, before falling into the Annan)
 page:761
+	date: 2010-08-20
+	desc:Chapter 30:<br><br>**The Coward Heart**<br><br>_Icon: Jeanne and Annie in the Etherium_
 	tag:ch-30
 	tag:Cover
 	tag:Jeanne
-	desc:Chapter 30:<br><br>**The Coward Heart**<br><br>_Icon: Jeanne and Annie in the Etherium_
-	date: 2010-08-20
 page:760
 	tag:ch-29
 	tag:Bonus
@@ -6356,11 +6366,11 @@ page:744
 	tag:Robots
 	desc:Okay, how's that?
 page:743
+	date: 2010-07-09
+	desc:Chapter 29:<br><br>**A Bad Start**<br><br>_Icon: Robots_
 	tag:ch-29
 	tag:Cover
 	tag:Kat
-	desc:Chapter 29:<br><br>**A Bad Start**<br><br>_Icon: Robots_
-	date: 2010-07-09
 page:742
 	tag:ch-28
 	tag:Bonus
@@ -6624,11 +6634,11 @@ page:718
 	tag:Shell
 	desc:Please! You have to help my friend!
 page:717
+	date: 2010-05-10
+	desc:Chapter 28:<br><br>**Spring Heeled Part 2**<br><br>_Icon: The head and upper body of a stone figure_
 	tag:ch-28
 	tag:Cover
 	tag:PowerStation
-	desc:Chapter 28:<br><br>**Spring Heeled Part 2**<br><br>_Icon: The head and upper body of a stone figure_
-	date: 2010-05-10
 page:716
 	tag:ch-27
 	tag:Bonus
@@ -6907,11 +6917,11 @@ page:690
 	tag:Students
 	desc:Ah, there you are
 page:689
+	date: 2010-03-05
+	desc:Chapter 27:<br><br>**Spring Heeled**<br><br>_Icon: Annie, Jack and Rey's silhouettes as they walk into the PowerStation_
 	tag:ch-27
 	tag:Cover
 	tag:WhiteSpider
-	desc:Chapter 27:<br><br>**Spring Heeled**<br><br>_Icon: Annie, Jack and Rey's silhouettes as they walk into the PowerStation_
-	date: 2010-03-05
 page:688
 	tag:ch-26
 	tag:Bonus
@@ -7143,12 +7153,12 @@ page:664
 	tag:Uniform
 	desc:Symbol’s a little wonky Carver.
 page:663
+	date: 2010-01-04
+	desc:Chapter 26:<br><br>**The Old Dog’s Tricks**<br><br>_Icon: Coyote_
 	tag:ch-26
 	tag:Cover
 	tag:Coyote
 	tag:Stars
-	desc:Chapter 26:<br><br>**The Old Dog’s Tricks**<br><br>_Icon: Coyote_
-	date: 2010-01-04
 page:662
 	tag:ch-25
 	tag:Filler
@@ -7466,11 +7476,11 @@ page:633
 	tag:SkyWatcher
 	desc:Skywatcher, do you see anything interesting?
 page:632
+	date: 2009-10-23
+	desc:Chapter 25:<br><br>**Sky Watcher And The Angel**<br><br>_Icon: Robot_
 	tag:ch-25
 	tag:Cover
 	tag:Pliers
-	desc:Chapter 25:<br><br>**Sky Watcher And The Angel**<br><br>_Icon: Robot_
-	date: 2009-10-23
 page:631
 	tag:ch-24
 	tag:Bonus
@@ -7898,11 +7908,11 @@ page:597
 	tag:Train
 	desc:Go have fun with your friends, child
 page:596
+	date: 2009-07-31
+	desc:Chapter 24:<br><br>**Residential**<br><br>_Icon: LaserCow_
 	tag:ch-24
 	tag:Cover
 	tag:YoungsPark
-	desc:Chapter 24:<br><br>**Residential**<br><br>_Icon: LaserCow_
-	date: 2009-07-31
 page:595
 	tag:ch-23
 	tag:Bonus
@@ -8154,18 +8164,18 @@ page:571
 	tag:Smitty
 	desc:They receive a strange request from the king of the Jupiter moon Martians himself!
 page:570
-	tag:ch-23
-	tag:Cover
+	date: 2009-06-01
+	desc:Chapter 23:<br><br>**Terror castle of the Jupiter moon Martians! A spacemonauts adventure!**<br><br>_Icon: The castle in the simulation_
 	tag:Annie
 	tag:Bones
+	tag:ch-23
+	tag:Cover
 	tag:JupiterMoonMartians
 	tag:Moon
 	tag:Parley
 	tag:Sky
 	tag:Smitty
 	tag:Stars
-	desc:Chapter 23:<br><br>**Terror castle of the Jupiter moon Martians! A spacemonauts adventure!**<br><br>_Icon: The castle in the simulation_
-	date: 2009-06-01
 page:569
 	tag:ch-22a
 	tag:Filler
@@ -8498,17 +8508,17 @@ page:536
 	tag:Tony
 	desc:Any other groups want their picture takin’?
 page:535
-	tag:ch-22
-	tag:Cover
+	date: 2009-03-20
+	desc:Chapter 22:<br><br>**Ties**<br><br>_Icon: Court Protector's armour_
 	tag:Anja
 	tag:Brinnie
+	tag:ch-22
+	tag:Cover
 	tag:Donny
 	tag:Eglamore
 	tag:Photo
 	tag:Surma
 	tag:Tony
-	desc:Chapter 22:<br><br>**Ties**<br><br>_Icon: Court Protector's armour_
-	date: 2009-03-20
 page:534
 	tag:ch-21
 	tag:Bonus
@@ -8804,11 +8814,11 @@ page:504
 	tag:Robots
 	desc:Set it down over there, boys
 page:503
+	date: 2009-01-05
+	desc:Chapter 21:<br><br>**Blinking**<br><br>_Icon: Anja and Donny in front of the EyeCrossed Rey binding program?_
+	tag:BlinkerStone
 	tag:ch-21
 	tag:Cover
-	tag:BlinkerStone
-	desc:Chapter 21:<br><br>**Blinking**<br><br>_Icon: Anja and Donny in front of the EyeCrossed Rey binding program?_
-	date: 2009-01-05
 page:502
 	tag:ch-20
 	tag:Bonus
@@ -9169,18 +9179,21 @@ page:474
 	tag:WolfToy
 	desc:Surma made this body?
 page:473
-	tag:ch-20
-	tag:Cover
+	date: 2008-10-27
+	desc:Chapter 20:<br><br>**Coyote Stories**<br><br>_Icon: Coyote_
+	note: The 'green arrow' may just be a river flow direction symbol
+	tag: Cog
 	tag:Annan
 	tag:Annie
-	tag: Cog
-	tag:GreenArrow
 	tag:BismuthSymbol
 	tag:Bridge
+	tag:ch-20
+	tag:Cover
 	tag:Coyote
 	tag:Eglamore
 	tag:EyeSymbol
 	tag:Gillitie
+	tag:GreenArrow
 	tag:Jeanne
 	tag:LeadSymbol
 	tag:MoonSymbol
@@ -9191,9 +9204,6 @@ page:473
 	tag:TreeBody
 	tag:Trees
 	tag:Ysengrin
-	desc:Chapter 20:<br><br>**Coyote Stories**<br><br>_Icon: Coyote_
-	date: 2008-10-27
-	note: The 'green arrow' may just be a river flow direction symbol
 page:472
 	tag:ch-19
 	tag:Bonus
@@ -9536,14 +9546,14 @@ page:442
 	tag:Kat
 	desc:Yeah but now there will be BOYS there!
 page:441
+	date: 2008-08-13
+	desc:Chapter 19:<br><br>**Power Station**<br><br>_Icon: a HorseBot drawn cart_
 	tag:ch-19
 	tag:Cover
 	tag:Etherics
 	tag:PowerStation
 	tag:Sky
 	tag:Stars
-	desc:Chapter 19:<br><br>**Power Station**<br><br>_Icon: a HorseBot drawn cart_
-	date: 2008-08-13
 page:440
 	tag:ch-18
 	tag:Filler
@@ -10000,13 +10010,13 @@ page:396
 	tag:Students
 	desc:Real slick, Donlan.
 page:395
-	tag:ch-18
-	tag:Cover
+	date: 2008-04-28
+	desc:Chapter 18:<br><br>**S1**<br><br>_Icon: Kat’s silhouette_
 	tag:Annie
 	tag:BlinkerStone
+	tag:ch-18
+	tag:Cover
 	tag:Fire
-	desc:Chapter 18:<br><br>**S1**<br><br>_Icon: Kat’s silhouette_
-	date: 2008-04-28
 page:394
 	tag:ch-17
 	tag:Bonus
@@ -10307,12 +10317,12 @@ page:362
 	tag:ScienceLab
 	desc:Come on Annie! You don't want to miss the practical!
 page:361
+	date: 2008-02-08
+	desc:Chapter 17:<br><br>**The Medium Beginning**<br><br>_Icon: the Simulation of the founding of the court and the Seed Bismuth_
 	tag:ch-17
 	tag:Cover
 	tag:Knight
 	tag:Sword
-	desc:Chapter 17:<br><br>**The Medium Beginning**<br><br>_Icon: the Simulation of the founding of the court and the Seed Bismuth_
-	date: 2008-02-08
 page:360
 	tag:ch-16
 	tag:Bonus
@@ -10550,13 +10560,13 @@ page:332
 	tag:Spider
 	desc:Hello again, Ketrak
 page:331
+	date: 2007-11-30
+	desc:Chapter 16:<br><br>**A Ghost Story**<br><br>_Icon: Annie and Kat on the Grounds_
 	tag:ch-16
 	tag:Cover
 	tag:GoodHope
 	tag:Moon
 	tag:Stars
-	desc:Chapter 16:<br><br>**A Ghost Story**<br><br>_Icon: Annie and Kat on the Grounds_
-	date: 2007-11-30
 page:330
 	tag:ch-15
 	tag:BlushFae
@@ -10757,12 +10767,12 @@ page:306
 	tag:Shadow
 	desc:I could imagine I was at home
 page:305
+	date: 2007-10-01
+	desc:Chapter 15:<br><br>**Red Returns**<br><br>_Icon: Red_<br>
+	note: Year 8
 	tag:ch-15
 	tag:Cover
 	tag:Scissors
-	desc:Chapter 15:<br><br>**Red Returns**<br><br>_Icon: Red_<br>
-	date: 2007-10-01
-	note: Year 8
 page:304
 	tag:ch-14a
 	tag:Filler
@@ -11225,13 +11235,13 @@ page:259
 	tag:Winsbury
 	desc:And the second was when a god emerged from Gillitie Wood.
 page:258
-	tag:ch-14
-	tag:Cover
-	tag:Annie
-	tag:Court
-	tag:Coyote
-	desc:Chapter 14:<br><br>**The Fangs Of Summertime**<br><br>_Icon: Coyote in front of the Sun_
 	date: 2007-06-22
+	desc:Chapter 14:<br><br>**The Fangs Of Summertime**<br><br>_Icon: Coyote in front of the Sun_
+	tag:Annie
+	tag:ch-14
+	tag:Court
+	tag:Cover
+	tag:Coyote
 page:257
 	tag:ch-13
 	tag:Bonus
@@ -11460,11 +11470,11 @@ page:229
 	tag:Winsbury
 	desc:Monday: I wonder who that boy is.
 page:228
+	date: 2007-04-13
+	desc:Chapter 13:<br><br>**A Week For Kat**<br><br>_Icon: Tower_
 	tag:ch-13
 	tag:Cover
 	tag:Kat
-	desc:Chapter 13:<br><br>**A Week For Kat**<br><br>_Icon: Tower_
-	date: 2007-04-13
 page:227
 	tag:ch-12
 	tag:Bonus
@@ -11712,12 +11722,12 @@ page:201
 	tag:Shadow
 	desc:He isn’t really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
 page:200
+	date: 2007-02-07
+	desc:Chapter 12:<br><br>**Mainly Involves Robots**<br><br>_Icon: Reynardine (Rey, Renard) with the AntimonySymbol on his forehead_
+	tag:AdminBot
 	tag:ch-12
 	tag:Cover
-	tag:AdminBot
 	tag:RobotParts
-	desc:Chapter 12:<br><br>**Mainly Involves Robots**<br><br>_Icon: Reynardine (Rey, Renard) with the AntimonySymbol on his forehead_
-	date: 2007-02-07
 page:199
 	tag:ch-11
 	tag:Bonus
@@ -11857,15 +11867,15 @@ page:182
 	tag:Zimmy
 	desc:(Zimmy is standing in the courtyard with Annie and Gamma)
 page:181
+	auth: Tom: Here we go then, three pages a week.
+	date: 2006-12-25
+	desc:Chapter 11:<br><br>**Dobranoc, Gamma**<br><br>_Icon: Gamma and Zimmy in Zimmingham_
 	tag:ch-11
 	tag:Cover
 	tag:Gamma
 	tag:Moon
 	tag:Sky
 	tag:Stars
-	desc:Chapter 11:<br><br>**Dobranoc, Gamma**<br><br>_Icon: Gamma and Zimmy in Zimmingham_
-	date: 2006-12-25
-	auth: Tom: Here we go then, three pages a week.
 page:180
 	tag:ch-10
 	tag:Annie
@@ -12006,9 +12016,11 @@ page:166
 	tag:Winsbury
 	desc:Spacemonauts! The earth is in peril!
 page:165
+	date: 2006-10-31
+	desc:Chapter 10:<br><br>**Doctor Disaster Versus the Creepy Space Aliens from Outer Space**<br><br>_Icon: Enigmaron_
+	tag:Annie
 	tag:ch-10
 	tag:Cover
-	tag:Annie
 	tag:DrDisaster
 	tag:EnigmaronLair
 	tag:Kat
@@ -12017,8 +12029,6 @@ page:165
 	tag:Simulation
 	tag:Sky
 	tag:Stars
-	desc:Chapter 10:<br><br>**Doctor Disaster Versus the Creepy Space Aliens from Outer Space**<br><br>_Icon: Enigmaron_
-	date: 2006-10-31
 page:164
 	tag:ch-09
 	tag:Bonus
@@ -12162,11 +12172,11 @@ page:150
 	tag:MetalGearSolid
 	tag:VenusSymbol
 page:149
+	date: 2006-09-05
+	desc:Chapter 9:<br><br>**Questions and Answers**<br><br>_Icon: Mask resembling both the Moon and a Yin-Yang_
 	tag:ch-09
 	tag:Cover
 	tag:Tiki
-	desc:Chapter 9:<br><br>**Questions and Answers**<br><br>_Icon: Mask resembling both the Moon and a Yin-Yang_
-	date: 2006-09-05
 page:148
 	tag:ch-08
 	tag:Bonus
@@ -12430,12 +12440,12 @@ page:122
 	tag:Water
 	desc:I dropped a glass.
 page:121
+	date: 2006-05-30
+	desc:Chapter 8:<br><br>**Broken Glass and Other Things**<br><br>_Icon: Glass, Water_
 	tag:ch-08
 	tag:Cover
 	tag:Glass
 	tag:Water
-	desc:Chapter 8:<br><br>**Broken Glass and Other Things**<br><br>_Icon: Glass, Water_
-	date: 2006-05-30
 page:120
 	tag:Bonus
 	tag:Treatise
@@ -12688,11 +12698,11 @@ page:98
 	tag:TicToc
 	desc:Something is wrong.
 page:97
+	date: 2006-03-07
+	desc:Chapter 7:<br><br>**Of New and Old**<br><br>_Icon: TicToc_
 	tag:ch-07
 	tag:Cover
 	tag:TicToc
-	desc:Chapter 7:<br><br>**Of New and Old**<br><br>_Icon: TicToc_
-	date: 2006-03-07
 page:96
 	tag:ch-06
 	tag:Bonus
@@ -12783,12 +12793,12 @@ page:86
 	tag:Kat
 	desc:Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
 page:85
-	tag:ch-06
-	tag:Cover
-	tag:CherryTree
-	tag:Habitat
-	desc:Chapter 6:<br><br>**A Handful of Dirt**<br><br>_Icon: the Cherry Tree in the Habitat_
 	date: 2006-01-24
+	desc:Chapter 6:<br><br>**A Handful of Dirt**<br><br>_Icon: the Cherry Tree in the Habitat_
+	tag:ch-06
+	tag:CherryTree
+	tag:Cover
+	tag:Habitat
 page:84
 	tag:ch-05
 	tag:Bonus
@@ -12926,15 +12936,15 @@ page:70
 	tag:Teacher
 	desc:Class 7qn’s entrant in the year 7 science fair will be Katerina’s zero gravity generator!
 page:69
-	tag:ch-05
-	tag:Cover
+	date: 2005-11-29
+	desc:Chapter 5:<br><br>**Two Strange girls**<br><br>_Icon: Kat in the Library_
 	tag:Annie
 	tag:BismuthSymbol
+	tag:ch-05
+	tag:Cover
 	tag:Gamma
 	tag:Library
 	tag:Zeta
-	desc:Chapter 5:<br><br>**Two Strange girls**<br><br>_Icon: Kat in the Library_
-	date: 2005-11-29
 page:68
 	tag:ch-04
 	tag:Bonus
@@ -12988,12 +12998,12 @@ page:60
 	tag:ch-04
 	tag:Court
 page:59
-	tag:ch-04
-	tag:Cover
-	tag:Annie
-	tag:Court
-	desc:Chapter 4:<br><br>**Not Very Scary**<br><br>_Icon: Annie in the Court_
 	date: 2005-10-25
+	desc:Chapter 4:<br><br>**Not Very Scary**<br><br>_Icon: Annie in the Court_
+	tag:Annie
+	tag:ch-04
+	tag:Court
+	tag:Cover
 page:58
 	tag:ch-03
 	tag:Bonus
@@ -13204,17 +13214,17 @@ page:34
 	tag:Winsbury
 	desc:So what are you gonna do about it?
 page:33
-	tag:ch-03
-	tag:Cover
+	date: 2005-07-21
+	desc:Chapter 3:<br><br>**Reynardine**<br><br>_Icon: Crossed out eye symbol (EyeCrossed) on a door_
 	tag:Annie
 	tag:AntimonySymbol
+	tag:ch-03
 	tag:Court
+	tag:Cover
 	tag:LeadSymbol
 	tag:MercurySymbol
-	tag:Sky
 	tag:Roof
-	desc:Chapter 3:<br><br>**Reynardine**<br><br>_Icon: Crossed out eye symbol (EyeCrossed) on a door_
-	date: 2005-07-21
+	tag:Sky
 page:32
 	tag:Bonus
 	tag:Dorm
@@ -13329,13 +13339,13 @@ page:18
 	tag:Winsbury
 	desc:How have you found your first two weeks at our school?
 page:17
+	date: 2005-05-26
+	desc:Chapter 2:<br><br>**Schoolyard Myths**<br><br>_Icon: Minotaur_
+	tag:Annie
 	tag:ch-02
 	tag:Cover
-	tag:Annie
 	tag:Kat
 	tag:Labyrinth
-	desc:Chapter 2:<br><br>**Schoolyard Myths**<br><br>_Icon: Minotaur_
-	date: 2005-05-26
 page:16
 	tag:ch-01
 	tag:Bonus
@@ -13346,111 +13356,112 @@ page:16
 	tag:Tea
 	tag:Thornhill
 	desc:Bonus Page: Houses at Gunnerkrigg Court
-	auth: Tom: Year 7 is the first year of [UK] secondary school, and is the equivalent of 6th grade in the US. Children in Year 7 are 11-12 years old.
+	auth: Tom: Year 7 is the first year of [UK] secondary school, and is the equivalent of 6th grade in the US. Children in Year 7 are 11-12 years old
+	date: 2005-05-24
 page:15
-	tag:ch-01
+	date: 2005-05-19
+	desc:Sorry sir. I got lost.
 	tag:Annie
 	tag:Bridge
+	tag:ch-01
 	tag:Gillitie
 	tag:Teacher
-	desc:Sorry sir. I got lost.
-	date: 2005-05-19
 page:14
-	tag:ch-01
+	date: 2005-05-17
+	desc:Here you go little buddie!
 	tag:Bridge
+	tag:ch-01
 	tag:Gillitie
 	tag:Robot
 	tag:Shadow
 	tag:Shadowmen
-	desc:Here you go little buddie!
-	date: 2005-05-14
 page:13
-	tag:ch-01
+	date: 2005-05-12
+	desc:Oh look! A birdie!
 	tag:Bridge
+	tag:ch-01
 	tag:Robot
 	tag:Shadow
 	tag:TicToc
-	desc:Oh look! A birdie!
-	date: 2005-05-12
 page:12
-	tag:ch-01
-	tag:Annie
-	tag:Bridge
-	tag:Robot
-	tag:Shadow
-	desc:Never fear little guy. I have this under control!
 	date: 2005-05-10
+	desc:Never fear little guy. I have this under control!
+	tag:Annie
+	tag:Bridge
+	tag:ch-01
+	tag:Robot
+	tag:Shadow
 page:11
-	tag:ch-01
-	tag:Annie
-	tag:Bridge
-	tag:Robot
-	tag:Shadow
-	desc:Once darkness fell, Shadow 2, Robot and I got ready at the foot of the bridge
 	date: 2005-05-05
+	desc:Once darkness fell, Shadow 2, Robot and I got ready at the foot of the bridge
+	tag:Annie
+	tag:Bridge
+	tag:ch-01
+	tag:Robot
+	tag:Shadow
 page:10
-	tag:ch-01
-	tag:Annie
-	tag:Bridge
-	tag:Robot
-	tag:Shadow
-	desc:Together the three of us returned to the bridge
 	date: 2005-05-03
-page:9
-	tag:ch-01
+	desc:Together the three of us returned to the bridge
 	tag:Annie
+	tag:Bridge
+	tag:ch-01
 	tag:Robot
 	tag:Shadow
-	desc:Luckily, piecing the contraption together was relatively easy
+page:9
 	date: 2005-04-28
+	desc:Luckily, piecing the contraption together was relatively easy
+	tag:Annie
+	tag:ch-01
+	tag:Robot
+	tag:Shadow
 page:8
-	tag:ch-01
-	tag:Annie
-	tag:Shadow
-	tag:Library
-	desc:Snatching a nearby box of spare parts
 	date: 2005-04-26
-page:7
-	tag:ch-01
+	desc:Snatching a nearby box of spare parts
 	tag:Annie
-	tag:Shadow
-	tag:Library
-	desc:I hadn’t the first idea how to build a robot
-	date: 2005-04-21
-page:6
 	tag:ch-01
+	tag:Library
+	tag:Shadow
+page:7
+	date: 2005-04-21
+	desc:I hadn’t the first idea how to build a robot
+	tag:Annie
+	tag:ch-01
+	tag:Library
+	tag:Shadow
+page:6
+	date: 2005-04-19
+	desc:I must construct a robotic walking device
 	tag:Annan
 	tag:Annie
-	tag:Shadow
-	desc:I must construct a robotic walking device
-	date: 2005-04-19
-page:5
 	tag:ch-01
+	tag:Shadow
+page:5
+	auth:Gunnerkrigg Court is a boarding school, which is why Antimony is still there at night
+	date: 2005-04-14
 	tag:Annan
 	tag:Annie
 	tag:Bridge
+	tag:ch-01
 	tag:Gillitie
 	tag:Shadow
-	desc:Gunnerkrigg Court is a boarding school
-	date: 2005-04-14
 page:4
-	tag:ch-01
-	tag:Annie
-	tag:Shadow
-	desc:Where are you trying to go?
 	date: 2005-04-12	
+	desc:Where are you trying to go?
+	tag:Annie
+	tag:ch-01
+	tag:Shadow
 page:3
-	tag:ch-01
-	tag:Annie
-	tag:Shadow
-	desc:At times I would see this creature jump from shadow to shadow
 	date: 2005-04-07
-page:2
-	tag:ch-01
+	desc:At times I would see this creature jump from shadow to shadow
 	tag:Annie
+	tag:ch-01
 	tag:Shadow
-	desc:Gunnerkrigg Court does not look much like a school at all
+page:2
 	date: 2005-04-05
+	desc:Gunnerkrigg Court does not look much like a school at all
+	tag:Annie
+	tag:ch-01
+	tag:Shadow
 page:1
 	date: 2005-04-04
 	desc: Chapter 1:<br><br>**The Shadow and The Robot**<br><br>_Icon: Gunnerkrigg Court_
