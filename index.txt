@@ -29,6 +29,16 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1379
+	desc: Annie: I've met students that were forest creatures and they seemed to remember their lives here
+	tag: Annie
+	tag: ch-48
+	tag: Fire
+	tag: Gillitie
+	tag: Fairies
+	tag: GreenFairy
+	tag: Party
+	tag: Smitty
 page:1378
 	desc: GreenFairy: Will she forget me?
 	note: [Flashback](http://www.gunnerkrigg.com/?p=1286)
