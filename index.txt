@@ -2706,7 +2706,7 @@ page:1100
 	tag:Blood
 	tag:Jones
 	desc: Several decades ago (Mr Jones)
-	note: see, perhaps, the [Slade Green Disaster](http://www.bexleytimes.co.uk/news/memorial_service_for_victims_of_1924_slade_green_disaster_1_811458
+	note: see, perhaps, the [Slade Green Disaster](http://www.bexleytimes.co.uk/news/memorial_service_for_victims_of_1924_slade_green_disaster_1_811458)
 	auth: Tom: Emma becomes Jones
 page:1099
 	date: 2012-10-08
