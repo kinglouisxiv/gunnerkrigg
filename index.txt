@@ -29,6 +29,49 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1384
+	date: 2014-07-25
+	desc: Annie: The Court has a cruise ship?
+	note: MAL (Mystery Ashen Lass), forum placeholder name for goth girl clinging to Jack
+	tag: Annie
+	tag: AnchorSymbol
+	tag: ch-49
+	tag: Jack
+	tag: Kat
+	tag: MAL
+	tag: Quay
+	tag: Sea
+	tag: SubDorm
+page:1383
+	auth: Tom: [clapping noises]
+	date: 2014-07-23
+	desc: [EXCITED INTONATION]
+	tag: Annie
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Kat
+	tag: Lindsey
+	tag: Quay
+	tag: Sea
+	tag: SubDorm
+page:1382
+	date: 2014-07-21
+	desc: Chapter 49:<br><br>**The Torn Sea**<br><br>_Icon: calm, sunny water_
+	tag: ch-49
+	tag: Cover
+page:1381
+	auth: Tom: She beat up Coyote single handed?!
+	date: 2014-07-18
+	desc: Bonus Page 49: Confirmed
+	tag: Bonus
+	tag: Canvey
+	tag: ch-48
+	tag: Fairies
+	tag: Fire
+	tag: Gillitie
+	tag: GreenFairy
+	tag: Jackalope
+	tag: Smitty
 page:1380
 	date: 2014-07-16
 	desc: GreenFairy: Did you hear that? You're gonna do it!
