@@ -29,19 +29,40 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1386
+	date: 2014-07-30
+	desc: Kat: Ahoy!
+	tag: AnchorSymbol
+	tag: Annie
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Kat
+	tag: Quay
+	tag: Paz
+	tag: Sea
+page:1385
+	auth: Tom: Who'd ever think it was Zimmy??
+	date: 2014-07-28
+	desc: Annie: Jack. Always nice to see you
+	tag: AnchorSymbol
+	tag: Annie
+	tag: ch-49
+	tag: Jack
+	tag: Jenny
+	tag: Kat
+	tag: Quay
+	tag: Sea
 page:1384
 	date: 2014-07-25
 	desc: Annie: The Court has a cruise ship?
-	note: MAL (Mystery Ashen Lass), forum placeholder name for goth girl clinging to Jack
-	tag: Annie
 	tag: AnchorSymbol
+	tag: Annie
 	tag: ch-49
 	tag: Jack
+	tag: Jenny
 	tag: Kat
-	tag: MAL
 	tag: Quay
 	tag: Sea
-	tag: SubDorm
 page:1383
 	auth: Tom: [clapping noises]
 	date: 2014-07-23
