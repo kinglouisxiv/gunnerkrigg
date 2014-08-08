@@ -29,6 +29,62 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1390
+	date: 2014-08-08
+	desc: Zimmy: Ugh... I hate boats, I'm gonna be sick.
+	tag: AnchorSymbol
+	tag: Annie
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Gamma
+	tag: Robots
+	tag: SwimmingPool
+	tag: SailorBot
+	tag: Zimmy
+page:1389
+	date: 2014-08-06
+	desc: Annie: Gamma! Zimmy! You're here too?
+	tag: AnchorSymbol
+	tag: Annie
+	tag: BeckyGround
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Gamma
+	tag: Kat
+	tag: Lindsey
+	tag: Paz
+	tag: Robots
+	tag: SailorBot
+	tag: Sea
+	tag: Zimmy
+page:1388
+	auth: Tom: Bud is a lucky guy
+	date: 2014-08-04
+	desc: Paz: She is beautiful!
+	tag: AnchorSymbol
+	tag: Annie
+	tag: BeckyGround
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Kat
+	tag: Lindsey
+	tag: Paz
+	tag: SailorBot
+	tag: Robots
+	tag: Sea
+page:1387
+	date: 2014-08-01
+	desc: Paz: Lindsey has followed us!!
+	tag: AnchorSymbol
+	tag: Annie
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Kat
+	tag: Lindsey
+	tag: Paz
+	tag: Robots
+	tag: SailorBot
+	tag: Sea
 page:1386
 	date: 2014-07-30
 	desc: Kat: Ahoy!
