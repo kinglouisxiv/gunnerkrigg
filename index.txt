@@ -29,6 +29,39 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1393
+	date: 2014-08-15
+	desc: Kat: Looks like trouble in paradise, hehe!
+	tag: Becky
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Jack
+	tag: Janet
+	tag: Jenny
+	tag: Kat
+	tag: Margo
+	tag: Matt
+	tag: Paz
+	tag: Robots
+	tag: SailorBot
+	tag: Winsbury
+page:1392
+	date: 2014-08-13
+	desc: Annie: Ah! You both look lovely!
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Kat
+	tag: Moon
+	tag: Paz
+	tag: Sea
+page:1391
+	date: 2014-08-11
+	desc: Poster: Summertime / year end / Ocean-style / DANCE / with music! / NO / breakdancing / allowed / TONIGHT
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Sea 
+	tag: Robots
+	tag: SailorBot
 page:1390
 	date: 2014-08-08
 	desc: Zimmy: Ugh... I hate boats, I'm gonna be sick.
@@ -46,7 +79,7 @@ page:1389
 	desc: Annie: Gamma! Zimmy! You're here too?
 	tag: AnchorSymbol
 	tag: Annie
-	tag: BeckyGround
+	tag: Becky
 	tag: ch-49
 	tag: CruiseLiner
 	tag: Gamma
@@ -63,7 +96,7 @@ page:1388
 	desc: Paz: She is beautiful!
 	tag: AnchorSymbol
 	tag: Annie
-	tag: BeckyGround
+	tag: Becky
 	tag: ch-49
 	tag: CruiseLiner
 	tag: Kat
@@ -11063,7 +11096,7 @@ page:397
 page:396
 	date: 2008-04-30
 	tag:ch-18
-	tag:BeckyGround
+	tag:Becky
 	tag:Grounds
 	tag:Kat
 	tag:Students
@@ -12000,7 +12033,7 @@ page:295
 	tag:ch-14a
 	tag:Filler
 	tag:Annie
-	tag:BeckyGround
+	tag:Becky
 	tag:Classroom
 	tag:Court
 	tag:GuestComic
@@ -12684,7 +12717,7 @@ page:229
 	tag:Aly
 	tag:AlyShirt
 	tag:Annie
-	tag:BeckyGround
+	tag:Becky
 	tag:Classroom
 	tag:Kat
 	tag:Students
@@ -13176,7 +13209,7 @@ page:177
 	date: 2006-12-12
 	tag:ch-10
 	tag:Annie
-	tag:BeckyGround
+	tag:Becky
 	tag:DrDisaster
 	tag:EnigmaronLair
 	tag:Enigmarons
@@ -14543,12 +14576,12 @@ page:43
 	desc:If you leave, the man on yonder will take me away.
 page:42
 	date: 2005-08-25
-	tag:ch-03
-	tag:Annie
-	tag:Rey
-	tag:Roof
-	tag:WolfToy
-	desc:Surma, is that you?
+	tag: ch-03
+	tag: Annie
+	tag: Rey
+	tag: Roof
+	tag: WolfToy
+	desc: **Surma**, is that you?
 page:41
 	date: 2005-08-23
 	tag:ch-03
@@ -14567,32 +14600,33 @@ page:40
 	desc:What a strange noise…
 page:39
 	date: 2005-08-16
-	tag:ch-03
-	tag:Anja
-	tag:BeckyGround
-	tag:Dorm
-	tag:Janet
-	tag:Paz
-	desc:Quickly, girls. We need to evacuate the room!
+	tag: ch-03
+	tag: Anja
+	tag: Becky
+	tag: Dorm
+	tag: Janet
+	tag: Paz
+	desc: **Quickly**, girls. We need to evacuate the room!
 page:38
 	date: 2005-08-09
-	tag:ch-03
-	tag:Annie
-	tag:Dorm
-	tag:Kat
-	tag:Roof
-	tag:WolfToy
-	desc:(Roof collapse)
+	tag: ch-03
+	tag: Annie
+	tag: Dorm
+	tag: Kat
+	tag: Roof
+	tag: WolfToy
+	desc: (Roof collapse)
 page:37
 	date: 2005-08-04
-	tag:ch-03
-	tag:Annie
-	tag:AntimonySymbol
-	tag:Dorm
-	tag:Eglamore
-	tag:Heart
-	tag:Kat
-	desc:That’s the alchemist’s symbol for Antimony
+	tag: ch-03
+	tag: Annie
+	tag: AntimonySymbol
+	tag: Dorm
+	tag: Eglamore
+	tag: Heart
+	tag: Kat
+	desc: That’s the alchemist's symbol for Antimony
+	note: Kat t-shirt is a reference to [Aphex Twin](https://en.wikipedia.org/wiki/Aphex_twin) 
 page:36
 	date: 2005-08-02
 	tag:ch-03
@@ -14711,12 +14745,12 @@ page:24
 	desc:Is this the guy you were talking about?
 page:23
 	date: 2005-06-16
-	tag:ch-02
-	tag:Annie
-	tag:JonesFootprints
-	tag:Kat
-	tag:Library
-	desc:There is a whole section devoted to Greek mythology it seems
+	tag: ch-02
+	tag: Annie
+	tag: WalkInPicture
+	tag: Kat
+	tag: Library
+	desc: Annie: There is a whole section devoted to **Greek mythology** it seems
 page:22
 	date: 2005-06-14
 	tag:ch-02
