@@ -423,7 +423,7 @@ ch-01	The Shadow and The Robot [{Y}](http://youtu.be/I9oF6ogesUA)
 ch-02	Schoolyard Myths [{Y}](http://youtu.be/t48sqVVkd0A)
 ch-03	Reynardine [{Y}](http://youtu.be/kQhsa8Ldf3c)
 ch-04	Not Very Scary [{Y}](http://youtu.be/WRy0msan9rQ)
-ch-05	Two Strange girls
+ch-05	Two Strange girls [{y}](http://youtu.be/hgRSPQTvdn8)
 ch-06	A Handful of Dirt
 ch-07	Of New and Old
 ch-08	Broken Glass and Other Things
