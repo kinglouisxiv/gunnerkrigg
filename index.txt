@@ -29,9 +29,95 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1405
+	date: 2014-09-12
+	desc: Annie: R-Reynard! Send it to Reynard
+	tag: CruiseLiner
+	tag: Annie
+	tag: SpellCircle
+	tag: Jenny
+	tag: Drone
+	tag: BlinkerStone
+	tag: Jack
+	tag: Sea
+	tag: ch-49
+page:1404
+	date: 2014-09-10
+	desc: Jenny: Just a little seeking spell, my love
+	tag: CruiseLiner
+	tag: Jack
+	tag: BlinkerStone
+	tag: Drone
+	tag: Jenny
+	tag: SpellCircle
+	tag: Annie
+	tag: Sea
+	tag: ch-49
+page:1403
+	date: 2014-09-08
+	desc: Jack: I've been trying to contact the shore but we have been cut off
+	tag: CruiseLiner
+	tag: Annie
+	tag: Winsbury
+	tag: Janet
+	tag: Kat
+	tag: Paz
+	tag: Robots
+	tag: SailorBot
+	tag: Jack
+	tag: Jenny
+	tag: BlinkerStone
+	tag: ch-49
+page:1402
+	date: 2014-09-05
+	desc: Seraph: No threat
+	tag: Annie
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Etherics
+	tag: HardHat
+	tag: Janet
+	tag: Kat
+	tag: Margo
+	tag: Paz
+	tag: Robots
+	tag: SailorBot
+	tag: Seraph
+	tag: Winsbury
+page:1401
+	date: 2014-09-03
+	desc: Seraph: Your fire-type abilities are temporarily suspended
+	tag: Annie
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Etherics
+	tag: Gamma
+	tag: HardHat
+	tag: Kat
+	tag: Margo
+	tag: Robots
+	tag: SailorBot
+	tag: Seraph
+	tag: Winsbury
+page:1400
+	date: 2014-09-01
+	desc: Seraph: We have established a grid of etheric syphons around the ship
+	note: Annie throws a firebolt at SailorBots
+	tag: Annie
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Etherics
+	tag: EthericSyphon
+	tag: HardHat
+	tag: Robots
+	tag: SailorBot
+	tag: Sea
+	tag: Seraph
+	tag: Zimmy
 page:1399
 	date: 2014-08-29
-	desc: Seraph: We hypothesise the desired result can be achieved by altering reality.
+	desc: Seraph: We hypothesise the desired result can be achieved by altering reality
+	tag: BioLimb
 	tag: ch-49
 	tag: CruiseLiner
 	tag: Gamma
@@ -39,7 +125,6 @@ page:1399
 	tag: Paz
 	tag: Robots
 	tag: SailorBot
-	tag: Sea
 	tag: Seraph
 	tag: Zimmy
 page:1398
@@ -57,6 +142,7 @@ page:1397
 	date: 2014-08-25
 	desc: Sailor Bot: Creator Kat. You will make me flesh
 	tag: ch-49
+	tag: BioLimb
 	tag: CruiseLiner
 	tag: Kat
 	tag: Paz
@@ -1311,6 +1397,7 @@ page:1278
 	desc: Hi, Rey. Has Annie been by here?
 page:1277
 	date: 2013-11-18
+	tag: BioLimb
 	tag: ch-45
 	tag: Kat
 	tag: KatsWorkshop
@@ -1368,6 +1455,7 @@ page:1272
 	auth: Tom: Make Vomit Noises
 page:1271
 	date: 2013-11-04
+	tag: BioLimb
 	tag: ch-45
 	tag: Creeper
 	tag: Kat
@@ -1379,6 +1467,7 @@ page:1271
 page:1270
 	date: 2013-11-01
 	tag: ch-45
+	tag: BioLimb
 	tag: Creeper
 	tag: Fire
 	tag: Kat
@@ -2571,6 +2660,7 @@ page:1145
 	desc: You have found a way to interface this technology with ours?
 page:1144
 	date: 2013-01-21
+	tag: BioLimb
 	tag: ch-41
 	tag: Annie
 	tag: Kat
@@ -4982,123 +5072,123 @@ page:898
 	desc: Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
 page:897
 	date: 2011-06-24
-	tag: ch-33
+	desc: CRACK (broken heart)
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: GolemHeart
 	tag: Heart
 	tag: Kat
-	tag: RobotTomb
 	tag: Robots
+	tag: RobotTomb
 	tag: SeedBismuth
-	desc: CRACK (broken heart)
 page:896
 	date: 2011-06-22
-	tag: ch-33
+	desc: We belong here. A tribute to our father, and to a time passed
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
 	tag: Robot
 	tag: Robots
 	tag: RobotTomb
-	desc: We belong here. A tribute to our father, and to a time passed
 page:895
 	date: 2011-06-20
-	tag: ch-33
+	desc: so I… I brought you back f-from the dead?
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: Flashback
 	tag: Kat
 	tag: Robot
-	tag: RobotTomb
 	tag: Robots
-	desc: so I… I brought you back f-from the dead?
+	tag: RobotTomb
 page:894
 	date: 2011-06-17
+	desc: We left this world to our children and chose to end our lives
 	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
 	tag: Robots
 	tag: RobotTomb
-	desc: We left this world to our children and chose to end our lives
 page:893
 	date: 2011-06-15
-	tag: ch-33
+	desc: to be still is death, because if we are not useful then we are nothing
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
 	tag: Robots
 	tag: RobotTomb
-	desc: to be still is death, because if we are not useful then we are nothing
 page:892
 	date: 2011-06-13
-	tag: ch-33
+	desc: but then... this is your tomb
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: Flashback
 	tag: Kat
 	tag: Robot
-	tag: RobotTomb
 	tag: Robots
-	desc: but then… this is your tomb
+	tag: RobotTomb
 page:891
 	date: 2011-06-10
-	tag: ch-33
+	desc: I apologise miss, I was startled
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
 	tag: Robot
 	tag: Robots
 	tag: Shadow
-	desc: I apologise miss, I was startled
 page:890
 	date: 2011-06-08
-	tag: ch-33
+	desc: s-stop him!
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Robot
 	tag: Robots
-	desc: s-stop him!
 page:889
 	date: 2011-06-06
-	tag: ch-33
+	desc: SKANG!
 	tag: Annie
 	tag: BlinkerStone
+	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Robot
 	tag: Robots
-	desc: SKANG!
 page:888
 	date: 2011-06-03
-	tag: ch-33
+	desc: I think I can make a bypass for it…
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: GolemHeart
 	tag: Kat
 	tag: KatsWorkshop
-	tag: MoonPrint
 	tag: Moon
+	tag: MoonPrint
 	tag: Robot
 	tag: Robots
 	tag: Sky
 	tag: Sun
-	desc: I think I can make a bypass for it…
 page:887
 	date: 2011-06-01
-	tag: ch-33
+	desc: I know how to get the old robots started up again
 	tag: Annie
+	tag: ch-33
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Robot
 	tag: RobotCode
 	tag: RobotDesigns
-	tag: Robots
 	tag: Robotics
-	desc: I know how to get the old robots started up again
+	tag: Robots
 page:886
 	date: 2011-05-30
 	tag: ch-33
@@ -6397,8 +6487,9 @@ page:821
 	tag: WanderingEye
 page:820
 	date: 2011-01-05
-	tag: ch-31
+	desc: Do you sometimes feel your temper flaring?
 	tag: Annie
+	tag: ch-31
 	tag: Coyote
 	tag: Etherics
 	tag: Eyes
@@ -6410,35 +6501,35 @@ page:820
 	tag: Surma
 	tag: Tony
 	tag: WanderingEye
-	desc: Do you sometimes feel your temper flaring?
 page:819
 	date: 2011-01-03
-	tag: ch-31
+	desc: The flame that burned inside her has passed on to you
 	tag: Annie
+	tag: ch-31
 	tag: Coyote
-	tag: Fire
 	tag: Etherics
+	tag: Fire
 	tag: Gillitie
 	tag: Jones
 	tag: Surma
 	tag: WanderingEye
 	tag: Ysengrin
-	desc: The flame that burned inside her has passed on to you
 page:818
 	date: 2010-12-31
-	tag: ch-31
+	desc: Don't tell me no one has told the girl she isn't exactly human!
 	tag: Annie
+	tag: ch-31
 	tag: Coyote
 	tag: Gillitie
 	tag: Jones
 	tag: Rey
 	tag: Surma
 	tag: WanderingEye
-	desc: Don't tell me no one has told the girl she isn't exactly human!
 page:817
 	date: 2010-12-29
-	tag: ch-31
+	desc: It is not the meddling laws of man that keep him there, but his love for you
 	tag: Annie
+	tag: ch-31
 	tag: Coyote
 	tag: Gillitie
 	tag: Jones
@@ -6446,11 +6537,11 @@ page:817
 	tag: Surma
 	tag: WanderingEye
 	tag: Ysengrin
-	desc: It is not the meddling laws of man that keep him there, but his love for you
 page:816
 	date: 2010-12-27
-	tag: ch-31
+	desc: You know I can take her if I wish
 	tag: Annie
+	tag: ch-31
 	tag: Coyote
 	tag: Gillitie
 	tag: Jones
@@ -6458,7 +6549,6 @@ page:816
 	tag: Surma
 	tag: WanderingEye
 	tag: Ysengrin
-	desc: You know I can take her if I wish
 page:815
 	date: 2010-12-24
 	tag: ch-31
@@ -6785,7 +6875,7 @@ page:781
 	tag: Parley
 	tag: Smitty
 	tag: Tears
-	desc: I-I felt everything she did... She loved him so muCh-..
+	desc: I-I felt everything she did... She loved him so much-..
 page:780
 	date: 2010-10-04
 	tag: ch-30
@@ -7067,6 +7157,7 @@ page:756
 	desc: You are welcome, Angel.
 page:755
 	date: 2010-08-06
+	tag: BioLimb
 	tag: ch-29
 	tag: AnimalLab
 	tag: Birds
