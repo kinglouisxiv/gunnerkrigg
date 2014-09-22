@@ -29,6 +29,41 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1409
+	date: 2014-09-22
+	desc: Cruise Liner: Creator. Please make me flesh.
+	tag: Zimmingham
+	tag: Kat
+	tag: Paz
+	tag: CruiseLiner
+page:1408
+	date: 2014-09-19
+	desc: Jenny: You could say he's a little... obsessed with this Zimmy, hehe!
+	tag: Zimmingham
+	tag: Annie
+	tag: Jenny
+	tag: Jack
+	tag: Kat
+	tag: Paz
+page:1407
+	date: 2014-09-17
+	desc: Jack: Well, I hoped I'd never see this place again!
+	tag: Zimmingham
+	tag: Annie
+	tag: Jenny
+	tag: Jack
+page:1406
+	date: 2014-09-15
+	desc: (Zimingham arises from the waves with monsterous silhouettes on walls)
+	auth: Tom: Here we are
+	tag: Zimmingham
+	tag: Sea
+	tag: Annie
+	tag: Jenny
+	tag: Jack
+	tag: Winsbury
+	tag: Janet
+	tag: Gamma
 page:1405
 	date: 2014-09-12
 	desc: Annie: R-Reynard! Send it to Reynard
@@ -3518,6 +3553,7 @@ page:1046
 	tag: ch-38
 	tag: Annie
 	tag: Etherium
+	tag: FacelessPeople
 	tag: Jack
 	tag: Mask
 	tag: Zimmy
@@ -3528,6 +3564,7 @@ page:1045
 	tag: ch-38
 	tag: Annie
 	tag: Bones
+	tag: FacelessPeople
 	tag: FlowerHeadband
 	tag: Hospital
 	tag: Kat
