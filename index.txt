@@ -29,80 +29,141 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1414
+	date: 2014-10-03
+	desc: Annie: It's okay. We're looking for Zimmy
+	note: Kat out of frame, but final speech bubble may be her from its colour.
+	tag: Annie
+	tag: Zimmingham
+	tag: ToyShop
+	tag: Gamma
+	tag: ch-49
+	tag: Jack
+	tag: Kat
+	tag: MuscleMonster
+page:1413
+	date: 2014-10-01
+	desc: Student: Hey! We found someone else!
+	tag: Annie
+	tag: Jack
+	tag: Jenny
+	tag: Zimmingham
+	tag: ToyShop
+	tag: Gamma
+	tag: ch-49
+page:1412
+	auth: Tom: They love their angle because she is very... acute
+	date: 2014-09-29
+	desc: Annie: Make sure they understand... their angel is in trouble
+	tag: Annie
+	tag: BlinkerStone
+	tag: ch-49
+	tag: Drone
+	tag: Rey
+	tag: Robot
+	tag: RobotKing
+	tag: Robots
+	tag: Shadow
+	tag: SubDorm
+page:1411
+	auth: Tom: Spell belle
+	date: 2014-09-26
+	desc: Annie: That's a very polite seeking spell you made
+	tag: Annie
+	tag: BlinkerStone
+	tag: ch-49
+	tag: Court
+	tag: Drone
+	tag: Jack
+	tag: Jenny
+	tag: SubDorm
+	tag: Zimmingham
+page:1410
+	date: 2014-09-24
+	desc: Kat: I can't just **magic** a new body for you!
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Kat
+	tag: Paz
+	tag: Zimmingham
 page:1409
 	date: 2014-09-22
 	desc: Cruise Liner: Creator. Please make me flesh.
-	tag: Zimmingham
+	tag: ch-49
+	tag: CruiseLiner
 	tag: Kat
 	tag: Paz
-	tag: CruiseLiner
+	tag: Zimmingham
 page:1408
 	date: 2014-09-19
 	desc: Jenny: You could say he's a little... obsessed with this Zimmy, hehe!
-	tag: Zimmingham
 	tag: Annie
-	tag: Jenny
+	tag: ch-49
 	tag: Jack
+	tag: Jenny
 	tag: Kat
 	tag: Paz
+	tag: Zimmingham
 page:1407
 	date: 2014-09-17
 	desc: Jack: Well, I hoped I'd never see this place again!
-	tag: Zimmingham
 	tag: Annie
-	tag: Jenny
+	tag: ch-49
 	tag: Jack
+	tag: Jenny
+	tag: Zimmingham
 page:1406
+	auth: Tom: Here we are
 	date: 2014-09-15
 	desc: (Zimingham arises from the waves with monsterous silhouettes on walls)
-	auth: Tom: Here we are
-	tag: Zimmingham
-	tag: Sea
 	tag: Annie
-	tag: Jenny
-	tag: Jack
-	tag: Winsbury
-	tag: Janet
+	tag: ch-49
 	tag: Gamma
+	tag: Jack
+	tag: Janet
+	tag: Jenny
+	tag: Sea
+	tag: Winsbury
+	tag: Zimmingham
 page:1405
 	date: 2014-09-12
 	desc: Annie: R-Reynard! Send it to Reynard
-	tag: CruiseLiner
 	tag: Annie
-	tag: SpellCircle
-	tag: Jenny
-	tag: Drone
 	tag: BlinkerStone
-	tag: Jack
-	tag: Sea
 	tag: ch-49
+	tag: CruiseLiner
+	tag: Drone
+	tag: Jack
+	tag: Jenny
+	tag: Sea
+	tag: SpellCircle
 page:1404
 	date: 2014-09-10
 	desc: Jenny: Just a little seeking spell, my love
-	tag: CruiseLiner
-	tag: Jack
-	tag: BlinkerStone
-	tag: Drone
-	tag: Jenny
-	tag: SpellCircle
 	tag: Annie
-	tag: Sea
+	tag: BlinkerStone
 	tag: ch-49
+	tag: CruiseLiner
+	tag: Drone
+	tag: Jack
+	tag: Jenny
+	tag: Sea
+	tag: SpellCircle
 page:1403
 	date: 2014-09-08
 	desc: Jack: I've been trying to contact the shore but we have been cut off
-	tag: CruiseLiner
 	tag: Annie
-	tag: Winsbury
+	tag: BlinkerStone
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Jack
 	tag: Janet
+	tag: Jenny
 	tag: Kat
 	tag: Paz
 	tag: Robots
 	tag: SailorBot
-	tag: Jack
-	tag: Jenny
-	tag: BlinkerStone
-	tag: ch-49
+	tag: Winsbury
 page:1402
 	date: 2014-09-05
 	desc: Seraph: No threat
