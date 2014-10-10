@@ -119,6 +119,7 @@ DrDisaster	Dr Randy Disaster sends the students on hologram simulation adventure
 Drone	a small, remotely guided flying machine
 Dryad	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one
 Earth	Ancient element; the planet on which we live; the great mother and life-giver [_{W}_](http://gunnerkrigg.wikia.com/wiki/Earth)
+Ectoplasm	material of the Etherium which may be moulded by the Will into Form
 Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#sword) [_{W}_](http://gunnerkrigg.wikia.com/wiki/James_Eglamore)
 EglamoreKnife	A switchblade/flick knife present that [Eglamore](#eglamore) treasures
 EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword), [armour](#armour), a [Tiki](#tiki) and a [mask](#mask) among other things
@@ -298,6 +299,7 @@ Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Woo
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
 Robot	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Robot)
+Ro-Boats	the boats of the Robots
 RobotCode	A cube with the [Robots](#robots)' instruction code transcribed onto it
 RobotDesigns	Designs and Blueprints for [robot](#robots) old and new
 RobotHQ	Where the [robots](#robots) hang out
@@ -318,6 +320,7 @@ SailorBot	A class of robot encountered on the [cruise liner](#cruiseliner). Unus
 Sareed	Anwyn tree-weaver
 ScienceLab	A school science lab where [Kat](#kat) does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
+Sea	a whole bunch of (salty) water
 SecurityDevice	Small devices that supposedly warn [Jack](#jack) when people are coming
 SecurityRobots	They ensure security, as [robot](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Guard_Bots)
 SeedBismuth	It's a mystery; involved in the [founding](#founding) of the court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Seed_Bismuth)
@@ -375,6 +378,7 @@ Tom	Tom Siddell, author of Gunnerkrigg Court
 TomatoWangFae	likes to wang tomatoes. Friends with BlushFae
 Tombstone	The marker for a grave.
 Tony	Anthony Carver, [Annie's](#annie) father
+TornSea	an [etheric](#etherics) gap in the sea's reality
 Torus	A city fairy who deals with pigeons such as City Face. Sister of [Ogee](#ogee).
 Tower	A tower in the Court where [Aly](#aly) stays, while transitioning
 ToyShop	A toy shop in [Zimmingham](#zimmingham) where [Zimmy](#zimmy) and [Gamma](#gamma) meet up if they get separated
@@ -432,7 +436,7 @@ ch-08	Broken Glass and Other Things [{Y}](http://youtu.be/Lp-YIsNiOCQ)
 ch-09	Questions and Answers [{Y}](http://youtu.be/RfpVdfLXydI)
 ch-10	Doctor Disaster versus the Creepy Space Aliens from Outer Space [{Y}](http://youtu.be/MliJpVzKEsw)
 ch-11	Dobranoc, Gamma [{Y}](http://youtu.be/GXeILNEigjc)
-ch-12	Mainly Involves Robots
+ch-12	Mainly Involves Robots [{Y}](http://youtu.be/gMsc0Aqapvk)
 ch-13	A Week For Kat
 ch-14	The Fangs Of Summertime
 ch-14a	Intermission: A Selection of Guest Comics and Other Surprises

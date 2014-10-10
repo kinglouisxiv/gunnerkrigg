@@ -29,18 +29,48 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1417
+	date: 2014-10-10
+	desc: Reynard: There! That must be it!
+	tag: ch-49
+	tag: EthericSyphon
+	tag: Reynard
+	tag: Ro-Boats
+	tag: Robot
+	tag: Robots
+	tag: Sea
+	tag: Shadow
+	tag: TornSea
+page:1416
+	date: 2014-10-08
+	desc: Cruise Liner: I have admired Lindsey for a long time
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Lindsey
+	tag: Kat
+	tag: Paz
+	tag: Zimmingham
+page:1415
+	desc: Kat: Look! I can affect the shape just by thinking about it!
+	date: 2014-10-06
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Ectoplasm
+	tag: Kat
+	tag: Paz
+	tag: Zimmingham
 page:1414
 	date: 2014-10-03
 	desc: Annie: It's okay. We're looking for Zimmy
-	note: Kat out of frame, but final speech bubble may be her from its colour.
+	note: Kat out of frame, but final speech bubble is her, from its colour
 	tag: Annie
-	tag: Zimmingham
-	tag: ToyShop
-	tag: Gamma
 	tag: ch-49
+	tag: Ectoplasm
+	tag: Gamma
 	tag: Jack
 	tag: Kat
-	tag: MuscleMonster
+	tag: ToyShop
+	tag: Zimmingham
 page:1413
 	date: 2014-10-01
 	desc: Student: Hey! We found someone else!
@@ -83,6 +113,7 @@ page:1410
 	desc: Kat: I can't just **magic** a new body for you!
 	tag: ch-49
 	tag: CruiseLiner
+	tag: Ectoplasm
 	tag: Kat
 	tag: Paz
 	tag: Zimmingham
