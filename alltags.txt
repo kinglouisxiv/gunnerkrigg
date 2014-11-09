@@ -299,7 +299,6 @@ Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Woo
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
 Robot	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Robot)
-Ro-Boats	the boats of the Robots
 RobotCode	A cube with the [Robots](#robots)' instruction code transcribed onto it
 RobotDesigns	Designs and Blueprints for [robot](#robots) old and new
 RobotHQ	Where the [robots](#robots) hang out
@@ -346,6 +345,7 @@ Sparring	A mock or training fight; usually for learning or practising martial ar
 Speakeasy	A hotel-like place that the students sneak out to with a "speakeasy-like atmosphere"
 SpecialCases	A part of the [Realm of the Dead](#rotd)
 SpecialCircumstances	"beyond those metaphysical event-horizons, there exist ... special circumstances"
+Speedboats	make up the Robots' fleet
 Spider	Often white and [etheric](#etherics), also often real.
 SpellCircle	a complex combination of geometric lines, symbols and writing, used in _e.g._ Hermetic magic
 StarHeadband	A headband with stars on antennae that [Annie](#annie) uses to pretend she is a [robot](#robots)
@@ -393,7 +393,7 @@ Umbrella	Hand-held cover to keep the [rain](#rain) off.
 Uniform	An outfit one wears when on official business
 Valknut	A Norse triangular knot symbol, indicates a form of teleport/gateway such as that used by [Brinnie](#brinnie) or the [beacon](#beacon) that [Eglamore](#eglamore) gave to [Annie](#annie)
 Vampire	a creature, perhaps undead, which exists by sucking the blood (and life) of the living
-VastyHall	the vasty hall of Death, an alternative visualisation of the [Realm of the Dead](#rotd) to a fairground fright house
+VastyHall	the Vasty Hall of Death, an alternative visualisation of the [Realm of the Dead](#rotd) to a fairground fright house
 Veles	Ancient Slav snake-like god who guards the underworld; [psychopomp](#psychopomps)
 VenusFigurine	in the manner of a [prehistoric stylised female figure](https://en.wikipedia.org/wiki/Venus_figurines)
 VenusSymbol	A symbol for Venus/Aphrodite; also the symbol of females/femininity
@@ -437,10 +437,10 @@ ch-09	Questions and Answers [{Y}](http://youtu.be/RfpVdfLXydI)
 ch-10	Doctor Disaster versus the Creepy Space Aliens from Outer Space [{Y}](http://youtu.be/MliJpVzKEsw)
 ch-11	Dobranoc, Gamma [{Y}](http://youtu.be/GXeILNEigjc)
 ch-12	Mainly Involves Robots [{Y}](http://youtu.be/gMsc0Aqapvk)
-ch-13	A Week For Kat
-ch-14	The Fangs Of Summertime
+ch-13	A Week For Kat [{Y}](http://youtu.be/MA6RdGS8YRo)
+ch-14	The Fangs Of Summertime [{Y}](http://youtu.be/yJMW-dn7qD0)
 ch-14a	Intermission: A Selection of Guest Comics and Other Surprises
-ch-15	Red Returns
+ch-15	Red Returns [{Y}](http://youtu.be/zRAI9RrOL4c)
 ch-16	A Ghost Story
 ch-17	The Medium Beginning
 ch-18	S1

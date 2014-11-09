@@ -29,13 +29,173 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1429
+	auth: Tom: Gonna need a new tube of lipstick
+	date: 2014-11-07
+	note: ZZAPP!
+	tag: ch-49
+	tag: Etherics
+	tag: Jenny
+	tag: Robots
+	tag: Seraph
+	tag: Zimmingham
+page:1428
+	auth: Tom: Zimmerzims
+	date: 2014-11-05
+	desc: Seraph: I see some of the students below
+	note: Jenny disguised as Zimmy
+	tag: BLOOM
+	tag: ch-49
+	tag: Jenny
+	tag: Robots
+	tag: Seraph
+	tag: Zimmingham
+page:1427
+	auth: Tom: Always a critic
+	date: 2014-11-03
+	desc: Seraph: They have destroyed another ether syphon
+	tag: BLOOM
+	tag: ch-49
+	tag: Robots
+	tag: Seraph
+	tag: Zimmingham
+page:1426
+	auth: Tom: Nerdbot formation
+	date: 2014-10-31
+	desc: CruiseLiner: The students and robots have banded together
+	tag: BLOOM
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Ectoplasm
+	tag: Kat
+	tag: Paz
+	tag: Robots
+	tag: Seraph
+	tag: Skull
+	tag: Zimmingham
+page:1425
+	auth: Tom: She knows more than Kat does about whale anatomy
+	date: 2014-10-29
+	desc: Paz: Making Kat change your body will not make her like you!
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Ectoplasm
+	tag: Kat
+	tag: Paz
+	tag: Robots
+	tag: Seraph
+	tag: Skull
+	tag: Zimmingham
+page:1424
+	auth: Tom: If Bud was here...
+	date: 2014-10-27
+	desc: Paz: But can you not see this is wrong? Lindsey is a married woman!
+	note: Zimmy is represented by her hair
+	tag: Annie
+	tag: ch-49
+	tag: Ectoplasm
+	tag: Gamma
+	tag: Jack
+	tag: Jenny
+	tag: Kat
+	tag: Paz
+	tag: Zimmingham
+	tag: Zimmy
+page:1423
+	auth: Tom: Robo no no
+	date: 2014-10-24
+	desc: Rey: Antimony! Send your blinker stone back through the opening!
+	tag: Annie
+	tag: AnnieCut
+	tag: AntimonySymbol
+	tag: ch-49
+	tag: EthericSyphon
+	tag: Jack
+	tag: Rey
+	tag: Shadow
+	tag: Zimmingham
+page:1422
+	auth: Tom: Robo BBQ
+	date: 2014-10-22
+	desc: Riiiiiip
+	tag: Annie
+	tag: AntimonySymbol
+	tag: ch-49
+	tag: Fight
+	tag: Fire
+	tag: Jack
+	tag: Janet
+	tag: Rey
+	tag: Robots
+	tag: SailorBots
+	tag: Ward
+	tag: Winsbury
+	tag: Zimmingham
+page:1421
+	auth: Tom: Robo rumble
+	date: 2014-10-20
+	desc: Rey: Show me this ward you mentioned!
+	tag: Annie
+	tag: AntimonySymbol
+	tag: ch-49
+	tag: Fight
+	tag: Rey
+	tag: Robot
+	tag: Robots
+	tag: SailorBots
+	tag: Ward
+	tag: Zimmingham
+page:1420
+	date: 2014-10-17
+	desc: Jenny: Haha **This** is Reynard?! What a cutie!
+	note: SailorBots have been transformed by Zimmingham 
+	tag: Annie
+	tag: ch-49
+	tag: Jenny
+	tag: Rey
+	tag: RobotKing
+	tag: Robots
+	tag: SailorBots
+	tag: Speedboat
+	tag: Ward
+	tag: Zimmingham
+page:1419
+	auth: Tom: Possibly the only speedboat jumps I've planned into Gunnerkrigg 
+	date: 2014-10-15
+	desc: BLOOM / Look! / What's that?! / CRASH
+	tag: Annie
+	tag: BLOOM
+	tag: ch-49
+	tag: Gamma
+	tag: Jack
+	tag: Jenny
+	tag: Rey
+	tag: Robots
+	tag: Speedboat
+	tag: TornSea
+	tag: Zimmingham
+page:1418
+	auth: Tom: Don't worry, the torpedo wasn't a robot
+	date: 2014-10-13
+	desc: Robot: Destroying one of those platforms should destabilise the warped area
+	tag: BLOOM
+	tag: ch-49
+	tag: EthericSyphon
+	tag: Rey
+	tag: Robot
+	tag: Robots
+	tag: Sea
+	tag: Shadow
+	tag: Speedboat
+	tag: TornSea
+	tag: Torpedo
 page:1417
 	date: 2014-10-10
 	desc: Reynard: There! That must be it!
 	tag: ch-49
 	tag: EthericSyphon
-	tag: Reynard
-	tag: Ro-Boats
+	tag: Rey
+	tag: Speedboat
 	tag: Robot
 	tag: Robots
 	tag: Sea
@@ -46,18 +206,21 @@ page:1416
 	desc: Cruise Liner: I have admired Lindsey for a long time
 	tag: ch-49
 	tag: CruiseLiner
-	tag: Lindsey
 	tag: Kat
+	tag: Lindsey
 	tag: Paz
+	tag: Skull
 	tag: Zimmingham
 page:1415
-	desc: Kat: Look! I can affect the shape just by thinking about it!
 	date: 2014-10-06
+	desc: Kat: Look! I can affect the shape just by thinking about it!
 	tag: ch-49
+	tag: Bone
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Kat
 	tag: Paz
+	tag: Skull
 	tag: Zimmingham
 page:1414
 	date: 2014-10-03
@@ -70,22 +233,25 @@ page:1414
 	tag: Jack
 	tag: Kat
 	tag: ToyShop
+	tag: Ward
 	tag: Zimmingham
 page:1413
 	date: 2014-10-01
 	desc: Student: Hey! We found someone else!
 	tag: Annie
+	tag: ch-49
+	tag: Gamma
 	tag: Jack
 	tag: Jenny
-	tag: Zimmingham
 	tag: ToyShop
-	tag: Gamma
-	tag: ch-49
+	tag: Ward
+	tag: Zimmingham
 page:1412
 	auth: Tom: They love their angle because she is very... acute
 	date: 2014-09-29
 	desc: Annie: Make sure they understand... their angel is in trouble
 	tag: Annie
+	tag: AntimonySymbol
 	tag: BlinkerStone
 	tag: ch-49
 	tag: Drone
@@ -107,23 +273,30 @@ page:1411
 	tag: Jack
 	tag: Jenny
 	tag: SubDorm
+	tag: Ward
 	tag: Zimmingham
 page:1410
 	date: 2014-09-24
 	desc: Kat: I can't just **magic** a new body for you!
+	note: BioLimb reactor vessel shatters as the limb fully transforms to Ectoplasm
+	tag: BioLimb
 	tag: ch-49
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Kat
 	tag: Paz
+	tag: Skull
 	tag: Zimmingham
 page:1409
 	date: 2014-09-22
-	desc: Cruise Liner: Creator. Please make me flesh.
+	desc: Cruise Liner: Creator. Please make me flesh
+	tag: BioLimb
 	tag: ch-49
 	tag: CruiseLiner
+	tag: Ectoplasm
 	tag: Kat
 	tag: Paz
+	tag: Skull
 	tag: Zimmingham
 page:1408
 	date: 2014-09-19
@@ -134,6 +307,7 @@ page:1408
 	tag: Jenny
 	tag: Kat
 	tag: Paz
+	tag: Ward
 	tag: Zimmingham
 page:1407
 	date: 2014-09-17
@@ -142,11 +316,12 @@ page:1407
 	tag: ch-49
 	tag: Jack
 	tag: Jenny
+	tag: Ward
 	tag: Zimmingham
 page:1406
 	auth: Tom: Here we are
 	date: 2014-09-15
-	desc: (Zimingham arises from the waves with monsterous silhouettes on walls)
+	desc: (Zimingham arises from the waves with monsterous silhouettes (the Seraph robots?) on walls)
 	tag: Annie
 	tag: ch-49
 	tag: Gamma
@@ -180,6 +355,7 @@ page:1404
 	tag: Jenny
 	tag: Sea
 	tag: SpellCircle
+	tag: Ward
 page:1403
 	date: 2014-09-08
 	desc: Jack: I've been trying to contact the shore but we have been cut off
@@ -194,6 +370,7 @@ page:1403
 	tag: Paz
 	tag: Robots
 	tag: SailorBot
+	tag: Ward
 	tag: Winsbury
 page:1402
 	date: 2014-09-05
@@ -210,6 +387,7 @@ page:1402
 	tag: Robots
 	tag: SailorBot
 	tag: Seraph
+	tag: Ward
 	tag: Winsbury
 page:1401
 	date: 2014-09-03
@@ -225,11 +403,12 @@ page:1401
 	tag: Robots
 	tag: SailorBot
 	tag: Seraph
+	tag: Ward
 	tag: Winsbury
 page:1400
 	date: 2014-09-01
 	desc: Seraph: We have established a grid of etheric syphons around the ship
-	note: Annie throws a firebolt at SailorBots
+	note: Annie throws a fireball at a SailorBot
 	tag: Annie
 	tag: ch-49
 	tag: CruiseLiner
@@ -811,7 +990,7 @@ page:1352
 	tag: VastyHall
 page:1351
 	date: 2014-05-09
-	desc: Kat: Is–Is that it? He goes through that door and...
+	desc: Kat: Is-- Is that it? He goes through that door and...
 	tag: Annie
 	tag: ch-47
 	tag: Etherium
@@ -1080,7 +1259,7 @@ page:1324
 	tag: Nigel
 page:1323
 	date: 2014-03-05
-	desc: "MOTHERS: Your children are safer in the country" (a small boy in short trousers, with helmet & popgun reads a wall poster – WWII, 1939 or ’40)
+	desc: "MOTHERS: Your children are safer in the country" (a small boy in short trousers, with helmet & popgun reads a wall poster -- WWII, 1939 or '40)
 	tag: ch-47
 	tag: Mort
 page:1322
@@ -1438,7 +1617,7 @@ page:1288
 	tag: Habitat
 	tag: HabitatSymbol
 	tag: Kat
-	desc: Whoa whoa, Annie… _hate_ you?!
+	desc: Whoa whoa, Annie... _hate_ you?!
 page:1287
 	date: 2013-12-11
 	tag: ch-45
@@ -1548,7 +1727,7 @@ page:1275
 	tag: Kiss
 	tag: Paz
 	tag: Robots
-	desc: I better deal with that…
+	desc: I better deal with that...
 	auth: Tom: Tough to focus
 page:1274
 	date: 2013-11-11
@@ -1802,7 +1981,7 @@ page:1250
 	tag: OldCourt
 	tag: SeedBismuth
 	tag: Wisp
-	desc: If you could take me back to my brethren…
+	desc: If you could take me back to my brethren...
 page:1249
 	date: 2013-09-13
 	tag: ch-44
@@ -1823,7 +2002,7 @@ page:1248
 	tag: OldCourt
 	tag: SeedBismuth
 	tag: Wisp
-	desc: You… made these buildings?
+	desc: You... made these buildings?
 page:1247
 	date: 2013-09-09
 	tag: ch-44
@@ -1843,7 +2022,7 @@ page:1246
 	tag: OldCourt
 	tag: Ysengrin
 	tag: Wisp
-	desc: Pssst… This way! Quickly!
+	desc: Pssst... This way! Quickly!
 page:1245
 	date: 2013-09-04
 	tag: ch-44
@@ -1926,7 +2105,7 @@ page:1237
 	tag: Gillitie
 	tag: Parley
 	tag: Ysengrin
-	desc: I suppose it's for the best if [Andrew](#smitty) sat this one out while I get a better handle on things …
+	desc: I suppose it's for the best if [Andrew](#smitty) sat this one out while I get a better handle on things ...
 page:1236
 	date: 2013-08-14
 	tag: ch-44
@@ -2219,7 +2398,7 @@ page:1205
 	tag: Dorm
 	tag: ReyComic
 	tag: Rey
-	desc: Renard, we’re heading off to class now
+	desc: Renard, we're heading off to class now
 page:1204
 	date: 2013-05-31
 	desc: Chapter 43:<br><br>**Quicksilver**<br><br>_Icon: a packet of sewing needles_
@@ -2244,7 +2423,7 @@ page:1202
 	tag: Kat
 	tag: LoveLetter
 	tag: Paz
-	desc: Yeah… okay.
+	desc: Yeah... okay.
 page:1201
 	date: 2013-05-24
 	tag: ch-42
@@ -2288,7 +2467,7 @@ page:1197
 	tag: Kat
 	tag: LoveLetter
 	tag: Paz
-	desc: Kat! You have not been here in a while…
+	desc: Kat! You have not been here in a while...
 page:1196
 	date: 2013-05-13
 	tag: ch-42
@@ -2307,7 +2486,7 @@ page:1195
 	tag: Jeanne
 	tag: Parley
 	tag: Smitty
-	desc: I think it’s exactly what I need to face Jeanne
+	desc: I think it's exactly what I need to face Jeanne
 page:1194
 	date: 2013-05-08
 	tag: ch-42
@@ -2342,7 +2521,7 @@ page:1191
 	tag: Gillitie
 	tag: Octopus
 	tag: Smitty
-	desc: (gnome)(bear)(horse) So that’s what I’ve been doing wrong
+	desc: (gnome)(bear)(horse) So that's what I've been doing wrong
 page:1190
 	date: 2013-04-29
 	tag: ch-42
@@ -2369,7 +2548,7 @@ page:1188
 	tag: Gillitie
 	tag: Marble
 	tag: Smitty
-	desc: (doe) Hello! It’s me again
+	desc: (doe) Hello! It's me again
 page:1187
 	date: 2013-04-22
 	tag: ch-42
@@ -2378,7 +2557,7 @@ page:1187
 	tag: Gillitie
 	tag: Marble
 	tag: Smitty
-	desc: It’s called a marble. I had one in my pocket
+	desc: It's called a marble. I had one in my pocket
 page:1186
 	date: 2013-04-19
 	tag: ch-42
@@ -2388,7 +2567,7 @@ page:1186
 	tag: Marble
 	tag: HardwickLittleBestiary
 	tag: Smitty
-	desc: Hardwick &amp; Little’s Bestiary, p65
+	desc: Hardwick &amp; Little's Bestiary, p65
 page:1185
 	date: 2013-04-17
 	tag: ch-42
@@ -2396,7 +2575,7 @@ page:1185
 	tag: Chickcharney
 	tag: Gillitie
 	tag: Smitty
-	desc: I’ve never seen a real forest before
+	desc: I've never seen a real forest before
 page:1184
 	date: 2013-04-15
 	tag: ch-42
@@ -2420,7 +2599,7 @@ page:1182
 	tag: Annie
 	tag: Kat
 	tag: LoveLetter
-	desc: (dining hall) It’s very eloquently written…
+	desc: (dining hall) It's very eloquently written...
 page:1181
 	date: 2013-04-08
 	tag: ch-42
@@ -2439,7 +2618,7 @@ page:1180
 	tag: Gillitie
 	tag: Parley
 	tag: Smitty
-	desc: That didn’t exactly go to plan!
+	desc: That didn't exactly go to plan!
 page:1179
 	date: 2013-04-03
 	tag: ch-42
@@ -2476,7 +2655,7 @@ page:1175
 	tag: CityFace
 	tag: Filler
 	tag: Red
-	desc: City Face guest comic 8 by Red and “Blue”
+	desc: City Face guest comic 8 by Red and "Blue"
 page:1174
 	date: 2013-03-26
 	tag: ch-41a
@@ -2542,7 +2721,7 @@ page:1166
 	date: 2013-03-13
 	tag: Filler
 	tag: Tom
-	desc: “So, how’s it been going?” open letter by Tom
+	desc: "So, how's it been going?" open letter by Tom
 page:1165
 	date: 2013-03-11
 	tag: Annie
@@ -2568,7 +2747,7 @@ page:1164
 	tag: Dorm
 	tag: Kat
 	tag: LoveLetter
-	desc: It’s written to _you_.
+	desc: It's written to _you_.
 page:1163
 	date: 2013-03-06
 	tag: ch-41
@@ -2578,7 +2757,7 @@ page:1163
 	tag: Kat
 	tag: LoveLetter
 	tag: Rey
-	desc: It’s a _Love Letter_
+	desc: It's a _Love Letter_
 	auth: Tom: Oh no
 page:1162
 	date: 2013-03-04
@@ -2587,7 +2766,7 @@ page:1162
 	tag: Dorm
 	tag: Kat
 	tag: Rey
-	desc: I’m glad we’ll be sharing this room together, Kat
+	desc: I'm glad we'll be sharing this room together, Kat
 page:1161
 	date: 2013-03-01
 	tag: ch-41
@@ -2648,7 +2827,7 @@ page:1156
 	tag: Rey
 	tag: Smitty
 	desc: Are you husband and wife?
-	auth: Tom: Personal space? What’s that?
+	auth: Tom: Personal space? What's that?
 page:1155
 	date: 2013-02-15
 	tag: ch-41
@@ -2661,7 +2840,7 @@ page:1155
 	tag: Rey
 	tag: Smitty
 	tag: Tears
-	desc: I’m sure you understand this ends your visiting privileges to the forest
+	desc: I'm sure you understand this ends your visiting privileges to the forest
 page:1154
 	date: 2013-02-13
 	tag: ch-41
@@ -2748,7 +2927,7 @@ page:1148
 	tag: BismuthSymbol
 	tag: CourtHall
 	tag: Rey
-	desc: I think we made it…
+	desc: I think we made it...
 page:1147
 	date: 2013-01-28
 	tag: ch-41
@@ -2881,7 +3060,7 @@ page:1137
 	tag: Seraph
 	tag: Shadow
 	tag: SmallBot
-	desc: I’m going to take a look at your video log, okay?
+	desc: I'm going to take a look at your video log, okay?
 page:1136
 	date: 2013-01-02
 	tag: ch-41
@@ -2914,7 +3093,7 @@ page:1134
 	tag: Kat
 	tag: Rey
 	tag: SubDorm
-	desc: I’m in your room all the time anyway
+	desc: I'm in your room all the time anyway
 page:1133
 	date: 2012-12-26
 	tag: ch-41
@@ -2956,7 +3135,7 @@ page:1129
 	tag: Robot
 	tag: Roof
 	tag: Shadow
-	desc: Here, you just sit like that… (a tender moment)
+	desc: Here, you just sit like that... (a tender moment)
 page:1128
 	date: 2012-12-14
 	desc: Chapter 41:<br><br>**Changes**<br><br>_Icon: Kat's workshop_
@@ -2985,7 +3164,7 @@ page:1126
 	tag: ch-40
 	tag: Annie
 	tag: Jones
-	desc: And, I don’t think you are as emotionless as you say
+	desc: And, I don't think you are as emotionless as you say
 page:1125
 	date: 2012-12-07
 	tag: ch-40
@@ -2999,7 +3178,7 @@ page:1124
 	tag: Annie
 	tag: Coyote
 	tag: Jones
-	desc: He… attacked me when we talked about all this
+	desc: He... attacked me when we talked about all this
 page:1123
 	date: 2012-12-03
 	tag: ch-40
@@ -3026,7 +3205,7 @@ page:1121
 	tag: Annie
 	tag: Jones
 	tag: JonesFootprints
-	desc: Coyote’s theory claims all supernatural creatures are created by
+	desc: Coyote's theory claims all supernatural creatures are created by
 page:1120
 	date: 2012-11-26
 	tag: ch-40
@@ -3055,7 +3234,7 @@ page:1117
 	tag: Annie
 	tag: Jones
 	tag: WanderingEye
-	desc: You remember… everything?
+	desc: You remember... everything?
 page:1116
 	date: 2012-11-16
 	tag: ch-40
@@ -3079,7 +3258,7 @@ page:1113
 	tag: ch-40
 	tag: Annie
 	tag: Jones
-	desc: You… were there at the formation of the Earth?
+	desc: You... were there at the formation of the Earth?
 page:1112
 	date: 2012-11-07
 	tag: ch-40
@@ -3097,7 +3276,7 @@ page:1110
 	tag: ch-40
 	tag: Jones
 	tag: Ocean
-	desc: Several eras ago (Paleozoic era, Silurian period 500mya) (Bud & Lindsey’s forebears??)
+	desc: Several eras ago (Paleozoic era, Silurian period 500mya) (Bud & Lindsey's forebears??)
 page:1109
 	date: 2012-10-31
 	tag: ch-40
@@ -3123,7 +3302,7 @@ page:1105
 	date: 2012-10-22
 	tag: ch-40
 	tag: Jones
-	desc: Many centuries ago: (Medieval) She’s a devil!
+	desc: Many centuries ago: (Medieval) She's a devil!
 page:1104
 	date: 2012-10-19
 	tag: ch-40
@@ -3159,7 +3338,7 @@ page:1099
 	tag: Eglamore
 	tag: Jones
 	desc: Decades ago: (Late 50s/early 60s?) Wave to your parents James (Eglamore is 9, see p1118)
-	auth: Tom: Mr Eglamore whistles, “Do all their teachers look like that?” and Mrs Eglamore playfully slaps him. There are tears in her eyes.
+	auth: Tom: Mr Eglamore whistles, "Do all their teachers look like that?" and Mrs Eglamore playfully slaps him. There are tears in her eyes.
 page:1098
 	date: 2012-10-05
 	tag: ch-40
@@ -3226,7 +3405,7 @@ page:1089
 	tag: Etherium
 	tag: Gillitie
 	tag: Ysengrin
-	desc: Now why don’t I just remove this nasty little memory?
+	desc: Now why don't I just remove this nasty little memory?
 page:1088
 	date: 2012-09-12
 	tag: ch-39
@@ -3235,7 +3414,7 @@ page:1088
 	tag: Gillitie
 	tag: TreeBody
 	tag: Ysengrin
-	desc: What… what… I- I tried to attack… the girl…
+	desc: What... what... I- I tried to attack... the girl...
 page:1087
 	date: 2012-09-10
 	tag: ch-39
@@ -3244,7 +3423,7 @@ page:1087
 	tag: Jones
 	tag: Gillitie
 	tag: Ysengrin
-	desc: I’m sorry
+	desc: I'm sorry
 page:1086
 	date: 2012-09-07
 	tag: ch-39
@@ -3264,7 +3443,7 @@ page:1085
 	tag: Sword
 	tag: TreeBody
 	tag: Ysengrin
-	desc: He’s still coming!
+	desc: He's still coming!
 page:1084
 	date: 2012-09-03
 	tag: ch-39
@@ -3289,7 +3468,7 @@ page:1083
 	tag: Valknut
 	tag: Ysengrin
 	tag: ZAM
-	desc: ZAM [‘ZAM’ is a more ostentatious ‘Bip’]
+	desc: ZAM ['ZAM' is a more ostentatious 'Bip']
 page:1082
 	date: 2012-08-29
 	tag: ch-39
@@ -3309,7 +3488,7 @@ page:1081
 	tag: Gillitie
 	tag: TreeBody
 	tag: Ysengrin
-	desc: You’re not like this!
+	desc: You're not like this!
 page:1080
 	date: 2012-08-24
 	tag: ch-39
@@ -3317,7 +3496,7 @@ page:1080
 	tag: Gillitie
 	tag: TreeBody
 	tag: Ysengrin
-	desc: creak … snap … GRUUH!
+	desc: creak ... snap ... GRUUH!
 	auth: Tom: Ysengrin seems to disagree
 page:1079
 	date: 2012-08-22
@@ -3353,7 +3532,7 @@ page:1076
 	tag: God
 	tag: GreatSecret
 	tag: Ysengrin
-	desc: Why does Coyote’s theory upset you so much
+	desc: Why does Coyote's theory upset you so much
 page:1075
 	date: 2012-08-13
 	tag: ch-39
@@ -3361,7 +3540,7 @@ page:1075
 	tag: Coyote
 	tag: Gillitie
 	tag: Ysengrin
-	desc: I really wish you weren’t so rude to Ysengrin
+	desc: I really wish you weren't so rude to Ysengrin
 page:1074
 	date: 2012-08-10
 	tag: ch-39
@@ -3388,7 +3567,7 @@ page:1073
 	tag: Psychopomps
 	tag: Surma
 	tag: Ysengrin
-	desc: So… the Guides…
+	desc: So... the Guides...
 page:1072
 	date: 2012-08-06
 	tag: ch-39
@@ -3429,7 +3608,7 @@ page:1069
 	tag: Desert
 	tag: Gillitie
 	tag: GreatSecret
-	desc: … Can I go home now? [and: a coyote]
+	desc: ... Can I go home now? [and: a coyote]
 page:1068
 	date: 2012-07-27
 	auth: Tom: Also: kind of a jerk.
@@ -3516,7 +3695,7 @@ page:1060
 	tag: Etherium
 	tag: Gillitie
 	tag: Ysengrin
-	auth: Tom: Walkin’ along
+	auth: Tom: Walkin' along
 page:1059
 	date: 2012-07-06
 	tag: ch-39
@@ -3540,7 +3719,7 @@ page:1058
 	tag: Gillitie
 	tag: Sword
 	tag: Ysengrin
-	desc: Considering what’s happened these part few weeks
+	desc: Considering what's happened these part few weeks
 page:1057
 	date: 2012-07-02
 	tag: ch-39
@@ -3550,7 +3729,7 @@ page:1057
 	tag: Eglamore
 	tag: Gillitie
 	tag: Sword
-	desc: You know, you don’t have to wear that outfit every time we go across the bridge
+	desc: You know, you don't have to wear that outfit every time we go across the bridge
 page:1056
 	date: 2012-06-29
 	desc: Chapter 39:<br><br>**The Great Secret**<br><br>_Icon: A memory in Coyote's claws_
@@ -3574,7 +3753,7 @@ page:1054
 	tag: Gamma
 	tag: Hospital
 	tag: Zimmy
-	desc: Are you sure you don’t want them to know you helped?
+	desc: Are you sure you don't want them to know you helped?
 page:1053
 	date: 2012-06-22
 	tag: ch-38
@@ -3598,7 +3777,7 @@ page:1051
 	tag: Annie
 	tag: Hospital
 	tag: Kat
-	desc: You’re awake!
+	desc: You're awake!
 page:1050
 	date: 2012-06-15
 	tag: ch-38
@@ -3608,7 +3787,7 @@ page:1050
 	tag: Kat
 	tag: Tears
 	tag: Zimmy
-	desc: You can’t always run from what scares you
+	desc: You can't always run from what scares you
 page:1049
 	date: 2012-06-13
 	tag: ch-38
@@ -3625,7 +3804,7 @@ page:1048
 	tag: Robot
 	tag: Shadow
 	tag: Zimmy
-	desc: Hey, what happ–
+	desc: Hey, what happ--
 page:1047
 	date: 2012-06-08
 	tag: ch-38
@@ -3639,7 +3818,7 @@ page:1047
 	tag: Hospital
 	tag: Zimmy
 	tag: Zimmingham
-	desc: Yer Dad’s a JERK!
+	desc: Yer Dad's a JERK!
 page:1046
 	date: 2012-06-06
 	tag: ch-38
@@ -3650,7 +3829,7 @@ page:1046
 	tag: Mask
 	tag: Zimmy
 	tag: Zimmingham
-	desc: I don’t want to know about your million boyfriends
+	desc: I don't want to know about your million boyfriends
 page:1045
 	date: 2012-06-04
 	tag: ch-38
@@ -3665,7 +3844,7 @@ page:1045
 	tag: Shadow
 	tag: Zimmingham
 	tag: Zimmy
-	desc: Okay this is where things start to go bad…
+	desc: Okay this is where things start to go bad...
 page:1044
 	date: 2012-06-01
 	tag: ch-38
@@ -3696,7 +3875,7 @@ page:1042
 	tag: Hospital
 	tag: Kat
 	tag: Zimmy
-	desc: What’s the matter? Don’t like him?
+	desc: What's the matter? Don't like him?
 page:1041
 	date: 2012-05-25
 	tag: ch-38
@@ -3710,7 +3889,7 @@ page:1041
 	tag: Kat
 	tag: Mask
 	tag: Zimmy
-	desc: No wonder you’re like this, Carver
+	desc: No wonder you're like this, Carver
 page:1040
 	date: 2012-05-23
 	tag: ch-38
@@ -3756,7 +3935,7 @@ page:1037
 	tag: Mask
 	tag: Tears
 	tag: Zimmy
-	desc: Don’t tell me you are looking into her dreams…
+	desc: Don't tell me you are looking into her dreams...
 page:1036
 	date: 2012-05-14
 	tag: ch-38
@@ -3774,7 +3953,7 @@ page:1036
 	tag: Robot
 	tag: Shadow
 	tag: Zimmy
-	desc: Woah! Haha! Did she get a green boyfriend or sumthin’?
+	desc: Woah! Haha! Did she get a green boyfriend or sumthin'?
 page:1035
 	date: 2012-05-11
 	tag: ch-38
@@ -3810,7 +3989,7 @@ page:1033
 	tag: Kat
 	tag: Rey
 	tag: Zimmy
-	desc: You… You can help?
+	desc: You... You can help?
 page:1032
 	date: 2012-05-04
 	tag: ch-38
@@ -3849,7 +4028,7 @@ page:1030
 	tag: Kat
 	tag: Rey
 	tag: Zimmy
-	desc: Z-Zimmy, Gamma… I didn’t hear you come in
+	desc: Z-Zimmy, Gamma... I didn't hear you come in
 page:1029
 	date: 2012-04-27
 	tag: ch-38
@@ -3869,7 +4048,7 @@ page:1028
 	tag: Gamma
 	tag: Zimmy
 	tag: Zimmingham
-	desc: I don’t want to see her!
+	desc: I don't want to see her!
 page:1027
 	date: 2012-04-23
 	tag: ch-38
@@ -3877,7 +4056,7 @@ page:1027
 	tag: Zimmy
 	tag: Zimmingham
 	desc: Not mine!
-	auth: Tom: Look who’s scrambling around in the trash again.
+	auth: Tom: Look who's scrambling around in the trash again.
 page:1026
 	date: 2012-04-20
 	desc: Chapter 38:<br><br>**Divine**<br><br>_Icon: Kat with the pink headband and "city face" pigeon on her head_
@@ -3915,7 +4094,7 @@ page:1023
 	tag: Rocket
 	tag: Roof
 	tag: Telescope
-	desc: they flew away… that’s it? That’s it.
+	desc: they flew away... that's it? That's it.
 page:1022
 	date: 2012-04-11
 	tag: ch-37
@@ -3938,7 +4117,7 @@ page:1021
 	tag: Robotics
 	tag: Rocket
 	tag: Roof
-	desc: here we go… three, two, one, now
+	desc: here we go... three, two, one, now
 page:1020
 	date: 2012-04-06
 	tag: ch-37
@@ -3948,7 +4127,7 @@ page:1020
 	tag: Microsat5
 	tag: Rocket
 	tag: Roof
-	desc: oh! It’s time!
+	desc: oh! It's time!
 page:1019
 	date: 2012-04-04
 	tag: ch-37
@@ -3956,7 +4135,7 @@ page:1019
 	tag: Flashback
 	tag: Sparring
 	tag: Tony
-	auth: Tom: She doesn’t remember much else from that day
+	auth: Tom: She doesn't remember much else from that day
 page:1018
 	date: 2012-04-02
 	tag: ch-37
@@ -3975,7 +4154,7 @@ page:1017
 	tag: Robotics
 	tag: Rocket
 	tag: Roof
-	desc: haha! Just a function of my wife’s amazing computer
+	desc: haha! Just a function of my wife's amazing computer
 page:1016
 	date: 2012-03-28
 	tag: ch-37
@@ -3996,7 +4175,7 @@ page:1015
 	tag: Etherics
 	tag: Robotics
 	tag: Tony
-	desc: Tony. How strange, it almost makes him sound like… like… a person
+	desc: Tony. How strange, it almost makes him sound like... like... a person
 page:1014
 	date: 2012-03-23
 	tag: ch-37
@@ -4032,7 +4211,7 @@ page:1012
 	tag: Flashback
 	tag: Surma
 	tag: Tony
-	desc: I’d never seen him in a mess before, and over a girl!
+	desc: I'd never seen him in a mess before, and over a girl!
 page:1011
 	date: 2012-03-16
 	tag: ch-37
@@ -4040,7 +4219,7 @@ page:1011
 	tag: Donny
 	tag: Flashback
 	tag: Tony
-	desc: You either like her or you don’t, Tony!
+	desc: You either like her or you don't, Tony!
 page:1010
 	date: 2012-03-14
 	tag: ch-37
@@ -4049,7 +4228,7 @@ page:1010
 	tag: Donny
 	tag: Flashback
 	tag: Tony
-	desc: Antimony… how well do you know your father?
+	desc: Antimony... how well do you know your father?
 page:1009
 	date: 2012-03-12
 	tag: ch-37
@@ -4064,7 +4243,7 @@ page:1008
 	tag: Annie
 	tag: Donny
 	tag: Tony
-	desc: so… you think it’s some kind of message?
+	desc: so... you think it's some kind of message?
 page:1007
 	date: 2012-03-07
 	tag: ch-37
@@ -4072,7 +4251,7 @@ page:1007
 	tag: Donny
 	tag: Etherics
 	tag: Robotics
-	desc: it’s my portable door
+	desc: it's my portable door
 page:1006
 	date: 2012-03-05
 	tag: ch-37
@@ -4081,14 +4260,14 @@ page:1006
 	tag: Etherics
 	tag: Robotics
 	desc: anyway, about the call, did it seem strange to you? 
-	auth: Tom: Whatever you do, don’t say the message out loud
+	auth: Tom: Whatever you do, don't say the message out loud
 page:1005
 	date: 2012-03-02
 	tag: ch-37
 	tag: Annie
 	tag: Crying
 	tag: Donny
-	desc: W-what’s happening? I’m a mess!
+	desc: W-what's happening? I'm a mess!
 page:1004
 	date: 2012-02-29
 	tag: ch-37
@@ -4213,7 +4392,7 @@ page:994
 	tag: HedgehogFae
 	tag: Red
 	tag: YellowFae
-	desc: you didn’t guess at all! You just named her!
+	desc: you didn't guess at all! You just named her!
 page:993
 	date: 2012-02-03
 	tag: ch-36
@@ -4255,7 +4434,7 @@ page:991
 	tag: Foley
 	tag: Gol-shogeg
 	tag: Red
-	desc: Oh no! she’s dead!
+	desc: Oh no! she's dead!
 page:990
 	date: 2012-01-27
 	tag: ch-36
@@ -4271,7 +4450,7 @@ page:990
 	tag: GreenFae
 	tag: Red
 	tag: YellowFae
-	desc: that’s pretty scary. Still wish I was asleep though
+	desc: that's pretty scary. Still wish I was asleep though
 page:989
 	date: 2012-01-25
 	tag: ch-36
@@ -4340,7 +4519,7 @@ page:985
 	tag: Foley
 	tag: HedgehogFae
 	tag: WaterFae
-	desc: what were you… before?
+	desc: what were you... before?
 page:984
 	date: 2012-01-13
 	tag: ch-36
@@ -4353,7 +4532,7 @@ page:984
 	tag: FishFae
 	tag: FlowerFae
 	tag: Red
-	desc: let’s try dis!
+	desc: let's try dis!
 page:983
 	date: 2012-01-11
 	tag: ch-36
@@ -4372,7 +4551,7 @@ page:983
 	tag: Red
 	tag: WaterFae
 	tag: YellowFae
-	desc: hey, you’s still connected to your body!
+	desc: hey, you's still connected to your body!
 page:982
 	date: 2012-01-09
 	tag: ch-36
@@ -4397,7 +4576,7 @@ page:981
 	tag: Bugsy
 	tag: Foley
 	tag: Red
-	desc: um, excuse me…
+	desc: um, excuse me...
 page:980
 	date: 2012-01-04
 	tag: ch-36
@@ -4417,7 +4596,7 @@ page:979
 	tag: Robot
 	tag: Shadow
 	tag: Train
-	desc: He seems a little younger than yourself, but I’m sure I can find a class for him
+	desc: He seems a little younger than yourself, but I'm sure I can find a class for him
 page:978
 	date: 2011-12-30
 	tag: ch-36
@@ -4433,7 +4612,7 @@ page:977
 	tag: Annie
 	tag: Jones
 	tag: Shadow
-	desc: we’ve been looking after him, but his needs are different now
+	desc: we've been looking after him, but his needs are different now
 page:976
 	date: 2011-12-26
 	tag: ch-36
@@ -4473,7 +4652,7 @@ page:972
 	tag: Robot
 	tag: Shadow
 	tag: Smitty
-	desc: Truly, I’ve never seen anything like it
+	desc: Truly, I've never seen anything like it
 page:971
 	date: 2011-12-14
 	tag: ch-35
@@ -4510,7 +4689,7 @@ page:968
 	tag: Parley
 	tag: Robot
 	tag: Smitty
-	desc: let’s get you fixed up!
+	desc: let's get you fixed up!
 page:967
 	date: 2011-12-05
 	tag: ch-35
@@ -4522,7 +4701,7 @@ page:967
 	tag: Robot
 	tag: Shadow
 	tag: Smitty
-	desc: i’m okay, I just feel… really weird…
+	desc: i'm okay, I just feel... really weird...
 page:966
 	date: 2011-12-02
 	tag: ch-35
@@ -4533,7 +4712,7 @@ page:966
 	tag: Robot
 	tag: Shadow
 	tag: Smitty
-	desc: urghh… i… don’t feel so… good…
+	desc: urghh... i... don't feel so... good...
 page:965
 	date: 2011-11-30
 	tag: ch-35
@@ -4558,7 +4737,7 @@ page:963
 	tag: Annie
 	tag: CoyoteTooth
 	tag: Parley
-	desc: it’s one of coyote’s teeth
+	desc: it's one of coyote's teeth
 page:962
 	date: 2011-11-23
 	tag: ch-35
@@ -4590,13 +4769,13 @@ page:960
 	tag: Parley
 	tag: Robot
 	tag: Shadow
-	desc: don’t stop ‘til you hit me this time!
+	desc: don't stop 'til you hit me this time!
 page:959
 	date: 2011-11-16
 	tag: ch-35
 	tag: Parley
 	tag: Robot
-	desc: don’t apologise, man, this is awesome!
+	desc: don't apologise, man, this is awesome!
 page:958
 	date: 2011-11-14
 	tag: ch-35
@@ -4605,7 +4784,7 @@ page:958
 	tag: Parley
 	tag: Robot
 	tag: Shadow
-	desc: Whoa, hey, you’re not holding back on me, are ya?!
+	desc: Whoa, hey, you're not holding back on me, are ya?!
 page:957
 	date: 2011-11-11
 	tag: ch-35
@@ -4621,7 +4800,7 @@ page:956
 	tag: Parley
 	tag: Robot
 	tag: Shadow
-	desc: fencing…
+	desc: fencing...
 page:955
 	date: 2011-11-07
 	tag: ch-35
@@ -4646,7 +4825,7 @@ page:954
 	tag: Robot
 	tag: Shadow
 	tag: Smitty
-	desc: did you just do that thing where you say “bam” right when I decide to jump?
+	desc: did you just do that thing where you say "bam" right when I decide to jump?
 page:953
 	date: 2011-11-02
 	tag: ch-35
@@ -4689,7 +4868,7 @@ page:950
 	tag: Kat
 	tag: Parley
 	tag: Smitty
-	desc: aw, look, parley, it’s your kiddy club!
+	desc: aw, look, parley, it's your kiddy club!
 page:949
 	date: 2011-10-24
 	tag: ch-35
@@ -4700,7 +4879,7 @@ page:949
 	tag: Parley
 	tag: Rey
 	tag: Smitty
-	desc: is she not here yet? Ahem… bam. BIP
+	desc: is she not here yet? Ahem... bam. BIP
 page:948
 	date: 2011-10-21
 	desc: Chapter 35:<br><br>**Parley and Smitty Are In This One**<br><br>_Icon: a flower_
@@ -4735,7 +4914,7 @@ page:945
 	tag: Creeper
 	tag: Etherics
 	tag: Speakeasy
-	desc: They’re a good bunch of kids just having some fun
+	desc: They're a good bunch of kids just having some fun
 page:944
 	date: 2011-10-12
 	tag: ch-34
@@ -4752,7 +4931,7 @@ page:943
 	tag: Paz
 	tag: Speakeasy
 	tag: Creeper
-	desc: Kat creepin’
+	desc: Kat creepin'
 page:942
 	date: 2011-10-07
 	tag: ch-34
@@ -4771,7 +4950,7 @@ page:941
 	tag: Paz
 	tag: Speakeasy
 	tag: John
-	desc: The sun’s coming up
+	desc: The sun's coming up
 page:940
 	date: 2011-10-03
 	tag: ch-34
@@ -4779,7 +4958,7 @@ page:940
 	tag: Jack
 	tag: Speakeasy
 	tag: Ysengrin
-	desc: So really… Zimmy?
+	desc: So really... Zimmy?
 page:939
 	date: 2011-09-30
 	tag: ch-34
@@ -4792,7 +4971,7 @@ page:939
 	tag: Speakeasy
 	tag: John
 	tag: Winsbury
-	desc: huh, looks like they don’t believe us!
+	desc: huh, looks like they don't believe us!
 page:938
 	date: 2011-09-28
 	tag: ch-34
@@ -4827,7 +5006,7 @@ page:935
 	tag: Speakeasy
 	tag: John
 	tag: Winsbury
-	desc: I’d say you get along pretty well now
+	desc: I'd say you get along pretty well now
 page:934
 	date: 2011-09-19
 	tag: ch-34
@@ -4849,7 +5028,7 @@ page:933
 	tag: Annie
 	tag: Jack
 	tag: Speakeasy
-	desc: I just don’t know what I’m doing…
+	desc: I just don't know what I'm doing...
 page:932
 	date: 2011-09-14
 	tag: ch-34
@@ -4865,7 +5044,7 @@ page:931
 	tag: Jack
 	tag: Roof
 	tag: Speakeasy
-	desc: this wasn’t some “flash of anger” thing
+	desc: this wasn't some "flash of anger" thing
 page:930
 	date: 2011-09-09
 	tag: ch-34
@@ -4881,7 +5060,7 @@ page:929
 	tag: Jack
 	tag: Roof
 	tag: Speakeasy
-	desc: You’ve got some strange ideas about revenge, Carver
+	desc: You've got some strange ideas about revenge, Carver
 page:928
 	date: 2011-09-05
 	tag: ch-34
@@ -4891,7 +5070,7 @@ page:928
 	tag: Speakeasy
 	tag: Spider
 	tag: Zimmy
-	desc: I- I’m fairly certain she and Gamma are… an item.
+	desc: I- I'm fairly certain she and Gamma are... an item.
 page:927
 	date: 2011-09-02
 	tag: ch-34
@@ -4900,7 +5079,7 @@ page:927
 	tag: Roof
 	tag: Speakeasy
 	tag: Zimmy
-	desc: I’m in love with Zimmy!
+	desc: I'm in love with Zimmy!
 page:926
 	date: 2011-08-31
 	tag: ch-34
@@ -4908,7 +5087,7 @@ page:926
 	tag: Jack
 	tag: Roof
 	tag: Speakeasy
-	desc: Jack… I don’t think I like you very much
+	desc: Jack... I don't think I like you very much
 page:925
 	date: 2011-08-29
 	tag: ch-34
@@ -4925,21 +5104,21 @@ page:924
 	tag: Kat
 	tag: Paz
 	tag: Speakeasy
-	desc: I wasn’t hitting on you!
+	desc: I wasn't hitting on you!
 page:923
 	date: 2011-08-24
 	tag: ch-34
 	tag: Kat
 	tag: Paz
 	tag: Speakeasy
-	desc: I-I like you but… I-I’m not… like that…
+	desc: I-I like you but... I-I'm not... like that...
 page:922
 	date: 2011-08-22
 	tag: ch-34
 	tag: Kat
 	tag: Paz
 	tag: Speakeasy
-	desc: oh Kat, I’m so embarrassed!
+	desc: oh Kat, I'm so embarrassed!
 page:921
 	date: 2011-08-19
 	tag: ch-34
@@ -4961,7 +5140,7 @@ page:920
 	tag: MoonGirl
 	tag: Speakeasy
 	tag: WhiteRabbit
-	desc: but I can’t stop thinking about her. Oh, and I think she took my mp3 player.
+	desc: but I can't stop thinking about her. Oh, and I think she took my mp3 player.
 page:919
 	date: 2011-08-15
 	tag: ch-34
@@ -4988,7 +5167,7 @@ page:917
 	tag: Paz
 	tag: Speakeasy
 	tag: Winsbury
-	desc: Hey Matt. Why don’t you tell us about that girl you’re always on about?
+	desc: Hey Matt. Why don't you tell us about that girl you're always on about?
 page:916
 	date: 2011-08-08
 	tag: ch-34
@@ -5023,7 +5202,7 @@ page:914
 	tag: Jack
 	tag: Kat
 	tag: Speakeasy
-	desc: he’s actually a very powerful psychic
+	desc: he's actually a very powerful psychic
 page:913
 	date: 2011-08-01
 	tag: ch-34
@@ -5036,7 +5215,7 @@ page:913
 	tag: Speakeasy
 	tag: John
 	tag: Winsbury
-	desc: so romantic! Don’t you think so, matt?
+	desc: so romantic! Don't you think so, matt?
 page:912
 	date: 2011-07-29
 	tag: ch-34
@@ -5053,7 +5232,7 @@ page:911
 	tag: Margo
 	tag: Speakeasy
 	tag: John
-	desc: even when we left the mandolin behind, they wouldn’t leave us alone
+	desc: even when we left the mandolin behind, they wouldn't leave us alone
 page:910
 	date: 2011-07-25
 	tag: ch-34
@@ -5062,7 +5241,7 @@ page:910
 	tag: Margo
 	tag: Speakeasy
 	tag: John
-	desc: it sounded great when I played it, but as soon as Margo started singing…
+	desc: it sounded great when I played it, but as soon as Margo started singing...
 page:909
 	date: 2011-07-22
 	tag: ch-34
@@ -5078,7 +5257,7 @@ page:909
 	tag: Speakeasy
 	tag: John
 	tag: Winsbury
-	desc: hey Margo, look what I brought! Oh nooo! That’s not the haunted one, is it?
+	desc: hey Margo, look what I brought! Oh nooo! That's not the haunted one, is it?
 page:908
 	date: 2011-07-20
 	tag: ch-34
@@ -5086,7 +5265,7 @@ page:908
 	tag: Buzzer
 	tag: Jack
 	tag: Speakeasy
-	desc: we haven’t really talked since before the summer
+	desc: we haven't really talked since before the summer
 page:907
 	date: 2011-07-18
 	tag: ch-34
@@ -5095,7 +5274,7 @@ page:907
 	tag: Jack
 	tag: Kat
 	tag: Speakeasy
-	desc: what the wife doesn’t know can’t hurt her, right?
+	desc: what the wife doesn't know can't hurt her, right?
 page:906
 	date: 2011-07-15
 	tag: ch-34
@@ -5110,7 +5289,7 @@ page:906
 	tag: Speakeasy
 	tag: John
 	tag: Winsbury
-	desc: so… no trouble?
+	desc: so... no trouble?
 page:905
 	date: 2011-07-13
 	tag: ch-34
@@ -5149,7 +5328,7 @@ page:903
 	tag: Margo
 	tag: Paz
 	tag: Robots
-	desc: so… we’ll be out all night?
+	desc: so... we'll be out all night?
 page:902
 	date: 2011-07-06
 	tag: ch-34
@@ -5223,7 +5402,7 @@ page:896
 	tag: RobotTomb
 page:895
 	date: 2011-06-20
-	desc: so I… I brought you back f-from the dead?
+	desc: so I... I brought you back f-from the dead?
 	tag: Annie
 	tag: ch-33
 	tag: DiegoBot
@@ -5293,7 +5472,7 @@ page:889
 	tag: Robots
 page:888
 	date: 2011-06-03
-	desc: I think I can make a bypass for it…
+	desc: I think I can make a bypass for it...
 	tag: Annie
 	tag: ch-33
 	tag: DiegoBot
@@ -5329,7 +5508,7 @@ page:886
 	tag: RobotParts
 	tag: Robotics
 	tag: Robots
-	desc: you… can read it?
+	desc: you... can read it?
 page:885
 	date: 2011-05-27
 	tag: ch-33
@@ -5353,7 +5532,7 @@ page:884
 	tag: RobotDesigns
 	tag: Robotics
 	tag: Robots
-	desc: about that operating code you asked us to print…
+	desc: about that operating code you asked us to print...
 page:883
 	date: 2011-05-23
 	tag: ch-33
@@ -5364,7 +5543,7 @@ page:883
 	tag: KatsWorkshop
 	tag: RobotParts
 	tag: Robots
-	desc: but… this would mean Diego was a… magician, not a scientist
+	desc: but... this would mean Diego was a... magician, not a scientist
 page:882
 	date: 2011-05-20
 	tag: ch-33
@@ -5463,7 +5642,7 @@ page:873
 	tag: Kat
 	tag: Roof
 	tag: Ysengrin
-	desc: didn’t he try to kill you at one point?
+	desc: didn't he try to kill you at one point?
 page:872
 	date: 2011-04-27
 	tag: ch-33
@@ -5484,7 +5663,7 @@ page:871
 	tag: Kat
 	tag: Landscape
 	tag: Roof
-	desc: So… you’re descended from a fire spirit?
+	desc: So... you're descended from a fire spirit?
 page:870
 	date: 2011-04-22
 	desc: Chapter 33:<br><br>**Give and Take**<br><br>_Icon: Robot design script/code_
@@ -5509,7 +5688,7 @@ page:868
 	tag: Kat
 	tag: PrincessMononoke
 	tag: Rey
-	desc: Bah! It’s some manner of animated picture?
+	desc: Bah! It's some manner of animated picture?
 page:867
 	date: 2011-04-15
 	tag: ch-32
@@ -5595,14 +5774,14 @@ page:860
 	tag: Kat
 	tag: Lindsey
 	tag: SubDorm
-	desc: What is this thing? It’s seriously creeping me out, haha
+	desc: What is this thing? It's seriously creeping me out, haha
 page:859
 	date: 2011-03-28
 	tag: ch-32
 	tag: Dorm
 	tag: Kat
 	tag: SubDorm
-	desc: Haha! Okay Annie. Now I’m impressed
+	desc: Haha! Okay Annie. Now I'm impressed
 page:858
 	date: 2011-03-25
 	tag: ch-32
@@ -5613,7 +5792,7 @@ page:858
 	tag: Lindsey
 	tag: SubDorm
 	desc: Enough already! 
-	auth: Tom: Not even sure how she’s doing that in panel 2
+	auth: Tom: Not even sure how she's doing that in panel 2
 page:857
 	date: 2011-03-23
 	tag: ch-32
@@ -5631,7 +5810,7 @@ page:856
 	tag: Mort
 	tag: Shadow
 	tag: SubDorm
-	desc: I’m supposed to tell you she’s been kidnapped by evil dino-demons
+	desc: I'm supposed to tell you she's been kidnapped by evil dino-demons
 page:855
 	date: 2011-03-18
 	tag: ch-32
@@ -5668,7 +5847,7 @@ page:852
 	tag: Kat
 	tag: Lindsey
 	tag: SubDorm
-	desc: Sometimes… you kinda make it hard to be your friend
+	desc: Sometimes... you kinda make it hard to be your friend
 page:851
 	date: 2011-03-09
 	tag: ch-32
@@ -5678,7 +5857,7 @@ page:851
 	tag: Jones
 	tag: Kat
 	tag: SubDorm
-	desc: I’m so sorry about the summer holiday
+	desc: I'm so sorry about the summer holiday
 page:850
 	date: 2011-03-07
 	tag: ch-32
@@ -5711,7 +5890,7 @@ page:848
 	tag: Dorm
 	tag: Rey
 	tag: SubDorm
-	desc: I wish I hadn’t been so cruel to you Reynard
+	desc: I wish I hadn't been so cruel to you Reynard
 page:847
 	date: 2011-02-28
 	tag: ch-32
@@ -5726,7 +5905,7 @@ page:847
 	tag: Khepi
 	tag: Rey
 	tag: SubDorm
-	desc: I’m so sorry for what I said
+	desc: I'm so sorry for what I said
 page:846
 	date: 2011-02-25
 	tag: ch-32
@@ -6312,7 +6491,7 @@ page:AitF-8
 	tag: Khepi
 	tag: KhepiHouse
 	tag: Sareed
-	desc: Give ’er a haul someone! Don't just gawp like toothies!
+	desc: Give 'er a haul someone! Don't just gawp like toothies!
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=8
 page:AitF-7
 	tag: ch-31b
@@ -6344,7 +6523,7 @@ page:AitF-5
 	tag: Coyote
 	tag: Gillitie
 	tag: Khepi
-	desc: Don't mind ’em, they've never seen one such as you. Fiery hair and pinkie skin!
+	desc: Don't mind 'em, they've never seen one such as you. Fiery hair and pinkie skin!
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=5
 page:AitF-4
 	tag: ch-31b
@@ -8137,7 +8316,7 @@ page:678
 	tag: Gillitie
 	tag: Stars
 	tag: Rey
-	desc: I just… needed to get away from the court for a little while
+	desc: I just... needed to get away from the court for a little while
 page:677
 	date: 2010-02-05
 	tag: ch-26
@@ -8150,7 +8329,7 @@ page:677
 	tag: Gillitie
 	tag: Stars
 	tag: Ysengrin
-	desc: Coyote… you’re magnificent… and terrifying.
+	desc: Coyote... you're magnificent... and terrifying.
 page:676
 	date: 2010-02-03
 	tag: ch-26
@@ -8161,7 +8340,7 @@ page:676
 	tag: Gillitie
 	tag: Rey
 	tag: Ysengrin
-	desc: Focus on yourself and expand slowly…
+	desc: Focus on yourself and expand slowly...
 page:675
 	date: 2010-02-01
 	tag: ch-26
@@ -8171,7 +8350,7 @@ page:675
 	tag: Gillitie
 	tag: Rey
 	tag: Ysengrin
-	desc: It is Renard’s body!
+	desc: It is Renard's body!
 page:674
 	date: 2010-01-29
 	tag: ch-26
@@ -8183,7 +8362,7 @@ page:674
 	tag: Gillitie
 	tag: Etherics
 	tag: Ysengrin
-	desc: I’m very upset with you coyote
+	desc: I'm very upset with you coyote
 page:673
 	date: 2010-01-27
 	tag: ch-26
@@ -8202,7 +8381,7 @@ page:672
 	tag: Gillitie
 	tag: TreeBody
 	tag: Ysengrin
-	desc: If you were anyone else…
+	desc: If you were anyone else...
 page:671
 	date: 2010-01-22
 	tag: ch-26
@@ -8278,10 +8457,10 @@ page:664
 	tag: Gillitie
 	tag: JollyElfsberry
 	tag: Uniform
-	desc: Symbol’s a little wonky Carver.
+	desc: Symbol's a little wonky Carver.
 page:663
 	date: 2010-01-04
-	desc: Chapter 26:<br><br>**The Old Dog’s Tricks**<br><br>_Icon: Coyote_
+	desc: Chapter 26:<br><br>**The Old Dog's Tricks**<br><br>_Icon: Coyote_
 	tag: ch-26
 	tag: Cover
 	tag: Coyote
@@ -8292,7 +8471,7 @@ page:662
 	tag: Filler
 	tag: Gamma
 	tag: Zimmy
-	desc: Another year…
+	desc: Another year...
 page:661
 	date: 2009-12-30
 	tag: ch-25
@@ -8323,7 +8502,7 @@ page:659
 	tag: RobotHQ
 	tag: Robots
 	tag: SkyWatcher
-	desc: “Love makes you act in strange ways”
+	desc: "Love makes you act in strange ways"
 page:658
 	date: 2009-12-23
 	tag: ch-25
@@ -8337,7 +8516,7 @@ page:658
 	tag: RobotKing
 	tag: Robots
 	tag: SkyWatcher
-	desc: Please, dearest angel, help us understand…
+	desc: Please, dearest angel, help us understand...
 page:657
 	date: 2009-12-21
 	tag: ch-25
@@ -8349,7 +8528,7 @@ page:657
 	tag: Monster
 	tag: Robots
 	tag: SirYoung
-	desc: …and I did nothing
+	desc: ...and I did nothing
 page:656
 	date: 2009-12-18
 	tag: ch-25
@@ -8372,7 +8551,7 @@ page:655
 	tag: DiegoBot
 	tag: Flashback
 	tag: Jeanne
-	desc: It didn’t have to be this way…
+	desc: It didn't have to be this way...
 page:654
 	date: 2009-12-14
 	tag: ch-25
@@ -8526,7 +8705,7 @@ page:643
 	desc: I demand to see it!
 page:642
 	date: 2009-11-16
-	desc: What’s this now?
+	desc: What's this now?
 	tag: Annie
 	tag: BismuthSymbol
 	tag: ch-25
@@ -8567,7 +8746,7 @@ page:639
 	tag: RobotTomb
 	tag: SkyWatcher
 	tag: Sword
-	desc: (Sky Watcher enters and sees Jeanne’s painting)
+	desc: (Sky Watcher enters and sees Jeanne's painting)
 page:638
 	date: 2009-11-06
 	tag: ch-25
@@ -8598,7 +8777,7 @@ page:636
 	tag: Robots
 	tag: Shadow
 	tag: SkyWatcher
-	desc: Hmm, let me guess what your primary function is…
+	desc: Hmm, let me guess what your primary function is...
 page:635
 	date: 2009-10-30
 	tag: ch-25
@@ -8611,7 +8790,7 @@ page:635
 	tag: Roof
 	tag: Shadow
 	tag: SkyWatcher
-	desc: Who else would be chosen to guard Jeanne’s tomb?
+	desc: Who else would be chosen to guard Jeanne's tomb?
 page:634
 	date: 2009-10-28
 	tag: ch-25
@@ -8645,7 +8824,7 @@ page:631
 	tag: Annie
 	tag: Dorm
 	tag: Rey
-	desc: Bonus Page: Absence and Hearts. (Reynardine… I… actually missed you)
+	desc: Bonus Page: Absence and Hearts. (Reynardine... I... actually missed you)
 page:630
 	date: 2009-10-19
 	tag: ch-24
@@ -8673,7 +8852,7 @@ page:629
 	tag: Students
 	tag: Winsbury
 	tag: YoungsPark
-	desc: And thank you… Laser Cows
+	desc: And thank you... Laser Cows
 page:628
 	date: 2009-10-14
 	tag: ch-24
@@ -8701,7 +8880,7 @@ page:627
 	tag: Fire
 	tag: Marcia
 	tag: YoungsPark
-	desc: You’re a dryad, aren’t you?
+	desc: You're a dryad, aren't you?
 page:626
 	date: 2009-10-09
 	tag: ch-24
@@ -8729,7 +8908,7 @@ page:625
 	tag: SirYoung
 	tag: Trees
 	tag: YoungsPark
-	desc: Bob! James! There’s a problem!
+	desc: Bob! James! There's a problem!
 page:624
 	date: 2009-10-05
 	tag: ch-24
@@ -8754,7 +8933,7 @@ page:623
 	tag: Monster
 	tag: Trees
 	tag: YoungsPark
-	desc: I hope nothing happens to me now that I’m here all alone!
+	desc: I hope nothing happens to me now that I'm here all alone!
 page:622
 	date: 2009-09-30
 	tag: ch-24
@@ -8810,7 +8989,7 @@ page:619
 	tag: John
 	tag: Tents
 	tag: YoungsPark
-	desc: You shouldn’t be lonely because of me, Kat
+	desc: You shouldn't be lonely because of me, Kat
 page:618
 	date: 2009-09-21
 	tag: ch-24
@@ -8821,7 +9000,7 @@ page:618
 	tag: LaserCow
 	tag: Robots
 	tag: YoungsPark
-	desc: And you think I’m the creep
+	desc: And you think I'm the creep
 page:617
 	date: 2009-09-18
 	tag: ch-24
@@ -8880,7 +9059,7 @@ page:613
 	tag: Trees
 	tag: Winsbury
 	tag: YoungsPark
-	desc: Kat, I don’t want you going near Jack
+	desc: Kat, I don't want you going near Jack
 page:612
 	date: 2009-09-07
 	tag: ch-24
@@ -8891,7 +9070,7 @@ page:612
 	tag: Jack
 	tag: WhiteSpider
 	tag: YoungsPark
-	desc: Huh? Who’s there? BLINK
+	desc: Huh? Who's there? BLINK
 page:611
 	date: 2009-09-04
 	tag: ch-24
@@ -8999,7 +9178,7 @@ page:605
 	tag: SirYoung
 	tag: Trees
 	tag: YoungsPark
-	desc: It’s a monument to that guy you learned about
+	desc: It's a monument to that guy you learned about
 page:604
 	date: 2009-08-19
 	tag: ch-24
@@ -9063,7 +9242,7 @@ page:600
 	tag: Students
 	tag: Teacher
 	tag: YoungsPark
-	desc: Maybe this won’t be so bad after all!
+	desc: Maybe this won't be so bad after all!
 page:599
 	date: 2009-08-07
 	tag: ch-24
@@ -9077,7 +9256,7 @@ page:599
 	tag: TrainStation
 	tag: Trees
 	tag: YoungsPark
-	desc: Walking is Nature’s quadbikes!
+	desc: Walking is Nature's quadbikes!
 page:598
 	date: 2009-08-05
 	tag: ch-24
@@ -9088,7 +9267,7 @@ page:598
 	tag: Rey
 	tag: Students
 	tag: Train
-	desc: I still can’t believe the park we’re camping in is IN the court
+	desc: I still can't believe the park we're camping in is IN the court
 	auth: Tom: Kat, Annie, and classmates are on a train headed to the place they will be camping. Kat has slightly longer hair due to the passage of time (only a few weeks since we last saw her).
 page:597
 	date: 2009-08-03
@@ -9122,7 +9301,7 @@ page:594
 	tag: Jack
 	tag: Monster
 	tag: Rey
-	desc: Oh… you have a, uh, large wolf with you.
+	desc: Oh... you have a, uh, large wolf with you.
 page:593
 	date: 2009-07-24
 	tag: ch-23
@@ -9141,7 +9320,7 @@ page:592
 	tag: Flowers
 	tag: Jack
 	tag: Zimmy
-	desc: Yeah… Zimmy. What class is she in?
+	desc: Yeah... Zimmy. What class is she in?
 page:591
 	date: 2009-07-20
 	tag: ch-23
@@ -9169,7 +9348,7 @@ page:589
 	tag: Flowers
 	tag: Mort
 	tag: Rey
-	desc: Poor Mort… I still feel terrible about it.
+	desc: Poor Mort... I still feel terrible about it.
 page:588
 	date: 2009-07-13
 	tag: ch-23
@@ -9187,7 +9366,7 @@ page:587
 	tag: Jones
 	tag: Smitty
 	tag: Rey
-	desc: Don’t you think that was a little cruel?
+	desc: Don't you think that was a little cruel?
 page:586
 	date: 2009-07-08
 	tag: ch-23
@@ -9224,7 +9403,7 @@ page:584
 	tag: Smitty
 	tag: Steadman
 	tag: Rey
-	desc: Ha! A flower? Y-you sap…
+	desc: Ha! A flower? Y-you sap...
 	note: Steadman mentioned as close friend of Artilleryman
 page:583
 	date: 2009-07-01
@@ -9254,7 +9433,7 @@ page:582
 	tag: Parley
 	tag: Smitty
 	tag: Rey
-	desc: Coyote Ysengrin and I didn’t arrive until… Later
+	desc: Coyote Ysengrin and I didn't arrive until... Later
 page:581
 	date: 2009-06-26
 	tag: ch-23
@@ -9314,7 +9493,7 @@ page:578
 	tag: Simulation
 	tag: Smitty
 	tag: Rey
-	desc: It’s obvious Carver is gonna be picked as the next medium
+	desc: It's obvious Carver is gonna be picked as the next medium
 page:577
 	date: 2009-06-17
 	tag: ch-23
@@ -9350,7 +9529,7 @@ page:574
 	tag: Parley
 	tag: Smitty
 	tag: Rey
-	desc: I don’t know what happened! A glitch in the simulator
+	desc: I don't know what happened! A glitch in the simulator
 page:573
 	date: 2009-06-08
 	tag: ch-23
@@ -9413,7 +9592,7 @@ page:567
 	tag: Filler
 	tag: CityFace
 	tag: Fairies
-	desc: It’s because of Humans!
+	desc: It's because of Humans!
 page:566
 	date: 2009-05-26
 	tag: ch-22a
@@ -9506,7 +9685,7 @@ page:557
 	tag: MrThorn
 	tag: RogatOrjak
 	tag: Surma
-	desc: You guys aren’t going to believe this… But that guy is our games teacher!
+	desc: You guys aren't going to believe this... But that guy is our games teacher!
 page:556
 	date: 2009-05-08
 	tag: ch-22
@@ -9519,7 +9698,7 @@ page:556
 	tag: Robots
 	tag: RogatOrjak
 	tag: Sword
-	desc: Don’t forget, double cross country tomorrow James
+	desc: Don't forget, double cross country tomorrow James
 page:555
 	date: 2009-05-06
 	tag: ch-22
@@ -9574,7 +9753,7 @@ page:552
 	tag: Roof
 	tag: Robots
 	tag: Surma
-	desc: Is... Not a real creature. More like… puppet… being called back to forest
+	desc: Is... Not a real creature. More like... puppet... being called back to forest
 page:551
 	date: 2009-04-27
 	tag: ch-22
@@ -9586,7 +9765,7 @@ page:551
 	tag: Roof
 	tag: Robots
 	tag: Surma
-	desc: Some kinda dog! A dog made of wood…
+	desc: Some kinda dog! A dog made of wood...
 page:550
 	date: 2009-04-24
 	tag: ch-22
@@ -9609,7 +9788,7 @@ page:549
 	tag: StopBot
 	tag: Students
 	tag: Surma
-	desc: c’mon, we have to get a better look at this!
+	desc: c'mon, we have to get a better look at this!
 page:548
 	date: 2009-04-20
 	tag: ch-22
@@ -9662,7 +9841,7 @@ page:544
 	tag: Donny
 	tag: Flashback
 	tag: Surma
-	desc: Looks like it’s just the three of us for lunch then!
+	desc: Looks like it's just the three of us for lunch then!
 page:543
 	date: 2009-04-08
 	tag: ch-22
@@ -9711,7 +9890,7 @@ page:540
 	tag: Students
 	tag: Surma
 	tag: Valknut
-	desc: You an’ your friends are freaks, how’s that you cu- WHUD
+	desc: You an' your friends are freaks, how's that you cu- WHUD
 page:539
 	date: 2009-03-30
 	tag: ch-22
@@ -9723,7 +9902,7 @@ page:539
 	tag: Surma
 	tag: Valknut
 	tag: ZAM
-	desc: Won’t you stay a little longer Brinnie?
+	desc: Won't you stay a little longer Brinnie?
 page:538
 	date: 2009-03-27
 	tag: ch-22
@@ -9732,7 +9911,7 @@ page:538
 	tag: Flashback
 	tag: Jones
 	tag: Tony
-	desc: “I have matters to attend to” Jeez, who talks like that?
+	desc: "I have matters to attend to" Jeez, who talks like that?
 page:537
 	date: 2009-03-25
 	tag: ch-22
@@ -9757,7 +9936,7 @@ page:536
 	tag: Surma
 	tag: Teacher
 	tag: Tony
-	desc: Any other groups want their picture takin’?
+	desc: Any other groups want their picture takin'?
 page:535
 	date: 2009-03-20
 	desc: Chapter 22:<br><br>**Ties**<br><br>_Icon: Court Protector's armour_
@@ -9877,7 +10056,7 @@ page:524
 	tag: Kat
 	tag: Mort
 	tag: Muut
-	desc: Yeah how would I know? I’m just a ghost. BWIP
+	desc: Yeah how would I know? I'm just a ghost. BWIP
 page:523
 	date: 2009-02-20
 	tag: ch-21
@@ -9886,7 +10065,7 @@ page:523
 	tag: BlinkerStone
 	tag: Kat
 	tag: Mort
-	desc: He’s not a boy Kat, he’s just a ghost
+	desc: He's not a boy Kat, he's just a ghost
 page:522
 	date: 2009-02-18
 	tag: ch-21
@@ -9919,7 +10098,7 @@ page:520
 	tag: EthericShield
 	tag: Kat
 	tag: Rey
-	desc: Some say that isn’t good enough if you can’t explain how it works.
+	desc: Some say that isn't good enough if you can't explain how it works.
 page:519
 	date: 2009-02-11
 	tag: ch-21
@@ -9954,7 +10133,7 @@ page:517
 	tag: EthericShield
 	tag: Kat
 	tag: Rey
-	auth: Tom: Annie’s just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds.
+	auth: Tom: Annie's just going to pop out for a second while those two nerdlingers nerd it up big time. Nerds.
 page:516
 	date: 2009-02-04
 	tag: ch-21
@@ -9967,7 +10146,7 @@ page:516
 	tag: EyeCrossed
 	tag: Kat
 	tag: Rey
-	desc: How can a glowing… floaty… symbol be a program?
+	desc: How can a glowing... floaty... symbol be a program?
 page:515
 	date: 2009-02-02
 	tag: ch-21
@@ -9977,7 +10156,7 @@ page:515
 	tag: Court
 	tag: Etherics
 	tag: Kat
-	desc: Others may call these methods Magic, The court, prefers to refer to them as “Etheric Sciences”
+	desc: Others may call these methods Magic, The court, prefers to refer to them as "Etheric Sciences"
 page:514
 	date: 2009-01-30
 	tag: ch-21
@@ -9990,7 +10169,7 @@ page:514
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Rey
-	desc: Oh… hmm… Why Don’t we go talk in the office.
+	desc: Oh... hmm... Why Don't we go talk in the office.
 page:513
 	date: 2009-01-28
 	tag: ch-21
@@ -10029,7 +10208,7 @@ page:511
 page:510
 	date: 2009-01-21
 	auth: What do you think this is, Kat, Nine Tomorrows?
-	desc: It’s gotta be some kind of matter transference!
+	desc: It's gotta be some kind of matter transference!
 	note: [Nine Tomorrows](https://en.wikipedia.org/wiki/Nine_Tomorrows) 
 	tag: Anja
 	tag: Annie
@@ -10069,7 +10248,7 @@ page:507
 	tag: KatsWorkshop
 	tag: Rey
 	tag: Robots
-	desc: They really are obsessed with that painting of Jeanne aren’t they?
+	desc: They really are obsessed with that painting of Jeanne aren't they?
 page:506
 	date: 2009-01-12
 	tag: ch-21
@@ -10120,7 +10299,7 @@ page:501
 	tag: MoonPrint
 	tag: Observatory
 	tag: Telescope
-	desc: That… That can’t be right!
+	desc: That... That can't be right!
 page:500
 	date: 2008-12-29
 	tag: ch-20
@@ -10132,7 +10311,7 @@ page:500
 	tag: Observatory
 	tag: Rey
 	tag: Telescope
-	desc: Everything’s the same as it always is
+	desc: Everything's the same as it always is
 page:499
 	date: 2008-12-26
 	tag: ch-20
@@ -10158,7 +10337,7 @@ page:498
 	desc: That is all for tonight, I think!
 page:497
 	date: 2008-12-22
-	desc: Why... It is man’s endevour to become God!
+	desc: Why... It is man's endevour to become God!
 	tag: Annie
 	tag: ch-20
 	tag: Court
@@ -10243,7 +10422,7 @@ page:492
 	tag: River
 	tag: Traitor
 	tag: Ysengrin
-	desc: Is this the test I’ve heard about?
+	desc: Is this the test I've heard about?
 page:491
 	date: 2008-12-08
 	tag: ch-20
@@ -10593,7 +10772,7 @@ page:467
 	tag: ToyShop
 	tag: Zimmingham
 	tag: Zimmy
-	desc: No, Kat! Don—
+	desc: No, Kat! Don---
 page:466
 	date: 2008-10-10
 	tag: ch-19
@@ -11277,7 +11456,7 @@ page:408
 	tag: Robot
 	tag: RobotTomb
 	tag: Shadow
-	desc: Perhaps Reynardine… / Could smash the lock! / Could pick the lock properly. / Aw.
+	desc: Perhaps Reynardine... / Could smash the lock! / Could pick the lock properly. / Aw.
 page:407
 	date: 2008-05-26
 	tag: ch-18
@@ -11301,7 +11480,7 @@ page:406
 	tag: Robot
 	tag: Train
 	tag: TrainStation
-	desc: One is allowed to defend one’s own honour. (We see Robot in his mouse body)
+	desc: One is allowed to defend one's own honour. (We see Robot in his mouse body)
 page:405
 	date: 2008-05-21
 	tag: ch-18
@@ -11312,7 +11491,7 @@ page:405
 	tag: Rey
 	tag: Students
 	tag: TrainStation
-	desc: Bah. Those buffoons! Insult you would they… Ahhh! I absolutely did not expect thiiiiis!
+	desc: Bah. Those buffoons! Insult you would they... Ahhh! I absolutely did not expect thiiiiis!
 page:404
 	date: 2008-05-19
 	tag: ch-18
@@ -11387,7 +11566,7 @@ page:397
 	tag: DonlanHouse
 	tag: Donny
 	tag: Kat
-	desc: Waaait… what’s going on here? Nothing! I uh… was wondering if you knew someplace I could use as a workshop. (Kat does a faaabulous entrance pose)
+	desc: Waaait... what's going on here? Nothing! I uh... was wondering if you knew someplace I could use as a workshop. (Kat does a faaabulous entrance pose)
 page:396
 	date: 2008-04-30
 	tag: ch-18
@@ -11398,7 +11577,7 @@ page:396
 	desc: Real slick, Donlan.
 page:395
 	date: 2008-04-28
-	desc: Chapter 18:<br><br>**S1**<br><br>_Icon: Kat’s silhouette_
+	desc: Chapter 18:<br><br>**S1**<br><br>_Icon: Kat's silhouette_
 	tag: Annie
 	tag: BlinkerStone
 	tag: ch-18
@@ -11763,7 +11942,7 @@ page:359
 	tag: Kat
 	tag: Surma
 	tag: SurmaWhisper
-	desc: It was something I have always kept in mind. She said… Always remember… remember I will never send you into danger.
+	desc: It was something I have always kept in mind. She said... Always remember... remember I will never send you into danger.
 page:358
 	date: 2008-02-01
 	tag: ch-16
@@ -11774,7 +11953,7 @@ page:358
 	tag: Jeanne
 	tag: Kat
 	tag: Sword
-	desc: I should have tried to help her… instead I was a fool and became scared when I thought she had cut me.
+	desc: I should have tried to help her... instead I was a fool and became scared when I thought she had cut me.
 page:357
 	date: 2008-01-30
 	tag: ch-16
@@ -11785,7 +11964,7 @@ page:357
 	tag: Jeanne
 	tag: Kat
 	tag: Sword
-	desc: You said your Psychopomps friends could help her, right? So what if she’s stuck too?
+	desc: You said your Psychopomps friends could help her, right? So what if she's stuck too?
 page:356
 	date: 2008-01-28
 	tag: ch-16
@@ -11833,7 +12012,7 @@ page:352
 	tag: MartinRoom
 	tag: Surma
 	tag: SurmaWhisper
-	desc: Always remember one thing…
+	desc: Always remember one thing...
 page:351
 	date: 2008-01-16
 	tag: ch-16
@@ -11842,7 +12021,7 @@ page:351
 	tag: Martin
 	tag: MartinLizard
 	tag: MartinRoom
-	desc: It’s fire! You were playing with fire!
+	desc: It's fire! You were playing with fire!
 page:350
 	date: 2008-01-14
 	tag: ch-16
@@ -11850,7 +12029,7 @@ page:350
 	tag: Fire
 	tag: MartinRoom
 	tag: Ooze
-	desc: This stuff doesn't come near me… but what is it?
+	desc: This stuff doesn't come near me... but what is it?
 page:349
 	date: 2008-01-11
 	tag: ch-16
@@ -11875,7 +12054,7 @@ page:347
 	tag: Martin
 	tag: MartinLizard
 	tag: MartinRoom
-	desc: I don’t like it.
+	desc: I don't like it.
 page:346
 	date: 2008-01-04
 	tag: ch-16
@@ -11897,14 +12076,14 @@ page:344
 	tag: Annie
 	tag: Martin
 	tag: MartinRoom
-	desc: There is a big scary witch with a big dog outside my room! (Annie touches the lost boy’s arm and it withers)
+	desc: There is a big scary witch with a big dog outside my room! (Annie touches the lost boy's arm and it withers)
 page:343
 	date: 2007-12-28
 	tag: ch-16
 	tag: Annie
 	tag: Martin
 	tag: MartinRoom
-	desc: (Annie finds the “boy who has lost his way” hiding under the bed)
+	desc: (Annie finds the "boy who has lost his way" hiding under the bed)
 page:342
 	date: 2007-12-26
 	tag: ch-16
@@ -11913,7 +12092,7 @@ page:342
 	tag: Mallt-y-nos
 	tag: ModdeyDhoo
 	tag: Psychopomps
-	desc: She isn’t even listening! Surma was right, she’s too young!
+	desc: She isn't even listening! Surma was right, she's too young!
 page:341
 	date: 2007-12-24
 	tag: ch-16
@@ -11922,7 +12101,7 @@ page:341
 	tag: Mallt-y-nos
 	tag: ModdeyDhoo
 	tag: Psychopomps
-	desc: In this circumstance ’e’s allowed ta make a choice, being born of two jurisdictions.
+	desc: In this circumstance 'e's allowed ta make a choice, being born of two jurisdictions.
 page:340
 	date: 2007-12-21
 	tag: ch-16
@@ -11964,14 +12143,14 @@ page:337
 	tag: Kat
 	tag: Moon
 	tag: Stars
-	desc: He ah… has an owl head and doesn’t wear a shirt, you say?
+	desc: He ah... has an owl head and doesn't wear a shirt, you say?
 page:336
 	date: 2007-12-12
 	tag: ch-16
 	tag: Annie
 	tag: GoodHope
 	tag: Muut
-	desc: I’m going to visit a friend in Room 426, would you like to come?
+	desc: I'm going to visit a friend in Room 426, would you like to come?
 page:335
 	date: 2007-12-10
 	tag: ch-16
@@ -12404,7 +12583,7 @@ page:290
 	tag: AntimonySymbol
 	tag: Dorm
 	tag: Rey
-	desc: Aren’t you going to ask me what I did? What law I broke?
+	desc: Aren't you going to ask me what I did? What law I broke?
 page:289
 	date: 2007-09-03
 	tag: ch-14
@@ -12412,7 +12591,7 @@ page:289
 	tag: Annie
 	tag: DonlanHouse
 	tag: Kat
-	desc: It won’t be any fun without you
+	desc: It won't be any fun without you
 page:288
 	date: 2007-08-31
 	tag: ch-14
@@ -12446,7 +12625,7 @@ page:286
 	tag: Parley
 	tag: Rey
 	tag: Seeds
-	desc: The way he has distorted his body… I've seen similar but nothing quite like that
+	desc: The way he has distorted his body... I've seen similar but nothing quite like that
 page:285
 	date: 2007-08-24
 	tag: ch-14
@@ -12476,7 +12655,7 @@ page:283
 	tag: Rey
 	tag: Sword
 	tag: Ysengrin
-	desc: (Ysengrin shoots his arm out to attack Annie, Rey steps in front and Donny’s etheric shield stops it)
+	desc: (Ysengrin shoots his arm out to attack Annie, Rey steps in front and Donny's etheric shield stops it)
 page:282
 	date: 2007-08-17
 	tag: ch-14
@@ -12496,7 +12675,7 @@ page:281
 	tag: Rey
 	tag: Robot
 	tag: WoodenArm
-	desc: Won’t you come back to the forest with us, dearest cousin?
+	desc: Won't you come back to the forest with us, dearest cousin?
 page:280
 	date: 2007-08-13
 	tag: ch-14
@@ -12540,7 +12719,7 @@ page:277
 	tag: Donny
 	tag: TicToc
 	tag: Ysengrin
-	desc: We’ve wanted to capture one of them for a long time. If we could just study the remains…
+	desc: We've wanted to capture one of them for a long time. If we could just study the remains...
 page:276
 	date: 2007-08-03
 	tag: ch-14
@@ -12555,7 +12734,7 @@ page:276
 	tag: Headmaster
 	tag: TicToc
 	tag: Ysengrin
-	desc: It’s one of those birds!
+	desc: It's one of those birds!
 page:275
 	date: 2007-08-01
 	tag: ch-14
@@ -12642,7 +12821,7 @@ page:268
 	tag: CourtHall
 	tag: Parley
 	tag: Smitty
-	desc: Jeez! You’re Surma Stibnite’s kid?!
+	desc: Jeez! You're Surma Stibnite's kid?!
 page:267
 	date: 2007-07-13
 	desc: Bah! I had all me stuff packed already. I look a mess! (People gather in the main court hall)
@@ -12678,7 +12857,7 @@ page:265
 	tag: ForestSymbol
 	tag: Kat
 	tag: Roof
-	desc: Well, I’ll go and gather the usual people in the greeting hall.
+	desc: Well, I'll go and gather the usual people in the greeting hall.
 page:264
 	date: 2007-07-06
 	tag: ch-14
@@ -12716,7 +12895,7 @@ page:262
 	tag: ForestSymbol
 	tag: Gillitie
 	tag: Roof
-	desc: It’s a signal from the forest. We have to reply.
+	desc: It's a signal from the forest. We have to reply.
 page:261
 	date: 2007-06-29
 	tag: ch-14
@@ -13053,7 +13232,7 @@ page:225
 	tag: ScienceLab
 	tag: Shadow
 	tag: WolfToy
-	desc: It’s a wonder my fool cousin hasn’t already retaliated.
+	desc: It's a wonder my fool cousin hasn't already retaliated.
 page:224
 	date: 2007-04-04
 	tag: ch-12
@@ -13095,7 +13274,7 @@ page:221
 	tag: Robot
 	tag: ScienceLab
 	tag: Tears
-	desc: Am… am I in heaven?! I see an Angel before me!
+	desc: Am... am I in heaven?! I see an Angel before me!
 page:220
 	date: 2007-03-26
 	tag: ch-12
@@ -13153,7 +13332,7 @@ page:216
 	tag: Robot
 	tag: RobotHQ
 	tag: StarHeadband
-	desc: Here it is… S13
+	desc: Here it is... S13
 page:215
 	date: 2007-03-14
 	tag: ch-12
@@ -13172,7 +13351,7 @@ page:214
 	tag: Rey
 	tag: RobotHQ
 	tag: StarHeadband
-	desc: Fine… get on (Rey turns from a WolfToy into a proper wolf form)
+	desc: Fine... get on (Rey turns from a WolfToy into a proper wolf form)
 page:213
 	date: 2007-03-09
 	tag: ch-12
@@ -13189,7 +13368,7 @@ page:212
 	tag: RobotHQ
 	tag: Robots
 	tag: StarHeadband
-	desc: Meanwhile as his body begins a career in paper fastening, S13’s cpu has been sent to Research
+	desc: Meanwhile as his body begins a career in paper fastening, S13's cpu has been sent to Research
 page:211
 	date: 2007-03-05
 	tag: ch-12
@@ -13209,7 +13388,7 @@ page:210
 	tag: RobotHQ
 	tag: Robots
 	tag: StarHeadband
-	desc: His name is Robot! Um… number 13?
+	desc: His name is Robot! Um... number 13?
 page:209
 	date: 2007-02-28
 	tag: ch-12
@@ -13220,7 +13399,7 @@ page:209
 	tag: RobotHQ
 	tag: Robots
 	tag: StarHeadband
-	desc: We’re looking for a particular Robot
+	desc: We're looking for a particular Robot
 page:208
 	date: 2007-02-26
 	tag: ch-12
@@ -13231,7 +13410,7 @@ page:208
 	tag: RobotHQ
 	tag: Robots
 	tag: StarHeadband
-	desc: Robots onl… What’s that on your head?
+	desc: Robots onl... What's that on your head?
 page:207
 	date: 2007-02-23
 	tag: ch-12
@@ -13279,7 +13458,7 @@ page:203
 	tag: ScienceLab
 	tag: Shadow
 	tag: Terrible
-	desc: On my way over I saw… Robots! (helloooo!)
+	desc: On my way over I saw... Robots! (helloooo!)
 	auth: Tom: nobody likes boxbot
 page:202
 	date: 2007-02-12
@@ -13288,7 +13467,7 @@ page:202
 	tag: Kat
 	tag: ScienceLab
 	tag: Shadow
-	desc: Kat, that’s wonderful! He even sounds like you!
+	desc: Kat, that's wonderful! He even sounds like you!
 page:201
 	date: 2007-02-09
 	tag: ch-12
@@ -13296,7 +13475,7 @@ page:201
 	tag: Kat
 	tag: ScienceLab
 	tag: Shadow
-	desc: He isn’t really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
+	desc: He isn't really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
 page:200
 	date: 2007-02-07
 	desc: Chapter 12:<br><br>**Mainly Involves Robots**<br><br>_Icon: Reynardine (Rey, Renard) with the AntimonySymbol on his forehead_
@@ -13499,7 +13678,7 @@ page:178
 	tag: Kat
 	tag: Moon
 	tag: Winsbury
-	desc: I hope you like your… smashed… death ray!
+	desc: I hope you like your... smashed... death ray!
 page:177
 	date: 2006-12-12
 	tag: ch-10
@@ -13522,7 +13701,7 @@ page:176
 	tag: Kat
 	tag: Moon
 	tag: Winsbury
-	desc: You’ll never get away with this!
+	desc: You'll never get away with this!
 page:175
 	date: 2006-12-05
 	tag: ch-10
@@ -13540,7 +13719,7 @@ page:174
 	tag: Moon
 	tag: Simulation
 	tag: Students
-	desc: It’s a chance for us to dress up and run around like crazies.
+	desc: It's a chance for us to dress up and run around like crazies.
 page:173
 	date: 2006-11-28
 	tag: ch-10
@@ -13549,7 +13728,7 @@ page:173
 	tag: Moon
 	tag: Simulation
 	tag: Students
-	desc: You can join them if you wish. I’m sure I’ll catch up eventually.
+	desc: You can join them if you wish. I'm sure I'll catch up eventually.
 page:172
 	date: 2006-11-23
 	tag: ch-10
@@ -13561,7 +13740,7 @@ page:172
 	tag: Moon
 	tag: Simulation
 	tag: Winsbury
-	desc: Those are the terrible Enigmarons? They don’t even have arms.
+	desc: Those are the terrible Enigmarons? They don't even have arms.
 page:171
 	date: 2006-11-21
 	tag: ch-10
@@ -13592,7 +13771,7 @@ page:169
 	tag: Kat
 	tag: SimRocket
 	tag: Simulation
-	desc: But that’s not the point. You’re supposed to enjoy it!
+	desc: But that's not the point. You're supposed to enjoy it!
 page:168
 	date: 2006-11-09
 	tag: ch-10
@@ -13600,7 +13779,7 @@ page:168
 	tag: Court
 	tag: DrDisaster
 	tag: Kat
-	desc: I must admit I question the educational value of Dr. Disaster’s classes.
+	desc: I must admit I question the educational value of Dr. Disaster's classes.
 page:167
 	date: 2006-11-07
 	tag: ch-10
@@ -13771,7 +13950,7 @@ page:152
 	tag: Classroom
 	tag: Kat
 	tag: Mort
-	desc: It was a very thoughtful gift. / Aw shucks, ’t weren't no big thing.
+	desc: It was a very thoughtful gift. / Aw shucks, 't weren't no big thing.
 page:151
 	date: 2006-09-12
 	tag: ch-09
@@ -13816,7 +13995,7 @@ page:147
 	tag: AntiGrav
 	tag: Court
 	tag: Kat
-	desc: This isn’t just a school is it?
+	desc: This isn't just a school is it?
 page:146
 	date: 2006-08-24
 	tag: ch-08
@@ -13827,7 +14006,7 @@ page:146
 	tag: Jeanne
 	tag: Kat
 	tag: Shadow
-	desc: You remember that time I told you that I’d never lost anyone I cared for?
+	desc: You remember that time I told you that I'd never lost anyone I cared for?
 page:145
 	date: 2006-08-22
 	tag: ch-08
@@ -13848,7 +14027,7 @@ page:144
 	tag: Gillitie
 	tag: Kat
 	tag: Red
-	desc: Maybe we’ll see you when we get to the Gunner’s Crag!
+	desc: Maybe we'll see you when we get to the Gunner's Crag!
 page:143
 	date: 2006-08-15
 	tag: ch-08
@@ -13893,7 +14072,7 @@ page:140
 	tag: Jeanne
 	tag: Red
 	tag: Sword
-	desc: Are you from the other shore? How did you cross the…
+	desc: Are you from the other shore? How did you cross the...
 page:139
 	date: 2006-08-01
 	tag: ch-08
@@ -13930,7 +14109,7 @@ page:137
 	tag: Gillitie
 	tag: Red
 	tag: Shadow
-	desc: Gunner’s crag? Do you mean Gunnerkrigg Court?
+	desc: Gunner's crag? Do you mean Gunnerkrigg Court?
 page:136
 	date: 2006-07-20
 	tag: ch-08
@@ -13981,7 +14160,7 @@ page:133
 	tag: Jeanne
 	tag: Muut
 	tag: Shadow
-	desc: He wanted us to give you this. Something you may find useful given your… current situation
+	desc: He wanted us to give you this. Something you may find useful given your... current situation
 page:132
 	date: 2006-07-06
 	tag: ch-08
@@ -13992,7 +14171,7 @@ page:132
 	tag: Muut
 	tag: Red
 	tag: TicToc
-	desc: Someone who is “just fine” would not be in this place.
+	desc: Someone who is "just fine" would not be in this place.
 page:131
 	date: 2006-07-04
 	tag: ch-08
@@ -14035,7 +14214,7 @@ page:128
 	tag: Robot
 	tag: Shadow
 	tag: WoodenArm
-	desc: You did something to poor robot, and I won’t allow you to do the same to me.
+	desc: You did something to poor robot, and I won't allow you to do the same to me.
 page:127
 	date: 2006-06-20
 	tag: ch-08
@@ -14062,7 +14241,7 @@ page:125
 	tag: Annie
 	tag: Gillitie
 	tag: TicToc
-	desc: If it’s not too much trouble, perhaps the other shore would be a better…
+	desc: If it's not too much trouble, perhaps the other shore would be a better...
 page:124
 	date: 2006-06-08
 	tag: ch-08
@@ -14225,7 +14404,7 @@ page:110
 	tag: ScienceLab
 	tag: Spider
 	tag: VenusSymbol
-	desc: Kat, I’m sorry I caused a scene this morning.
+	desc: Kat, I'm sorry I caused a scene this morning.
 page:109
 	date: 2006-04-18
 	tag: ch-07
@@ -14248,7 +14427,7 @@ page:108
 	tag: EtherSymbol
 	tag: Kat
 	tag: Rey
-	desc: Criminal or not, I won’t allow him to be subjected to that again.
+	desc: Criminal or not, I won't allow him to be subjected to that again.
 page:107
 	date: 2006-04-11
 	tag: ch-07
@@ -14288,7 +14467,7 @@ page:105
 	tag: Eglamore
 	tag: Kat
 	tag: WolfToy
-	desc: If you don’t mind; I also have something I think you should see
+	desc: If you don't mind; I also have something I think you should see
 page:104
 	date: 2006-03-30
 	tag: ch-07
@@ -14298,7 +14477,7 @@ page:104
 	tag: DonlanHouse
 	tag: Eglamore
 	tag: Kat
-	desc: But when Anthony wants to disappear, he’ll do so.
+	desc: But when Anthony wants to disappear, he'll do so.
 page:103
 	date: 2006-03-28
 	tag: ch-07
@@ -14311,7 +14490,7 @@ page:103
 	tag: Kat
 	tag: Photo
 	tag: Tony
-	desc: Who’s this cute guy here? That… that would be me.
+	desc: Who's this cute guy here? That... that would be me.
 page:102
 	date: 2006-03-23
 	tag: ch-07
@@ -14337,7 +14516,7 @@ page:101
 	tag: Kat
 	tag: MercurySymbol
 	tag: Rey
-	desc: Reynardine can’t hurt anyone any more
+	desc: Reynardine can't hurt anyone any more
 page:100
 	date: 2006-03-16
 	tag: ch-07
@@ -14396,7 +14575,7 @@ page:95
 	tag: Habitat
 	tag: Kat
 	tag: Tony
-	desc: The school’s got to know where your dad is.
+	desc: The school's got to know where your dad is.
 page:94
 	date: 2006-02-23
 	tag: ch-06
@@ -14407,7 +14586,7 @@ page:94
 	tag: Habitat
 	tag: Kat
 	tag: Tony
-	desc: They said he didn’t work there any more and they didn’t know how to contact him.
+	desc: They said he didn't work there any more and they didn't know how to contact him.
 page:93
 	date: 2006-02-21
 	tag: ch-06
@@ -14416,7 +14595,7 @@ page:93
 	tag: Habitat
 	tag: Kat
 	tag: Tony
-	desc: What about your dad? I don’t know where he is.
+	desc: What about your dad? I don't know where he is.
 page:92
 	date: 2006-02-16
 	tag: ch-06
@@ -14426,7 +14605,7 @@ page:92
 	tag: Crying
 	tag: Habitat
 	tag: Kat
-	desc: I miss my mummy…
+	desc: I miss my mummy...
 page:91
 	date: 2006-02-14
 	tag: ch-06
@@ -14443,7 +14622,7 @@ page:90
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
-	desc: (Annie and Kat throw cherries into each others’ mouths and Kat falls out of the tree)
+	desc: (Annie and Kat throw cherries into each others' mouths and Kat falls out of the tree)
 page:89
 	date: 2006-02-07
 	tag: ch-06
@@ -14514,7 +14693,7 @@ page:82
 	tag: Kat
 	tag: Rey
 	tag: Zimmy
-	desc: I don’t know what you are but you’re so cute! (Dwr Budr T-shirt)
+	desc: I don't know what you are but you're so cute! (Dwr Budr T-shirt)
 page:81
 	date: 2006-01-10
 	tag: ch-05
@@ -14546,7 +14725,7 @@ page:79
 	tag: Rey
 	tag: WolfToy
 	tag: Zimmy
-	desc: We’re here to find who’s been messing with our stuff. An’ we found ’im! (Dwr Budr T-shirt)
+	desc: We're here to find who's been messing with our stuff. An' we found 'im! (Dwr Budr T-shirt)
 page:78
 	date: 2005-12-29
 	tag: ch-05
@@ -14575,7 +14754,7 @@ page:76
 	tag: Gamma
 	tag: Hall
 	tag: Zimmy
-	desc: This is… an abomination.
+	desc: This is... an abomination.
 page:75
 	date: 2005-12-20
 	tag: ch-05
@@ -14588,7 +14767,7 @@ page:75
 	tag: Eglamore
 	tag: Hall
 	tag: Kat
-	desc: Quite a chip off the ol’ block, eh Anja?
+	desc: Quite a chip off the ol' block, eh Anja?
 page:74
 	date: 2005-12-15
 	tag: ch-05
@@ -14598,7 +14777,7 @@ page:74
 	tag: Kat
 	tag: Library
 	tag: Zimmy
-	desc: I’ll see you and bignose and ’er crappy invention tomorrow!
+	desc: I'll see you and bignose and 'er crappy invention tomorrow!
 page:73
 	date: 2005-12-13
 	tag: ch-05
@@ -14608,7 +14787,7 @@ page:73
 	tag: Kat
 	tag: Library
 	tag: Zimmy
-	desc: Zimmy and Gamma from Chester South, that’s us!
+	desc: Zimmy and Gamma from Chester South, that's us!
 page:72
 	date: 2005-12-08
 	tag: ch-05
@@ -14618,7 +14797,7 @@ page:72
 	tag: Kat
 	tag: Library
 	tag: Zimmy
-	desc: What you lookin’ at? you got a problem?
+	desc: What you lookin' at? you got a problem?
 page:71
 	date: 2005-12-06
 	tag: ch-05
@@ -14626,7 +14805,7 @@ page:71
 	tag: BismuthSymbol
 	tag: Classroom
 	tag: Kat
-	desc: Do you want to help? I’d like that very much!
+	desc: Do you want to help? I'd like that very much!
 page:70
 	date: 2005-12-01
 	tag: ch-05
@@ -14634,7 +14813,7 @@ page:70
 	tag: Classroom
 	tag: Kat
 	tag: Teacher
-	desc: Class 7qn’s entrant in the year 7 science fair will be Katerina’s zero gravity generator!
+	desc: Class 7qn's entrant in the year 7 science fair will be Katerina's zero gravity generator!
 page:69
 	date: 2005-11-29
 	desc: Chapter 5:<br><br>**Two Strange girls**<br><br>_Icon: Kat in the Library_
@@ -14688,14 +14867,14 @@ page:63
 	tag: Mort
 page:62
 	date: 2005-11-03
-	desc: I don’t think anyone has been scared of the bedsheet phantasm ensemble for a long time
+	desc: I don't think anyone has been scared of the bedsheet phantasm ensemble for a long time
 	tag: Annie
 	tag: ch-04
 	tag: Court
 	tag: Mort
 page:61
 	date: 2005-11-01
-	desc: I’m a ghost! Aren’t you scared?!
+	desc: I'm a ghost! Aren't you scared?!
 	tag: Annie
 	tag: ch-04
 	tag: Court
@@ -14720,7 +14899,7 @@ page:58
 	tag: EugeneGould
 	tag: HardwickLittleBestiary
 	tag: RogatOrjak
-	desc: Bonus Page: Rogat Orjak (Hardwick and Little’s Bestiary)
+	desc: Bonus Page: Rogat Orjak (Hardwick and Little's Bestiary)
 page:57
 	date: 2005-10-18
 	tag: ch-03
@@ -14764,7 +14943,7 @@ page:54
 	tag: Rey
 	tag: MercurySymbol
 	tag: WolfToy
-	desc: (Rey’s spirit enters the Wolf Toy instead)
+	desc: (Rey's spirit enters the Wolf Toy instead)
 page:53
 	date: 2005-10-04
 	tag: ch-03
@@ -14784,7 +14963,7 @@ page:52
 	tag: Rey
 	tag: MercurySymbol
 	tag: WolfToy
-	desc: In fact what I need is… your body!
+	desc: In fact what I need is... your body!
 page:51
 	date: 2005-09-27
 	tag: ch-03
@@ -14794,7 +14973,7 @@ page:51
 	tag: LeadSymbol
 	tag: Rey
 	tag: Sword
-	desc: Hiding behind a little girl isn’t exactly very sporting
+	desc: Hiding behind a little girl isn't exactly very sporting
 page:50
 	date: 2005-09-22
 	tag: ch-03
@@ -14813,7 +14992,7 @@ page:49
 	tag: Train
 	tag: TrainStation
 	tag: WolfToy
-	desc: I realised for the first time that I’d barely seen anyone other than the people in my class
+	desc: I realised for the first time that I'd barely seen anyone other than the people in my class
 page:48
 	date: 2005-09-15
 	tag: ch-03
@@ -14847,7 +15026,7 @@ page:45
 	tag: Eglamore
 	tag: Rey
 	tag: Roof
-	desc: So… this must be her daughter.
+	desc: So... this must be her daughter.
 page:44
 	date: 2005-09-01
 	tag: ch-03
@@ -14892,7 +15071,7 @@ page:40
 	tag: Dorm
 	tag: Roof
 	tag: WolfToy
-	desc: What a strange noise…
+	desc: What a strange noise...
 page:39
 	date: 2005-08-16
 	tag: ch-03
@@ -14920,7 +15099,7 @@ page:37
 	tag: Eglamore
 	tag: Heart
 	tag: Kat
-	desc: That’s the alchemist's symbol for Antimony
+	desc: That's the alchemist's symbol for Antimony
 	note: Kat t-shirt is a reference to [Aphex Twin](https://en.wikipedia.org/wiki/Aphex_twin) 
 page:36
 	date: 2005-08-02
@@ -15029,7 +15208,7 @@ page:25
 	tag: Annie
 	tag: Kat
 	tag: Labyrinth
-	desc: so we won’t get lost if we went in, because there are no dead ends, like in a maze.
+	desc: so we won't get lost if we went in, because there are no dead ends, like in a maze.
 page:24
 	date: 2005-06-21
 	tag: ch-02
@@ -15173,7 +15352,7 @@ page:8
 	tag: Shadow
 page:7
 	date: 2005-04-21
-	desc: I hadn’t the first idea how to build a robot
+	desc: I hadn't the first idea how to build a robot
 	tag: Annie
 	tag: ch-01
 	tag: Library
