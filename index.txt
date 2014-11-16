@@ -29,6 +29,41 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1432
+	date: 2014-11-14
+	desc: Shadow: Please listen, Miss Paz...
+	note: The CruiseLiner looking much more whale-like
+	tag: ch-49
+	tag: Kat
+	tag: Paz
+	tag: CruiseLiner
+	tag: Ectoplasm
+	tag: Shadow
+	tag: Zimmingham
+page:1431
+	date: 2014-11-12
+	desc: Shadow: Those creepy bird robot things came from this way...
+	note: Shadow in bird/winged boy form
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Ectoplasm
+	tag: Robots
+	tag: Seraph
+	tag: Shadow
+	tag: Zimmingham
+page:1430
+	date: 2014-11-10
+	desc: Annie: will Jenny be okay?
+	tag: Annie
+	tag: ch-49
+	tag: Etherics
+	tag: Gamma
+	tag: Jack
+	tag: Rey
+	tag: Robot
+	tag: Robots
+	tag: Zimmingham
+	tag: Zimmy
 page:1429
 	auth: Tom: Gonna need a new tube of lipstick
 	date: 2014-11-07
