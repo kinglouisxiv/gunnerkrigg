@@ -29,16 +29,45 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1435
+	date: 2014-11-21
+	desc: BLOOSH
+	tag: ch-49
+	tag: Paz
+	tag: Sea
+	tag: Zimmingham
+page:1434
+	date: 2014-11-19
+	desc: CruiseLiner: No! Not yet!
+	tag: BLOOM
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Kat
+	tag: Kiss
+	tag: Paz
+	tag: Whale
+	tag: Zimmingham
+page:1433
+	date: 2014-11-17
+	desc: Jack: Destroy the last syphon!
+	tag: Annie
+	tag: ch-49
+	tag: Jack
+	tag: Kat
+	tag: Shadow
+	tag: UnnamedKid
+	tag: Zimmingham
 page:1432
 	date: 2014-11-14
 	desc: Shadow: Please listen, Miss Paz...
 	note: The CruiseLiner looking much more whale-like
 	tag: ch-49
-	tag: Kat
-	tag: Paz
 	tag: CruiseLiner
 	tag: Ectoplasm
+	tag: Kat
+	tag: Paz
 	tag: Shadow
+	tag: Whale
 	tag: Zimmingham
 page:1431
 	date: 2014-11-12
@@ -50,6 +79,7 @@ page:1431
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
+	tag: Whale
 	tag: Zimmingham
 page:1430
 	date: 2014-11-10
