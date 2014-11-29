@@ -29,6 +29,34 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1438
+	auth: HI LINDSEY!
+	date: 2014-11-28
+	desc: Janet: The ship is changing back!
+	tag: CruiseLiner
+	tag: Lindsey
+	tag: Paz
+	tag: Sea
+page:1437
+	date: 2014-11-26
+	desc: Janet: The ship is changing back!
+	tag: Annie
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Gamma
+	tag: Jack
+	tag: Janet
+	tag: Kat
+	tag: Whale
+	tag: Winsbury
+	tag: Zimmy
+page:1436
+	date: 2014-11-24
+	desc: (Paz underwater)
+	tag: ch-49
+	tag: Paz
+	tag: Sea
+	tag: Lindsey
 page:1435
 	date: 2014-11-21
 	desc: BLOOSH
