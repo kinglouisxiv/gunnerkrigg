@@ -29,8 +29,31 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1440
+	auth: Tom: Back to normal
+	date: 2014-12-03
+	desc: Jenny: Here! I'm here!
+	tag: CruiseLiner
+	tag: Jack
+	tag: Rain
+	tag: Robots
+	tag: SailorBot
+	tag: Seraph
+	tag: Zimmy
+page:1439
+	auth: Tom: Not what he wanted
+	date: 2014-12-01
+	desc: CRASH / SMASH / Shhhhhhhh
+	tag: Annie
+	tag: CruiseLiner
+	tag: Jack
+	tag: Kat
+	tag: Lindsey
+	tag: Rain
+	tag: Sea
+	tag: Zimmy
 page:1438
-	auth: HI LINDSEY!
+	auth: Tom: HI LINDSEY!
 	date: 2014-11-28
 	desc: Janet: The ship is changing back!
 	tag: CruiseLiner
@@ -220,7 +243,7 @@ page:1422
 	tag: Janet
 	tag: Rey
 	tag: Robots
-	tag: SailorBots
+	tag: SailorBot
 	tag: Ward
 	tag: Winsbury
 	tag: Zimmingham
@@ -235,20 +258,20 @@ page:1421
 	tag: Rey
 	tag: Robot
 	tag: Robots
-	tag: SailorBots
+	tag: SailorBot
 	tag: Ward
 	tag: Zimmingham
 page:1420
 	date: 2014-10-17
 	desc: Jenny: Haha **This** is Reynard?! What a cutie!
-	note: SailorBots have been transformed by Zimmingham 
+	note: SailorBot have been transformed by Zimmingham 
 	tag: Annie
 	tag: ch-49
 	tag: Jenny
 	tag: Rey
 	tag: RobotKing
 	tag: Robots
-	tag: SailorBots
+	tag: SailorBot
 	tag: Speedboat
 	tag: Ward
 	tag: Zimmingham
