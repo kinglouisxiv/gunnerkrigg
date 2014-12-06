@@ -15,7 +15,7 @@
 ; baseurl: default url applies to any following page: without a url: key 
 ; (to insert pageID replace in baseurl/url with {0} )
 ;
-; Can use multiple tags per page, but only one of each of the other keys
+; Can use multiple tag: per page, but only one of each of the other keys
 ;
 ; desc:, note: and auth: text's internal formatting is a mix of [Markdown](http://daringfireball.net/projects/markdown) plus html (for <br> etc)
 ; **bold**
@@ -29,6 +29,20 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1441
+	date: 2014-12-05
+	desc: Paz: [¿Que no soy una amenaza?](#1402)
+	note: approximately: "I'm not a threat?"
+	tag: Annie
+	tag: Becky
+	tag: Ectoplasm
+	tag: CruiseLiner
+	tag: Lindsey
+	tag: Kat
+	tag: Paz
+	tag: Rain
+	tag: Robots
+	tag: Seraph
 page:1440
 	auth: Tom: Back to normal
 	date: 2014-12-03
