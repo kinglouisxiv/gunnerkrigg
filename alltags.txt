@@ -314,6 +314,7 @@ Rolodex	the scryer, for incantations pertaining to names
 Roof	The top of the court
 ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them. (see also the [Vasty Hall of Death](#vastyhall))
 S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robot) [_{W}_](http://gunnerkrigg.wikia.com/wiki/S1)
+S13	[Robot](#robot) was Seraph 13
 Salon	Court hair salon, staffed by the HairdresserBot
 SailorBot	A class of robot encountered on the [cruise liner](#cruiseliner). Unusually, these are networked drones of the Liner Bot itself
 Sareed	Anwyn tree-weaver
@@ -442,8 +443,8 @@ ch-14	The Fangs Of Summertime [{Y}](http://youtu.be/yJMW-dn7qD0)
 ch-14a	Intermission: A Selection of Guest Comics and Other Surprises
 ch-15	Red Returns [{Y}](http://youtu.be/zRAI9RrOL4c)
 ch-16	A Ghost Story [{Y}](http://youtu.be/d5agOAjjJsc)
-ch-17	The Medium Beginning
-ch-18	S1
+ch-17	The Medium Beginning [{Y}](http://youtu.be/NbVAIt7VJzY)
+ch-18	S1 [{Y}](http://youtu.be/fDZWjC341oc)
 ch-19	Power Station
 ch-20	Coyote Stories
 ch-21	Blinking
