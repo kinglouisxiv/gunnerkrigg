@@ -53,6 +53,7 @@ BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotk
 BlinkerStone	[Etheric](#etherics) lens device [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blinker_stone)
 Blood	Circulatory fluid, supposed to be internal
 Blue	A crazy fairy obsessed with hair; friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue)
+BlueSmoke	A failure mode of [BioLimb](#biolimb) flesh
 Blush	Happy/embarrassed/emotional
 BlushFae	'her too' – dark pink hair, two rosy cheeks (likes to "wang tomatoes?") [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
 Boat	A vehicle for crossing [water](#water)
