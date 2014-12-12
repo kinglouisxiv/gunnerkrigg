@@ -29,6 +29,22 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1444
+	date: 2014-12-12
+	desc: Annie: \*Cough\* I - I think it's over...
+	tag: BlueSmoke
+	tag: ch-49
+	tag: CruiseLiner
+	tag: Gamma
+	tag: Jack
+	tag: Jenny
+	tag: Kat
+	tag: Paz
+	tag: Robot
+	tag: Robots
+	tag: Seraph
+	tag: Shadow
+	tag: Zimmy
 page:1443
 	date: 2014-12-10
 	desc: Angel: I don't **ever** want to see you again
