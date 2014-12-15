@@ -29,6 +29,19 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1445
+	date: 2014-12-15
+	desc: Robot Minion: Sir, here is the ship's CPU.
+	tag: Annie
+	tag: CPU
+	tag: CruiseLiner
+	tag: Gamma
+	tag: Jack
+	tag: Jenny
+	tag: RobotKing
+	tag: RobotMinion
+	tag: Robots
+	tag: Zimmy
 page:1444
 	date: 2014-12-12
 	desc: Annie: \*Cough\* I - I think it's over...
@@ -11502,6 +11515,7 @@ page:420
 	desc: Jeanne!
 	tag: Annie
 	tag: ch-18
+	tag: CPU
 	tag: DiegoBot
 	tag: Kat
 	tag: Robot
@@ -13463,6 +13477,7 @@ page:220
 	tag: ch-12
 	tag: Annie
 	tag: BismuthSymbol
+	tag: CPU
 	tag: Kat
 	tag: Robot
 	tag: ScienceLab
@@ -13499,6 +13514,7 @@ page:217
 	tag: ch-12
 	tag: Annie
 	tag: AntimonySymbol
+	tag: CPU
 	tag: Rey
 	tag: Robot
 	tag: RobotHQ
@@ -13510,6 +13526,7 @@ page:216
 	date: 2007-03-16
 	tag: ch-12
 	tag: Annie
+	tag: CPU
 	tag: Lockpicks
 	tag: Rey
 	tag: Robot
@@ -13548,6 +13565,7 @@ page:212
 	tag: ch-12
 	tag: AdminBot
 	tag: Annie
+	tag: CPU
 	tag: RobotHQ
 	tag: Robots
 	tag: StarHeadband
@@ -15485,6 +15503,8 @@ page:14
 	tag: ch-01
 	tag: Gillitie
 	tag: Robot
+	tag: Robots
+	tag: Seraph
 	tag: Shadow
 	tag: Shadowmen
 page:13
@@ -15493,6 +15513,8 @@ page:13
 	tag: Bridge
 	tag: ch-01
 	tag: Robot
+	tag: Robots
+	tag: Seraph
 	tag: Shadow
 	tag: TicToc
 page:12
@@ -15502,6 +15524,8 @@ page:12
 	tag: Bridge
 	tag: ch-01
 	tag: Robot
+	tag: Robots
+	tag: Seraph
 	tag: Shadow
 page:11
 	date: 2005-05-05
@@ -15510,6 +15534,8 @@ page:11
 	tag: Bridge
 	tag: ch-01
 	tag: Robot
+	tag: Robots
+	tag: Seraph
 	tag: Shadow
 page:10
 	date: 2005-05-03
@@ -15518,6 +15544,7 @@ page:10
 	tag: Bridge
 	tag: ch-01
 	tag: Robot
+	tag: Robots
 	tag: Shadow
 page:9
 	date: 2005-04-28
@@ -15525,6 +15552,8 @@ page:9
 	tag: Annie
 	tag: ch-01
 	tag: Robot
+	tag: Robots
+	tag: Seraph
 	tag: Shadow
 page:8
 	date: 2005-04-26
@@ -15532,6 +15561,9 @@ page:8
 	tag: Annie
 	tag: ch-01
 	tag: Library
+	tag: Robot
+	tag: Robots
+	tag: Seraph
 	tag: Shadow
 page:7
 	date: 2005-04-21
