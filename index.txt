@@ -29,6 +29,27 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1447
+	date: 2014-12-19
+	desc: Rey: Get a damn shave
+	tag: Annie
+	tag: AntimonySymbol
+	tag: CruiseLiner
+	tag: Jack
+	tag: Kat
+	tag: SubDorm
+	tag: Paz
+	tag: Rey
+	tag: Sunrise
+page:1446
+	date: 2014-12-17
+	desc: Jack: Didn't see a reason to say no
+	tag: Annie
+	tag: CruiseLiner
+	tag: Gamma
+	tag: Jack
+	tag: Jenny
+	tag: Zimmy
 page:1445
 	date: 2014-12-15
 	desc: Robot Minion: Sir, here is the ship's CPU.
