@@ -29,11 +29,29 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1449
+	date: 2014-12-24
+	desc: Kat: We're going to have a blast!
+	tag: Anja
+	tag: Annie
+	tag: ch-49
+	tag: Donny
+	tag: Kat
+	tag: SubDorm
+page:1448
+	date: 2014-12-22
+	desc: Kat: ... kind of distracted recently
+	tag: Annie
+	tag: ch-49
+	tag: Hellboy
+	tag: Kat
+	tag: SubDorm
 page:1447
 	date: 2014-12-19
 	desc: Rey: Get a damn shave
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-49
 	tag: CruiseLiner
 	tag: Jack
 	tag: Kat
@@ -45,6 +63,7 @@ page:1446
 	date: 2014-12-17
 	desc: Jack: Didn't see a reason to say no
 	tag: Annie
+	tag: ch-49
 	tag: CruiseLiner
 	tag: Gamma
 	tag: Jack
@@ -54,6 +73,7 @@ page:1445
 	date: 2014-12-15
 	desc: Robot Minion: Sir, here is the ship's CPU.
 	tag: Annie
+	tag: ch-49
 	tag: CPU
 	tag: CruiseLiner
 	tag: Gamma
@@ -14779,105 +14799,107 @@ page:97
 	tag: Cover
 	tag: TicToc
 page:96
+	auth: Tom: Kat probably only has action figures she thinks are hot.
 	date: 2006-03-02
-	tag: ch-06
-	tag: Bonus
+	desc: Bonus Page: Reynardine The Great (Annie lets Rey out of the box and Kat gives him some dolls)
 	tag: Annie
+	tag: Bonus
+	tag: ch-06
 	tag: Dolls
 	tag: Dorm
+	tag: Hellboy
 	tag: Kat
 	tag: NapoleonHat
 	tag: Rey
-	desc: Bonus Page: Reynardine The Great (Annie lets Rey out of the box and Kat gives him some dolls)
 page:95
 	date: 2006-02-28
-	tag: ch-06
+	desc: Kay: The school's got to know where your dad is.
 	tag: Annie
+	tag: ch-06
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
 	tag: Tony
-	desc: The school's got to know where your dad is.
 page:94
 	date: 2006-02-23
-	tag: ch-06
+	desc: Annie: They said he didn't work there any more and they didn't know how to contact him.
 	tag: Annie
+	tag: ch-06
 	tag: CherryTree
 	tag: Court
 	tag: GoodHope
 	tag: Habitat
 	tag: Kat
 	tag: Tony
-	desc: They said he didn't work there any more and they didn't know how to contact him.
 page:93
 	date: 2006-02-21
-	tag: ch-06
+	desc: What about your dad? I don't know where he is.
 	tag: Annie
+	tag: ch-06
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
 	tag: Tony
-	desc: What about your dad? I don't know where he is.
 page:92
 	date: 2006-02-16
-	tag: ch-06
+	desc: I miss my mummy...
 	tag: Annie
 	tag: Bob
+	tag: ch-06
 	tag: CherryTree
 	tag: Crying
 	tag: Habitat
 	tag: Kat
-	desc: I miss my mummy...
 page:91
 	date: 2006-02-14
-	tag: ch-06
+	desc: You caught us red handed! Hahaha!
 	tag: Annie
 	tag: Bob
+	tag: ch-06
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
-	desc: You caught us red handed! Hahaha!
 page:90
 	date: 2006-02-09
-	tag: ch-06
+	desc: (Annie and Kat throw cherries into each others' mouths and Kat falls out of the tree)
 	tag: Annie
+	tag: ch-06
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
-	desc: (Annie and Kat throw cherries into each others' mouths and Kat falls out of the tree)
 page:89
 	date: 2006-02-07
-	tag: ch-06
+	desc: (Annie and Kat climb the tree and sit in it)
 	tag: Annie
+	tag: ch-06
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
-	desc: (Annie and Kat climb the tree and sit in it)
 page:88
 	date: 2006-02-02
-	tag: ch-06
+	desc: We all eat a handful of dirt before we die, Annie. Who cares if it tastes like cherries?
 	tag: Annie
+	tag: ch-06
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
-	desc: We all eat a handful of dirt before we die, Annie. Who cares if it tastes like cherries?
 page:87
 	date: 2006-01-31
-	tag: ch-06
+	desc: I wanted to show you something
 	tag: Annie
+	tag: ch-06
 	tag: Court
 	tag: Habitat
 	tag: Kat
-	desc: I wanted to show you something
 page:86
 	date: 2006-01-26
-	tag: ch-06
+	desc: Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
 	tag: Annie
 	tag: BismuthSymbol
 	tag: Blush
+	tag: ch-06
 	tag: HabitatSymbol
 	tag: Kat
-	desc: Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
 page:85
 	date: 2006-01-24
 	desc: Chapter 6:<br><br>**A Handful of Dirt**<br><br>_Icon: the Cherry Tree in the Habitat_
@@ -14887,155 +14909,155 @@ page:85
 	tag: Habitat
 page:84
 	date: 2006-01-19
-	tag: ch-05
+	desc: Bonus Page: Cupid Undone (Winsbury and Janet secretly express their love) (room tscd504)
 	tag: Bonus
-	tag: Margo
+	tag: ch-05
 	tag: Janet
 	tag: John
+	tag: Margo
 	tag: Winsbury
-	desc: Bonus Page: Cupid Undone (Winsbury and Janet secretly express their love) (room tscd504)
 page:83
 	date: 2006-01-17
-	tag: ch-05
+	desc: Bah! This is the thanks I get!
 	tag: Annie
 	tag: BismuthSymbol
+	tag: ch-05
 	tag: Dorm
 	tag: Gamma
 	tag: Hall
 	tag: Kat
 	tag: Rey
 	tag: Zimmy
-	desc: Bah! This is the thanks I get!
 page:82
 	date: 2006-01-12
-	tag: ch-05
+	desc: I don't know what you are but you're so cute! (Dwr Budr T-shirt)
 	tag: Annie
+	tag: ch-05
 	tag: Gamma
 	tag: Hall
 	tag: Kat
 	tag: Rey
 	tag: Zimmy
-	desc: I don't know what you are but you're so cute! (Dwr Budr T-shirt)
 page:81
 	date: 2006-01-10
-	tag: ch-05
+	desc: I hoped I could win your favour if I helped your gypsy friend win this blasted spectacle.
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-05
 	tag: Gamma
 	tag: Hall
 	tag: Kat
 	tag: Rey
 	tag: Zimmy
-	desc: I hoped I could win your favour if I helped your gypsy friend win this blasted spectacle.
 page:80
 	date: 2006-01-05
-	tag: ch-05
+	desc: Reynardine? Mr Eglamore said you were dead!
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-05
 	tag: Hall
 	tag: Kat
 	tag: Rey
 	tag: Zimmy
-	desc: Reynardine? Mr Eglamore said you were dead!
 page:79
 	date: 2006-01-03
-	tag: ch-05
+	desc: We're here to find who's been messing with our stuff. An' we found 'im! (Dwr Budr T-shirt)
 	tag: Annie
+	tag: ch-05
 	tag: Gamma
 	tag: Hall
 	tag: Kat
 	tag: Rey
 	tag: WolfToy
 	tag: Zimmy
-	desc: We're here to find who's been messing with our stuff. An' we found 'im! (Dwr Budr T-shirt)
 page:78
 	date: 2005-12-29
-	tag: ch-05
+	desc: aha!
 	tag: Annie
 	tag: BismuthSymbol
+	tag: ch-05
 	tag: Dorm
 	tag: Gamma
 	tag: Hall
 	tag: Kat
 	tag: WolfToy
 	tag: Zimmy
-	desc: aha!
 page:77
 	date: 2005-12-27
-	tag: ch-05
-	tag: Annie
-	tag: Dorm
-	tag: Kat
-	tag: Hall
-	tag: Students
 	desc: Several of the 8 experiments had been purposefully ruined overnight. (Dwr Budr T-shirt)
+	tag: Annie
+	tag: ch-05
+	tag: Dorm
+	tag: Hall
+	tag: Kat
+	tag: Students
 page:76
 	date: 2005-12-22
-	tag: ch-05
+	desc: This is... an abomination.
 	tag: Annie
+	tag: ch-05
 	tag: Gamma
 	tag: Hall
 	tag: Zimmy
-	desc: This is... an abomination.
 page:75
 	date: 2005-12-20
-	tag: ch-05
+	desc: Quite a chip off the ol' block, eh Anja?
 	tag: 113
 	tag: Anja
 	tag: Annie
 	tag: AntiGrav
 	tag: BismuthSymbol
 	tag: Blush
+	tag: ch-05
 	tag: Eglamore
 	tag: Hall
 	tag: Kat
-	desc: Quite a chip off the ol' block, eh Anja?
 page:74
 	date: 2005-12-15
-	tag: ch-05
+	desc: I'll see you and bignose and 'er crappy invention tomorrow!
 	tag: Annie
 	tag: Blush
+	tag: ch-05
 	tag: Gamma
 	tag: Kat
 	tag: Library
 	tag: Zimmy
-	desc: I'll see you and bignose and 'er crappy invention tomorrow!
 page:73
 	date: 2005-12-13
-	tag: ch-05
+	desc: Zimmy and Gamma from Chester South, that's us!
 	tag: Annie
 	tag: Blush
+	tag: ch-05
 	tag: Gamma
 	tag: Kat
 	tag: Library
 	tag: Zimmy
-	desc: Zimmy and Gamma from Chester South, that's us!
 page:72
 	date: 2005-12-08
-	tag: ch-05
+	desc: What you lookin' at? you got a problem?
 	tag: 113
 	tag: Annie
+	tag: ch-05
 	tag: Gamma
 	tag: Kat
 	tag: Library
 	tag: Zimmy
-	desc: What you lookin' at? you got a problem?
 page:71
 	date: 2005-12-06
-	tag: ch-05
+	desc: Do you want to help? I'd like that very much!
 	tag: Annie
 	tag: BismuthSymbol
+	tag: ch-05
 	tag: Classroom
 	tag: Kat
-	desc: Do you want to help? I'd like that very much!
 page:70
 	date: 2005-12-01
-	tag: ch-05
+	desc: Class 7qn's entrant in the year 7 science fair will be Katerina's zero gravity generator!
 	tag: AntiGrav
+	tag: ch-05
 	tag: Classroom
 	tag: Kat
 	tag: Teacher
-	desc: Class 7qn's entrant in the year 7 science fair will be Katerina's zero gravity generator!
 page:69
 	date: 2005-11-29
 	desc: Chapter 5:<br><br>**Two Strange girls**<br><br>_Icon: Kat in the Library_
@@ -15048,25 +15070,25 @@ page:69
 	tag: Zeta
 page:68
 	date: 2005-11-24
-	tag: ch-04
+	desc: Bonus Page: Bad Choice (Mort tries to scare Janet)
 	tag: Bonus
+	tag: ch-04
 	tag: Janet
 	tag: Mort
-	desc: Bonus Page: Bad Choice (Mort tries to scare Janet)
 page:67
 	date: 2005-11-22
-	tag: ch-04
+	desc: Thanks a bunch, Annie
 	tag: Annie
+	tag: ch-04
 	tag: Court
 	tag: Mort
-	desc: Thanks a bunch, Annie
 page:66
 	date: 2005-11-17
+	desc: (Paz gets frightened by a creepy circus clown, screams and runs away)
 	tag: ch-04
 	tag: Circus
 	tag: Clowns
 	tag: Paz
-	desc: (Paz gets frightened by a creepy circus clown, screams and runs away)
 page:65
 	date: 2005-11-15
 	desc: (Paz follows the balloon to some creepy circus clowns)
