@@ -5,121 +5,121 @@
 ; _italic_
 ; [internal link text](#sometag)
 ; [external link text](http://www.gunnerkrigg.com)
-113	A number that appears in many places in the court [_{W}_](http://gunnerkrigg.wikia.com/wiki/113)
-Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell [_{W}_](http://gunnerkrigg.wikia.com/wiki/Aata)
-Abacus	An ancient calculation aid
+113 	A number that appears in many places in the court [_{W}_](http://gunnerkrigg.wikia.com/wiki/113)
+Aata 	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell [_{W}_](http://gunnerkrigg.wikia.com/wiki/Aata)
+Abacus 	An ancient calculation aid
 Achewater	[Anwyn](#anwyn) intoxicant, perhaps named for how you feel afterwards
-Adam	A boy with rashes; owner, and victim, of [Hetty](#hetty)
+Adam 	A boy with rashes; owner, and victim, of [Hetty](#hetty)
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Administrator_Robot)
-Agni	Hindu [fire](#fire) god; [psychopomp](#psychopomps) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Agni)
+Agni 	Hindu [fire](#fire) god; [psychopomp](#psychopomps) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Agni)
 AlchemyChart	An alchemical chart
-Aly	Alistair [Kershaw](#kershaws); became a bird and went to the [Forest](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Alistair_Kershaw)
+Aly 	Alistair [Kershaw](#kershaws); became a bird and went to the [Forest](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Alistair_Kershaw)
 AlyShirt	A shirt belonging to [Aly](#aly), which [Kat](#kat) now owns
-Angel	What [robots](#robots) call [Kat](#kat)
+Angel 	What [robots](#robots) call [Kat](#kat)
 AnimalCells	the Court's large animal holding cells
 AnimalLab	a Court research lab [_{W}_](http://gunnerkrigg.wikia.com/wiki/Animal_Lab)
-Anja	Anja Donlan, [Kat's](#kat) mother; Roma origin but lived mostly in Spain [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anja)
-Ankou	Breton grim reaper; [psychopomp](#psychopomps)[_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ankou)
-Annan	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forest' [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Waters)
-Annie	Antimony Carver, our protagonist ([fire](#fire) Head Girl) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_Carver)
+Anja 	Anja Donlan, [Kat's](#kat) mother; Roma origin but lived mostly in Spain [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anja)
+Ankou 	Breton grim reaper; [psychopomp](#psychopomps)[_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ankou)
+Annan 	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forest' [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Waters)
+Annie 	Antimony Carver, our protagonist ([fire](#fire) Head Girl) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_Carver)
 AnnieCut	The cut on [Annie's](#annie) ethereal face from [Jeanne's](#jeanne) [sword](#sword)
 AnnieJumper	[Annie's](#annie) original school jumper
 AntiGrav	An anti-gravity generator that [Kat](#kat) makes for a science fair, and converts to a "ship" (flier) later
 AntimonySymbol	The alchemical symbol for antimony; associated with [Annie](#annie) and [Surma](#surma) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_(alchemy))
 AntlerFae	'that guy' – big nose, sandy brown hair, can haz antlers
-Anwyn	could be described as tree elves but they don't call themselves that [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn)
-Archery	Fun with bows and arrows!
+Anwyn 	could be described as tree elves but they don't call themselves that [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn)
+Archery 	Fun with bows and arrows!
 Argument	Somewhere between a disagreement and a fight
-Armour	protective plates and other such wearable items
-Armoury	Place where lots of weapons are stored
-Arsenic	A highly poisonous metalloid [_{W}_](http://gunnerkrigg.wikia.com/wiki/Arsenic_(alchemy))
+Armour 	protective plates and other such wearable items
+Armoury 	Place where lots of weapons are stored
+Arsenic 	A highly poisonous metalloid [_{W}_](http://gunnerkrigg.wikia.com/wiki/Arsenic_(alchemy))
 Artilleryman	present at the [founding](#founding), friend of [Steadman](#steadman) the archer
-Axe	Often used to chop wood
+Axe 	Often used to chop wood
 BadgerFae	'him too' – white hair, two black stripes, former badger
 BakingDistraction	Otherwise known as [Plan Theta](#plantheta); Cunningly devised to distract others while sneaking around
-Basil	Minotaur [_{W}_](http://gunnerkrigg.wikia.com/wiki/Basil)
-Bats	The animal kind.
-Beacon	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated, much like [Brinnie's](#brinnie) teleport [_{W}_](http://gunnerkrigg.wikia.com/wiki/Safety_beacon)
-Becky	Becky Ground, blonde haired student -- name suspected to be a pun as she has never said anything [_{W}_](http://gunnerkrigg.wikia.com/wiki/Becky_Ground)
-Betty	had a crush on her brother [Nigel's](#nigel) friend [Morty](#mort), WWII
-Bind	[Etheric](#etherics) binding, hold or constraint hoodoo
-BioLimb	[Kat's](#kat) grown robot parts project
-Bip	[Parley's](#parley) teleportation. May be accompanied by BARGE
-Birds	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
+Basil 	Minotaur [_{W}_](http://gunnerkrigg.wikia.com/wiki/Basil)
+Bats 	The animal kind.
+Beacon 	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated, much like [Brinnie's](#brinnie) teleport [_{W}_](http://gunnerkrigg.wikia.com/wiki/Safety_beacon)
+Becky 	Becky Ground, blonde haired student -- name suspected to be a pun as she has never said anything [_{W}_](http://gunnerkrigg.wikia.com/wiki/Becky_Ground)
+Betty 	had a crush on her brother [Nigel's](#nigel) friend [Morty](#mort), WWII
+Bind 	[Etheric](#etherics) binding, hold or constraint hoodoo
+BioLimb 	[Kat's](#kat) grown robot parts project
+Bip 	[Parley's](#parley) teleportation. May be accompanied by BARGE
+Birds 	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
 Birmingham	See [Zimmingham](#zimmingham)
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court and its founding via the [Seed Bismuth](#seedbismuth) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bismuth_(alchemy))
 Blackboard	Classroom surface for writing on with chalk sticks, _a.k.a._ chalkboard if not black
 BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotking)
 BlinkerStone	[Etheric](#etherics) lens device [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blinker_stone)
-Blood	Circulatory fluid, supposed to be internal
-Blue	A crazy fairy obsessed with hair; friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue)
+Blood 	Circulatory fluid, supposed to be internal
+Blue 	A fairy obsessed with hair which goes up; friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue)
 BlueSmoke	A failure mode of [BioLimb](#biolimb) flesh
-Blush	Happy/embarrassed/emotional
+Blush 	Happy/embarrassed/emotional
 BlushFae	'her too' – dark pink hair, two rosy cheeks (likes to "wang tomatoes?") [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
-Boat	A vehicle for crossing [water](#water)
-Bob	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of [Young's Park](#youngspark) with his wife, [Marcia](#marcia) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bob)
-Bobby	A [robot](#robots) who works with [Paz](#paz) at the [Animal Lab](#animallab) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bobby)
-Bobeyes	A Magpie who competes with [CityFace](#cityface) for a bagel! [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bobeyes)
-Bones	Calcified weight bearing structures in the body of vertebrates forming an endo-skeleton; represent death; includes skulls
-Bonus	Extra pages at the end of the chapter [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bonus_pages)
-Boots	Made for walking
-Boxbot	[A robot](#robots). [Terrible](#terrible). Not as good as [Robox](#robox) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Boxbot)
-Bridge	The Annan Bridge leads from Gunnerkrigg Court across the [Annan Water](#annan) to [Gillitie Wood](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Bridge)
-Brinnie	Sultry childhood friend of [Surma](#surma), [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore) _&amp; co._ Probably Brynhildr, the Valkyrie [_{W}_](http://gunnerkrigg.wikia.com/wiki/Brinnie)
-Bud	Husband of [Lindsey](#lindsey); boys' [dorm](#subdorm) monitor [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bud)
-Bugsy	Teacher Lady, or Teach. [Foley](#foley) teacher, rather be sleeping
-Buzz	The buzzing in [Zimmy's](#zimmy) head when the stimuli get too much
-Buzzer	Bug shaped device for fooling the court's student tracking system
+Boat 	A vehicle for crossing [water](#water)
+Bob 	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of [Young's Park](#youngspark) with his wife, [Marcia](#marcia) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bob)
+Bobby 	A [robot](#robots) who works with [Paz](#paz) at the [Animal Lab](#animallab) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bobby)
+Bobeyes 	A Magpie who competes with [CityFace](#cityface) for a bagel! [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bobeyes)
+Bones 	Calcified weight bearing structures in the body of vertebrates forming an endo-skeleton; represent death; includes skulls
+Bonus 	Extra pages at the end of the chapter [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bonus_pages)
+Boots 	Made for walking
+Boxbot 	[A robot](#robots). [Terrible](#terrible). Not as good as [Robox](#robox) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Boxbot)
+Bridge 	The Annan Bridge leads from Gunnerkrigg Court across the [Annan Water](#annan) to [Gillitie Wood](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Bridge)
+Brinnie 	Sultry childhood friend of [Surma](#surma), [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore) _&amp; co._ Probably Brynhildr, the Valkyrie [_{W}_](http://gunnerkrigg.wikia.com/wiki/Brinnie)
+Bud 	Husband of [Lindsey](#lindsey); boys' [dorm](#subdorm) monitor [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bud)
+Bugsy 	Teacher Lady, or Teach. [Foley](#foley) teacher, rather be sleeping
+Buzz 	The buzzing in [Zimmy's](#zimmy) head when the stimuli get too much
+Buzzer 	Bug shaped device for fooling the court's student tracking system
 Caduceus	"Herald's staff" borne by Hermes/[Mercury](#mercury), symbol of commerce
 Camcorder	ancient 20th century technology records moving images on magnetic tape
-Canvey	a [Canvey Island Monster](https://en.wikipedia.org/wiki/Canvey_Island_Monster)
-Cards	A pack of playing cards
-Castle	Where royalty live. Even space alien royalty
+Canvey 	a [Canvey Island Monster](https://en.wikipedia.org/wiki/Canvey_Island_Monster)
+Cards 	A pack of playing cards
+Castle 	Where royalty live. Even space alien royalty
 Chemicals	May be used to perform terrifying skills of Chemistry or Alchemy
 CherryTree	Comes as advertised; lives in a [Habitat](#habitat)
-Chester	One of the other school Houses [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chester_House)
+Chester 	One of the school Houses [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chester_House)
 Chickcharney	See [Hardwick &amp; Little's Bestiary](#hardwicklittlebestiary), p65 [_{W}_](http://gunnerkrigg.wikia.com/wiki/Chickcharney)
-Circus	Creepy and filled with clowns
+Circus 	Creepy and filled with clowns
 CityFace	A pigeon [_{W}_](http://gunnerkrigg.wikia.com/wiki/City_Face)
 Classroom	Where they have classes
-Clowns	Creepy, no-one likes them
+Clowns 	Creepy, no-one likes them
 Computer	You're using one right now. The court keeps student records, and many other things on computers
-Cookie	Cookie Monster aka Lily Cooke is an enthusiastic friend of [Parley](#parley) along with [January](#jan) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Lily_Cooke)
-Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
+Cookie 	Cookie Monster aka Lily Cooke is an enthusiastic friend of [Parley](#parley) along with [January](#jan) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Lily_Cooke)
+Court 	Gunnerkrigg Court, a mysterious institution that includes a boarding school [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
 CourtHall	A large important hall for meetings
 CourtLogo	Gunnerkrigg Court logo (for the school); Appears on detention slips and official school letters
 CourtSymbol	The symbol [Annie's](#annie) [Blinker Stone](#blinkerstone) makes; has a [Bismuth Symbol](#bismuthsymbol) within it
 Courtyard	A courtyard near the [library](#library)
-Cover	A chapter cover [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chapter_Covers)
-Coyote	Trickster; the creator of all; he does not exist, he says [_{W}_](http://gunnerkrigg.wikia.com/wiki/Coyote)
+Cover 	A chapter cover [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chapter_Covers)
+Coyote 	Trickster god; the creator of all; he does not exist, he says [_{W}_](http://gunnerkrigg.wikia.com/wiki/Coyote)
 CoyoteStories	Stories told about or by [Coyote](#coyote)
 CoyoteTooth	It's a tooth, or is it? [_{W}_](http://gunnerkrigg.wikia.com/wiki/Coyote's_Tooth)
 CreatorGlyph	Mark of the [robots'](#robots) creator: now associated with [Kat](#kat)
-Creeper	Someone who is creeping
+Creeper 	Someone who is creeping
 CruiseLiner	a large, ocean-going, hotel ship
-Crying	When salty water with enzymes comes out of one's lacrimal ducts; also, a sign of sadness
+Cryingvv	When salty water with enzymes comes out of one's lacrimal ducts; also, a sign of sadness
 CrystalBall	A crystal ball is traditionally used for scrying, future-telling or other Gypsy/Roma past-times
 CurlyFae	'this girl too' -- short curly blue hair, red dot below right eye [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/[psychopomps](#psychopomps) of Wales; red ears
 DanielRSchiff	[Rey's](#rey) victim [_{W}_](http://gunnerkrigg.wikia.com/wiki/Daniel_R_Schiff)
 DeathsHead	admissions clerk to the [Realm of the Dead](#rotd), a 2 dimensional skull
-Desert	No rain in here. Where [Coyotes](#coyote) live, sometimes
-Diego	creepy robotics expert of the Court's early days; creator of the original [robots](#robots) (but not the TicTocs); and referred to as "creator" by them. Implicated in the [Jeanne](#jeanne) affair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Diego)
+Desert 	No rain in here. Where [Coyotes](#coyote) live, sometimes
+Diego 	creepy robotics expert of the Court's early days; creator of the original [robots](#robots) (but not the TicTocs); and referred to as "creator" by them. Implicated in the [Jeanne](#jeanne) affair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Diego)
 DiegoBot	One of the original [robots](#robots) created by Diego many years ago [_{W}_](http://gunnerkrigg.wikia.com/wiki/Old_Robot)
 DiegoStudy	Home of all things ancient [robot](#robots)
-Dirty	What you become when you don't wash for a while
-Divide	The division between the Court and the [Forest](#gillitie) caused by [Coyote](#coyote)
-Dolls	[Kat](#kat) probably only has action figures she thinks are hot: _i.e._ David Duchovny (Mulder), Batman and Hellboy
+Dirty 	What you become when you don't wash for a while
+Divide 	The division between the Court and the [Forest](#gillitie) caused by [Coyote](#coyote)
+Dolls 	[Kat](#kat) probably only has action figures she thinks are hot: _i.e._ David Duchovny (Mulder), Batman and Hellboy
 DonlanHouse	Home of the Donlan family: [Anja](#anja), [Donny](#donny), [Kat](#kat)
 DonlanSymbol	A symbol found in the Donlan house and in [Anja](#anja) &amp; [Donny's](#donny) program; resembles the alchemical symbols for silver and ether
-Donny	Donald Donlan, [Kat's](#kat) father [_{W}_](http://gunnerkrigg.wikia.com/wiki/Donald_Donlan)
-DoorBot	A cranky old man [robot](#robots) who guards the door to the [RobotHQ](#robothq) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Doorbot)
-Dorm	Living quarters at school
-Dracula	the stereotypical [vampire](#vampire) count 
+Donny 	Donald Donlan, [Kat's](#kat) father [_{W}_](http://gunnerkrigg.wikia.com/wiki/Donald_Donlan)
+DoorBot 	A cranky old man [robot](#robots) who guards the door to the [RobotHQ](#robothq) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Doorbot)
+Dorm 	Living quarters at school
+Dracula 	the stereotypical [vampire](#vampire) count 
 DrDisaster	Dr Randy Disaster sends the students on hologram simulation adventures and woos [Jones](#jones)! [_{W}_](http://gunnerkrigg.wikia.com/wiki/Randy_Disaster)
-Drone	a small, remotely guided flying machine
-Dryad	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one
-Earth	Ancient element; the planet on which we live; the great mother and life-giver [_{W}_](http://gunnerkrigg.wikia.com/wiki/Earth)
+Drone 	a small, remotely guided flying machine
+Dryad 	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one
+Earth 	Ancient element; the planet on which we live; the great mother and life-giver [_{W}_](http://gunnerkrigg.wikia.com/wiki/Earth)
 Ectoplasm	material of the Etherium which may be moulded by the Will into Form
 Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#sword) [_{W}_](http://gunnerkrigg.wikia.com/wiki/James_Eglamore)
 EglamoreKnife	A switchblade/flick knife present that [Eglamore](#eglamore) treasures
@@ -133,36 +133,36 @@ Etherium	The world/realm of the Ether [_{W}_](http://gunnerkrigg.wikia.com/wiki/
 EtherSymbol	A symbol for phlogiston or ether
 EugeneGould	Explorer who a psychic challenge is named after (was once won by [Parley's](#parley) father)
 EyeCrossed	A crossed out eye that is a complex warding sign, made by [Anja](#anja) and [Donny](#donny) to bind [Rey](#rey)
-EyeGunk	[Etheric](#etherics) eye-gunk possessed by [Zimmy](#zimmy) and others affected by [Zimmingham](#zimmingham)
-Eyes	When seeing is important
+EyeGunk 	[Etheric](#etherics) eye-gunk possessed by [Zimmy](#zimmy) and others affected by [Zimmingham](#zimmingham)
+Eyes 	When seeing is important
 EyeSymbol	An eye symbol associated with [Coyote](#coyote) and [Gillitie](#gillitie)
 FacelessPeople	People without faces who [Zimmy](#zimmy) sometimes sees
-Fairies	[Gillitie](#gillitie) Wood is full of them [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
+Fairies 	[Gillitie](#gillitie) Wood is full of them [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
 FencingHall	Where [sword](#sword)-fighting, fencing, sparring are taught
-Fight	When two people have a disagreement, violently
-Filler	Not a mainstream story comic
+Fight 	When two people have a disagreement, violently
+Filler 	Not a mainstream story comic
 FinalRecords	A part of the [Realm of the Dead](#rotd)
-Fire	An ancient element; may cause [smoke](#smoke) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Fire)
+Fire 	An ancient element; may cause [smoke](#smoke) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Fire)
 FireElemental	A personification of [fire](#fire), represented with a [FireSpike](#firespike) on their head
 FireHose	A hose to put out a [fire](#fire)
 FireSpike	A spiky [fire](#fire) crown associated with [Fire Elementals](#fireelemental)
 FireSymbol	The alchemical symbol for [fire](#fire) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Fire)
-Fish	Aquatic animal, fish live in [water](#water) and breathe through gills
-FishFae	'a fish guy?' -- concentrating on making himself handsome, former fish
+Fish 	Aquatic animal, fish live in [water](#water) and breathe through gills
+FishFae 	'a fish guy?' -- concentrating on making himself handsome, former fish
 Flashback	Things that happened in the past
 FlowerFae	'this one' -- purple hair, green bar under left eye [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
 FlowerHeadband	AKA het-band. Pink flower headband, bestows +5 straightness upon the wearer (-5 for a male)
-Flowers	Colourful plants that grow from the ground. Often given as gifts.
-Flying	Moving through the air, like superman
-Foley	One of the other school Houses; home to [Red](#red), [Blue](#blue), [Shadow](#shadow) and some [fairies](#fairies) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Foley_House)
+Flowers 	Colourful plants that grow from the ground. Often given as gifts.
+Flying 	Moving through the air, like superman
+Foley 	One of the school Houses; home to [Red](#red), [Blue](#blue), [Shadow](#shadow) and some [fairies](#fairies) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Foley_House)
 ForestSymbol	The symbol [Gillitie](#gillitie) uses to message; has an "eye" within it
 Founding	The founding of the court. Involves the [Seed Bismuth](#seedbismuth)
-Gamma	Gamma Czarnecki, a quiet girl from Poland who only speaks Polish; friends with [Zimmy](#zimmy) who she met in [Birmingham](#zimmingham); a Greek letter &Gamma;/&gamma; equivalent to our letter "G" [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gamma)
-Ghosts	sometimes haunt [mandolins](#mandolin)
+Gamma 	Gamma Czarnecki, a quiet girl from Poland, who only speaks Polish; friend of [Zimmy](#zimmy) with whom she has a telepathic link and who she met in [Birmingham](#zimmingham); a Greek letter &Gamma;/&gamma; equivalent to our letter "G" [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gamma)
+Ghosts 	sometimes haunt [mandolins](#mandolin)
 Gillitie	Gillitie Wood, where the wild things are, _a.k.a._ The Forest [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gillitie_Wood)
-Glass	A transparent silicon oxide substance used to make windows and the water bearing vessels also called "glasses"
+Glass 	A transparent silicon oxide substance used to make windows and the water bearing vessels also called "glasses"
 GlassFiber	Strands of glass used in insulation. Exposure causes itchiness and respiratory problems.
-God	What is god?
+God 	What is god?
 Gol-shogeg	Big worm slug monster
 GoldSymbol	Alchemical symbol for gold, or sometimes for the Sun (see also [SunSymbol](#sunsymbol))
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
@@ -172,21 +172,21 @@ GreatSecret	[Coyote's](#coyote) Great Secret.
 GreenArrow	Green arrow with horseshoe tip. Created by [Diego](#diego), shot by [Steadman](#steadman), hit [Jeanne's Lover](#jeanneslover) swimming the [Annan](#annan) to her
 GreenFae	'this other one' -- long straight green hair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
 GreenFairy	friend of, speaker for, the [Jackalope](#jackalope)
-Grounds	The grounds/gardens of Gunnerkrigg Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
+Grounds 	The grounds/gardens of Gunnerkrigg Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
 GroundSymbol	The electronic symbol for ground
 GuestComic	Guest comic strips from end of Year 7/Book one
-GurtDog	A black dog/[psychopomp](#psychopomps) of Somerset; protects children and travellers
-Gym	School gymnasium
-Gytrash	A black dog/[psychopomp](#psychopomps) of Northern England; mentioned in _Jane Eyre_ by Charlotte Brontë
-Habitat	An environmental decontamination habitat
+GurtDog 	A black dog/[psychopomp](#psychopomps) of Somerset; protects children and travellers
+Gym 	School gymnasium
+Gytrash 	A black dog/[psychopomp](#psychopomps) of Northern England; mentioned in _Jane Eyre_ by Charlotte Brontë
+Habitat 	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 HairdresserBot	a [robot](#robots) that cuts hair; lots of arms [_{W}_](http://gunnerkrigg.wikia.com/wiki/Scissorbot)
-Hall	Function hall [113](#113), a hall in the school
-Hammer	A tool for driving nails into things or beating things into shape
+Hall 	Function hall [113](#113), a hall in the school
+Hammer 	A tool for driving nails into things or beating things into shape
 HardwickLittleBestiary	Reference on mystical creatures [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hardwick_and_Little's_Bestiary)
 HarryPotter	Deserves to be taped to a flag pole for being a ponce
 Headmaster	Jonathan Llanwellyn, [Janet's](#janet) father; surprisingly grey, apathetic man, with bad posture [_{W}_](http://gunnerkrigg.wikia.com/wiki/Headmaster)
-Heart	A heart, or heart sign, symbol, glyph or character; either the body's blood pump, the core of a mechanism or a symbol of love
+Heart 	A heart, or heart sign, symbol, glyph or character; either the body's blood pump, the core of a mechanism or a symbol of love
 HedgehogFae	'and him' -- dreads, former hedgehog
 Hetty	a small animate devil doll inhabited by a shrimp-like spirit, victimising [Adam](#adam) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hetty)
 HettySymbol	sometimes visible on [Hetty's](#hetty) forehead [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hetty#Symbol)
@@ -194,9 +194,10 @@ Hexagram	Means the art of alchemy, the quintessence or "fire-water"/alcohol; the
 Homework	School work done outside class hours
 Horsebot	H model [robot](#robots) in a horse frame, as motive power for carriages, carts etc [_{W}_](http://gunnerkrigg.wikia.com/wiki/H_Model)
 Hospital	The hospital/infirmary within the court
-Hyland	[Jack's](#jack) father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma). [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hyland)
-Irial	[Kamlen's](#kamlen) [Anwyn](#anwyn) love
-Jack	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jack_Hyland)
+Hyland 	[Jack's](#jack) father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma). [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hyland)
+Iota 	Greek letter, speculated to symbolise [Jack](#jack) or [Jenny](#jenny) when it appeared in a treatise with [Gamma](#gamma) and [Zeta](#zeta)
+Irial 	[Kamlen's](#kamlen) [Anwyn](#anwyn) love
+Jack 	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jack_Hyland)
 Jackalope	appears as a rabbit with stub horns, a denizen of [Gillite Wood](#gillitie); friend of [GreenFairy](#greenfairy); wishes to become human
 JackOLantern	A carved, decorative pumpkin used for Hallowe'en/Halloween as a lantern
 Jan	January, curt friend of [Parley](#parley) [_{W}_](http://gunnerkrigg.wikia.com/wiki/January)
@@ -299,7 +300,7 @@ Red	A crazy and abrasive fairy [_{W}_](http://gunnerkrigg.wikia.com/wiki/Red)
 Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Reynardine)
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
-Robot	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Robot)
+RobotS13	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Robot)
 RobotCode	A cube with the [Robots](#robots)' instruction code transcribed onto it
 RobotDesigns	Designs and Blueprints for [robot](#robots) old and new
 RobotHQ	Where the [robots](#robots) hang out
@@ -314,10 +315,10 @@ RogatOrjak	Dragon-like giant [_{W}_](http://gunnerkrigg.wikia.com/wiki/Rogat_Orj
 Rolodex	the scryer, for incantations pertaining to names
 Roof	The top of the court
 ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them. (see also the [Vasty Hall of Death](#vastyhall))
-S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robot) [_{W}_](http://gunnerkrigg.wikia.com/wiki/S1)
-S13	[Robot](#robot) was Seraph 13
+S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robots13) [_{W}_](http://gunnerkrigg.wikia.com/wiki/S1)
+S13	[Robot](#robots13) was Seraph 13
 Salon	Court hair salon, staffed by the HairdresserBot
-SailorBot	A class of robot encountered on the [cruise liner](#cruiseliner). Unusually, these are networked drones of the Liner Bot itself
+SailorBot	A class of robot encountered on the [cruise liner](#cruiseliner). Unusually, these are networked "fingers" of the Liner Bot itself
 Sareed	Anwyn tree-weaver
 ScienceLab	A school science lab where [Kat](#kat) does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
@@ -326,7 +327,7 @@ SecurityDevice	Small devices that supposedly warn [Jack](#jack) when people are 
 SecurityRobots	They ensure security, as [robot](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Guard_Bots)
 SeedBismuth	It's a mystery; involved in the [founding](#founding) of the court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Seed_Bismuth)
 Seeds	Some seeds that [Ysengrin](#ysengrin) uses for his terrifying skills of gardening. Used to create the [WoodenArm](#woodenarm) and also dropped in the [Court Hall](#courthall).
-Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robot) was one originally [_{W}_](http://gunnerkrigg.wikia.com/wiki/S_Models)
+Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robots13) was one originally [_{W}_](http://gunnerkrigg.wikia.com/wiki/S_Models)
 Shadow	The Thin Man, a [shadowman](#shadowmen) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_2)
 Shadowman	Not the Thin Man, but one of the [shadowmen](#shadowmen) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_3)
 Shadowmen	The glass-eyed men; creations of [Coyote](#coyote) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_People)
@@ -365,7 +366,7 @@ SurmaWhisper	[Surma](#surma) whispers something to [Annie](#annie)
 Sweets	Tasty and sugary
 Sword	A long weapon with a blade held in one or two hands. Sometimes magical. Wielded by [Eglamore](#eglamore), [Parley](#parley), [Jeanne](#jeanne) among others
 Symbol	some unidentified symbol (please help identify!)
-Tea	Explains things in-between chapters
+Tea	Explains things between chapters or books and introduces breaks in the story.
 Teacher	A miscellaneous teacher
 Tears	In the eyes, visibly crying, _etc_
 Telescope	Good for seeing celestial bodies, satellites and other things that are far away
@@ -414,7 +415,7 @@ WhiteSpider	Also known as WhiteLegs, associated with [Jack](#jack) Hyland's [eth
 Winsbury	William (Willie) Winsbury; student with [Annie](#annie) and [Kat](#kat), not a very nice boy; dating [Janet](#janet)
 Wisp	a misleading monster of [Gillitie Wood](#gillitie) (_see_ [Will-o'-the-Wisp](https://en.wikipedia.org/wiki/Will-o%27-the-wisp))
 WolfToy	A small wolf toy made by [Annie's](#annie) mother (tagged when _not_ animated by [Reynardine](#rey))
-WoodenArm	A mysterious wooden arm from [Gillitie](#gillitie); initially attached to [Robot](#robot); finds its way to [Habitat](#habitat) [113](#113) and finally to [Young's Park](#youngspark)
+WoodenArm	A mysterious wooden arm from [Gillitie](#gillitie); initially attached to [Robot](#robots13); finds its way to [Habitat](#habitat) [113](#113) and finally to [Young's Park](#youngspark)
 WoodsDweller	A humanoid inhabitant of [Gillitie Wood](#gillitie) with knowledge of [Court](#court) uniforms
 WorkshopKey	The key for [Kat's](#kat) Workshop
 WovenTree	more of a bonsai than full tree
@@ -425,7 +426,7 @@ Ysengrin	Wolf/Tree hybrid demigod of the [forest](#gillitie); [Coyote's](#coyote
 ZAM	Noise of a [Valknut](#valknut) teleport
 Zeta	A Greek letter &Zeta;/&zeta; corresponding to our "Z"; [Zimmy's](#zimmy) real name
 Zimmingham	[Zimmy's](#zimmy) nightmarish version of Birmingham, which is where she and [Gamma](#gamma) are originally from
-Zimmy	aka Zeta, a strange girl who is friends with [Gamma](#gamma); from Birmingham originally; an etheric generator
+Zimmy	aka [Zeta](#zeta), a strange girl who is friends with [Gamma](#gamma); from Birmingham originally; an etheric generator
 ; Chapter TAGS
 ch-01	The Shadow and The Robot [{Y}](http://youtu.be/I9oF6ogesUA)
 ch-02	Schoolyard Myths [{Y}](http://youtu.be/t48sqVVkd0A)
@@ -482,4 +483,5 @@ ch-46	The Realm of the Dead
 ch-47	See Ya!
 ch-48	Tall Tales
 ch-49	The Torn Sea
+ch-50	-TBA-
 ; ---TAGS EOF ---

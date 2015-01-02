@@ -29,6 +29,55 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1453
+	date: 2015-01-02
+	desc: Intermission
+	note: Tea, in outdoor gear, dust mask and compass, standing on a road through a desert. Her companion is peering into the closest of several abandoned cars.
+	tag: ch-49a
+	tag: Cover
+	tag: Tea
+page:1452
+	date: 2014-12-31
+	desc: Bonus Page: Treatise Six, end of the fifth book
+	tag: Annie
+	tag: AnnieCut
+	tag: AntimonySymbol
+	tag: Court
+	tag: CourtStaffSymbol
+	tag: CreatorGlyph
+	tag: Fire
+	tag: FireSpike
+	tag: FireSymbol
+	tag: Gamma
+	tag: Gillite
+	tag: GreenFairy
+	tag: Helmet
+	tag: Iota
+	tag: Kat
+	tag: KneeBreeches
+	tag: MoonSymbol
+	tag: Rey
+	tag: Robots
+	tag: SM
+	tag: SunSymbol
+	tag: Treatise
+	tag: Ysengrin
+	tag: Zeta
+page:1451
+	date: 2014-12-29
+	desc: Seraphs: It was worth it
+	tag: ch-49
+	tag: Robots
+	tag: RobotS13
+	tag: Seraph
+	tag: Warehouse113
+page:1450
+	date: 2014-12-26
+	desc: Seraph: The Creator hates us now
+	tag: ch-49
+	tag: Robots
+	tag: Seraph
+	tag: Warehouse113
 page:1449
 	date: 2014-12-24
 	desc: Kat: We're going to have a blast!
@@ -94,7 +143,7 @@ page:1444
 	tag: Jenny
 	tag: Kat
 	tag: Paz
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -255,7 +304,7 @@ page:1430
 	tag: Gamma
 	tag: Jack
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Zimmingham
 	tag: Zimmy
@@ -370,7 +419,7 @@ page:1421
 	tag: ch-49
 	tag: Fight
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: SailorBot
 	tag: Ward
@@ -412,7 +461,7 @@ page:1418
 	tag: ch-49
 	tag: EthericSyphon
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Sea
 	tag: Shadow
@@ -426,7 +475,7 @@ page:1417
 	tag: EthericSyphon
 	tag: Rey
 	tag: Speedboat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Sea
 	tag: Shadow
@@ -486,7 +535,7 @@ page:1412
 	tag: ch-49
 	tag: Drone
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: RobotKing
 	tag: Robots
 	tag: Shadow
@@ -1767,7 +1816,7 @@ page:1298
 	tag: Jeanne
 	tag: Kat
 	tag: Parley
-	tag: Robot
+	tag: RobotS13
 	tag: Smitty
 	desc: There she is
 page:1297
@@ -1797,14 +1846,14 @@ page:1294
 	desc: It was worth it
 	tag: ch-45
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 page:1293
 	date: 2013-12-25
 	desc: This is the first of us to die a proper death
 	tag: ch-45
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 page:1292
 	date: 2013-12-23
@@ -2916,7 +2965,7 @@ page:1171
 	tag: ch-41a
 	tag: CityFace
 	tag: Filler
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	desc: City Face guest comic by Robot and Shadow
 page:1170
@@ -2965,7 +3014,7 @@ page:1165
 	tag: Gillitie
 	tag: Heart
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Treatise
 	tag: WanderingEye
@@ -3179,7 +3228,7 @@ page:1146
 	tag: KatsWorkshop
 	tag: Lasers
 	tag: CreatorGlyph
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Shadow
 	desc: S13, you have long since predicted the coming of an angel
@@ -3191,7 +3240,7 @@ page:1145
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Shadow
 	desc: You have found a way to interface this technology with ours?
@@ -3203,7 +3252,7 @@ page:1144
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	desc: Are you sure about this, Robot?
 page:1143
@@ -3212,7 +3261,7 @@ page:1143
 	tag: Annie
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -3226,7 +3275,7 @@ page:1142
 	tag: Etherics
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Warehouse113
@@ -3247,7 +3296,7 @@ page:1140
 	tag: AntimonySymbol
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -3260,7 +3309,7 @@ page:1139
 	tag: Annie
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -3273,7 +3322,7 @@ page:1138
 	tag: Kat
 	tag: Rey
 	tag: Roof
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -3345,7 +3394,7 @@ page:1132
 page:1131
 	date: 2012-12-21
 	tag: ch-41
-	tag: Robot
+	tag: RobotS13
 	tag: Roof
 	tag: Robots
 	tag: Seraph
@@ -3354,7 +3403,7 @@ page:1131
 page:1130
 	date: 2012-12-19
 	tag: ch-41
-	tag: Robot
+	tag: RobotS13
 	tag: Roof
 	tag: Robots
 	tag: Seraph
@@ -3363,7 +3412,7 @@ page:1130
 page:1129
 	date: 2012-12-17
 	tag: ch-41
-	tag: Robot
+	tag: RobotS13
 	tag: Roof
 	tag: Shadow
 	desc: Here, you just sit like that... (a tender moment)
@@ -3377,7 +3426,7 @@ page:1128
 	tag: Kat
 	tag: Parley
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -4032,7 +4081,7 @@ page:1048
 	tag: Gamma
 	tag: Hospital
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Zimmy
 	desc: Hey, what happ--
@@ -4071,7 +4120,7 @@ page:1045
 	tag: Hospital
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Zimmingham
 	tag: Zimmy
@@ -4181,7 +4230,7 @@ page:1036
 	tag: Jones
 	tag: Mask
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Zimmy
 	desc: Woah! Haha! Did she get a green boyfriend or sumthin'?
@@ -4231,7 +4280,7 @@ page:1032
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Zimmy
 	desc: D-Did Paz say something?!
@@ -4245,7 +4294,7 @@ page:1031
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Zimmy
 	desc: Why are those two even here?
@@ -4269,7 +4318,7 @@ page:1029
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Zimmy
 	desc: (hospital room: quiet &amp; still)
@@ -4815,7 +4864,7 @@ page:980
 	tag: Foley
 	tag: Jones
 	tag: Red
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	desc: do you know that girl?
 page:979
@@ -4824,7 +4873,7 @@ page:979
 	tag: Annie
 	tag: Foley
 	tag: Jones
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Train
 	desc: He seems a little younger than yourself, but I'm sure I can find a class for him
@@ -4880,7 +4929,7 @@ page:972
 	tag: Kat
 	tag: Parley
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
 	desc: Truly, I've never seen anything like it
@@ -4891,7 +4940,7 @@ page:971
 	tag: Kat
 	tag: Parley
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
 	desc: Shadow, you are three dimensional now.
@@ -4901,14 +4950,14 @@ page:970
 	tag: Annie
 	tag: Bip
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	desc: There he is!
 page:969
 	date: 2011-12-09
 	tag: ch-35
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	desc: I love my good friend, shadow
 page:968
@@ -4918,7 +4967,7 @@ page:968
 	tag: Kat
 	tag: FlowerHeadband
 	tag: Parley
-	tag: Robot
+	tag: RobotS13
 	tag: Smitty
 	desc: let's get you fixed up!
 page:967
@@ -4929,7 +4978,7 @@ page:967
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Parley
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
 	desc: i'm okay, I just feel... really weird...
@@ -4940,7 +4989,7 @@ page:966
 	tag: Kat
 	tag: Parley
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
 	desc: urghh... i... don't feel so... good...
@@ -4949,7 +4998,7 @@ page:965
 	tag: ch-35
 	tag: CoyoteTooth
 	tag: Parley
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	auth: Tom: sharp enough to cut a shadow from the floor
 page:964
@@ -4960,7 +5009,7 @@ page:964
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Parley
-	tag: Robot
+	tag: RobotS13
 	desc: well how sharp can it-
 page:963
 	date: 2011-11-25
@@ -4977,7 +5026,7 @@ page:962
 	tag: CoyoteTooth
 	tag: Parley
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Seraph
 	tag: Shadow
 	desc: Parley, I have something you may be able to use
@@ -4989,7 +5038,7 @@ page:961
 	tag: Kat
 	tag: Parley
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
 	desc: Bip and Barge!
@@ -4998,14 +5047,14 @@ page:960
 	tag: ch-35
 	tag: Bip
 	tag: Parley
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	desc: don't stop 'til you hit me this time!
 page:959
 	date: 2011-11-16
 	tag: ch-35
 	tag: Parley
-	tag: Robot
+	tag: RobotS13
 	desc: don't apologise, man, this is awesome!
 page:958
 	date: 2011-11-14
@@ -5013,7 +5062,7 @@ page:958
 	tag: Annie
 	tag: FlowerHeadband
 	tag: Parley
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	desc: Whoa, hey, you're not holding back on me, are ya?!
 page:957
@@ -5029,7 +5078,7 @@ page:956
 	date: 2011-11-09
 	tag: ch-35
 	tag: Parley
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	desc: fencing...
 page:955
@@ -5041,7 +5090,7 @@ page:955
 	tag: Kat
 	tag: Parley
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Smitty
 	desc: okay! you up for some sparring, robby?
 page:954
@@ -5053,7 +5102,7 @@ page:954
 	tag: Kat
 	tag: Parley
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
 	desc: did you just do that thing where you say "bam" right when I decide to jump?
@@ -5064,7 +5113,7 @@ page:953
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Smitty
 	desc: Reynard is the resident ladies expert
 page:952
@@ -5604,7 +5653,7 @@ page:898
 	tag: ch-33
 	tag: Angel
 	tag: DiegoBot
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: Shadow
@@ -5628,7 +5677,7 @@ page:896
 	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 page:895
@@ -5639,7 +5688,7 @@ page:895
 	tag: DiegoBot
 	tag: Flashback
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 page:894
@@ -5667,7 +5716,7 @@ page:892
 	tag: DiegoBot
 	tag: Flashback
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 page:891
@@ -5677,7 +5726,7 @@ page:891
 	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Shadow
 page:890
@@ -5688,7 +5737,7 @@ page:890
 	tag: DiegoBot
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 page:889
 	date: 2011-06-06
@@ -5699,7 +5748,7 @@ page:889
 	tag: DiegoBot
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 page:888
 	date: 2011-06-03
@@ -5712,7 +5761,7 @@ page:888
 	tag: KatsWorkshop
 	tag: Moon
 	tag: MoonPrint
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Sky
 	tag: Sun
@@ -5723,7 +5772,7 @@ page:887
 	tag: ch-33
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: RobotCode
 	tag: RobotDesigns
 	tag: Robotics
@@ -5746,7 +5795,7 @@ page:885
 	tag: Annie
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: RobotCode
 	tag: RobotDesigns
 	tag: Robotics
@@ -5822,7 +5871,7 @@ page:878
 	tag: ch-33
 	tag: Court
 	tag: Creeper
-	tag: Robot
+	tag: RobotS13
 	tag: Roof
 	tag: Shadow
 	desc: should you really be following her around like this?
@@ -5833,7 +5882,7 @@ page:877
 	tag: Court
 	tag: Founding
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Roof
 	tag: SeedBismuth
 	desc: I wonder how the court was built
@@ -6049,7 +6098,7 @@ page:855
 	tag: BlinkerStone
 	tag: Dirty
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: SubDorm
 	desc: All right guys, have fun
 page:854
@@ -6059,14 +6108,14 @@ page:854
 	tag: BlinkerStone
 	tag: Dirty
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: SubDorm
 	desc: Kat! Robot has gone mad!
 page:853
 	date: 2011-03-14
 	tag: ch-32
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: SubDorm
 	desc: Must. Cause. Inconvenience.
 page:852
@@ -6400,7 +6449,7 @@ page:AitF2-9
 	tag: JumpersPool
 	tag: Mort
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: Winsbury
 	tag: ch-31c
@@ -6903,7 +6952,7 @@ page:832
 	tag: MercurySymbol
 	tag: Moon
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Spider
 	tag: SunSymbol
@@ -7657,7 +7706,7 @@ page:759
 	tag: ch-29
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: RobotDesigns
 	tag: RobotParts
 	tag: Robots
@@ -7669,7 +7718,7 @@ page:758
 	tag: CityFace
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: RobotParts
 	tag: Robots
 	desc: What kind of name is City Face?
@@ -7679,7 +7728,7 @@ page:757
 	tag: Annie
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: RobotParts
 	tag: Robots
 	desc: Not a test, just me being a butt.
@@ -7705,7 +7754,7 @@ page:755
 	tag: CreatorGlyph
 	tag: Kat
 	tag: Paz
-	tag: Robot
+	tag: RobotS13
 	tag: RobotDesigns
 	tag: RobotParts
 	tag: Robots
@@ -7811,7 +7860,7 @@ page:745
 	tag: ch-29
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: RobotDesigns
 	tag: RobotParts
 	tag: Robots
@@ -7821,7 +7870,7 @@ page:744
 	tag: ch-29
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: RobotParts
 	tag: Robots
 	desc: Okay, how's that?
@@ -7835,6 +7884,7 @@ page:742
 	date: 2010-07-07
 	tag: ch-28
 	tag: Bonus
+	tag: CourtStaffSymbol
 	tag: Employees
 	tag: Juliette
 	tag: PowerStation
@@ -8073,6 +8123,7 @@ page:721
 	tag: Aata
 	tag: Annie
 	tag: Employees
+	tag: CourtStaffSymbol
 	tag: Flying
 	tag: Jones
 	tag: Juliette
@@ -8086,6 +8137,7 @@ page:720
 	tag: ch-28
 	tag: Aata
 	tag: Annie
+	tag: CourtStaffSymbol
 	tag: Employees
 	tag: Jones
 	tag: PowerStation
@@ -8099,6 +8151,7 @@ page:719
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Bind
+	tag: CourtStaffSymbol
 	tag: Employees
 	tag: EyeCrossed
 	tag: MercurySymbol
@@ -8113,6 +8166,7 @@ page:718
 	tag: ch-28
 	tag: Annie
 	tag: Bind
+	tag: CourtStaffSymbol
 	tag: Employees
 	tag: Rey
 	tag: Robots
@@ -8717,7 +8771,7 @@ page:660
 	tag: ch-25
 	tag: Angel
 	tag: Diego
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Roof
 	tag: SkyWatcher
@@ -8729,7 +8783,7 @@ page:659
 	tag: Crying
 	tag: Diego
 	tag: LaserCow
-	tag: Robot
+	tag: RobotS13
 	tag: RobotHQ
 	tag: Robots
 	tag: SkyWatcher
@@ -8743,7 +8797,7 @@ page:658
 	tag: DiegoBot
 	tag: DiegoStudy
 	tag: Jeanne
-	tag: Robot
+	tag: RobotS13
 	tag: RobotKing
 	tag: Robots
 	tag: SkyWatcher
@@ -8963,7 +9017,7 @@ page:640
 	tag: GroundSymbol
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: SkyWatcher
@@ -8983,7 +9037,7 @@ page:638
 	tag: ch-25
 	tag: DiegoBot
 	tag: GroundSymbol
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: SkyWatcher
@@ -8995,7 +9049,7 @@ page:637
 	tag: Angel
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: SkyWatcher
 	desc: I told you she was an angel
@@ -9004,7 +9058,7 @@ page:636
 	tag: ch-25
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Shadow
 	tag: SkyWatcher
@@ -9016,7 +9070,7 @@ page:635
 	tag: Jeanne
 	tag: Kat
 	tag: KatsWorkshop
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Roof
 	tag: Shadow
@@ -9026,7 +9080,7 @@ page:634
 	date: 2009-10-28
 	tag: ch-25
 	tag: Angel
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Roof
 	tag: Shadow
@@ -9037,7 +9091,7 @@ page:633
 	tag: ch-25
 	tag: Angel
 	tag: Jeanne
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Roof
 	tag: SkyWatcher
@@ -11380,7 +11434,7 @@ page:433
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11396,7 +11450,7 @@ page:432
 	tag: Jeanne
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11412,7 +11466,7 @@ page:431
 	tag: Jeanne
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11428,7 +11482,7 @@ page:430
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11441,7 +11495,7 @@ page:429
 	tag: DiegoBot
 	tag: Jeanne
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11456,7 +11510,7 @@ page:428
 	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11471,7 +11525,7 @@ page:427
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11486,7 +11540,7 @@ page:426
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11498,7 +11552,7 @@ page:425
 	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11509,7 +11563,7 @@ page:424
 	desc: You will pay for what you did to her. But you will never be forgiven.
 	tag: ch-18
 	tag: DiegoBot
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11524,7 +11578,7 @@ page:423
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11545,7 +11599,7 @@ page:421
 	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11559,7 +11613,7 @@ page:420
 	tag: CPU
 	tag: DiegoBot
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11583,7 +11637,7 @@ page:418
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: Shadow
@@ -11595,7 +11649,7 @@ page:417
 	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
 	tag: S1
@@ -11688,7 +11742,7 @@ page:408
 	tag: KatsWorkshop
 	tag: Lockpicks
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: RobotTomb
 	tag: Shadow
 page:407
@@ -11699,7 +11753,7 @@ page:407
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 page:406
 	date: 2008-05-23
@@ -11712,7 +11766,7 @@ page:406
 	tag: KatsWorkshop
 	tag: Lockpicks
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Train
 	tag: TrainStation
 page:405
@@ -12911,7 +12965,7 @@ page:281
 	tag: CourtHall
 	tag: Coyote
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: WoodenArm
 	desc: Won't you come back to the forest with us, dearest cousin?
 page:280
@@ -13455,7 +13509,7 @@ page:226
 	tag: Annie
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: ScienceLab
 	tag: Shadow
 	tag: WolfToy
@@ -13466,7 +13520,7 @@ page:225
 	tag: Annie
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: ScienceLab
 	tag: Shadow
 	tag: WolfToy
@@ -13479,7 +13533,7 @@ page:224
 	tag: Gillitie
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	desc: The people of the forest will be wanting answers!
 page:223
 	date: 2007-04-02
@@ -13487,7 +13541,7 @@ page:223
 	tag: Annie
 	tag: Bridge
 	tag: Gillitie
-	tag: Robot
+	tag: RobotS13
 	tag: Seeds
 	tag: Shadowman
 	tag: WoodenArm
@@ -13498,7 +13552,7 @@ page:222
 	tag: Annie
 	tag: Gillitie
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: ScienceLab
 	tag: Ysengrin
 	desc: I remember. I crossed the bridge and the Shadow man joined his family
@@ -13509,7 +13563,7 @@ page:221
 	tag: Annie
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: ScienceLab
 	tag: Tears
 	desc: Am... am I in heaven?! I see an Angel before me!
@@ -13520,7 +13574,7 @@ page:220
 	tag: BismuthSymbol
 	tag: CPU
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: ScienceLab
 	tag: Tears
 	desc: This docking station has a camera, speaker and microphone, so the Robot will be able to see, speak and hear.
@@ -13531,7 +13585,7 @@ page:219
 	tag: AntimonySymbol
 	tag: DoorBot
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: RobotHQ
 	tag: Robots
 	tag: SecurityRobots
@@ -13544,7 +13598,7 @@ page:218
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: RobotHQ
 	tag: Robots
 	tag: SecurityRobots
@@ -13557,7 +13611,7 @@ page:217
 	tag: AntimonySymbol
 	tag: CPU
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: RobotHQ
 	tag: Robots
 	tag: SecurityRobots
@@ -13570,7 +13624,7 @@ page:216
 	tag: CPU
 	tag: Lockpicks
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: RobotHQ
 	tag: StarHeadband
 	desc: Here it is... S13
@@ -13666,7 +13720,7 @@ page:206
 	tag: Annie
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: ScienceLab
 	tag: Shadow
 	desc: I should at least find out what happened to him.
@@ -13695,7 +13749,7 @@ page:203
 	tag: Annie
 	tag: Boxbot
 	tag: Kat
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: ScienceLab
 	tag: Shadow
@@ -14084,7 +14138,7 @@ page:162
 	tag: Eglamore
 	tag: EglamoreOffice
 	tag: LeadSymbol
-	tag: Robot
+	tag: RobotS13
 	tag: Sword
 	tag: WoodenArm
 	desc: There was... a robot on the bridge. What happened to it?
@@ -14138,7 +14192,7 @@ page:157
 	tag: Eglamore
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Sword
 	tag: TicToc
 	tag: WoodenArm
@@ -14453,7 +14507,7 @@ page:128
 	tag: Blue
 	tag: Gillitie
 	tag: Red
-	tag: Robot
+	tag: RobotS13
 	tag: Shadow
 	tag: WoodenArm
 	desc: You did something to poor robot, and I won't allow you to do the same to me.
@@ -14552,7 +14606,7 @@ page:118
 	tag: Annie
 	tag: Bridge
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadowman
 	tag: Sword
 	tag: WoodenArm
@@ -14564,7 +14618,7 @@ page:117
 	tag: Bridge
 	tag: Eglamore
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadowman
 	tag: Sword
 	tag: TicToc
@@ -14577,7 +14631,7 @@ page:116
 	tag: Bridge
 	tag: Eglamore
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Sword
 	tag: TicToc
 	tag: WoodenArm
@@ -14596,7 +14650,7 @@ page:114
 	tag: Annie
 	tag: Bridge
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadowman
 	tag: TicToc
 	tag: WoodenArm
@@ -14619,7 +14673,7 @@ page:112
 	tag: Bridge
 	tag: Kat
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: ScienceLab
 	tag: Shadowman
 	desc: Could he have come back?
@@ -14777,7 +14831,7 @@ page:99
 	tag: Bridge
 	tag: Eglamore
 	tag: Rey
-	tag: Robot
+	tag: RobotS13
 	tag: Shadowman
 	tag: TicToc
 	tag: WoodenArm
@@ -15545,7 +15599,7 @@ page:14
 	tag: Bridge
 	tag: ch-01
 	tag: Gillitie
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -15555,7 +15609,7 @@ page:13
 	desc: Oh look! A birdie!
 	tag: Bridge
 	tag: ch-01
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -15566,7 +15620,7 @@ page:12
 	tag: Annie
 	tag: Bridge
 	tag: ch-01
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -15576,7 +15630,7 @@ page:11
 	tag: Annie
 	tag: Bridge
 	tag: ch-01
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -15586,7 +15640,7 @@ page:10
 	tag: Annie
 	tag: Bridge
 	tag: ch-01
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Shadow
 page:9
@@ -15594,7 +15648,7 @@ page:9
 	desc: Luckily, piecing the contraption together was relatively easy
 	tag: Annie
 	tag: ch-01
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
@@ -15604,7 +15658,7 @@ page:8
 	tag: Annie
 	tag: ch-01
 	tag: Library
-	tag: Robot
+	tag: RobotS13
 	tag: Robots
 	tag: Seraph
 	tag: Shadow
