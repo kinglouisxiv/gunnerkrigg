@@ -29,6 +29,66 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1463
+	date: 2015-01-16
+	desc: City Face's Book of Birds: The Stars
+	tag: ch-49a
+	tag: Pigeon
+	tag: Stars
+page:1462
+	date: 2015-01-15
+	desc: City Face's Book of Birds: A Broken Window
+	tag: ch-49a
+	tag: Pigeon
+	tag: Window
+page:1461
+	date: 2015-01-14
+	desc: City Face's Book of Birds: Giraffe
+	tag: ch-49a
+	tag: Giraffe
+	tag: Pigeon
+page:1460
+	date: 2015-01-13
+	desc: City Face's Book of Birds: Emu
+	tag: ch-49a
+	tag: Emu
+	tag: Pigeon
+page:1459
+	date: 2015-01-12
+	desc: City Face's Book of Birds: Secretary Bird
+	tag: ch-49a
+	tag: Pigeon
+	tag: SecretaryBird
+page:1458
+	date: 2015-01-09
+	desc: City Face's Book of Birds: Seagull
+	tag: ch-49a
+	tag: Pigeon
+	tag: Seagull
+page:1457
+	date: 2015-01-08
+	desc: City Face's Book of Birds: Robin
+	tag: ch-49a
+	tag: Pigeon
+	tag: Robin
+page:1456
+	date: 2015-01-07
+	desc: City Face's Book of Birds: Crow
+	tag: ch-49a
+	tag: Crow
+	tag: Pigeon
+page:1455
+	date: 2015-01-06
+	desc: City Face's Book of Birds: Magpie
+	tag: ch-49a
+	tag: Magpie
+	tag: Pigeon
+page:1454
+	date: 2015-01-05
+	desc: City Face's Book of Birds: Pigeon
+	tag: ch-49a
+	tag: CityFace
+	tag: Pigeon
 page:1453
 	date: 2015-01-02
 	desc: Intermission
@@ -42,6 +102,7 @@ page:1452
 	tag: Annie
 	tag: AnnieCut
 	tag: AntimonySymbol
+	tag: BismuthSymbol
 	tag: Court
 	tag: CourtStaffSymbol
 	tag: CreatorGlyph
