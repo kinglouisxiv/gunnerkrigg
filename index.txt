@@ -29,6 +29,68 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1469
+	date: 2015-01-30
+	desc: Coyote: Luckily for our friend, making a new body is easy!
+	tag: Annie
+	tag: AnnieCut
+	tag: AntimonySymbol
+	tag: ch-50
+	tag: Coyote
+	tag: Etherium
+	tag: Gillite
+	tag: Jackalope
+	tag: Teeth
+page:1468
+	date: 2015-01-28
+	desc: Coyote: Tiny, delicious one, take a good look around!
+	tag: Annie
+	tag: AnnieCut
+	tag: AntimonySymbol
+	tag: ch-50
+	tag: Coyote
+	tag: Etherium
+	tag: Gillite
+	tag: Jackalope
+	tag: Teeth
+page:1467
+	date: 2015-01-26
+	desc: Coyote: Ah! Our guest of honour has arrived!
+	tag: Annie
+	tag: AnnieCut
+	tag: AntimonySymbol
+	tag: ch-50
+	tag: Coyote
+	tag: Etherium
+	tag: Gillite
+	tag: Jackalope
+page:1466
+	date: 2015-01-23
+	desc: Annie: It has been so much fun having Kat here...
+	tag: Annie
+	tag: AnnieCut
+	tag: AntimonySymbol
+	tag: ch-50
+	tag: Coyote
+	tag: Etherium
+	tag: Gillite
+	tag: Kat
+	tag: Teeth
+page:1465
+	date: 2015-01-21
+	desc: Coyote: So, you have enjoyed yourself this summer?
+	tag: Annie
+	tag: AnnieCut
+	tag: AntimonySymbol
+	tag: ch-50
+	tag: Coyote
+	tag: Etherium
+	tag: Gillite
+page:1464
+	date: 2015-01-19
+	desc: Chapter 50:<br><br>**Totem**<br><br>_Icon: (yet to be deciphered)_
+	tag: ch-50
+	tag: Cover
 page:1463
 	date: 2015-01-16
 	desc: City Face's Book of Birds: The Stars
