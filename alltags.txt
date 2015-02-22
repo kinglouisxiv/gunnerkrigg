@@ -353,11 +353,11 @@ Spider	Often white and [etheric](#etherics), also often real.
 SpellCircle	a complex combination of geometric lines, symbols and writing, used in _e.g._ Hermetic magic
 StarHeadband	A headband with stars on antennae that [Annie](#annie) uses to pretend she is a [robot](#robots)
 Stars	Celestial bodies
-Steadman	An archer, present at the [founding](#founding) of the court a close friends of the [Artilleryman](#artilleryman)
+Steadman	An archer, present at the [founding](#founding) of the court, a close friend of the [Artilleryman](#artilleryman)
 StepsHouse	[Eglamore](#eglamore) lives here
 StopBot	Model B [robot](#robots) with stop signs for heads and boxing glove arms
 Students	Miscellaneous students
-SubDorm	Year 9's dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors.
+SubDorm	Year 9's dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors
 SullivansJohn	see [John](#john)
 Sun	Our closest [star](#stars)!
 SunSymbol	symbolic representations of the Sun other than [GoldSymbol](#goldsymbol)
@@ -366,7 +366,7 @@ SurmaWhisper	[Surma](#surma) whispers something to [Annie](#annie)
 Sweets	Tasty and sugary
 Sword	A long weapon with a blade held in one or two hands. Sometimes magical. Wielded by [Eglamore](#eglamore), [Parley](#parley), [Jeanne](#jeanne) among others
 Symbol	some unidentified symbol (please help identify!)
-Tea	Explains things between chapters or books and introduces breaks in the story.
+Tea	a white-haired woman who explains things between chapters or books and introduces breaks in the story
 Teacher	A miscellaneous teacher
 Tears	In the eyes, visibly crying, _etc_
 Telescope	Good for seeing celestial bodies, satellites and other things that are far away
@@ -383,6 +383,7 @@ Tombstone	The marker for a grave.
 Tony	Anthony Carver, [Annie's](#annie) father
 TornSea	an [etheric](#etherics) gap in the sea's reality
 Torus	A city fairy who deals with pigeons such as City Face. Sister of [Ogee](#ogee).
+Totem	An encapsulation of "the mind, the will, the _life_" of a creature
 Tower	A tower in the Court where [Aly](#aly) stays, while transitioning
 ToyShop	A toy shop in [Zimmingham](#zimmingham) where [Zimmy](#zimmy) and [Gamma](#gamma) meet up if they get separated
 Train	One of many trains that is used to commute in the court
@@ -447,7 +448,7 @@ ch-15	Red Returns [{Y}](http://youtu.be/zRAI9RrOL4c)
 ch-16	A Ghost Story [{Y}](http://youtu.be/d5agOAjjJsc)
 ch-17	The Medium Beginning [{Y}](http://youtu.be/NbVAIt7VJzY)
 ch-18	S1 [{Y}](http://youtu.be/fDZWjC341oc)
-ch-19	Power Station
+ch-19	Power Station [{Y}](http://youtu.be/wXiHFd_SB9c)
 ch-20	Coyote Stories
 ch-21	Blinking
 ch-22	Ties
@@ -483,5 +484,6 @@ ch-46	The Realm of the Dead
 ch-47	See Ya!
 ch-48	Tall Tales
 ch-49	The Torn Sea
-ch-50	-TBA-
+ch-49a	Intermission: City Face's Book of Birds
+ch-50	Totem
 ; ---TAGS EOF ---

@@ -29,6 +29,112 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1478
+	date: 2015-02-19
+	desc: Nurse: We only grow and transfer the students here.
+	tag: Annie
+	tag: BreatherMask
+	tag: ch-50
+	tag: GrowthTank
+	tag: Nurse
+	tag: p-15
+	tag: Smitty
+	tag: Tablet
+	tag: Totem
+	tag: TransferClinic
+page:1477
+	date: 2015-02-19
+	desc: Nurse: Welcome, welcome! So you're the new mediums, right?
+	tag: Annie
+	tag: ch-50
+	tag: Nurse
+	tag: p-14
+	tag: Smitty
+	tag: Tablet
+	tag: Totem
+	tag: TransferClinic
+page:1476
+	date: 2015-02-16
+	desc: Annie: Apparently there's a team of people that usually collects these... spirit totems?
+	tag: Annie
+	tag: ch-50
+	tag: Nurse
+	tag: p-13
+	tag: Smitty
+	tag: Tablet
+	tag: Totem
+	tag: TransferClinic
+page:1475
+	date: 2015-02-13
+	desc: Andrew Smith: To tell the truth, without Georgie around, it was... well, kind of boring!
+	tag: Annie
+	tag: ch-50
+	tag: Smitty
+	tag: Totem
+	tag: p-12
+page:1474
+	date: 2015-02-11
+	desc: (from the Forest, into the Court)
+	tag: Annie
+	tag: ch-50
+	tag: Bridge
+	tag: Smitty
+	tag: Court
+	tag: Gillite
+	tag: Jackalope
+	tag: p-11
+page:1473
+	date: 2015-02-09
+	desc: Coyote: Yes! It still breathes
+	tag: Annie
+	tag: ch-50
+	tag: Coyote
+	tag: Etherium
+	tag: Gillite
+	tag: Jackalope
+	tag: p-10
+page:1472
+	date: 2015-02-06
+	desc: Annie: Her... body is still alive!
+	tag: Annie
+	tag: AnnieCut
+	tag: AntimonySymbol
+	tag: ch-50
+	tag: p-09
+	tag: Coyote
+	tag: Etherium
+	tag: Fairies
+	tag: Red
+	tag: Jackalope
+	tag: Teeth
+page:1471
+	date: 2015-02-04
+	desc: Coyote: Take her totem to the Court and they will complete the ritual when her new body is ready!
+	tag: Annie
+	tag: AnnieCut
+	tag: AntimonySymbol
+	tag: ch-50
+	tag: p-08
+	tag: Coyote
+	tag: Etherium
+	tag: Fairies
+	tag: Red
+	tag: Jackalope
+	tag: Totem
+	tag: Teeth
+page:1470
+	date: 2015-02-02
+	desc: Coyote: When it comes to taking life, even *my* imagination is but a whisper
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-50
+	tag: p-07
+	tag: Coyote
+	tag: Etherium
+	tag: Earth
+	tag: Jackalope
+	tag: Totem
+	tag: Teeth
 page:1469
 	date: 2015-01-30
 	desc: Coyote: Luckily for our friend, making a new body is easy!
@@ -36,6 +142,7 @@ page:1469
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
+	tag: p-06
 	tag: Coyote
 	tag: Etherium
 	tag: Gillite
@@ -48,6 +155,7 @@ page:1468
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
+	tag: p-05
 	tag: Coyote
 	tag: Etherium
 	tag: Gillite
@@ -60,6 +168,7 @@ page:1467
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
+	tag: p-04
 	tag: Coyote
 	tag: Etherium
 	tag: Gillite
@@ -71,6 +180,7 @@ page:1466
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
+	tag: p-03
 	tag: Coyote
 	tag: Etherium
 	tag: Gillite
@@ -83,6 +193,7 @@ page:1465
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
+	tag: p-02
 	tag: Coyote
 	tag: Etherium
 	tag: Gillite
@@ -90,6 +201,7 @@ page:1464
 	date: 2015-01-19
 	desc: Chapter 50:<br><br>**Totem**<br><br>_Icon: (yet to be deciphered)_
 	tag: ch-50
+	tag: p-01
 	tag: Cover
 page:1463
 	date: 2015-01-16
@@ -13335,19 +13447,19 @@ page:260
 	desc: You would of course be welcome to come with us over the summer.
 page:259
 	date: 2007-06-25
-	tag: ch-14
+	desc: And the second was when a god emerged from Gillitie Wood.
 	tag: Annie
+	tag: ch-14
 	tag: Court
 	tag: Coyote
 	tag: Gillitie
 	tag: Janet
+	tag: John
 	tag: Kat
 	tag: Margo
 	tag: Matt
 	tag: Paz
-	tag: John
 	tag: Winsbury
-	desc: And the second was when a god emerged from Gillitie Wood.
 page:258
 	date: 2007-06-22
 	desc: Chapter 14:<br><br>**The Fangs Of Summertime**<br><br>_Icon: Coyote in front of the Sun_
@@ -13358,260 +13470,261 @@ page:258
 	tag: Coyote
 page:257
 	date: 2007-06-20
-	tag: ch-13
-	tag: Bonus
-	tag: Annie
-	tag: Kat
 	desc: Bonus Page: A Question of Taste (Kat checks out some "hot guy" with Annie)
+	tag: Annie
+	tag: Bonus
+	tag: ch-13
+	tag: Kat
 page:256
 	date: 2007-06-18
-	tag: ch-13
+	desc: Kat... You don't have to hid your tears. / How could I cry after a week like that?
 	tag: Annie
+	tag: ch-13
 	tag: Court
 	tag: Gillitie
 	tag: Kat
 	tag: Tower
-	desc: Kat... You don't have to hid your tears. / How could I cry after a week like that?
 page:255
 	date: 2007-06-15
-	tag: ch-13
+	desc: And she never saw him again
 	tag: Aly
+	tag: ch-13
 	tag: Kat
 	tag: Kershaws
 	tag: Kiss
 	tag: Tower
-	desc: And she never saw him again
 page:254
 	date: 2007-06-13
-	tag: ch-13
+	desc: Ugh! It-it's happening a lot faster now... I th-think... I... (Aly transforms)
 	tag: Aly
+	tag: ch-13
 	tag: Kat
 	tag: Tower
-	desc: Ugh! It-it's happening a lot faster now... I th-think... I... (Aly transforms)
 page:253
 	date: 2007-06-11
-	tag: ch-13
+	desc: Um... you can have my stuff if you want.
 	tag: Aly
 	tag: Blush
+	tag: ch-13
 	tag: Kat
 	tag: Kershaws
 	tag: Tower
-	desc: Um... you can have my stuff if you want.
 page:252
 	date: 2007-06-08
-	tag: ch-13
+	desc: Hey Aly, you want to be a bird? 'Kay.
 	tag: Aly
+	tag: ch-13
+	tag: Flashback
 	tag: Gillitie
 	tag: Kat
 	tag: KershawHouse
 	tag: Kershaws
 	tag: Tower
-	desc: Hey Aly, you want to be a bird? 'Kay.
 page:251
 	date: 2007-06-06
-	tag: ch-13
+	desc: My parents took some kind of test. And when they passed they were given new bodies.
 	tag: Aly
 	tag: Annie
+	tag: ch-13
 	tag: Kat
 	tag: Kershaws
 	tag: Tower
-	desc: My parents took some kind of test. And when they passed they were given new bodies.
 page:250
 	date: 2007-06-04
-	tag: ch-13
+	desc: I didn't want you to see me like this
 	tag: Aly
+	tag: ch-13
 	tag: Kat
 	tag: Tower
-	desc: I didn't want you to see me like this
 page:249
 	date: 2007-06-01
-	tag: ch-13
+	desc: I-I think that's him, all wrapped up.
 	tag: Aly
 	tag: Annie
+	tag: ch-13
 	tag: Kat
 	tag: Tower
-	desc: I-I think that's him, all wrapped up.
 page:248
 	date: 2007-05-30
-	tag: ch-13
+	desc: You will see Alistair before he leaves.
 	tag: Annie
+	tag: ch-13
 	tag: Classroom
 	tag: Court
 	tag: Kat
-	desc: You will see Alistair before he leaves.
 page:247
 	date: 2007-05-28
-	tag: ch-13
+	desc: Friday: I'm really sorry Kat. It-it was good to meet you.
 	tag: 113
 	tag: Aly
 	tag: Annie
+	tag: ch-13
 	tag: Court
 	tag: Kat
-	desc: Friday: I'm really sorry Kat. It-it was good to meet you.
 page:246
 	date: 2007-05-25
-	tag: ch-13
+	desc: I'll miss you too! I w-wish yiou could have stayed longer.
 	tag: Aly
 	tag: Blush
+	tag: ch-13
 	tag: Kat
 	tag: Library
-	desc: I'll miss you too! I w-wish yiou could have stayed longer.
 page:245
 	date: 2007-05-23
-	tag: ch-13
+	desc: Well then! If you will excuse me. I have to... find... a... book.
 	tag: Aly
 	tag: Annie
 	tag: Blush
+	tag: ch-13
 	tag: Kat
 	tag: Library
-	desc: Well then! If you will excuse me. I have to... find... a... book.
 page:244
 	date: 2007-05-21
-	tag: ch-13
+	desc: So what's first today, guys?
 	tag: Aly
 	tag: Annie
+	tag: ch-13
 	tag: Classroom
 	tag: Dorm
 	tag: Kat
-	desc: So what's first today, guys?
 page:243
 	date: 2007-05-18
-	tag: ch-13
+	desc: Even I can see Alistair likes you as you are.
 	tag: Annie
 	tag: Blush
+	tag: ch-13
 	tag: Dorm
 	tag: Kat
-	desc: Even I can see Alistair likes you as you are.
 page:242
 	date: 2007-05-16
-	tag: ch-13
+	desc: Much better, yes?
 	tag: Annie
+	tag: ch-13
 	tag: Crying
 	tag: Dorm
 	tag: Kat
 	tag: MakeUp
-	desc: Much better, yes?
 page:241
 	date: 2007-05-14
-	tag: ch-13
+	desc: Thursday: (Kat has done very horrible makeup on herself and is crying)
 	tag: Annie
+	tag: ch-13
 	tag: Crying
 	tag: Dorm
 	tag: Kat
 	tag: MakeUp
-	desc: Thursday: (Kat has done very horrible makeup on herself and is crying)
 page:240
 	date: 2007-05-11
-	tag: ch-13
+	desc: He's very light, that must be how he can jump so... What?! What's wrong with you?!
 	tag: Aly
 	tag: Annie
 	tag: Blush
-	tag: Kat
+	tag: ch-13
 	tag: Gym
-	desc: He's very light, that must be how he can jump so... What?! What's wrong with you?!
+	tag: Kat
 page:239
 	date: 2007-05-09
-	tag: ch-13
+	desc: (Annie picks Aly up and moves him around)
 	tag: Aly
 	tag: Annie
-	tag: Kat
+	tag: ch-13
 	tag: Gym
-	desc: (Annie picks Aly up and moves him around)
+	tag: Kat
 page:238
 	date: 2007-05-07
-	tag: ch-13
+	desc: Don't want to get yourself hurt two days before your parents get here.
 	tag: Aly
 	tag: Annie
+	tag: ch-13
 	tag: Eglamore
 	tag: Gym
-	desc: Don't want to get yourself hurt two days before your parents get here.
 page:237
 	date: 2007-05-04
-	tag: ch-13
+	desc: (Aly steals the basketball from Winsbury and does a SLAM DUNKIN)
 	tag: Aly
 	tag: Annie
+	tag: ch-13
 	tag: Gym
 	tag: Kat
 	tag: Winsbury
-	desc: (Aly steals the basketball from Winsbury and does a SLAM DUNKIN)
 page:236
 	date: 2007-05-02
-	tag: ch-13
+	desc: Wednesday: And what are you wearing a scarf and gloves inside for man?
 	tag: Aly
 	tag: Annie
+	tag: ch-13
 	tag: Gym
 	tag: Kat
 	tag: SkullCrossbones
 	tag: Winsbury
-	desc: Wednesday: And what are you wearing a scarf and gloves inside for man?
 page:235
 	date: 2007-04-30
-	tag: ch-13
+	desc: Tuesday: Are you going to a new school?
 	tag: Aly
 	tag: Annie
 	tag: BismuthSymbol
+	tag: ch-13
 	tag: Kat
-	desc: Tuesday: Are you going to a new school?
 page:234
 	date: 2007-04-27
-	tag: ch-13
+	desc: He thinks the Prodigy's Fat of the Land is better than Music for the Jilted Generation / I have no idea what you just said
 	tag: Annie
+	tag: ch-13
 	tag: Dorm
 	tag: Kat
-	desc: He thinks the Prodigy's Fat of the Land is better than Music for the Jilted Generation / I have no idea what you just said
 page:233
 	date: 2007-04-25
-	tag: ch-13
+	desc: (Aly and Kat talk about popular culture while Annie looks increasingly left out)
 	tag: Aly
 	tag: AlyShirt
 	tag: Annie
+	tag: ch-13
 	tag: Grounds
 	tag: Kat
-	desc: (Aly and Kat talk about popular culture while Annie looks increasingly left out)
 page:232
 	date: 2007-04-23
-	tag: ch-13
+	desc: Sorry about Winsbury by the way, he can be a real jerk
 	tag: Aly
 	tag: AlyShirt
 	tag: Annie
+	tag: ch-13
 	tag: Court
 	tag: Kat
-	desc: Sorry about Winsbury by the way, he can be a real jerk
 page:231
 	date: 2007-04-20
-	tag: ch-13
+	desc: Before we start: Alistair here will be joining you for classes this week.
 	tag: Aly
 	tag: AlyShirt
 	tag: Anja
 	tag: Annie
+	tag: ch-13
 	tag: Classroom
 	tag: Kat
 	tag: Winsbury
-	desc: Before we start: Alistair here will be joining you for classes this week.
 page:230
 	date: 2007-04-18
-	tag: ch-13
+	desc: I didn't realise this was some sort of fashion advice seminar.
 	tag: Aly
 	tag: AlyShirt
 	tag: Anja
 	tag: Annie
 	tag: Blush
+	tag: ch-13
 	tag: Classroom
 	tag: Kat
 	tag: Winsbury
-	desc: I didn't realise this was some sort of fashion advice seminar.
 page:229
 	date: 2007-04-16
-	tag: ch-13
+	desc: Monday: I wonder who that boy is.
 	tag: Aly
 	tag: AlyShirt
 	tag: Annie
 	tag: Becky
+	tag: ch-13
 	tag: Classroom
 	tag: Kat
 	tag: Students
 	tag: Winsbury
-	desc: Monday: I wonder who that boy is.
 page:228
 	date: 2007-04-13
 	desc: Chapter 13:<br><br>**A Week For Kat**<br><br>_Icon: Tower_
@@ -13620,76 +13733,76 @@ page:228
 	tag: Kat
 page:227
 	date: 2007-04-11
-	tag: ch-12
-	tag: Bonus
+	desc: Bonus Page: Adonis in Stitches (Rey tries to excite Annie by generating a muscly humanoid body)
 	tag: Annie
+	tag: Bonus
+	tag: ch-12
 	tag: Dorm
 	tag: Rey
-	desc: Bonus Page: Adonis in Stitches (Rey tries to excite Annie by generating a muscly humanoid body)
 page:226
 	date: 2007-04-09
-	tag: ch-12
+	desc: Well, now that we have you back, Robot, we should do something about your body.
 	tag: Annie
+	tag: ch-12
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
 	tag: ScienceLab
 	tag: Shadow
 	tag: WolfToy
-	desc: Well, now that we have you back, Robot, we should do something about your body.
 page:225
 	date: 2007-04-06
-	tag: ch-12
+	desc: It's a wonder my fool cousin hasn't already retaliated.
 	tag: Annie
+	tag: ch-12
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
 	tag: ScienceLab
 	tag: Shadow
 	tag: WolfToy
-	desc: It's a wonder my fool cousin hasn't already retaliated.
 page:224
 	date: 2007-04-04
-	tag: ch-12
-	tag: Annie
+	desc: The people of the forest will be wanting answers!
 	tag: Annan
+	tag: Annie
+	tag: ch-12
 	tag: Gillitie
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
-	desc: The people of the forest will be wanting answers!
 page:223
 	date: 2007-04-02
-	tag: ch-12
+	desc: A ShadowMan took control of my body!
 	tag: Annie
 	tag: Bridge
+	tag: ch-12
 	tag: Gillitie
 	tag: RobotS13
 	tag: Seeds
 	tag: Shadowman
 	tag: WoodenArm
-	desc: A ShadowMan took control of my body!
 page:222
 	date: 2007-03-30
-	tag: ch-12
+	desc: I remember. I crossed the bridge and the Shadow man joined his family
 	tag: Annie
+	tag: ch-12
 	tag: Gillitie
 	tag: Rey
 	tag: RobotS13
 	tag: ScienceLab
 	tag: Ysengrin
-	desc: I remember. I crossed the bridge and the Shadow man joined his family
 page:221
 	date: 2007-03-28
-	tag: ch-12
+	desc: Am... am I in heaven?! I see an Angel before me!
 	tag: Angel
 	tag: Annie
+	tag: ch-12
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
 	tag: ScienceLab
 	tag: Tears
-	desc: Am... am I in heaven?! I see an Angel before me!
 page:220
 	date: 2007-03-26
 	tag: ch-12
@@ -13703,198 +13816,198 @@ page:220
 	desc: This docking station has a camera, speaker and microphone, so the Robot will be able to see, speak and hear.
 page:219
 	date: 2007-03-23
-	tag: ch-12
+	desc: Open the door, please, Mister Door Robot!
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-12
 	tag: DoorBot
 	tag: Rey
-	tag: RobotS13
 	tag: RobotHQ
 	tag: Robots
+	tag: RobotS13
 	tag: SecurityRobots
 	tag: StarHeadband
-	desc: Open the door, please, Mister Door Robot!
 page:218
 	date: 2007-03-21
-	tag: ch-12
+	desc: Oh my, how polite! And such a curious design
 	tag: AdminBot
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-12
 	tag: Rey
-	tag: RobotS13
 	tag: RobotHQ
 	tag: Robots
+	tag: RobotS13
 	tag: SecurityRobots
 	tag: StarHeadband
-	desc: Oh my, how polite! And such a curious design
 page:217
 	date: 2007-03-19
-	tag: ch-12
+	desc: Oh, I do so dislike alarms
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-12
 	tag: CPU
 	tag: Rey
-	tag: RobotS13
 	tag: RobotHQ
 	tag: Robots
+	tag: RobotS13
 	tag: SecurityRobots
 	tag: StarHeadband
-	desc: Oh, I do so dislike alarms
 page:216
 	date: 2007-03-16
-	tag: ch-12
+	desc: Here it is... S13
 	tag: Annie
+	tag: ch-12
 	tag: CPU
 	tag: Lockpicks
 	tag: Rey
-	tag: RobotS13
 	tag: RobotHQ
+	tag: RobotS13
 	tag: StarHeadband
-	desc: Here it is... S13
 page:215
 	date: 2007-03-14
-	tag: ch-12
+	desc: This must be a directory of all the CPUs being studied.
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-12
 	tag: EtherSymbol
 	tag: Rey
 	tag: RobotHQ
 	tag: StarHeadband
-	desc: This must be a directory of all the CPUs being studied.
 page:214
 	date: 2007-03-12
-	tag: ch-12
+	desc: Fine... get on (Rey turns from a WolfToy into a proper wolf form)
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-12
 	tag: Rey
 	tag: RobotHQ
 	tag: StarHeadband
-	desc: Fine... get on (Rey turns from a WolfToy into a proper wolf form)
 page:213
 	date: 2007-03-09
-	tag: ch-12
+	desc: Haha! Tired already child?!
 	tag: Annie
+	tag: ch-12
 	tag: Rey
 	tag: RobotHQ
 	tag: StarHeadband
-	desc: Haha! Tired already child?!
 page:212
 	date: 2007-03-07
-	tag: ch-12
+	desc: Meanwhile as his body begins a career in paper fastening, S13's cpu has been sent to Research
 	tag: AdminBot
 	tag: Annie
+	tag: ch-12
 	tag: CPU
 	tag: RobotHQ
 	tag: Robots
 	tag: StarHeadband
-	desc: Meanwhile as his body begins a career in paper fastening, S13's cpu has been sent to Research
 page:211
 	date: 2007-03-05
-	tag: ch-12
+	desc: Of course. S13 is quite sought after. Not least for all the trouble he causes
 	tag: AdminBot
 	tag: Annie
+	tag: ch-12
 	tag: Rey
 	tag: RobotHQ
 	tag: Robots
 	tag: StarHeadband
-	desc: Of course. S13 is quite sought after. Not least for all the trouble he causes
 page:210
 	date: 2007-03-02
-	tag: ch-12
+	desc: His name is Robot! Um... number 13?
 	tag: AdminBot
 	tag: Annie
+	tag: ch-12
 	tag: Rey
 	tag: RobotHQ
 	tag: Robots
 	tag: StarHeadband
-	desc: His name is Robot! Um... number 13?
 page:209
 	date: 2007-02-28
-	tag: ch-12
+	desc: We're looking for a particular Robot
 	tag: Annie
+	tag: ch-12
 	tag: Court
 	tag: DoorBot
 	tag: Rey
 	tag: RobotHQ
 	tag: Robots
 	tag: StarHeadband
-	desc: We're looking for a particular Robot
 page:208
 	date: 2007-02-26
-	tag: ch-12
+	desc: Robots onl... What's that on your head?
 	tag: Annie
+	tag: ch-12
 	tag: Court
 	tag: DoorBot
 	tag: Rey
 	tag: RobotHQ
 	tag: Robots
 	tag: StarHeadband
-	desc: Robots onl... What's that on your head?
 page:207
 	date: 2007-02-23
-	tag: ch-12
+	desc: Oh, I think I can put together a clever disguise. And bring some help.
 	tag: Annie
+	tag: ch-12
 	tag: Kat
 	tag: ScienceLab
-	desc: Oh, I think I can put together a clever disguise. And bring some help.
 page:206
 	date: 2007-02-21
-	tag: ch-12
+	desc: I should at least find out what happened to him.
 	tag: Annie
+	tag: ch-12
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
 	tag: ScienceLab
 	tag: Shadow
-	desc: I should at least find out what happened to him.
 page:205
 	date: 2007-02-19
-	tag: ch-12
-	tag: Annie
-	tag: DoorBot
-	tag: Court
-	tag: Robots
-	tag: RobotHQ
-	tag: Seraph
 	desc: (Boring Door) There was no handle on the door through which they escaped.
+	tag: Annie
+	tag: ch-12
+	tag: Court
+	tag: DoorBot
+	tag: RobotHQ
+	tag: Robots
+	tag: Seraph
 page:204
 	date: 2007-02-16
-	tag: ch-12
+	desc: I wanted to ask them about him, but they ran away when they saw me.
 	tag: Annie
+	tag: ch-12
 	tag: Court
 	tag: Montgomery
 	tag: Robots
 	tag: Seraph
-	desc: I wanted to ask them about him, but they ran away when they saw me.
 page:203
+	auth: Tom: nobody likes boxbot
 	date: 2007-02-14
-	tag: ch-12
+	desc: On my way over I saw... Robots! (helloooo!)
 	tag: Annie
 	tag: Boxbot
+	tag: ch-12
 	tag: Kat
-	tag: RobotS13
 	tag: Robots
+	tag: RobotS13
 	tag: ScienceLab
 	tag: Shadow
 	tag: Terrible
-	desc: On my way over I saw... Robots! (helloooo!)
-	auth: Tom: nobody likes boxbot
 page:202
 	date: 2007-02-12
-	tag: ch-12
+	desc: Kat, that's wonderful! He even sounds like you!
 	tag: Annie
+	tag: ch-12
 	tag: Kat
 	tag: ScienceLab
 	tag: Shadow
-	desc: Kat, that's wonderful! He even sounds like you!
 page:201
 	date: 2007-02-09
-	tag: ch-12
+	desc: He isn't really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
 	tag: Annie
+	tag: ch-12
 	tag: Kat
 	tag: ScienceLab
 	tag: Shadow
-	desc: He isn't really a shadow at all. He has a very slight mass on the molecular level that is so thin it might as well be a layer of light.
 page:200
 	date: 2007-02-07
 	desc: Chapter 12:<br><br>**Mainly Involves Robots**<br><br>_Icon: Reynardine (Rey, Renard) with the AntimonySymbol on his forehead_
@@ -13904,74 +14017,75 @@ page:200
 	tag: RobotParts
 page:199
 	date: 2007-02-05
-	tag: ch-11
-	tag: Bonus
+	desc: Bonus Page: Light Entertainment (Kat shows Annie Grand Theft Auto)
 	tag: Annie
+	tag: Bonus
+	tag: ch-11
 	tag: DonlanHouse
 	tag: Dorm
 	tag: Kat
-	desc: Bonus Page: Light Entertainment (Kat shows Annie Grand Theft Auto)
 page:198
 	date: 2007-02-02
-	tag: ch-11
+	desc: Bonus Page: Plenty of Spiders (Zimmy and Gamma go looking for rats and spiders)
 	tag: Bonus
+	tag: ch-11
 	tag: Gamma
 	tag: Zimmy
-	desc: Bonus Page: Plenty of Spiders (Zimmy and Gamma go looking for rats and spiders)
 page:197
 	date: 2007-01-31
-	tag: ch-11
+	desc: She says "thanks" for sitting with us.
 	tag: Annie
+	tag: ch-11
 	tag: Courtyard
 	tag: Gamma
 	tag: Rain
 	tag: Zimmy
-	desc: She says "thanks" for sitting with us.
 page:196
 	date: 2007-01-29
+	desc: (Zimmy joyously slips and slides in the rain)
 	tag: ch-11
 	tag: Courtyard
 	tag: Rain
 	tag: Zimmy
-	desc: (Zimmy joyously slips and slides in the rain)
 page:195
 	date: 2007-01-26
+	desc: Come on! Rain!
 	tag: ch-11
 	tag: Courtyard
 	tag: Rain
 	tag: Zimmy
-	desc: Come on! Rain!
 page:194
 	date: 2007-01-24
-	tag: ch-11
+	desc: That bird is the thousand eyes. Zimmy cannot stand it looking at her. She can feel its stare.
 	tag: Annie
 	tag: AnnieCut
+	tag: ch-11
 	tag: Courtyard
 	tag: Gamma
 	tag: Kiss
 	tag: TicToc
-	desc: That bird is the thousand eyes. Zimmy cannot stand it looking at her. She can feel its stare.
 page:193
 	date: 2007-01-22
-	tag: ch-11
+	desc: (The guys go to the courtyard)
 	tag: Annie
 	tag: AnnieCut
+	tag: ch-11
 	tag: Courtyard
 	tag: Gamma
 	tag: Kiss
 	tag: TicToc
-	desc: (The guys go to the courtyard)
 page:192
 	date: 2007-01-19
-	tag: ch-11
+	desc: The storm is about to break. We must go outside
 	tag: Annie
+	tag: ch-11
 	tag: Gamma
 	tag: Library
 	tag: Zimmingham
 	tag: Zimmy
-	desc: The storm is about to break. We must go outside
 page:191
 	date: 2007-01-17
+	desc: This is unlike the other schools you have attended.
 	tag: ch-11
 	tag: Employees
 	tag: Flashback
@@ -13979,88 +14093,87 @@ page:191
 	tag: Library
 	tag: Zimmingham
 	tag: Zimmy
-	desc: This is unlike the other schools you have attended.
 page:190
 	date: 2007-01-15
+	desc: How do you do that? I don't know.
 	tag: ch-11
 	tag: Flashback
 	tag: Gamma
 	tag: Monster
 	tag: Zimmingham
 	tag: Zimmy
-	desc: How do you do that? I don't know.
 page:189
 	date: 2007-01-12
-	tag: ch-11
+	desc: It's like... tuning in a radio. All she has to do is be near me an' the static gets pushed out.
 	tag: Annie
 	tag: AnnieCut
+	tag: ch-11
 	tag: Library
 	tag: Zimmy
-	desc: It's like... tuning in a radio. All she has to do is be near me an' the static gets pushed out.
 page:188
 	date: 2007-01-10
+	desc: Come on! Wake uuup!
 	tag: ch-11
 	tag: Flashback
 	tag: Gamma
 	tag: Monster
 	tag: Zimmingham
 	tag: Zimmy
-	desc: Come on! Wake uuup!
 page:187
 	date: 2007-01-08
-	tag: ch-11
+	desc: ’Cos she tries to stay awake as long as I do, but I don't sleep.
 	tag: Annie
+	tag: ch-11
 	tag: Gamma
 	tag: Library
 	tag: Zimmy
-	desc: 'Cos she tries to stay awake as long as I do, but I don't sleep.
 page:186
 	date: 2007-01-05
+	desc: (Zimmy is talking in static)
 	tag: ch-11
 	tag: Flashback
 	tag: Gamma
 	tag: Zimmingham
 	tag: Zimmy
-	desc: (Zimmy is talking in static)
 page:185
 	date: 2007-01-03
-	tag: ch-11
+	desc: You gotta help, Carver, she needs to sleep.
 	tag: Annie
+	tag: ch-11
 	tag: Gamma
 	tag: Kat
 	tag: Library
 	tag: Zimmy
-	desc: You gotta help, Carver, she needs to sleep.
 page:184
 	date: 2007-01-01
-	tag: ch-11
+	desc: What do you guys want?
 	tag: Annie
+	tag: ch-11
 	tag: Gamma
 	tag: Kat
 	tag: Library
 	tag: Zimmy
-	desc: What do you guys want?
 page:183
 	date: 2006-12-29
-	tag: ch-11
+	desc: (Annie and Gamma speak some Polish to each other)
 	tag: Annie
+	tag: ch-11
 	tag: Courtyard
 	tag: Gamma
 	tag: TicToc
 	tag: Zimmy
-	desc: (Annie and Gamma speak some Polish to each other)
 page:182
 	date: 2006-12-27
-	tag: ch-11
+	desc: (Zimmy is standing in the courtyard with Annie and Gamma)
 	tag: Annie
+	tag: ch-11
 	tag: Courtyard
 	tag: Gamma
 	tag: TicToc
 	tag: Zimmy
-	desc: (Zimmy is standing in the courtyard with Annie and Gamma)
 page:181
-	date: 2006-12-25
 	auth: Tom: Here we go then, three pages a week.
+	date: 2006-12-25
 	desc: Chapter 11:<br><br>**Dobranoc, Gamma**<br><br>_Icon: Gamma and Zimmy in Zimmingham_
 	tag: ch-11
 	tag: Cover
@@ -14070,88 +14183,89 @@ page:181
 	tag: Stars
 page:180
 	date: 2006-12-21
-	tag: ch-10
+	desc: Bonus Page: Pressing Matters (Kat dreams about Mulder in class)
 	tag: Annie
+	tag: ch-10
 	tag: Classroom
 	tag: Kat
-	desc: Bonus Page: Pressing Matters (Kat dreams about Mulder in class)
 page:179
 	date: 2006-12-19
-	tag: ch-10
+	desc: I suppose some things are better learned away from a text book.
 	tag: Annie
+	tag: ch-10
 	tag: Court
 	tag: DrDisaster
 	tag: Janet
+	tag: John
 	tag: Moon
 	tag: Paz
 	tag: SimRocket
-	tag: John
 	tag: Winsbury
-	desc: I suppose some things are better learned away from a text book.
 page:178
 	date: 2006-12-14
-	tag: ch-10
+	desc: I hope you like your... smashed... death ray!
 	tag: Annie
+	tag: ch-10
 	tag: EnigmaronLair
 	tag: Janet
 	tag: Kat
 	tag: Moon
 	tag: Winsbury
-	desc: I hope you like your... smashed... death ray!
 page:177
 	date: 2006-12-12
-	tag: ch-10
+	desc: Oh well, here I go
 	tag: Annie
 	tag: Becky
+	tag: ch-10
 	tag: DrDisaster
 	tag: EnigmaronLair
 	tag: Enigmarons
 	tag: Kat
 	tag: Moon
 	tag: Winsbury
-	desc: Oh well, here I go.
 page:176
 	date: 2006-12-07
-	tag: ch-10
+	desc: You'll never get away with this!
 	tag: Annie
+	tag: ch-10
 	tag: DrDisaster
 	tag: EnigmaronLair
 	tag: Enigmarons
 	tag: Kat
 	tag: Moon
 	tag: Winsbury
-	desc: You'll never get away with this!
 page:175
 	date: 2006-12-05
-	tag: ch-10
+	desc: It is up to you, spacemonaut Carver, to rescue them and complete the mission!
 	tag: Annie
+	tag: ch-10
 	tag: DrDisaster
 	tag: EnigmaronLair
 	tag: Moon
 	tag: Simulation
-	desc: It is up to you, spacemonaut Carver, to rescue them and complete the mission!
 page:174
 	date: 2006-11-30
-	tag: ch-10
+	desc: It's a chance for us to dress up and run around like crazies
 	tag: Annie
+	tag: ch-10
 	tag: Kat
 	tag: Moon
 	tag: Simulation
 	tag: Students
-	desc: It's a chance for us to dress up and run around like crazies.
 page:173
 	date: 2006-11-28
-	tag: ch-10
+	desc: You can join them if you wish. I'm sure I'll catch up eventually.
 	tag: Annie
+	tag: ch-10
 	tag: Kat
 	tag: Moon
 	tag: Simulation
 	tag: Students
-	desc: You can join them if you wish. I'm sure I'll catch up eventually.
 page:172
 	date: 2006-11-23
-	tag: ch-10
+	desc: Those are the terrible Enigmarons? They don't even have arms.
 	tag: Annie
+	tag: ch-10
 	tag: Enigmarons
 	tag: Janet
 	tag: Kat
@@ -14159,11 +14273,11 @@ page:172
 	tag: Moon
 	tag: Simulation
 	tag: Winsbury
-	desc: Those are the terrible Enigmarons? They don't even have arms.
 page:171
 	date: 2006-11-21
-	tag: ch-10
+	desc: Doctor! We are approaching the moon!
 	tag: Annie
+	tag: ch-10
 	tag: DrDisaster
 	tag: Janet
 	tag: Kat
@@ -14172,35 +14286,35 @@ page:171
 	tag: SimRocket
 	tag: Simulation
 	tag: Winsbury
-	desc: Doctor! We are approaching the moon!
 page:170
 	date: 2006-11-16
-	tag: ch-10
+	desc: The evil Enigmarons are threatening the earth from their moon base on the moon!
 	tag: Annie
+	tag: ch-10
 	tag: DrDisaster
 	tag: Kat
 	tag: SimRocket
 	tag: Simulation
-	desc: The evil Enigmarons are threatening the earth from their moon base on the moon!
 page:169
 	date: 2006-11-14
-	tag: ch-10
+	desc: But that's not the point. You're supposed to enjoy it!
 	tag: Annie
+	tag: ch-10
 	tag: Court
 	tag: Kat
 	tag: SimRocket
 	tag: Simulation
-	desc: But that's not the point. You're supposed to enjoy it!
 page:168
 	date: 2006-11-09
-	tag: ch-10
+	desc: I must admit I question the educational value of Dr. Disaster's classes.
 	tag: Annie
+	tag: ch-10
 	tag: Court
 	tag: DrDisaster
 	tag: Kat
-	desc: I must admit I question the educational value of Dr. Disaster's classes.
 page:167
 	date: 2006-11-07
+	desc: Well, that clears my next 40 minutes
 	tag: ch-10
 	tag: Classroom
 	tag: DrDisaster
@@ -14209,19 +14323,18 @@ page:167
 	tag: Students
 	tag: Teacher
 	tag: Winsbury
-	desc: Well, that clears my next 40 minutes
 page:166
 	date: 2006-11-02
-	tag: ch-10
+	desc: Spacemonauts! The earth is in peril!
 	tag: Annie
+	tag: ch-10
 	tag: Classroom
 	tag: DrDisaster
 	tag: Janet
-	tag: Kat
 	tag: John
+	tag: Kat
 	tag: Teacher
 	tag: Winsbury
-	desc: Spacemonauts! The earth is in peril!
 page:165
 	date: 2006-10-31
 	desc: Chapter 10:<br><br>**Doctor Disaster Versus the Creepy Space Aliens from Outer Space**<br><br>_Icon: Enigmaron_
@@ -14238,79 +14351,80 @@ page:165
 	tag: Stars
 page:164
 	date: 2006-10-26
-	tag: ch-09
-	tag: Bonus
+	desc: Bonus Page: Detention (Annie and Rey in detention)
 	tag: Annie
+	tag: Bonus
+	tag: ch-09
 	tag: Classroom
 	tag: Rey
-	desc: Bonus Page: Detention (Annie and Rey in detention)
 page:163
 	date: 2006-10-24
-	tag: ch-09
+	desc: It's been taken care of
 	tag: 113
+	tag: ch-09
 	tag: Eglamore
 	tag: Habitat
 	tag: HabitatSymbol
 	tag: WoodenArm
-	desc: It's been taken care of
 page:162
 	date: 2006-10-19
-	tag: ch-09
+	desc: There was... a robot on the bridge. What happened to it?
 	tag: Annie
 	tag: Bridge
+	tag: ch-09
 	tag: Eglamore
 	tag: EglamoreOffice
 	tag: LeadSymbol
 	tag: RobotS13
 	tag: Sword
 	tag: WoodenArm
-	desc: There was... a robot on the bridge. What happened to it?
 page:161
 	date: 2006-10-17
-	tag: ch-09
+	desc: Just know that I will be keepingg a close eye on him. And you.
 	tag: Annie
+	tag: ch-09
 	tag: Eglamore
 	tag: EglamoreOffice
 	tag: Rey
 	tag: Tiki
-	desc: Just know that I will be keepingg a close eye on him. And you.
 page:160
 	date: 2006-10-12
-	tag: ch-09
+	desc: Well I'm sorry I'm not as clever as my mother. I don't think your advice is very appropriate.
 	tag: Annie
 	tag: BismuthSymbol
+	tag: ch-09
 	tag: CourtLogo
 	tag: Eglamore
 	tag: EglamoreOffice
 	tag: Mask
 	tag: Rey
-	desc: Well I'm sorry I'm not as clever as my mother. I don't think your advice is very appropriate.
 page:159
 	date: 2006-10-10
-	tag: ch-09
+	desc: You wanted to see me sir?
 	tag: Annie
+	tag: ch-09
 	tag: Eglamore
 	tag: EglamoreOffice
 	tag: LeadSymbol
 	tag: Sword
 	tag: Tiki
-	desc: You wanted to see me sir?
 page:158
 	date: 2006-10-05
-	tag: ch-09
+	desc: I told them I was going to go down there and find you one way or another.
 	tag: Annie
 	tag: Blush
+	tag: ch-09
 	tag: Classroom
 	tag: DonlanHouse
 	tag: Donny
 	tag: Kat
 	tag: Mort
-	desc: I told them I was going to go down there and find you one way or another.
 page:157
 	date: 2006-10-03
-	tag: ch-09
+	desc: he looked kinda upset. But nothing like how I was as soon as I found out what happened.
 	tag: Annie
 	tag: Bridge
+	tag: ch-09
 	tag: Classroom
 	tag: Eglamore
 	tag: Kat
@@ -14319,65 +14433,63 @@ page:157
 	tag: Sword
 	tag: TicToc
 	tag: WoodenArm
-	desc: he looked kinda upset. But nothing like how I was as soon as I found out what happened.
 page:156
 	date: 2006-09-28
-	tag: ch-09
+	desc: It's probably because you are so attractive.
 	tag: Annie
 	tag: Blush
+	tag: ch-09
 	tag: Classroom
 	tag: Kat
 	tag: Mort
-	desc: It's probably because you are so attractive.
 page:155
 	date: 2006-09-26
-	url: http://www.gunnerkrigg.com/?p=155
-	tag: ch-09
+	desc: For the longest time I never understood why these people were gone the next day.
 	tag: Agni
 	tag: Ankou
 	tag: Annie
+	tag: ch-09
 	tag: GoodHope
 	tag: Mercury
 	tag: Neith
 	tag: Psychopomps
 	tag: Veles
-	desc: For the longest time I never understood why these people were gone the next day.
 page:154
 	date: 2006-09-21
-	tag: ch-09
+	desc: For as long as I could remember I would see creatures walking the halls, hidden from the hospital staff.
 	tag: Annie
+	tag: ch-09
 	tag: GoodHope
 	tag: Muut
 	tag: Psychopomps
 	tag: Surma
-	desc: For as long as I could remember I would see creatures walking the halls, hidden from the hospital staff.
 page:153
 	date: 2006-09-19
-	tag: ch-09
+	desc: That sucks about the ghost with the sword. That isn't supposed to happen.
 	tag: Annie
+	tag: ch-09
 	tag: Classroom
 	tag: Kat
 	tag: Mort
 	tag: Muut
-	desc: That sucks about the ghost with the sword. That isn't supposed to happen.
 page:152
 	date: 2006-09-14
-	tag: ch-09
+	desc: It was a very thoughtful gift. / Aw shucks, ’t weren't no big thing.
 	tag: Annie
 	tag: BlinkerStone
 	tag: Blush
+	tag: ch-09
 	tag: Classroom
 	tag: Kat
 	tag: Mort
-	desc: It was a very thoughtful gift. / Aw shucks, 't weren't no big thing.
 page:151
 	date: 2006-09-12
-	tag: ch-09
+	desc: (Annie scares Mort instead)
 	tag: Annie
+	tag: ch-09
 	tag: Classroom
 	tag: Kat
 	tag: Mort
-	desc: (Annie scares Mort instead)
 page:150
 	date: 2006-09-07
 	desc: Oh boy! Someone is in the room! (Mort decides to scare Kat)
@@ -14401,64 +14513,66 @@ page:149
 	tag: Tiki
 page:148
 	date: 2006-08-31
-	tag: ch-08
+	desc: Bonus Page: Regional Fairies
 	tag: Bonus
+	tag: ch-08
 	tag: Fairies
 	tag: Ogee
 	tag: Tea
-	desc: Bonus Page: Regional Fairies
 page:147
 	date: 2006-08-29
-	tag: ch-08
+	desc: This isn't just a school is it?
 	tag: Annie
 	tag: AntiGrav
+	tag: ch-08
 	tag: Court
 	tag: Kat
-	desc: This isn't just a school is it?
 page:146
 	date: 2006-08-24
-	tag: ch-08
+	desc: You remember that time I told you that I'd never lost anyone I cared for?
 	tag: Annan
 	tag: Annie
 	tag: AntiGrav
+	tag: ch-08
 	tag: Gillitie
 	tag: Jeanne
 	tag: Kat
 	tag: Shadow
-	desc: You remember that time I told you that I'd never lost anyone I cared for?
 page:145
 	date: 2006-08-22
-	tag: ch-08
+	desc: Shadow 2, I may be able to take you back with me if you hide.
 	tag: Annan
 	tag: Annie
 	tag: BlinkerStone
+	tag: ch-08
 	tag: Gillitie
 	tag: Jeanne
 	tag: Kat
 	tag: Shadow
-	desc: Shadow 2, I may be able to take you back with me if you hide.
 page:144
 	date: 2006-08-17
-	tag: ch-08
+	desc: Maybe we'll see you when we get to the Gunner's Crag!
 	tag: Annan
 	tag: Annie
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Kat
 	tag: Red
-	desc: Maybe we'll see you when we get to the Gunner's Crag!
 page:143
 	date: 2006-08-15
-	tag: ch-08
+	desc: I made my anti-grav unit into a ship!
 	tag: Annan
 	tag: Annie
 	tag: AntiGrav
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Kat
 	tag: Red
 	tag: Shadow
-	desc: I made my anti-grav unit into a ship!
 page:142
 	date: 2006-08-10
 	tag: ch-08
@@ -14470,72 +14584,79 @@ page:142
 	desc: I knew you were still alive!
 page:141
 	date: 2006-08-08
-	tag: ch-08
+	desc: (Jeanne slashes Annie across the face, a light appears)
 	tag: Annan
 	tag: Annie
 	tag: AnnieCut
 	tag: Blood
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Jeanne
 	tag: Red
 	tag: Sword
-	desc: (Jeanne slashes Annie across the face, a light appears)
 page:140
 	date: 2006-08-03
-	tag: ch-08
+	desc: Are you from the other shore? How did you cross the...
 	tag: Annan
 	tag: Annie
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Jeanne
 	tag: Red
 	tag: Sword
-	desc: Are you from the other shore? How did you cross the...
 page:139
 	date: 2006-08-01
-	tag: ch-08
+	desc: (The fire goes out, the fairies and Annie sleep, and Jeanne appears)
 	tag: Annan
 	tag: Annie
 	tag: BlinkerStone
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Fire
 	tag: Gillitie
 	tag: Jeanne
 	tag: Red
 	tag: Sword
 	tag: TicToc
-	desc: (The fire goes out, the fairies and Annie sleep, and Jeanne appears)
 page:138
 	date: 2006-07-27
-	tag: ch-08
+	desc: Are you saying that some of the students at my school used to be fairies like you?
 	tag: Annan
 	tag: Annie
 	tag: BlinkerStone
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Fire
 	tag: Gillitie
 	tag: Jeanne
 	tag: Red
 	tag: Shadow
-	desc: Are you saying that some of the students at my school used to be fairies like you?
 page:137
 	date: 2006-07-25
-	tag: ch-08
+	desc: Gunner's crag? Do you mean Gunnerkrigg Court?
 	tag: Annan
 	tag: Annie
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Red
 	tag: Shadow
-	desc: Gunner's crag? Do you mean Gunnerkrigg Court?
 page:136
 	date: 2006-07-20
-	tag: ch-08
+	desc: It was my fault. I should clean it up.
 	tag: Annan
 	tag: Annie
-	tag: Blue
 	tag: Blood
+	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Flashback
 	tag: Gillitie
 	tag: Glass
@@ -14544,31 +14665,32 @@ page:136
 	tag: Shadow
 	tag: Surma
 	tag: Water
-	desc: It was my fault. I should clean it up.
 page:135
 	date: 2006-07-18
-	tag: ch-08
+	desc: Just put it on the ground and imagine a fire.
 	tag: Annan
 	tag: Annie
 	tag: BlinkerStone
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Fire
 	tag: Gillitie
 	tag: Red
 	tag: Shadow
-	desc: Just put it on the ground and imagine a fire.
 page:134
 	date: 2006-07-13
-	tag: ch-08
+	desc: Someone beyond even our reach. Be _thankful_ she cannot cross the river.
 	tag: Annan
 	tag: Annie
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Jeanne
 	tag: Muut
 	tag: Red
 	tag: Shadow
-	desc: Someone beyond even our reach. Be _thankful_ she cannot cross the river.
 page:133
 	date: 2006-07-11
 	tag: ch-08
@@ -14582,112 +14704,117 @@ page:133
 	desc: He wanted us to give you this. Something you may find useful given your... current situation
 page:132
 	date: 2006-07-06
-	tag: ch-08
+	desc: Someone who is "just fine" would not be in this place.
 	tag: Annan
 	tag: Annie
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Muut
 	tag: Red
 	tag: TicToc
-	desc: Someone who is "just fine" would not be in this place.
 page:131
 	date: 2006-07-04
-	tag: ch-08
+	desc: Well if you are so eager to take your own lives, you can do it yourselves.
 	tag: Annan
 	tag: Annie
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Muut
 	tag: Red
 	tag: Shadow
-	desc: Well if you are so eager to take your own lives, you can do it yourselves.
 page:130
 	date: 2006-06-29
-	tag: ch-08
+	desc: Now bring it over here! And squash us flat!
 	tag: Annan
 	tag: Annie
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Red
 	tag: Shadow
-	desc: Now bring it over here! And squash us flat!
 page:129
 	date: 2006-06-27
-	tag: ch-08
+	desc: He says it was some other shadow guy dat made your friend push you off the bridge.
 	tag: Annan
 	tag: Annie
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Red
 	tag: Shadow
-	desc: He says it was some other shadow guy dat made your friend push you off the bridge.
 page:128
 	date: 2006-06-22
-	tag: ch-08
+	desc: You did something to poor robot, and I won't allow you to do the same to me.
 	tag: Annan
 	tag: Annie
 	tag: Blue
+	tag: ch-08
+	tag: Fairies
 	tag: Gillitie
 	tag: Red
 	tag: RobotS13
 	tag: Shadow
 	tag: WoodenArm
-	desc: You did something to poor robot, and I won't allow you to do the same to me.
 page:127
 	date: 2006-06-20
-	tag: ch-08
+	desc: Well, mechanical or not, you and your friends saved my life
 	tag: Annan
 	tag: Annie
+	tag: ch-08
 	tag: Gillitie
 	tag: Scissors
 	tag: TicToc
-	desc: Well, mechanical or not, you and your friends saved my life
 page:126
 	date: 2006-06-15
-	tag: ch-08
+	desc: in the distance there was a light, shining dimly from the opposite shore.
 	tag: Annan
 	tag: Annie
 	tag: AnnieJumper
-	tag: Jeanne
+	tag: ch-08
 	tag: Gillitie
+	tag: Jeanne
 	tag: TicToc
-	desc: in the distance there was a light, shining dimly from the opposite shore.
 page:125
 	date: 2006-06-13
-	tag: ch-08
+	desc: If it's not too much trouble, perhaps the other shore would be a better...
 	tag: Annan
 	tag: Annie
+	tag: ch-08
 	tag: Gillitie
 	tag: TicToc
-	desc: If it's not too much trouble, perhaps the other shore would be a better...
 page:124
 	date: 2006-06-08
-	tag: ch-08
+	desc: (TicTocs catch Annie and carry her to the riverbank)
 	tag: Annan
 	tag: Annie
+	tag: ch-08
 	tag: Gillitie
 	tag: TicToc
-	desc: (TicTocs catch Annie and carry her to the riverbank)
 page:123
 	date: 2006-06-06
-	tag: ch-08
+	desc: Now I know how the glass felt
 	tag: Annie
+	tag: ch-08
 	tag: Flashback
 	tag: Glass
 	tag: GoodHope
 	tag: Surma
 	tag: Water
-	desc: Now I know how the glass felt
 page:122
 	date: 2006-06-01
-	tag: ch-08
+	desc: I dropped a glass.
 	tag: Annie
+	tag: ch-08
 	tag: Flashback
 	tag: Glass
 	tag: GoodHope
 	tag: Water
-	desc: I dropped a glass.
 page:121
 	date: 2006-05-30
 	desc: Chapter 8:<br><br>**Broken Glass and Other Things**<br><br>_Icon: Glass, Water_
@@ -14697,48 +14824,49 @@ page:121
 	tag: Water
 page:120
 	date: 2006-05-25
-	tag: Bonus
-	tag: Treatise
+	desc: Bonus Page: Treatise One (_Ora lege relege labora et invenies_ = Pray, Read, Reread, Work and You Shall Find)
 	tag: Annie
+	tag: Bonus
 	tag: Caduceus
 	tag: FireSymbol
+	tag: Hexagram
 	tag: Kat
 	tag: MercurySymbol
 	tag: MoonSymbol
 	tag: Orb
 	tag: River
-	tag: Hexagram
 	tag: Stars
 	tag: SunSymbol
+	tag: Treatise
 	tag: Trees
 	tag: VII
 	tag: WaterSymbol
-	desc: Bonus Page: Treatise One (_Ora lege relege labora et invenies_ = Pray, Read, Reread, Work and You Shall Find)
 page:119
 	date: 2006-05-23
-	tag: ch-07
+	desc: SURMA! (Annie falls off the bridge)
 	tag: Annie
 	tag: Bridge
+	tag: ch-07
 	tag: Eglamore
 	tag: Surma
 	tag: TicToc
-	desc: SURMA! (Annie falls off the bridge)
 page:118
 	date: 2006-05-18
-	tag: ch-07
+	desc: (Robot pushes Annie, the sword flies into him, breaking his body and slicing the WoodenArm and the Shadowman)
 	tag: Annie
 	tag: Bridge
+	tag: ch-07
 	tag: Rey
 	tag: RobotS13
 	tag: Shadowman
 	tag: Sword
 	tag: WoodenArm
-	desc: (Robot pushes Annie, the sword flies into him, breaking his body and slicing the WoodenArm and the Shadowman)
 page:117
 	date: 2006-05-16
-	tag: ch-07
+	desc: Oh! So this is Reynardine? Well now, this makes things much easier!
 	tag: Annie
 	tag: Bridge
+	tag: ch-07
 	tag: Eglamore
 	tag: Rey
 	tag: RobotS13
@@ -14746,229 +14874,228 @@ page:117
 	tag: Sword
 	tag: TicToc
 	tag: WoodenArm
-	desc: Oh! So this is Reynardine? Well now, this makes things much easier!
 page:116
 	date: 2006-05-11
-	tag: ch-07
+	desc: Robot, you have a new arm?
 	tag: Annie
 	tag: Bridge
+	tag: ch-07
 	tag: Eglamore
 	tag: Rey
 	tag: RobotS13
 	tag: Sword
 	tag: TicToc
 	tag: WoodenArm
-	desc: Robot, you have a new arm?
 page:115
 	date: 2006-05-09
-	tag: ch-07
+	desc: Is that Carver? She left school grounds?!
 	tag: Bridge
+	tag: ch-07
 	tag: Eglamore
 	tag: Kat
 	tag: Sword
-	desc: Is that Carver? She left school grounds?!
 page:114
 	date: 2006-05-04
-	tag: ch-07
+	desc: And Shadow 2? What are you both doing here?
 	tag: Annie
 	tag: Bridge
+	tag: ch-07
 	tag: Rey
 	tag: RobotS13
 	tag: Shadowman
 	tag: TicToc
 	tag: WoodenArm
-	desc: And Shadow 2? What are you both doing here?
 page:113
 	date: 2006-05-02
-	tag: ch-07
+	desc: It must be robot. He may need my help.
 	tag: Annie
 	tag: Bridge
+	tag: ch-07
 	tag: Court
 	tag: Kat
 	tag: Rey
-	desc: It must be robot. He may need my help.
 page:112
 	date: 2006-04-27
-	tag: ch-07
+	desc: Could he have come back?
 	tag: AlchemyChart
 	tag: Annie
 	tag: BismuthSymbol
 	tag: Bridge
+	tag: ch-07
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
 	tag: ScienceLab
 	tag: Shadowman
-	desc: Could he have come back?
 page:111
 	date: 2006-04-25
-	tag: ch-07
+	desc: Are you two going to kiss now?
 	tag: AlchemyChart
 	tag: Annie
 	tag: BismuthSymbol
 	tag: Blush
 	tag: Bridge
+	tag: ch-07
 	tag: Kat
 	tag: Rey
 	tag: ScienceLab
-	desc: Are you two going to kiss now?
 page:110
 	date: 2006-04-20
-	tag: ch-07
+	desc: Kat, I'm sorry I caused a scene this morning.
 	tag: AlchemyChart
 	tag: Annie
 	tag: BismuthSymbol
+	tag: ch-07
 	tag: Kat
 	tag: Rey
 	tag: ScienceLab
 	tag: Spider
 	tag: VenusSymbol
-	desc: Kat, I'm sorry I caused a scene this morning.
 page:109
 	date: 2006-04-18
-	tag: ch-07
+	desc: You still carry that thing, Jim?
 	tag: Anja
-	tag: Donny
+	tag: ch-07
 	tag: DonlanHouse
+	tag: Donny
 	tag: Eglamore
 	tag: EglamoreKnife
 	tag: EtherSymbol
-	desc: You still carry that thing, Jim?
 page:108
 	date: 2006-04-13
-	tag: ch-07
-	tag: Annie
+	desc: Criminal or not, I won't allow him to be subjected to that again.
 	tag: Anja
-	tag: Donny
+	tag: Annie
+	tag: ch-07
 	tag: DonlanHouse
+	tag: Donny
 	tag: Eglamore
 	tag: EglamoreKnife
 	tag: EtherSymbol
 	tag: Kat
 	tag: Rey
-	desc: Criminal or not, I won't allow him to be subjected to that again.
 page:107
 	date: 2006-04-11
-	tag: ch-07
-	tag: Annie
+	desc: I can take anything with eyes, be they real or not.
 	tag: Anja
-	tag: Donny
+	tag: Annie
+	tag: ch-07
 	tag: DonlanHouse
+	tag: Donny
 	tag: Eglamore
 	tag: EglamoreKnife
-	tag: EtherSymbol
 	tag: Etherics
 	tag: EthericShield
+	tag: EtherSymbol
 	tag: EyeCrossed
 	tag: Rey
-	desc: I can take anything with eyes, be they real or not.
 page:106
 	date: 2006-04-06
-	tag: ch-07
-	tag: Annie
+	desc: Damn you, girl! And I had the perfect disguise!
 	tag: Anja
-	tag: Donny
+	tag: Annie
+	tag: ch-07
 	tag: DonlanHouse
+	tag: Donny
 	tag: Eglamore
 	tag: EglamoreKnife
 	tag: Etherics
 	tag: EthericShield
 	tag: EyeCrossed
 	tag: Rey
-	desc: Damn you, girl! And I had the perfect disguise!
 page:105
 	date: 2006-04-04
-	tag: ch-07
-	tag: Annie
+	desc: If you don't mind; I also have something I think you should see
 	tag: Anja
-	tag: Donny
+	tag: Annie
+	tag: ch-07
 	tag: DonlanHouse
+	tag: Donny
 	tag: Eglamore
 	tag: Kat
 	tag: WolfToy
-	desc: If you don't mind; I also have something I think you should see
 page:104
 	date: 2006-03-30
-	tag: ch-07
-	tag: Annie
+	desc: But when Anthony wants to disappear, he'll do so.
 	tag: Anja
-	tag: Donny
+	tag: Annie
+	tag: ch-07
 	tag: DonlanHouse
+	tag: Donny
 	tag: Eglamore
 	tag: Kat
-	desc: But when Anthony wants to disappear, he'll do so.
 page:103
 	date: 2006-03-28
-	tag: ch-07
-	tag: Annie
+	desc: Who's this cute guy here? That... that would be me.
 	tag: Anja
+	tag: Annie
 	tag: Blush
-	tag: Donny
+	tag: ch-07
 	tag: DonlanHouse
+	tag: Donny
 	tag: Eglamore
 	tag: Kat
 	tag: Photo
 	tag: Tony
-	desc: Who's this cute guy here? That... that would be me.
 page:102
 	date: 2006-03-23
-	tag: ch-07
-	tag: Annie
+	desc: Wow! Is this you guys when you were kids?!
 	tag: Anja
+	tag: Annie
 	tag: Brinnie
-	tag: Donny
+	tag: ch-07
 	tag: DonlanHouse
+	tag: Donny
 	tag: Eglamore
 	tag: Kat
 	tag: Photo
 	tag: Tony
-	desc: Wow! Is this you guys when you were kids?!
 page:101
 	date: 2006-03-21
-	tag: ch-07
-	tag: Annie
+	desc: Reynardine can't hurt anyone any more
 	tag: Anja
-	tag: Donny
+	tag: Annie
+	tag: ch-07
 	tag: DonlanHouse
+	tag: Donny
 	tag: Eglamore
 	tag: EtherSymbol
 	tag: Kat
 	tag: MercurySymbol
 	tag: Rey
-	desc: Reynardine can't hurt anyone any more
 page:100
 	date: 2006-03-16
-	tag: ch-07
-	tag: Annie
+	desc: Call me Anja, and this is Donny.
 	tag: Anja
-	tag: Donny
+	tag: Annie
+	tag: ch-07
 	tag: DonlanHouse
+	tag: Donny
 	tag: Eglamore
 	tag: EtherSymbol
 	tag: Kat
-	desc: Call me Anja, and this is Donny.
 page:99
 	date: 2006-03-14
-	tag: ch-07
+	desc: (Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
 	tag: Annie
 	tag: Bridge
+	tag: ch-07
 	tag: Eglamore
 	tag: Rey
 	tag: RobotS13
 	tag: Shadowman
 	tag: TicToc
 	tag: WoodenArm
-	desc: (Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
 page:98
 	date: 2006-03-09
-	tag: ch-07
+	desc: Something is wrong.
 	tag: Annie
 	tag: BismuthSymbol
+	tag: ch-07
 	tag: Court
 	tag: Kat
 	tag: LeadSymbol
 	tag: TicToc
-	desc: Something is wrong.
 page:97
 	date: 2006-03-07
 	desc: Chapter 7:<br><br>**Of New and Old**<br><br>_Icon: TicToc_
@@ -15746,15 +15873,14 @@ page:12
 	tag: RobotS13
 	tag: Robots
 	tag: Seraph
-	tag: Shadow
 page:11
 	date: 2005-05-05
 	desc: Once darkness fell, Shadow 2, Robot and I got ready at the foot of the bridge
 	tag: Annie
 	tag: Bridge
 	tag: ch-01
-	tag: RobotS13
 	tag: Robots
+	tag: RobotS13
 	tag: Seraph
 	tag: Shadow
 page:10
