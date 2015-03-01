@@ -29,8 +29,40 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1481
+	date: 2015-02-27
+	desc: Andrew: Is it ok that I'm kinda creeped out by this whole thing?
+	tag: Annie
+	tag: ch-50
+	tag: p-18
+	tag: Smitty
+page:1480
+	date: 2015-02-25
+	desc: Nurse: Umm… neither, I'm from Cardiff
+	tag: Annie
+	tag: BreatherMask
+	tag: ch-50
+	tag: Nurse
+	tag: p-17
+	tag: Smitty
+	tag: PadComp
+	tag: TransferClinic
+page:1479
+	date: 2015-02-23
+	desc: Nurse: I learned it from my teacher who learned it from Coyote himself!
+	tag: Annie
+	tag: BreatherMask
+	tag: ch-50
+	tag: GrowthTank
+	tag: Nurse
+	tag: p-16
+	tag: Smitty
+	tag: PadComp
+	tag: RabbitBoy
+	tag: Totem
+	tag: TransferClinic
 page:1478
-	date: 2015-02-19
+	date: 2015-02-20
 	desc: Nurse: We only grow and transfer the students here.
 	tag: Annie
 	tag: BreatherMask
@@ -39,18 +71,18 @@ page:1478
 	tag: Nurse
 	tag: p-15
 	tag: Smitty
-	tag: Tablet
+	tag: PadComp
 	tag: Totem
 	tag: TransferClinic
 page:1477
-	date: 2015-02-19
+	date: 2015-02-18
 	desc: Nurse: Welcome, welcome! So you're the new mediums, right?
 	tag: Annie
 	tag: ch-50
 	tag: Nurse
 	tag: p-14
 	tag: Smitty
-	tag: Tablet
+	tag: PadComp
 	tag: Totem
 	tag: TransferClinic
 page:1476
@@ -61,7 +93,7 @@ page:1476
 	tag: Nurse
 	tag: p-13
 	tag: Smitty
-	tag: Tablet
+	tag: PadComp
 	tag: Totem
 	tag: TransferClinic
 page:1475
