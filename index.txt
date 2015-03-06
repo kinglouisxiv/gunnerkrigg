@@ -29,6 +29,38 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1484
+	date: 2015-03-06
+	desc: Rey: _Must_ I live with these mechanical fools?!
+	tag: Annie
+	tag: Apt19
+	tag: ch-50
+	tag: ChandlerBot
+	tag: JoeyBot
+	tag: Kat
+	tag: p-21
+	tag: Paz
+	tag: Rey
+	tag: StudioDorm
+page:1483
+	auth: Heckles
+	date: 2015-03-04
+	desc: Annie: Not working at the shop today?
+	note: Paz shares a dorm/apartment with Margo "on the floor below"
+	tag: Annie
+	tag: ch-50
+	tag: Kat
+	tag: p-20
+	tag: Paz
+	tag: StudioDorm
+page:1482
+	date: 2015-03-02
+	desc: Kat: Hey!
+	tag: Annie
+	tag: ch-50
+	tag: Kat
+	tag: p-19
+	tag: StudioDorm
 page:1481
 	date: 2015-02-27
 	desc: Andrew: Is it ok that I'm kinda creeped out by this whole thing?
@@ -112,7 +144,7 @@ page:1474
 	tag: Bridge
 	tag: Smitty
 	tag: Court
-	tag: Gillite
+	tag: Gillitie
 	tag: Jackalope
 	tag: p-11
 page:1473
@@ -122,7 +154,7 @@ page:1473
 	tag: ch-50
 	tag: Coyote
 	tag: Etherium
-	tag: Gillite
+	tag: Gillitie
 	tag: Jackalope
 	tag: p-10
 page:1472
@@ -177,7 +209,7 @@ page:1469
 	tag: p-06
 	tag: Coyote
 	tag: Etherium
-	tag: Gillite
+	tag: Gillitie
 	tag: Jackalope
 	tag: Teeth
 page:1468
@@ -190,7 +222,7 @@ page:1468
 	tag: p-05
 	tag: Coyote
 	tag: Etherium
-	tag: Gillite
+	tag: Gillitie
 	tag: Jackalope
 	tag: Teeth
 page:1467
@@ -203,7 +235,7 @@ page:1467
 	tag: p-04
 	tag: Coyote
 	tag: Etherium
-	tag: Gillite
+	tag: Gillitie
 	tag: Jackalope
 page:1466
 	date: 2015-01-23
@@ -215,7 +247,7 @@ page:1466
 	tag: p-03
 	tag: Coyote
 	tag: Etherium
-	tag: Gillite
+	tag: Gillitie
 	tag: Kat
 	tag: Teeth
 page:1465
@@ -228,10 +260,11 @@ page:1465
 	tag: p-02
 	tag: Coyote
 	tag: Etherium
-	tag: Gillite
+	tag: Gillitie
 page:1464
 	date: 2015-01-19
 	desc: Chapter 50:<br><br>**Totem**<br><br>_Icon: (yet to be deciphered)_
+	note: Start of Year 10
 	tag: ch-50
 	tag: p-01
 	tag: Cover
@@ -316,7 +349,7 @@ page:1452
 	tag: FireSpike
 	tag: FireSymbol
 	tag: Gamma
-	tag: Gillite
+	tag: Gillitie
 	tag: GreenFairy
 	tag: Helmet
 	tag: Iota
@@ -761,7 +794,7 @@ page:1415
 	date: 2014-10-06
 	desc: Kat: Look! I can affect the shape just by thinking about it!
 	tag: ch-49
-	tag: Bone
+	tag: Bones
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Kat
@@ -1507,7 +1540,7 @@ page:1356
 page:1355
 	date: 2014-05-19
 	auth: Tom: Let's get this show (fairy) on the road (rabbit).
-	desc: (a sad fairy rides a jackalope (horned rabbit) beside a stream, through sun dappled Gillite Wood)
+	desc: (a sad fairy rides a jackalope (horned rabbit) beside a stream, through sun dappled Gillitie Wood)
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie

@@ -5,22 +5,22 @@
 ; _italic_
 ; [internal link text](#sometag)
 ; [external link text](http://www.gunnerkrigg.com)
-113 	A number that appears in many places in the court [_{W}_](http://gunnerkrigg.wikia.com/wiki/113)
-Aata 	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell [_{W}_](http://gunnerkrigg.wikia.com/wiki/Aata)
-Abacus 	An ancient calculation aid
+113	A number that appears in many places in the court [_{W}_](http://gunnerkrigg.wikia.com/wiki/113)
+Aata	An employee (Security guard??) of the court alongside [Shell](#shell), seems to be more senior than Shell [_{W}_](http://gunnerkrigg.wikia.com/wiki/Aata)
+Abacus	An ancient calculation aid
 Achewater	[Anwyn](#anwyn) intoxicant, perhaps named for how you feel afterwards
-Adam 	A boy with rashes; owner, and victim, of [Hetty](#hetty)
+Adam	A boy with rashes; owner, and victim, of [Hetty](#hetty)
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Administrator_Robot)
-Agni 	Hindu [fire](#fire) god; [psychopomp](#psychopomps) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Agni)
+Agni	Hindu [fire](#fire) god; [psychopomp](#psychopomps) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Agni)
 AlchemyChart	An alchemical chart
-Aly 	Alistair [Kershaw](#kershaws); became a bird and went to the [Forest](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Alistair_Kershaw)
+Aly	Alistair [Kershaw](#kershaws); became a bird and went to the [Forest](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Alistair_Kershaw)
 AlyShirt	A shirt belonging to [Aly](#aly), which [Kat](#kat) now owns
-Angel 	What [robots](#robots) call [Kat](#kat)
+Angel	What [robots](#robots) call [Kat](#kat)
 AnimalCells	the Court's large animal holding cells
 AnimalLab	a Court research lab [_{W}_](http://gunnerkrigg.wikia.com/wiki/Animal_Lab)
-Anja 	Anja Donlan, [Kat's](#kat) mother; Roma origin but lived mostly in Spain [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anja)
-Ankou 	Breton grim reaper; [psychopomp](#psychopomps)[_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ankou)
-Annan 	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forest' [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Waters)
+Anja	Anja Donlan, [Kat's](#kat) mother; Roma origin but lived mostly in Spain [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anja)
+Ankou	Breton grim reaper; [psychopomp](#psychopomps)[_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ankou)
+Annan	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forest' [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Waters)
 Annie 	Antimony Carver, our protagonist ([fire](#fire) Head Girl) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_Carver)
 AnnieCut	The cut on [Annie's](#annie) ethereal face from [Jeanne's](#jeanne) [sword](#sword)
 AnnieJumper	[Annie's](#annie) original school jumper
@@ -28,6 +28,7 @@ AntiGrav	An anti-gravity generator that [Kat](#kat) makes for a science fair, an
 AntimonySymbol	The alchemical symbol for antimony; associated with [Annie](#annie) and [Surma](#surma) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_(alchemy))
 AntlerFae	'that guy' – big nose, sandy brown hair, can haz antlers
 Anwyn 	could be described as tree elves but they don't call themselves that [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn)
+Apt19	Apartment 19, across the hall from [StudioDorm](#studiodorm). Residence of [Rey](#rey), [ChandlerBot](#chandlerbot) and [JoeyBot](#joeybot) for the start of Year 10
 Archery 	Fun with bows and arrows!
 Argument	Somewhere between a disagreement and a fight
 Armour 	protective plates and other such wearable items
@@ -75,6 +76,7 @@ Camcorder	ancient 20th century technology records moving images on magnetic tape
 Canvey 	a [Canvey Island Monster](https://en.wikipedia.org/wiki/Canvey_Island_Monster)
 Cards 	A pack of playing cards
 Castle 	Where royalty live. Even space alien royalty
+ChandlerBot	A reference to Chandler in _Friends_ 
 Chemicals	May be used to perform terrifying skills of Chemistry or Alchemy
 CherryTree	Comes as advertised; lives in a [Habitat](#habitat)
 Chester 	One of the school Houses [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chester_House)
@@ -97,7 +99,7 @@ CoyoteTooth	It's a tooth, or is it? [_{W}_](http://gunnerkrigg.wikia.com/wiki/Co
 CreatorGlyph	Mark of the [robots'](#robots) creator: now associated with [Kat](#kat)
 Creeper 	Someone who is creeping
 CruiseLiner	a large, ocean-going, hotel ship
-Cryingvv	When salty water with enzymes comes out of one's lacrimal ducts; also, a sign of sadness
+Crying	When salty water with enzymes comes out of one's lacrimal ducts; also, a sign of sadness
 CrystalBall	A crystal ball is traditionally used for scrying, future-telling or other Gypsy/Roma past-times
 CurlyFae	'this girl too' -- short curly blue hair, red dot below right eye [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/[psychopomps](#psychopomps) of Wales; red ears
@@ -206,6 +208,7 @@ Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a f
 JeannesLover	Jeanne's [Anwyn](#anwyn) [forest](#gillitie) lover, name as yet unknown [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn#Jeanne.27s_lover)
 Jem	a credulous young [Anwyn](#anwyn)
 Jenny	goth cruise-companion of [Jack's](#jack), apprentice witch
+JoeyBot	A reference to Joey Tribbiani in _Friends_ 
 John	John Sullivan [[ref](http://gunnerkrigg.proboards.com/thread/361/tom-2?page=30&scrollTo=18295)] _a.k.a._ [Sullivan's John](http://www.gunnerkrigg.com/art/john.jpg). A musical student, plays strings _e.g._ guitar, [mandolin](#mandolin). Dating [Margo](#margo) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Sullivan's_John)
 Jokes	Ha, ha.
 JollyElfsberry	A prancing elf, and alias of [Coyote](#coyote)
@@ -270,7 +273,7 @@ Moon	Our most ancient satellite!
 MoonGirl	Chang'e ([ref](http://www.gunnerkrigg.com/?p=920)), a deity or personification of the Moon [_{W}_](http://gunnerkrigg.wikia.com/wiki/Chang'e)
 MoonPrint	Thumbprint on the moon
 Mort	A [ghost](#ghosts) who haunts part of the school
-MrThorn	Mr Thorn, Court protector and games teacher to [Annie](#annie) and [Kat's](#kat) parents [_{W}_](http://gunnerkrigg.wikia.com/wiki/Mr._Thorn)
+MrThorn	Mr Thorn, Court protector and games teacher to [Annie](#annie) and [Kat's](#kat) parents' generation [_{W}_](http://gunnerkrigg.wikia.com/wiki/Mr._Thorn)
 Music	Everyone loves music!
 Muut	Egyptian [psychopomp](#psychopomps) (escorts the dead to the afterlife) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Muut)
 NancyDrew	A series of books featuring a teenage girl solving mysteries
@@ -278,6 +281,7 @@ NapoleonHat	A fitting hat for [Reynardine](#rey) the Great!
 Neith	Egyptian goddess of war; [psychopomp](#psychopomps) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Neith)
 Nevihta	Rogat Orjak to [Sir Young](#siryoung), first protector of the court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Rogat_Orjak#Nevihta)
 Nigel	friend of [Morty](#mort), brother of [Betty](#betty), WWII
+Nurse	A person working at the [TransferClinic](#transferclinic). Dressed in green hospital clothing. Vertical slit eyes. Not a transferee. From Cardiff.
 Observatory	A massive telescope
 Ocean	A whole bunch of [water](#water)
 Octopus	A flying / floating octopus
@@ -300,7 +304,6 @@ Red	A crazy and abrasive fairy [_{W}_](http://gunnerkrigg.wikia.com/wiki/Red)
 Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Reynardine)
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
-RobotS13	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Robot)
 RobotCode	A cube with the [Robots](#robots)' instruction code transcribed onto it
 RobotDesigns	Designs and Blueprints for [robot](#robots) old and new
 RobotHQ	Where the [robots](#robots) hang out
@@ -308,6 +311,7 @@ Robotics	Like [Etherics](#etherics) but with metal
 RobotKing	A [robot](#robots) with a crown, blank face, and a pen
 RobotParts	Bits of [robot](#robots) currently not attached
 Robots	A collective noun
+RobotS13	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Robot)
 RobotTomb	Tomb/theatre full of [robots](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/The_Tomb)
 Robox	Has no hands; awesome; everybody loves Robox. The opposite of [terrible](#terrible) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Robox)
 Rocket	A cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents.
@@ -317,8 +321,8 @@ Roof	The top of the court
 ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them. (see also the [Vasty Hall of Death](#vastyhall))
 S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robots13) [_{W}_](http://gunnerkrigg.wikia.com/wiki/S1)
 S13	[Robot](#robots13) was Seraph 13
-Salon	Court hair salon, staffed by the HairdresserBot
 SailorBot	A class of robot encountered on the [cruise liner](#cruiseliner). Unusually, these are networked "fingers" of the Liner Bot itself
+Salon	Court hair salon, staffed by the HairdresserBot
 Sareed	Anwyn tree-weaver
 ScienceLab	A school science lab where [Kat](#kat) does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
@@ -349,14 +353,15 @@ Speakeasy	A hotel-like place that the students sneak out to with a "speakeasy-li
 SpecialCases	A part of the [Realm of the Dead](#rotd)
 SpecialCircumstances	"beyond those metaphysical event-horizons, there exist ... special circumstances"
 Speedboats	make up the Robots' fleet
-Spider	Often white and [etheric](#etherics), also often real.
 SpellCircle	a complex combination of geometric lines, symbols and writing, used in _e.g._ Hermetic magic
+Spider	Often white and [etheric](#etherics), also often real.
 StarHeadband	A headband with stars on antennae that [Annie](#annie) uses to pretend she is a [robot](#robots)
 Stars	Celestial bodies
 Steadman	An archer, present at the [founding](#founding) of the court, a close friend of the [Artilleryman](#artilleryman)
 StepsHouse	[Eglamore](#eglamore) lives here
 StopBot	Model B [robot](#robots) with stop signs for heads and boxing glove arms
 Students	Miscellaneous students
+StudioDorm	Year 10's 'dorm' for Kat and Annie, No. 20, is modelled on the apartment from _Friends_, as is the whole building, according to forum [reports](http://gunnerkrigg.proboards.com/thread/2992/1482-nice-view).
 SubDorm	Year 9's dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors
 SullivansJohn	see [John](#john)
 Sun	Our closest [star](#stars)!
@@ -383,12 +388,13 @@ Tombstone	The marker for a grave.
 Tony	Anthony Carver, [Annie's](#annie) father
 TornSea	an [etheric](#etherics) gap in the sea's reality
 Torus	A city fairy who deals with pigeons such as City Face. Sister of [Ogee](#ogee).
-Totem	An encapsulation of "the mind, the will, the _life_" of a creature
+Totem	An encapsulation of "the mind, the will, the _life_" of a creature for transfer to a new body
 Tower	A tower in the Court where [Aly](#aly) stays, while transitioning
 ToyShop	A toy shop in [Zimmingham](#zimmingham) where [Zimmy](#zimmy) and [Gamma](#gamma) meet up if they get separated
 Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
 Traitor	One who betrays their allies
+TransferClinic	A place where the Court grows mindless children in metal vats
 Treatise	Symbolic representation of the story
 TreeBody	[Ysengrin's](#ysengrin) artificial tree-like body. His true body underneath is a physically weaker, much older wolf
 TreeDog	They usually go woof, unless created by the [forest](#gillitie)
@@ -407,6 +413,7 @@ VII	The number seven, numerologically symbolises virginity, change, completion o
 VincentPrice	A famous actor
 WalkInPicture	Framed glowing pictures with footprints leading into the scene -- a discarded plot according to Tom Siddell [{Y}](http://youtu.be/t48sqVVkd0A)
 WanderingEye	Symbol of that which calls itself [Jones](#jones), currently
+Ward	a magical protection
 Warehouse113	Warehouse [113](#113) is Not a secret base at Long Acre
 Water	Ancient element; H<small><sub>2</sub></small>O; necessary for life; rivers, lakes and oceans are made of this
 WaterFae	'this girl' -- short blue spikey hair, 2 dots under right eye, had a waterfall?
