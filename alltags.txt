@@ -1,5 +1,5 @@
 ; --- TAGS ---
-; reminder: this is comment - in case you need to flag changes, etc...
+; reminder: this is comment starting with a ; - in case you need to flag changes, etc...
 ; internal formatting is a mix of Markdown plus html (for <br> etc)
 ; **bold**
 ; _italic_
@@ -28,7 +28,6 @@ AntiGrav	An anti-gravity generator that [Kat](#kat) makes for a science fair, an
 AntimonySymbol	The alchemical symbol for antimony; associated with [Annie](#annie) and [Surma](#surma) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_(alchemy))
 AntlerFae	'that guy' – big nose, sandy brown hair, can haz antlers
 Anwyn 	could be described as tree elves but they don't call themselves that [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn)
-Apt19	Apartment 19, across the hall from [StudioDorm](#studiodorm). Residence of [Rey](#rey), [ChandlerBot](#chandlerbot) and [JoeyBot](#joeybot) for the start of Year 10
 Archery 	Fun with bows and arrows!
 Argument	Somewhere between a disagreement and a fight
 Armour 	protective plates and other such wearable items
@@ -129,11 +128,11 @@ EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword),
 Employees	Miscellaneous Court employees; includes security staff, gardeners, scientists, [power station](#powerstation) operators and even mysterious dudes who take [Gamma](#gamma) and [Zimmy](#zimmy) from [Birmingham](#birmingham) to the Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Court_Employees)
 EnigmaronLair	Where the [Enigmarons](#enigmarons) from a [Dr. Disaster](#drdisaster) [simulation](#simulation) hang out
 Enigmarons	Bad guy aliens in a [Dr Disaster](#drdisaster) [simulation](#simulation)
-Etherics	Manipulation of the Ether – "magic" [_{W}_](http://gunnerkrigg.wikia.com/wiki/Etheric_Sciences)
+Etherics	Manipulation of the Ether -- "magic" [_{W}_](http://gunnerkrigg.wikia.com/wiki/Etheric_Sciences)
 EthericShield	An [Etheric](#etherics)/magical shield
 Etherium	The world/realm of the Ether [_{W}_](http://gunnerkrigg.wikia.com/wiki/Etheric_Sciences)
 EtherSymbol	A symbol for phlogiston or ether
-EugeneGould	Explorer who a psychic challenge is named after (was once won by [Parley's](#parley) father)
+EugeneGould	Explorer after whom a psychic challenge is named; once won by [Parley's](#parley) father)
 EyeCrossed	A crossed out eye that is a complex warding sign, made by [Anja](#anja) and [Donny](#donny) to bind [Rey](#rey)
 EyeGunk 	[Etheric](#etherics) eye-gunk possessed by [Zimmy](#zimmy) and others affected by [Zimmingham](#zimmingham)
 Eyes 	When seeing is important
@@ -159,6 +158,7 @@ Flying 	Moving through the air, like superman
 Foley 	One of the school Houses; home to [Red](#red), [Blue](#blue), [Shadow](#shadow) and some [fairies](#fairies) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Foley_House)
 ForestSymbol	The symbol [Gillitie](#gillitie) uses to message; has an "eye" within it
 Founding	The founding of the court. Involves the [Seed Bismuth](#seedbismuth)
+FriendsDorm	Year 10's dorm block is modelled on the apartment from _Friends_. See [p.1485](http://www.gunnerkrigg.com/?p=1485). Annie & Kat have apartment #20; Rey, a Clanger robot and a Joey robot are across the hall in #19; Margo and Paz are the floor below, presumably #18.
 Gamma 	Gamma Czarnecki, a quiet girl from Poland, who only speaks Polish; friend of [Zimmy](#zimmy) with whom she has a telepathic link and who she met in [Birmingham](#zimmingham); a Greek letter &Gamma;/&gamma; equivalent to our letter "G" [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gamma)
 Ghosts 	sometimes haunt [mandolins](#mandolin)
 Gillitie	Gillitie Wood, where the wild things are, _a.k.a._ The Forest [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gillitie_Wood)
@@ -361,7 +361,6 @@ Steadman	An archer, present at the [founding](#founding) of the court, a close f
 StepsHouse	[Eglamore](#eglamore) lives here
 StopBot	Model B [robot](#robots) with stop signs for heads and boxing glove arms
 Students	Miscellaneous students
-StudioDorm	Year 10's 'dorm' for Kat and Annie, No. 20, is modelled on the apartment from _Friends_, as is the whole building, according to forum [reports](http://gunnerkrigg.proboards.com/thread/2992/1482-nice-view).
 SubDorm	Year 9's dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors
 SullivansJohn	see [John](#john)
 Sun	Our closest [star](#stars)!
@@ -435,7 +434,7 @@ ZAM	Noise of a [Valknut](#valknut) teleport
 Zeta	A Greek letter &Zeta;/&zeta; corresponding to our "Z"; [Zimmy's](#zimmy) real name
 Zimmingham	[Zimmy's](#zimmy) nightmarish version of Birmingham, which is where she and [Gamma](#gamma) are originally from
 Zimmy	aka [Zeta](#zeta), a strange girl who is friends with [Gamma](#gamma); from Birmingham originally; an etheric generator
-; Chapter TAGS
+; --- Chapter TAGS ---
 ch-01	The Shadow and The Robot [{Y}](http://youtu.be/I9oF6ogesUA)
 ch-02	Schoolyard Myths [{Y}](http://youtu.be/t48sqVVkd0A)
 ch-03	Reynardine [{Y}](http://youtu.be/kQhsa8Ldf3c)
@@ -493,4 +492,5 @@ ch-48	Tall Tales
 ch-49	The Torn Sea
 ch-49a	Intermission: City Face's Book of Birds
 ch-50	Totem
+ch-51	The Tree
 ; ---TAGS EOF ---

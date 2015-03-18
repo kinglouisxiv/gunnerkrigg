@@ -29,19 +29,46 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1487
+	date: 2015-03-13
+	desc: Mr. CARVER
+	tag: Annie
+	tag: Becky
+	tag: ch-51
+	tag: Janet
+	tag: John
+	tag: Kat
+	tag: Margo
+	tag: p-02
+	tag: Tony
+	tag: Winsbury
+page:1486
+	date: 2015-03-11
+	desc: Chapter 51:<br><br>**The Tree**<br><br>_Icon: A ringed planet in space_
+	tag: ch-51
+	tag: p-01
+	tag: Cover
+page:1485
+	auth: This is a reference to the television sitcom, Friends.
+	date: 2015-03-09
+	desc: Bonus Page 50: Year 10 dorms
+	tag: ch-50
+	tag: ClanglerBot
+	tag: FriendsDorm
+	tag: JoeyBot
+	tag: p-22
 page:1484
 	date: 2015-03-06
 	desc: Rey: _Must_ I live with these mechanical fools?!
 	tag: Annie
-	tag: Apt19
 	tag: ch-50
-	tag: ChandlerBot
+	tag: ClanglerBot
 	tag: JoeyBot
 	tag: Kat
 	tag: p-21
 	tag: Paz
 	tag: Rey
-	tag: StudioDorm
+	tag: FriendsDorm
 page:1483
 	auth: Heckles
 	date: 2015-03-04
@@ -52,7 +79,7 @@ page:1483
 	tag: Kat
 	tag: p-20
 	tag: Paz
-	tag: StudioDorm
+	tag: FriendsDorm
 page:1482
 	date: 2015-03-02
 	desc: Kat: Hey!
@@ -60,7 +87,7 @@ page:1482
 	tag: ch-50
 	tag: Kat
 	tag: p-19
-	tag: StudioDorm
+	tag: FriendsDorm
 page:1481
 	date: 2015-02-27
 	desc: Andrew: Is it ok that I'm kinda creeped out by this whole thing?
@@ -263,7 +290,7 @@ page:1465
 	tag: Gillitie
 page:1464
 	date: 2015-01-19
-	desc: Chapter 50:<br><br>**Totem**<br><br>_Icon: (yet to be deciphered)_
+	desc: Chapter 50:<br><br>**Totem**<br><br>_Icon: a cloud of steam_
 	note: Start of Year 10
 	tag: ch-50
 	tag: p-01
