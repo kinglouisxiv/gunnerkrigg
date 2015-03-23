@@ -29,6 +29,47 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1491
+	date: 2015-03-23
+	desc: Tony: Antimony, please stay behind a moment.
+	tag: Annie
+	tag: ch-51
+	tag: Janet
+	tag: John
+	tag: Kat
+	tag: Margo
+	tag: p-06
+	tag: Tony
+	tag: Winsbury
+page:1490
+	date: 2015-03-20
+	desc: Tony: Now sit back down. You have delayed your classmates long enough
+	tag: Annie
+	tag: ch-51
+	tag: Janet
+	tag: Kat
+	tag: Margo
+	tag: p-05
+	tag: Tony
+page:1489
+	date: 2015-03-18
+	desc: Tony: The class will sit in silence until your return
+	tag: Annie
+	tag: ch-51
+	tag: p-04
+	tag: MakeUp
+	tag: Tony
+page:1488
+	date: 2015-03-16
+	desc: Tony: I will be your biology teacher this year
+	tag: Annie
+	tag: ch-51
+	tag: Janet
+	tag: Kat
+	tag: p-03
+	tag: MakeUp
+	tag: Tony
+	tag: Winsbury
 page:1487
 	date: 2015-03-13
 	desc: Mr. CARVER

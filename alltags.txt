@@ -258,11 +258,11 @@ Martin	A young boy who has "lost his way" and whom young [Annie](#annie) needs t
 MartinLizard	A lizard that [Martin](#martin) likes and shows [Annie](#annie). Bites.
 MartinRoom	[Martin's](#martin) hospital/bed room
 Mask	A cover to hide face, appearance, emotions
-Matches	playing with matches can start [fires](#firesymbol)
+Matches	Playing with matches can start [fires](#firesymbol)
 Matt	Student and classmate of [Annie](#annie) and [Kat](#kat). Has met [Chang'e](#moongirl) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Matt)
 Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce; [psychopomp](#psychopomps) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Hermes)
 MercurySymbol	The alchemical symbol for [mercury](#mercury); appears on [Rey's](#rey) spirit form [_{W}_](http://gunnerkrigg.wikia.com/wiki/Mercury_(alchemy))
-MetalGearSolid	A game that [Kat](#kat) likes.
+MetalGearSolid	A computer game that [Kat](#kat) likes.
 Mice	Small rodents, common pests, and also in [labs](#animallab).
 Microsat5	[Tony's](#tony) payload delivery satellite
 ModdeyDhoo	One of the Black Dogs, a [psychopomp](#psychopomps) from the Isle of Man [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Moddey_Dhoo)
