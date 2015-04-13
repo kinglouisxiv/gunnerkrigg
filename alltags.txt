@@ -185,6 +185,7 @@ HabitatSymbol	The sign for an artificial habitat
 HairdresserBot	a [robot](#robots) that cuts hair; lots of arms [_{W}_](http://gunnerkrigg.wikia.com/wiki/Scissorbot)
 Hall 	Function hall [113](#113), a hall in the school
 Hammer 	A tool for driving nails into things or beating things into shape
+Hand	[Tony](#tony) has an artificial/prosthetic hand in later life
 HardwickLittleBestiary	Reference on mystical creatures [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hardwick_and_Little's_Bestiary)
 HarryPotter	Deserves to be taped to a flag pole for being a ponce
 Headmaster	Jonathan Llanwellyn, [Janet's](#janet) father; surprisingly grey, apathetic man, with bad posture [_{W}_](http://gunnerkrigg.wikia.com/wiki/Headmaster)

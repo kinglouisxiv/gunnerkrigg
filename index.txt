@@ -29,6 +29,84 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1500
+	date: 2015-04-13
+	desc: Kat: Annie! Why is your dad so mean to you?!
+	tag: Annie
+	tag: ch-51
+	tag: FriendsDorm
+	tag: Kat
+	tag: p-15
+	tag: Tears
+page:1499
+	date: 2015-04-10
+	desc: Kat: Annie? Are you here?
+	tag: Annie
+	tag: Boxes
+	tag: ch-51
+	tag: FriendsDorm
+	tag: Kat
+	tag: p-14
+	tag: Tears
+page:1498
+	date: 2015-04-08
+	desc: Kat: No no no no!
+	tag: Boxes
+	tag: ch-51
+	tag: FriendsDorm
+	tag: Kat
+	tag: p-13
+page:1497
+	date: 2015-04-06
+	desc: Tony: And Reynardine
+	tag: Annie
+	tag: ch-51
+	tag: p-12
+	tag: Rey
+	tag: Tony
+page:1496
+	date: 2015-04-03
+	desc: Tony: This is an inconvenience for everyone
+	tag: Annie
+	tag: ch-51
+	tag: Kat
+	tag: p-11
+	tag: Tony
+page:1495
+	date: 2015-04-01
+	desc: Annie: Oh, Kat, I'm so sorry!
+	tag: Annie
+	tag: Blush
+	tag: ch-51
+	tag: Kat
+	tag: p-10
+	tag: Tony
+page:1494
+	date: 2015-03-30
+	desc: Tony: The court already knew about this behavior, but I will not let it stand 
+	tag: Annie
+	tag: Blush
+	tag: ch-51
+	tag: Kat
+	tag: p-09
+	tag: Tony
+page:1493
+	date: 2015-03-27
+	desc: Tony: Antimony, I cannot say how disappointed I am.
+	tag: Annie
+	tag: ch-51
+	tag: Kat
+	tag: p-08
+	tag: Tony
+page:1492
+	date: 2015-03-25
+	desc: Antimony: Your hand!
+	tag: Annie
+	tag: ch-51
+	tag: Hand
+	tag: Kat
+	tag: p-07
+	tag: Tony
 page:1491
 	date: 2015-03-23
 	desc: Tony: Antimony, please stay behind a moment.
