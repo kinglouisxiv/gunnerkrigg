@@ -29,6 +29,148 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1515
+	date: 2015-05-18
+	desc: Anthony: He is not cooperating with my instructions
+	tag: Annie
+	tag: Anthony
+	tag: ch-52
+	tag: Kat
+	tag: p-08
+	tag: Rey
+	tag: WhiteRoom
+page:1514
+	date: 2015-05-15
+	desc: Anthony: Now, about Reynard
+	tag: Annie
+	tag: Anthony
+	tag: ch-52
+	tag: Kat
+	tag: p-07
+	tag: Rey
+	tag: WhiteRoom
+page:1513
+	date: 2015-05-13
+	desc: Kat: I think something fishy is going on...
+	tag: Annie
+	tag: Anthony
+	tag: ch-52
+	tag: Kat
+	tag: p-06
+	tag: WhiteRoom
+page:1512
+	date: 2015-05-11
+	desc: Kat: **My** mom and dad didn't even know he was back at the court until I told them what he did!
+	tag: Annie
+	tag: ch-52
+	tag: Kat
+	tag: p-05
+	tag: WhiteRoom
+page:1511
+	date: 2015-05-08
+	desc: Kat: Why is this stupid room so big?!
+	tag: Annie
+	tag: ch-52
+	tag: Card
+	tag: Winsbury
+	tag: Kat
+	tag: p-04
+	tag: WhiteRoom
+page:1510
+	date: 2015-05-06
+	desc: Kat: Why is this stupid room so big?!
+	tag: Annie
+	tag: ch-52
+	tag: Hug
+	tag: Kat
+	tag: p-03
+	tag: WhiteRoom
+page:1509
+	date: 2015-05-04
+	desc: (Kat walking across a rooftop, down stairs, into a big white room)
+	tag: ch-52
+	tag: Kat
+	tag: p-02
+	tag: Roof
+	tag: WhiteRoom
+page:1508
+	date: 2015-05-01
+	desc: Chapter 52:<br><br>**Sneak**<br><br>_Icon: An Armchair, facing windows_
+	tag: Armchair
+	tag: ch-52
+	tag: Cover
+	tag: p-01
+page:1507
+	date: 2015-04-29
+	desc: Bonus Page 51: Cut Off
+	tag: Annie
+	tag: Bonus
+	tag: ch-51
+	tag: Hair
+page:1506
+	date: 2015-04-27
+	desc: (Annie's removal from the dorm, witnessed by her former peers)
+	tag: Annie
+	tag: Boxes
+	tag: ch-51
+	tag: FriendsDorm
+	tag: Horsebot
+	tag: Janet
+	tag: John
+	tag: Kat
+	tag: Margo
+	tag: p-21
+	tag: Paz
+	tag: Winsbury
+page:1505
+	date: 2015-04-24
+	desc: Kat: Mine will always be on. So If you ever need anything, anytime...
+	tag: Annie
+	tag: Boxes
+	tag: ch-51
+	tag: FriendsDorm
+	tag: Kat
+	tag: p-20
+	tag: TwoWayRadio
+page:1504
+	date: 2015-04-22
+	desc: Kat: Okay. We'll deal with it
+	tag: Annie
+	tag: ch-51
+	tag: FriendsDorm
+	tag: Kat
+	tag: p-19
+	tag: TwoWayRadio
+page:1503
+	date: 2015-04-20
+	desc: Annie: Kat. My father has returned. And it's taking all my energy not to break down like a complete fool
+	tag: Annie
+	tag: ch-51
+	tag: FriendsDorm
+	tag: Kat
+	tag: Mask
+	tag: p-18
+page:1502
+	date: 2015-04-17
+	desc: Kat: Is that Reynard? Why isn't he saying anything
+	tag: Annie
+	tag: Blush
+	tag: ch-51
+	tag: FriendsDorm
+	tag: Kat
+	tag: p-17
+	tag: Rey
+	tag: Tears
+	tag: WolfToy
+page:1501
+	date: 2015-04-15
+	desc: Annie: I brought this on myself, Kat
+	tag: Annie
+	tag: Blush
+	tag: ch-51
+	tag: FriendsDorm
+	tag: Kat
+	tag: p-16
 page:1500
 	date: 2015-04-13
 	desc: Kat: Annie! Why is your dad so mean to you?!
@@ -4125,68 +4267,69 @@ page:1090
 	desc: Stand back up and pull yourself together
 page:1089
 	date: 2012-09-14
-	tag: ch-39
+	desc: Now why don't I just remove this nasty little memory?
 	tag: Bones
+	tag: ch-39
 	tag: Coyote
 	tag: Etherium
 	tag: Gillitie
 	tag: Ysengrin
-	desc: Now why don't I just remove this nasty little memory?
 page:1088
 	date: 2012-09-12
-	tag: ch-39
+	desc: What... what... I- I tried to attack... the girl...
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Gillitie
 	tag: TreeBody
 	tag: Ysengrin
-	desc: What... what... I- I tried to attack... the girl...
 page:1087
 	date: 2012-09-10
-	tag: ch-39
-	tag: Annie
-	tag: Eglamore
-	tag: Jones
-	tag: Gillitie
-	tag: Ysengrin
 	desc: I'm sorry
+	tag: Annie
+	tag: ch-39
+	tag: Eglamore
+	tag: Gillitie
+	tag: Jones
+	tag: Ysengrin
 page:1086
 	date: 2012-09-07
-	tag: ch-39
+	desc: They are not your pets
 	tag: Annie
 	tag: Armour
+	tag: ch-39
 	tag: Eglamore
 	tag: Gillitie
-	desc: They are not your pets
 page:1085
 	date: 2012-09-05
-	tag: ch-39
+	desc: He's still coming!
 	tag: Annie
 	tag: Armour
 	tag: BlinkerStone
+	tag: ch-39
 	tag: Eglamore
 	tag: Gillitie
 	tag: Sword
 	tag: TreeBody
 	tag: Ysengrin
-	desc: He's still coming!
 page:1084
 	date: 2012-09-03
-	tag: ch-39
+	desc: Tree/Wolf stretch
 	tag: Annie
 	tag: Armour
+	tag: ch-39
 	tag: Eglamore
 	tag: Etherics
 	tag: Gillitie
 	tag: Sword
 	tag: TreeBody
 	tag: Ysengrin
-	desc: Tree/Wolf stretch
 page:1083
 	date: 2012-08-31
-	tag: ch-39
+	desc: ZAM ['ZAM' is a more ostentatious 'Bip']
 	tag: Annie
 	tag: Armour
+	tag: ch-39
 	tag: Eglamore
 	tag: Gillitie
 	tag: Sword
@@ -4194,83 +4337,83 @@ page:1083
 	tag: Valknut
 	tag: Ysengrin
 	tag: ZAM
-	desc: ZAM ['ZAM' is a more ostentatious 'Bip']
 page:1082
 	date: 2012-08-29
-	tag: ch-39
+	desc: On the first sign of trouble, snap this beacon
 	tag: Annie
 	tag: Beacon
+	tag: ch-39
 	tag: Eglamore
 	tag: Flashback
 	tag: Gillitie
 	tag: TreeBody
 	tag: Ysengrin
-	desc: On the first sign of trouble, snap this beacon
 page:1081
 	date: 2012-08-27
-	tag: ch-39
+	desc: You're not like this!
 	tag: Annie
 	tag: Beacon
-	tag: Gillitie
-	tag: TreeBody
-	tag: Ysengrin
-	desc: You're not like this!
-page:1080
-	date: 2012-08-24
 	tag: ch-39
-	tag: Annie
 	tag: Gillitie
 	tag: TreeBody
 	tag: Ysengrin
-	desc: creak ... snap ... GRUUH!
+page:1080
 	auth: Tom: Ysengrin seems to disagree
+	date: 2012-08-24
+	desc: creak ... snap ... GRUUH!
+	tag: Annie
+	tag: ch-39
+	tag: Gillitie
+	tag: TreeBody
+	tag: Ysengrin
 page:1079
 	date: 2012-08-22
-	tag: ch-39
+	desc: You think you are better than me because you are human?
 	tag: Annie
+	tag: ch-39
 	tag: Gillitie
 	tag: GreatSecret
 	tag: TreeBody
 	tag: Ysengrin
-	desc: You think you are better than me because you are human?
 page:1078
 	date: 2012-08-20
-	tag: ch-39
+	desc: Well I feel real enough
 	tag: Annie
+	tag: ch-39
 	tag: Gillitie
 	tag: GreatSecret
 	tag: Ysengrin
-	desc: Well I feel real enough
 page:1077
 	date: 2012-08-17
-	tag: ch-39
+	desc: Coyote is not the only powerful one
 	tag: Annie
+	tag: ch-39
 	tag: Gillitie
 	tag: GreatSecret
 	tag: TreeBody
 	tag: Ysengrin
-	desc: Coyote is not the only powerful one
 page:1076
 	date: 2012-08-15
-	tag: ch-39
+	desc: Why does Coyote's theory upset you so much
 	tag: Annie
+	tag: ch-39
 	tag: Gillitie
 	tag: God
 	tag: GreatSecret
 	tag: Ysengrin
-	desc: Why does Coyote's theory upset you so much
 page:1075
 	date: 2012-08-13
-	tag: ch-39
+	desc: I really wish you weren't so rude to Ysengrin
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Gillitie
 	tag: Ysengrin
-	desc: I really wish you weren't so rude to Ysengrin
 page:1074
 	date: 2012-08-10
-	tag: ch-39
+	desc: I noticed something wrong with your theory, Coyote
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Gillitie
 	tag: GreatSecret
@@ -4279,12 +4422,12 @@ page:1074
 	tag: Stars
 	tag: WanderingEye
 	tag: Ysengrin
-	desc: I noticed something wrong with your theory, Coyote
 page:1073
 	date: 2012-08-08
-	tag: ch-39
+	desc: So... the Guides...
 	tag: Annie
 	tag: Bones
+	tag: ch-39
 	tag: Coyote
 	tag: Etherium
 	tag: Flashback
@@ -4293,51 +4436,50 @@ page:1073
 	tag: Psychopomps
 	tag: Surma
 	tag: Ysengrin
-	desc: So... the Guides...
 page:1072
 	date: 2012-08-06
-	tag: ch-39
+	desc: It is because they are absorbed into the Ether
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Etherium
 	tag: Flashback
 	tag: GreatSecret
 	tag: ModdeyDhoo
 	tag: Psychopomps
-	desc: It is because they are absorbed into the Ether
 page:1071
 	date: 2012-08-03
-	tag: ch-39
+	desc: The curse causes Man to stumble through this world forever asking Questions
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Etherium
 	tag: God
 	tag: GreatSecret
-	desc: The curse causes Man to stumble through this world forever asking Questions
 page:1070
 	date: 2012-08-01
-	tag: ch-39
+	desc: He does not see an animal looking for a meal, he sees the power of a god
 	tag: Annie
 	tag: Bones
+	tag: ch-39
 	tag: Coyote
 	tag: Desert
 	tag: Etherium
-	tag: GreatSecret
 	tag: God
+	tag: GreatSecret
 	tag: Moon
-	desc: He does not see an animal looking for a meal, he sees the power of a god
 page:1069
 	date: 2012-07-30
-	tag: ch-39
+	desc: ... Can I go home now? [and: a coyote]
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Desert
 	tag: Gillitie
 	tag: GreatSecret
-	desc: ... Can I go home now? [and: a coyote]
 page:1068
-	date: 2012-07-27
 	auth: Tom: Also: kind of a jerk.
+	date: 2012-07-27
 	desc: I. Do Not. Exist!
 	tag: Bones
 	tag: ch-39
@@ -4347,115 +4489,115 @@ page:1068
 	tag: GreatSecret
 	tag: SunSymbol
 page:1067
+	auth: Tom: Try not to look at the camera, Coyote
 	date: 2012-07-25
-	tag: ch-39
+	desc: and so, Fire Head Girl told Coyote lovely stories about how amazing he is
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Gillitie
 	tag: GreatSecret
 	tag: Sun
 	tag: Ysengrin
-	desc: and so, Fire Head Girl told Coyote lovely stories about how amazing he is
-	auth: Tom: Try not to look at the camera, Coyote
 page:1066
-	date: 2012-07-23
-	tag: ch-39
-	tag: Annie
-	tag: Coyote
-	tag: Gillitie
-	tag: GreatSecret
-	tag: Ysengrin
-	desc: Your great secret?
 	auth: Tom: Coyote gets his way
-page:1065
-	date: 2012-07-20
-	tag: ch-39
+	date: 2012-07-23
+	desc: Your great secret?
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Gillitie
 	tag: GreatSecret
 	tag: Ysengrin
-	desc: Coyote! Hove some dignity!
+page:1065
 	auth: Tom: A new range of expressions for Ysengrin
-page:1064
-	date: 2012-07-18
+	date: 2012-07-20
+	desc: Coyote! Hove some dignity!
+	tag: Annie
 	tag: ch-39
+	tag: Coyote
+	tag: Gillitie
+	tag: GreatSecret
+	tag: Ysengrin
+page:1064
+	auth: Tom: The Great Coyote
+	date: 2012-07-18
+	desc: Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!
 	tag: Annie
 	tag: Bones
+	tag: ch-39
 	tag: Coyote
 	tag: Gillitie
-	desc: Please! Pleeeease tell me stories! Oh please! Pleasepleeeease!
-	auth: Tom: The Great Coyote
 page:1063
+	auth: Tom: Flick
 	date: 2012-07-16
-	tag: ch-39
+	desc: Who said you had any choice in the matter, Fire Head Girl?
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Gillitie
 	tag: Spankies
 	tag: Ysengrin
-	desc: Who said you had any choice in the matter, Fire Head Girl?
-	auth: Tom: Flick
 page:1062
+	auth: Tom: Told you he was a jerk
 	date: 2012-07-13
-	tag: ch-39
+	desc: You will tell me stories
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Gillitie
-	desc: You will tell me stories
-	auth: Tom: Told you he was a jerk
 page:1061
+	auth: Tom: This jerk again
 	date: 2012-07-11
-	tag: ch-39
+	desc: Boo!
 	tag: Annie
+	tag: ch-39
 	tag: Coyote
 	tag: Gillitie
 	tag: Ysengrin
-	desc: Boo!
-	auth: Tom: This jerk again
 page:1060
+	auth: Tom: Walkin' along
 	date: 2012-07-09
-	tag: ch-39
 	tag: Annie
 	tag: AnnieCut
+	tag: ch-39
 	tag: Etherium
 	tag: Gillitie
 	tag: Ysengrin
-	auth: Tom: Walkin' along
 page:1059
+	auth: Tom: Been a while
 	date: 2012-07-06
-	tag: ch-39
 	tag: Annie
 	tag: Armour
 	tag: Bridge
+	tag: ch-39
 	tag: Eglamore
 	tag: Gillitie
 	tag: Sword
 	tag: TreeBody
 	tag: Ysengrin
-	auth: Tom: Been a while
 page:1058
 	date: 2012-07-04
-	tag: ch-39
+	desc: Considering what's happened these part few weeks
 	tag: Annie
 	tag: Armour
 	tag: Bridge
+	tag: ch-39
 	tag: Coyote
 	tag: Eglamore
 	tag: Gillitie
 	tag: Sword
 	tag: Ysengrin
-	desc: Considering what's happened these part few weeks
 page:1057
 	date: 2012-07-02
-	tag: ch-39
+	desc: You know, you don't have to wear that outfit every time we go across the bridge
 	tag: Annie
 	tag: Armour
 	tag: Bridge
+	tag: ch-39
 	tag: Eglamore
 	tag: Gillitie
 	tag: Sword
-	desc: You know, you don't have to wear that outfit every time we go across the bridge
 page:1056
 	date: 2012-06-29
 	desc: Chapter 39:<br><br>**The Great Secret**<br><br>_Icon: A memory in Coyote's claws_
@@ -4466,46 +4608,47 @@ page:1056
 	tag: GreatSecret
 page:1055
 	date: 2012-06-27
-	tag: ch-38
+	desc: Bonus Page: Important<br>This is what we're going with? You sure?
 	tag: 113
 	tag: Bonus
+	tag: ch-38
 	tag: Filler
 	tag: Tea
-	desc: Bonus Page: Important<br>This is what we're going with? You sure?
 page:1054
 	date: 2012-06-25
+	desc: Are you sure you don't want them to know you helped?
 	tag: ch-38
 	tag: FlowerHeadband
 	tag: Gamma
 	tag: Hospital
 	tag: Zimmy
-	desc: Are you sure you don't want them to know you helped?
 page:1053
 	date: 2012-06-22
-	tag: ch-38
+	desc: I brought these for you
 	tag: Annie
+	tag: ch-38
 	tag: Gamma
 	tag: Hospital
 	tag: Kat
 	tag: MakeUp
 	tag: Zimmy
-	desc: I brought these for you
 page:1052
 	date: 2012-06-20
-	tag: ch-38
+	desc: So I just collapsed in the hall?
 	tag: Annie
+	tag: ch-38
 	tag: Hospital
 	tag: Kat
-	desc: So I just collapsed in the hall?
 page:1051
 	date: 2012-06-18
-	tag: ch-38
+	desc: You're awake!
 	tag: Annie
+	tag: ch-38
 	tag: Hospital
 	tag: Kat
-	desc: You're awake!
 page:1050
 	date: 2012-06-15
+	desc: You can't always run from what scares you
 	tag: ch-38
 	tag: FlowerHeadband
 	tag: Gamma
@@ -4513,15 +4656,15 @@ page:1050
 	tag: Kat
 	tag: Tears
 	tag: Zimmy
-	desc: You can't always run from what scares you
 page:1049
 	date: 2012-06-13
-	tag: ch-38
-	tag: Angel
-	tag: Kat
 	desc: (The image of how Kat appears to Zimmy, a Giger-like metallic robot angel)
+	tag: Angel
+	tag: ch-38
+	tag: Kat
 page:1048
 	date: 2012-06-11
+	desc: Hey, what happ--
 	tag: ch-38
 	tag: FlowerHeadband
 	tag: Gamma
@@ -4530,37 +4673,37 @@ page:1048
 	tag: RobotS13
 	tag: Shadow
 	tag: Zimmy
-	desc: Hey, what happ--
 page:1047
 	date: 2012-06-08
-	tag: ch-38
+	desc: Yer Dad's a JERK!
 	tag: Annie
+	tag: ch-38
 	tag: Etherium
 	tag: Fight
 	tag: FlowerHeadband
+	tag: Hospital
 	tag: Jack
 	tag: Kat
 	tag: Mask
-	tag: Hospital
-	tag: Zimmy
 	tag: Zimmingham
-	desc: Yer Dad's a JERK!
+	tag: Zimmy
 page:1046
 	date: 2012-06-06
-	tag: ch-38
+	desc: I don't want to know about your million boyfriends
 	tag: Annie
+	tag: ch-38
 	tag: Etherium
 	tag: FacelessPeople
 	tag: Jack
 	tag: Mask
-	tag: Zimmy
 	tag: Zimmingham
-	desc: I don't want to know about your million boyfriends
+	tag: Zimmy
 page:1045
 	date: 2012-06-04
-	tag: ch-38
+	desc: Okay this is where things start to go bad...
 	tag: Annie
 	tag: Bones
+	tag: ch-38
 	tag: FacelessPeople
 	tag: FlowerHeadband
 	tag: Hospital
@@ -4570,43 +4713,43 @@ page:1045
 	tag: Shadow
 	tag: Zimmingham
 	tag: Zimmy
-	desc: Okay this is where things start to go bad...
 page:1044
 	date: 2012-06-01
-	tag: ch-38
+	desc: A message from your little girl, mate!
 	tag: AnnieCut
 	tag: Bones
+	tag: ch-38
 	tag: Etherium
 	tag: Fight
 	tag: Fire
 	tag: Tony
 	tag: Zimmy
-	desc: A message from your little girl, mate!
 page:1043
 	date: 2012-05-30
-	tag: ch-38
+	desc: (Zimmy reaches out, touching the "bones" extending from Annie's soul; she sees Tony through the fire)
 	tag: Bones
+	tag: ch-38
 	tag: Etherium
 	tag: Fire
 	tag: Tony
 	tag: Zimmy
-	desc: (Zimmy reaches out, touching the "bones" extending from Annie's soul; she sees Tony through the fire)
 page:1042
 	date: 2012-05-28
-	tag: ch-38
+	desc: What's the matter? Don't like him?
 	tag: Annie
+	tag: ch-38
 	tag: CityFace
 	tag: Etherium
 	tag: FlowerHeadband
 	tag: Hospital
 	tag: Kat
 	tag: Zimmy
-	desc: What's the matter? Don't like him?
 page:1041
 	date: 2012-05-25
-	tag: ch-38
+	desc: No wonder you're like this, Carver
 	tag: Annie
 	tag: Bones
+	tag: ch-38
 	tag: CityFace
 	tag: Etherium
 	tag: Fire
@@ -4615,33 +4758,33 @@ page:1041
 	tag: Kat
 	tag: Mask
 	tag: Zimmy
-	desc: No wonder you're like this, Carver
 page:1040
 	date: 2012-05-23
-	tag: ch-38
+	desc: Pretty hot in here
 	tag: Annie
 	tag: Bones
+	tag: ch-38
 	tag: Etherium
 	tag: Fire
 	tag: FireElemental
 	tag: FireSpike
 	tag: Mask
-	desc: Pretty hot in here
 page:1039
 	date: 2012-05-21
-	tag: ch-38
+	desc: You got no fight in you, Carver
 	tag: Annie
+	tag: ch-38
 	tag: CherryTree
 	tag: Etherium
 	tag: Fight
 	tag: Kat
 	tag: Mask
 	tag: Zimmy
-	desc: You got no fight in you, Carver
 page:1038
 	date: 2012-05-18
-	tag: ch-38
+	desc: Well. Things seem okay up here.
 	tag: Annie
+	tag: ch-38
 	tag: CherryTree
 	tag: CityFace
 	tag: Homework
@@ -4649,7 +4792,6 @@ page:1038
 	tag: Mask
 	tag: Spider
 	tag: Zimmy
-	desc: Well. Things seem okay up here.
 page:1037
 	date: 2012-05-16
 	tag: ch-38

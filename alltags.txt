@@ -456,9 +456,9 @@ ch-16	A Ghost Story [{Y}](http://youtu.be/d5agOAjjJsc)
 ch-17	The Medium Beginning [{Y}](http://youtu.be/NbVAIt7VJzY)
 ch-18	S1 [{Y}](http://youtu.be/fDZWjC341oc)
 ch-19	Power Station [{Y}](http://youtu.be/wXiHFd_SB9c)
-ch-20	Coyote Stories
-ch-21	Blinking
-ch-22	Ties
+ch-20	Coyote Stories [{Y}](http://youtu.be/2CiKLCERprA)
+ch-21	Blinking [{Y}](http://youtu.be/ru5BEUlslMQ)
+ch-22	Ties [{Y}](http://youtu.be/ETZqrN27irQ)
 ch-22a	Intermission: City Face
 ch-23	Terror Castle of the Jupiter Moon Martians! A spacemonauts adventure!
 ch-24	Residential
