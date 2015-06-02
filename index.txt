@@ -29,6 +29,75 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1521
+	date: 2015-06-01
+	desc: Rey: Kat, I'm glad Antimony put me in your possession. I trust you
+	tag: AnthonyApartment
+	tag: Armchair
+	tag: ch-52
+	tag: CreatorGlyph
+	tag: Kat
+	tag: p-14
+	tag: Parley
+	tag: Rey
+	tag: Smitty
+page:1520
+	date: 2015-05-29
+	desc: Kat: What's Mr. Carver done to you? Has he put you through any cruel experiments?!
+	tag: AnthonyApartment
+	tag: Armchair
+	tag: ch-52
+	tag: CreatorGlyph
+	tag: Kat
+	tag: p-13
+	tag: Parley
+	tag: Rey
+	tag: Smitty
+page:1519
+	date: 2015-05-27
+	desc: Kat: Rey, are you ok?
+	tag: AnthonyApartment
+	tag: Armchair
+	tag: ch-52
+	tag: CreatorGlyph
+	tag: Kat
+	tag: p-12
+	tag: Parley
+	tag: Rey
+	tag: Smitty
+page:1518
+	date: 2015-05-25
+	desc: Kat: We are just doing this to find Reynard 
+	tag: Annie
+	tag: AnthonyApartment
+	tag: Armchair
+	tag: ch-52
+	tag: Kat
+	tag: p-11
+	tag: Parley
+	tag: Smitty
+	tag: WhiteRoom
+page:1517
+	date: 2015-05-22
+	desc: Annie: Kat, will you please not break in to my father's house?  
+	tag: Annie
+	tag: ch-52
+	tag: Kat
+	tag: p-10
+	tag: Parley
+	tag: Smitty
+	tag: WhiteRoom
+page:1516
+	date: 2015-05-20
+	desc: Anthony: Antimony, make sure you are ready before then
+	tag: Annie
+	tag: Anthony
+	tag: ch-52
+	tag: Kat
+	tag: p-09
+	tag: Parley
+	tag: Smitty
+	tag: WhiteRoom
 page:1515
 	date: 2015-05-18
 	desc: Anthony: He is not cooperating with my instructions
