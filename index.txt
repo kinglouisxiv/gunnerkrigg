@@ -29,6 +29,67 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1526
+	date: 2015-06-12
+	desc: Tony: I had work
+	tag: Anja
+	tag: Annie
+	tag: ch-52
+	tag: DonlanHouse
+	tag: Donny
+	tag: Kat
+	tag: p-19
+	tag: Tony
+page:1525
+	date: 2015-06-10
+	desc: Donny: Tony, where the hell have you been?
+	tag: Anja
+	tag: Annie
+	tag: Blush
+	tag: ch-52
+	tag: DonlanHouse
+	tag: Donny
+	tag: Kat
+	tag: p-18
+	tag: Tony
+page:1524
+	date: 2015-06-08
+	desc: Anja: Anthony! It's --
+	tag: Anja
+	tag: Annie
+	tag: Blush
+	tag: ch-52
+	tag: DonlanHouse
+	tag: Donny
+	tag: Hand
+	tag: Kat
+	tag: p-17
+	tag: Tony
+page:1523
+	date: 2015-06-05
+	desc: Donald: Tony
+	tag: Annie
+	tag: ch-52
+	tag: DonlanHouse
+	tag: Donny
+	tag: Hand
+	tag: Kat
+	tag: p-16
+	tag: Tony
+page:1522
+	date: 2015-06-03
+	desc: Kat: See you soon
+	tag: AnthonyApartment
+	tag: Armchair
+	tag: Bip
+	tag: ch-52
+	tag: Kat
+	tag: p-15
+	tag: Parley
+	tag: Rey
+	tag: Smitty
+	tag: Tony
+	tag: WolfToy
 page:1521
 	date: 2015-06-01
 	desc: Rey: Kat, I'm glad Antimony put me in your possession. I trust you
@@ -65,12 +126,14 @@ page:1519
 	tag: Parley
 	tag: Rey
 	tag: Smitty
+	tag: WolfToy
 page:1518
 	date: 2015-05-25
 	desc: Kat: We are just doing this to find Reynard 
 	tag: Annie
 	tag: AnthonyApartment
 	tag: Armchair
+	tag: Bip
 	tag: ch-52
 	tag: Kat
 	tag: p-11
@@ -5516,54 +5579,54 @@ page:981
 	desc: um, excuse me...
 page:980
 	date: 2012-01-04
-	tag: ch-36
+	desc: do you know that girl?
 	tag: Annie
+	tag: ch-36
 	tag: Foley
 	tag: Jones
 	tag: Red
 	tag: RobotS13
 	tag: Shadow
-	desc: do you know that girl?
 page:979
 	date: 2012-01-02
-	tag: ch-36
+	desc: He seems a little younger than yourself, but I'm sure I can find a class for him
 	tag: Annie
+	tag: ch-36
 	tag: Foley
 	tag: Jones
 	tag: RobotS13
 	tag: Shadow
 	tag: Train
-	desc: He seems a little younger than yourself, but I'm sure I can find a class for him
 page:978
 	date: 2011-12-30
-	tag: ch-36
+	desc: I think I know where he can go unnoticed
 	tag: Annie
+	tag: ch-36
 	tag: Jones
 	tag: Shadow
 	tag: Sweets
 	tag: Train
-	desc: I think I know where he can go unnoticed
 page:977
 	date: 2011-12-28
-	tag: ch-36
+	desc: we've been looking after him, but his needs are different now
 	tag: Annie
+	tag: ch-36
 	tag: Jones
 	tag: Shadow
-	desc: we've been looking after him, but his needs are different now
 page:976
 	date: 2011-12-26
-	tag: ch-36
+	desc: and now, a young shadow man walks and lives amongst the humans
 	tag: Annie
+	tag: ch-36
 	tag: Jones
 	tag: Shadow
-	desc: and now, a young shadow man walks and lives amongst the humans
 page:975
 	date: 2011-12-23
+	desc: how the glass eyed men became shadow men
 	tag: ch-36
 	tag: Coyote
 	tag: CoyoteStories
 	tag: Shadowmen
-	desc: how the glass eyed men became shadow men
 page:974
 	date: 2011-12-21
 	desc: Chapter 36:<br><br>**Red Gets a Name**<br><br>_Icon: Annie's hair and the Etherium_
@@ -5572,133 +5635,133 @@ page:974
 	tag: Red
 page:973
 	date: 2011-12-19
-	tag: ch-35
+	desc: Bonus Page: Parley Display of Affection
 	tag: Bonus
+	tag: ch-35
 	tag: Cookie
 	tag: Jan
 	tag: Parley
 	tag: Smitty
-	desc: Bonus Page: Parley Display of Affection
 page:972
 	date: 2011-12-16
-	tag: ch-35
+	desc: Truly, I've never seen anything like it
 	tag: Annie
+	tag: ch-35
 	tag: Kat
 	tag: Parley
 	tag: Rey
 	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
-	desc: Truly, I've never seen anything like it
 page:971
 	date: 2011-12-14
-	tag: ch-35
+	desc: Shadow, you are three dimensional now.
 	tag: Annie
+	tag: ch-35
 	tag: Kat
 	tag: Parley
 	tag: Rey
 	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
-	desc: Shadow, you are three dimensional now.
 page:970
 	date: 2011-12-12
-	tag: ch-35
+	desc: There he is!
 	tag: Annie
 	tag: Bip
+	tag: ch-35
 	tag: Kat
 	tag: RobotS13
 	tag: Shadow
-	desc: There he is!
 page:969
 	date: 2011-12-09
+	desc: I love my good friend, Shadow
 	tag: ch-35
 	tag: Kat
 	tag: RobotS13
 	tag: Shadow
-	desc: I love my good friend, shadow
 page:968
 	date: 2011-12-07
-	tag: ch-35
+	desc: let's get you fixed up!
 	tag: Bip
-	tag: Kat
+	tag: ch-35
 	tag: FlowerHeadband
+	tag: Kat
 	tag: Parley
 	tag: RobotS13
 	tag: Smitty
-	desc: let's get you fixed up!
 page:967
 	date: 2011-12-05
-	tag: ch-35
+	desc: I'm okay, I just feel... really weird...
 	tag: Annie
 	tag: Bip
+	tag: ch-35
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Parley
 	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
-	desc: i'm okay, I just feel... really weird...
 page:966
 	date: 2011-12-02
-	tag: ch-35
+	desc: urghh... i... don't feel so... good...
 	tag: Annie
+	tag: ch-35
 	tag: Kat
 	tag: Parley
 	tag: Rey
 	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
-	desc: urghh... i... don't feel so... good...
 page:965
+	auth: Tom: sharp enough to cut a shadow from the floor
 	date: 2011-11-30
 	tag: ch-35
 	tag: CoyoteTooth
 	tag: Parley
 	tag: RobotS13
 	tag: Shadow
-	auth: Tom: sharp enough to cut a shadow from the floor
 page:964
 	date: 2011-11-28
-	tag: ch-35
+	desc: well how sharp can it-
 	tag: Annie
+	tag: ch-35
 	tag: CoyoteTooth
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Parley
 	tag: RobotS13
-	desc: well how sharp can it-
 page:963
 	date: 2011-11-25
-	tag: ch-35
+	desc: it's one of coyote's teeth
 	tag: Annie
+	tag: ch-35
 	tag: CoyoteTooth
 	tag: Parley
-	desc: it's one of coyote's teeth
 page:962
 	date: 2011-11-23
-	tag: ch-35
+	desc: Parley, I have something you may be able to use
 	tag: Annie
-	tag: DiegoBot
+	tag: ch-35
 	tag: CoyoteTooth
+	tag: DiegoBot
 	tag: Parley
 	tag: Rey
 	tag: RobotS13
 	tag: Seraph
 	tag: Shadow
-	desc: Parley, I have something you may be able to use
 page:961
 	date: 2011-11-21
-	tag: ch-35
+	desc: Bip and Barge!
 	tag: Annie
 	tag: Bip
+	tag: ch-35
 	tag: Kat
 	tag: Parley
 	tag: Rey
 	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
-	desc: Bip and Barge!
 page:960
 	date: 2011-11-18
 	tag: ch-35
