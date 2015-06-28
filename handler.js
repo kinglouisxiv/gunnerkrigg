@@ -367,7 +367,7 @@ Licensed MIT: http://deuxhuithuit.mit-license.org
         if (typeof options.stripeRows === "object" && options.stripeRows !== null) {
           joined = options.stripeRows.join(" ");
           stripeRows_length = options.stripeRows.length;
-          jq_results.not(":hidden").each(function(i) {
+          jq_results.not(":xhidden").each(function(i) {
             return $(this).removeClass(joined).addClass(options.stripeRows[i % stripeRows_length]);
           });
         }
@@ -461,15 +461,15 @@ Licensed MIT: http://deuxhuithuit.mit-license.org
       } else {
         tagsarray.splice(tagsarray.indexOf(tagname), 1);
       }
-      $('.comicpage').removeClass('hidden');
+      $('.comicpage').removeClass('xhidden');
       if (tagsarray !== []) {
         tagstohide = '.comicpage:not(.' + tagsarray.join('.') + ')';
-        return $(tagstohide).addClass('hidden');
+        return $(tagstohide).addClass('xhidden');
       }
     });
     $(".all").on('click', function() {
-      $('.comicpage, .tags').removeClass('hidden');
-      $('.tags').removeClass('hidden');
+      $('.comicpage, .tags').removeClass('xhidden');
+      $('.tags').removeClass('xhidden');
       $('.tag').removeClass('highlighted');
       $('input.search').val('');
       $('input.search').quicksearch('.tags');
@@ -482,8 +482,8 @@ Licensed MIT: http://deuxhuithuit.mit-license.org
       var alphabet, charsthatexist;
       alphabet = $(this).attr("class").split(" ")[1];
       if (alphabet !== "num") {
-        // charsthatexist = $("#jscloud").find("a[class^='" + alphabet + "'],a[class*=' " + alphabet + "']");
-        charsthatexist = $("#jscloud").find("span[class^='" + alphabet + "'],span[class*=' " + alphabet + "']");
+        charsthatexist = $("#jscloud").find("a[class^='" + alphabet + "'],a[class*=' " + alphabet + "']");
+        // charsthatexist = $("#jscloud").find("span[class^='" + alphabet + "'],span[class*=' " + alphabet + "']");
         if (charsthatexist.length < 2) {
           return $(this).remove();
         }
@@ -499,17 +499,17 @@ Licensed MIT: http://deuxhuithuit.mit-license.org
       }
       if ($(this).hasClass("highlighted")) {
         $(".alpha").removeClass("highlighted");
-        return $("#jscloud").find(".tags").removeClass("hidden");
+        return $("#jscloud").find(".tags").removeClass("xhidden");
       } else {
         $(".alpha").removeClass("highlighted");
         $(this).addClass("highlighted");
-        $("#jscloud").find(".tags").addClass("hidden");
-        return tagsstartwith.closest(".tags").removeClass("hidden");
+        $("#jscloud").find(".tags").addClass("xhidden");
+        return tagsstartwith.closest(".tags").removeClass("xhidden");
       }
     });
     y = $(this).scrollTop();
     if (y > 200) {
-      $("#topscroll").removeClass("hidden");
+      $("#topscroll").removeClass("xhidden");
     }
     $(document).scroll(function() {
       y = $(this).scrollTop();
