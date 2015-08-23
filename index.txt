@@ -29,6 +29,306 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1556
+	date: 2015-08-21
+	desc: Tony: At least... I thought I did...
+	tag: AnnieCut
+	tag: Booze
+	tag: ch-53
+	tag: Fight
+	tag: Fire
+	tag: Flashback
+	tag: p-023
+	tag: Surma
+	tag: Tony
+	tag: TonyHouse
+	tag: Zimmie
+page:1555
+	date: 2015-08-19
+	desc: Tony: At least... I thought I did...
+	tag: Annie
+	tag: AnnieCut
+	tag: Booze
+	tag: ch-53
+	tag: Fire
+	tag: FireElemental
+	tag: Flashback
+	tag: p-022
+	tag: Surma
+	tag: Tony
+	tag: TonyHouse
+page:1554
+	date: 2015-08-17
+	desc: Tony: And I saw Surma again
+	note: Use of a symbol like a T crossed by a horizontal S or 8, associated with the hand-antenna
+	tag: AnnieCut
+	tag: Antenna
+	tag: Cave
+	tag: ch-53
+	tag: Hand
+	tag: Flashback
+	tag: p-021
+	tag: Psychopomps
+	tag: Surma
+	tag: Tony
+page:1553
+	date: 2015-08-14
+	desc: Tony: Haha... An antenna of blood and bone... Made to reach through the layers of reality. My final surgery.
+	tag: Antenna
+	tag: Armchair
+	tag: Bones
+	tag: Bottle
+	tag: Booze
+	tag: Cave
+	tag: ch-53
+	tag: Donny
+	tag: Hand
+	tag: Flashback
+	tag: Microsat5
+	tag: p-020
+	tag: Psychopomps
+	tag: Scapel
+	tag: Tony
+	tag: TonyHouse
+page:1552
+	date: 2015-08-12
+	desc: Tony: They told me... Haha, they told me I could see Surma again!
+	tag: Annie
+	tag: Antenna
+	tag: Armchair
+	tag: Booze
+	tag: Cave
+	tag: ch-53
+	tag: Donny
+	tag: Flashback
+	tag: p-019
+	tag: Psychopomps
+	tag: Tony
+	tag: TonyHouse
+page:1551
+	date: 2015-08-10
+	desc: Tony: I saw things I'd never have believed had I not seen them with my own eyes
+	tag: Annie
+	tag: Bottle
+	tag: Booze
+	tag: Cave
+	tag: ch-53
+	tag: Fire
+	tag: Flashback
+	tag: p-018
+	tag: Psychopomps
+	tag: Tony
+page:1550
+	date: 2015-08-07
+	desc: Tony: The research I was involved in took me around the globe, so I was able to follow my own line of investigation
+	tag: BismuthSymbol
+	tag: Cave
+	tag: ch-53
+	tag: CourtSymbol
+	tag: Flashback
+	tag: p-017
+	tag: Tony
+page:1549
+	date: 2015-08-05
+	desc: Donald: But why go into hiding?
+	tag: Annie
+	tag: AnnieCut
+	tag: Booze
+	tag: ch-53
+	tag: Court
+	tag: Donny
+	tag: Fire
+	tag: Flashback
+	tag: p-016
+	tag: Psychopomps
+	tag: Surma
+	tag: Tony
+	tag: TonyHouse
+page:1548
+	date: 2015-08-03
+	desc: Donald: But why go into hiding?
+	tag: Anja
+	tag: ch-53
+	tag: Court
+	tag: Donny
+	tag: Flashback
+	tag: p-015
+	tag: Surma
+	tag: Tony
+	tag: TonyHouse
+page:1547
+	date: 2015-07-31
+	desc: Tony: They had be out there researching their blasted omega device
+	tag: Annie
+	tag: AnnieCut
+	tag: Armchair
+	tag: Booze
+	tag: ch-53
+	tag: Court
+	tag: Donny
+	tag: Etherium
+	tag: Flashback
+	tag: GoodHope
+	tag: Hand
+	tag: OmegaDevice
+	tag: p-014
+	tag: Surma
+	tag: Tony
+	tag: TonyHouse
+page:1546
+	date: 2015-07-29
+	desc: Donny: Jesus, Tony.
+	tag: Armchair
+	tag: Bottle
+	tag: Booze
+	tag: ch-53
+	tag: Donny
+	tag: Hand
+	tag: p-013
+	tag: Tony
+	tag: TonyHouse
+page:1545
+	date: 2015-07-27
+	desc: Tony: Took me a week to feng shui the chair alone
+	tag: Armchair
+	tag: Bottle
+	tag: Booze
+	tag: ch-53
+	tag: Donny
+	tag: Hand
+	tag: p-012
+	tag: Tony
+	tag: TonyHouse
+page:1544
+	date: 2015-07-24
+	desc: [Annie connects to her blinker stone]
+	tag: Annie
+	tag: AnnieCut
+	tag: BlinkerStone
+	tag: ch-53
+	tag: Donny
+	tag: Etherium
+	tag: Fire
+	tag: FireElemental
+	tag: p-011
+	tag: WhiteRoom
+page:1543
+	date: 2015-07-22
+	desc: Mr Donlan: Annie, I'm headed over to your dad's place. Can I borrow your blinker stone?
+	tag: Annie
+	tag: BlinkerStone
+	tag: Bottle
+	tag: ch-53
+	tag: Donny
+	tag: Fire
+	tag: FireElemental
+	tag: p-010
+	tag: WhiteRoom
+page:1542
+	date: 2015-07-20
+	desc: [hair, scissors, blinker stone]
+	tag: Annie
+	tag: BlinkerStone
+	tag: ch-53
+	tag: Fire
+	tag: FireElemental
+	tag: Flashback
+	tag: FriendsDorm
+	tag: p-09
+	tag: Tears
+	tag: WhiteRoom
+page:1541
+	date: 2015-07-17
+	desc: Annie: I can't deal with you right now
+	tag: Annie
+	tag: BlinkerStone
+	tag: ch-53
+	tag: Flashback
+	tag: FriendsDorm
+	tag: Mirror
+	tag: p-08
+	tag: Scissors
+	tag: Tears
+page:1540
+	date: 2015-07-15
+	desc: [Flashback: Annie returns to the flat, her father’s words echoing...]
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-53
+	tag: Etherium
+	tag: Fire
+	tag: Flashback
+	tag: FriendsDorm
+	tag: Kat
+	tag: p-07
+	tag: Tears
+page:1539
+	date: 2015-07-13
+	desc: Ysengrin: Anger can be a strength, but it can also consume you if you do not keep it under control
+	tag: Annie
+	tag: ch-53
+	tag: Flashback
+	tag: Gillitie
+	tag: p-06
+	tag: WhiteRoom
+	tag: Ysengrin
+page:1538
+	date: 2015-07-10
+	desc: Annie: You hate him?
+	tag: Annie
+	tag: ch-53
+	tag: Fire
+	tag: FireElemental
+	tag: Flashback
+	tag: Gillitie
+	tag: p-05
+	tag: Photo
+	tag: Tony
+	tag: WhiteRoom
+	tag: Ysengrin
+page:1537
+	date: 2015-07-08
+	desc: [Fire elemental sees photo of young Tony]
+	tag: ch-53
+	tag: Fire
+	tag: FireElemental
+	tag: p-04
+	tag: Photo
+	tag: Tony
+	tag: WhiteRoom
+page:1536
+	date: 2015-07-06
+	desc: [Fire elemental descends, swipes insubstantially at Annie's desk/bookshelves]
+	tag: ch-53
+	tag: Fire
+	tag: FireElemental
+	tag: p-03
+	tag: WhiteRoom
+page:1535
+	date: 2015-07-03
+	desc: [Fire elemental in a top corner of the tall white room as Annie leaves]
+	tag: Annie
+	tag: ch-53
+	tag: Fire
+	tag: FireElemental
+	tag: p-02
+	tag: WhiteRoom
+page:1534
+	date: 2015-07-01
+	desc: Chapter 53:<br><br>**Annie and the Fire**<br><br>_Icon: A Bottle and a Cup_
+	tag: Annie
+	tag: ch-53
+	tag: Fire
+	tag: p-01
+page:1533
+	date: 2015-06-29
+	desc: Bonus Page 52: Puppy Reynard
+	tag: ch-52
+	tag: CreatorGlyph
+	tag: Cute
+	tag: Puppy
+	tag: Rey
+	tag: Rose
 page:1532
 	date: 2015-06-26
 	desc: Annie: That went quite well, I think!!
@@ -137,7 +437,7 @@ page:1523
 page:1522
 	date: 2015-06-03
 	desc: Kat: See you soon
-	tag: AnthonyApartment
+	tag: TonyHouse
 	tag: Armchair
 	tag: Bip
 	tag: ch-52
@@ -151,37 +451,40 @@ page:1522
 page:1521
 	date: 2015-06-01
 	desc: Rey: Kat, I'm glad Antimony put me in your possession. I trust you
-	tag: AnthonyApartment
+	tag: TonyHouse 
 	tag: Armchair
 	tag: ch-52
 	tag: CreatorGlyph
 	tag: Kat
 	tag: p-14
 	tag: Parley
+	tag: Puppy
 	tag: Rey
 	tag: Smitty
 page:1520
 	date: 2015-05-29
 	desc: Kat: What's Mr. Carver done to you? Has he put you through any cruel experiments?!
-	tag: AnthonyApartment
+	tag: TonyHouse
 	tag: Armchair
 	tag: ch-52
 	tag: CreatorGlyph
 	tag: Kat
 	tag: p-13
 	tag: Parley
+	tag: Puppy
 	tag: Rey
 	tag: Smitty
 page:1519
 	date: 2015-05-27
 	desc: Kat: Rey, are you ok?
-	tag: AnthonyApartment
+	tag: TonyHouse
 	tag: Armchair
 	tag: ch-52
 	tag: CreatorGlyph
 	tag: Kat
 	tag: p-12
 	tag: Parley
+	tag: Puppy
 	tag: Rey
 	tag: Smitty
 	tag: WolfToy
@@ -189,7 +492,7 @@ page:1518
 	date: 2015-05-25
 	desc: Kat: We are just doing this to find Reynard 
 	tag: Annie
-	tag: AnthonyApartment
+	tag: TonyHouse
 	tag: Armchair
 	tag: Bip
 	tag: ch-52
