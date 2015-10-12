@@ -29,16 +29,260 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1578
+	date: 2015-10-12
+	desc: Ysengrin: Did he force you to cut out this essential part of yourself?
+	note: Flashback to [1258](#p1258); Moss Ogre named here
+	tag: Annie
+	tag: BlinkerStone
+	tag: Flashback
+	tag: MossOgre
+	tag: ch-54
+	tag: Gillitie
+	tag: Smitty
+	tag: p-15
+	tag: Ysengrin
+page:1577
+	date: 2015-10-09
+	desc: Annie: So? We’ve talked about him before
+	tag: Annie
+	tag: ch-54
+	tag: Gillitie
+	tag: p-14
+	tag: Ysengrin
+page:1576
+	date: 2015-10-07
+	desc: Ysengrin: I can see what you have done
+	tag: Annie
+	tag: ch-54
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: p-13
+	tag: RubikCube
+	tag: Smitty
+	tag: Ysengrin
+page:1575
+	date: 2015-10-05
+	desc: Annie: What's wrong
+	tag: Annie
+	tag: ch-54
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: p-12
+	tag: RubikCube
+	tag: Smitty
+	tag: Ysengrin
+page:1574
+	date: 2015-10-02
+	desc: Annie: And you? Do you want to go and see your friend?
+	tag: Annie
+	tag: Bridge
+	tag: ch-54
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: p-11
+	tag: RubikCube
+	tag: Smitty
+	tag: TransferClinic
+	tag: Ysengrin
+page:1573
+	date: 2015-09-30
+	desc: (Scene of the broken building and inside the transfer clinic)
+	tag: Annie
+	tag: ch-54
+	tag: JackalopeBoy
+	tag: p-10
+	tag: Robots
+	tag: RubikCube
+	tag: Smitty
+	tag: TransferClinic
+page:1572
+	date: 2015-09-28
+	desc: And the BROKEN MAN allowed FIRE HEAD GIRL to visit the forest again
+	tag: Annie
+	tag: FireSpike
+	tag: ch-54
+	tag: Coyote 
+	tag: p-09
+	tag: Tony
+page:1571
+	date: 2015-09-25
+	desc: In the forest she is loved and she is safe
+	tag: Annie
+	tag: FireSpike
+	tag: ch-54
+	tag: Coyote 
+	tag: p-08
+	tag: Tony
+page:1570
+	date: 2015-09-23
+	desc: COYOTE breathed deep and smelled all of the man and then he understood
+	tag: ch-54
+	tag: Coyote 
+	tag: p-07
+	tag: Tony
+page:1569
+	date: 2015-09-21
+	desc: The Lords of THE COURT were upset and afraid
+	tag: Annie
+	tag: ch-54
+	tag: Court
+	tag: Coyote 
+	tag: p-06
+	tag: Tony
+page:1568
+	date: 2015-09-18
+	desc: The Lords of THE COURT brought a broken man to COYOTE
+	tag: Annie
+	tag: ch-54
+	tag: Court
+	tag: Coyote 
+	tag: Fight
+	tag: p-05
+	tag: Tony
+page:1567
+	date: 2015-09-16
+	desc: At the meeting he demanded to see his friend
+	note: identification of Court representatives tentative due to very stylised representation
+	tag: Annie
+	tag: BismuthSymbol
+	tag: ch-54
+	tag: Court
+	tag: CourtSymbol
+	tag: Coyote 
+	tag: Eglamore
+	tag: ForestSymbol
+	tag: Headmaster
+	tag: Jones
+	tag: LeadSymbol
+	tag: p-04
+page:1566
+	date: 2015-09-14
+	desc: But one day the girl stopped visiting COYOTE in his forest
+	tag: Annie
+	tag: Bones
+	tag: ch-54
+	tag: Court
+	tag: Coyote 
+	tag: ForestSymbol
+	tag: Gillitie
+	tag: p-03
+page:1565
+	date: 2015-09-11
+	desc: Once upon a time COYOTE made friends with a girl who lived in a cold dark place called The Court
+	tag: Annie
+	tag: ch-54
+	tag: Court
+	tag: Coyote 
+	tag: Fire
+	tag: Gillitie
+	tag: p-02
+	tag: Ysengrin
+page:1564
+	date: 2015-09-09
+	desc: Chapter 54: <br><br>**Meetings and Re-Meetings**<br><br>_Icon: A Rubik's Cube_
+	tag: ch-54
+	tag: Cover
+	tag: Coyote 
+	tag: p-01
+page:1563
+	date: 2015-09-07
+	desc: Bonus Page 53
+	note: Tom [tweeted](https://twitter.com/gunnerkrigg/status/641119424968302592) that this page follows on from [1541](#1541)
+	tag: Annie
+	tag: ch-53
+	tag: Fire
+	tag: HairdresserBot
+page:1562
+	date: 2015-09-04
+	desc: [Fire-Annie elemental shoots to the ceiling and grimaces; flesh-Annie is zen]
+	tag: Annie
+	tag: ch-53
+	tag: Fire
+	tag: FireElemental
+	tag: p-29
+	tag: WhiteRoom
+page:1561
+	date: 2015-09-02
+	desc: Annie: You see? He had his reasons
+	tag: Annie
+	tag: BlinkerStone
+	tag: ch-53
+	tag: Donny
+	tag: Fire
+	tag: FireElemental
+	tag: Fwoosh
+	tag: p-28
+	tag: TonyHouse
+	tag: WhiteRoom
+page:1560
+	date: 2015-08-31
+	desc: Donny: Antimony, what you just saw doesn't excuse anything he did...
+	tag: Annie
+	tag: Armchair
+	tag: BlinkerStone
+	tag: ch-53
+	tag: Donny
+	tag: Etherium
+	tag: Fire
+	tag: p-27
+	tag: Tony
+	tag: TonyHouse
+page:1559
+	auth: Someone who hides the fact they are flipping out? Seems unreasonable to me.<br>(What I'm saying here is that Annie does the same thing)
+	date: 2015-08-28
+	desc: Tony: She looked so much like her... <br> I almost lost my mind right there
+	tag: Annie
+	tag: ch-53
+	tag: Flashback
+	tag: p-26
+	tag: Tears
+	tag: Tony
+	tag: TonyHouse
+page:1558
+	date: 2015-08-26
+	desc: Tony: Months... I think it was months... Later. They were there
+	tag: Annie
+	tag: AnnieCut
+	tag: Armchair
+	tag: Booze
+	tag: Bottle
+	tag: ch-53
+	tag: CourtMIB
+	tag: Etherium
+	tag: Fire
+	tag: FireElemental
+	tag: Flashback
+	tag: HospitalTent
+	tag: p-25
+	tag: Tears
+	tag: Tony
+	tag: TonyHouse
+page:1557
+	date: 2015-08-24
+	desc: Tony: Haha! My **daughter!**
+	tag: Annie
+	tag: AnnieCut
+	tag: Armchair
+	tag: ch-53
+	tag: Donny
+	tag: Etherium
+	tag: Fire
+	tag: FireElemental
+	tag: Flashback
+	tag: Mountains
+	tag: p-24
+	tag: Tony
+	tag: TonyHouse
 page:1556
 	date: 2015-08-21
-	desc: Tony: At least... I thought I did...
+	desc: Tony: Thank God that... thing... interfered
 	tag: AnnieCut
-	tag: Booze
 	tag: ch-53
 	tag: Fight
 	tag: Fire
 	tag: Flashback
-	tag: p-023
+	tag: p-23
 	tag: Surma
 	tag: Tony
 	tag: TonyHouse
@@ -53,7 +297,7 @@ page:1555
 	tag: Fire
 	tag: FireElemental
 	tag: Flashback
-	tag: p-022
+	tag: p-22
 	tag: Surma
 	tag: Tony
 	tag: TonyHouse
@@ -67,9 +311,10 @@ page:1554
 	tag: ch-53
 	tag: Hand
 	tag: Flashback
-	tag: p-021
+	tag: p-21
 	tag: Psychopomps
 	tag: Surma
+	tag: Tears
 	tag: Tony
 page:1553
 	date: 2015-08-14
@@ -85,7 +330,7 @@ page:1553
 	tag: Hand
 	tag: Flashback
 	tag: Microsat5
-	tag: p-020
+	tag: p-20
 	tag: Psychopomps
 	tag: Scapel
 	tag: Tony
@@ -101,7 +346,7 @@ page:1552
 	tag: ch-53
 	tag: Donny
 	tag: Flashback
-	tag: p-019
+	tag: p-19
 	tag: Psychopomps
 	tag: Tony
 	tag: TonyHouse
@@ -115,7 +360,7 @@ page:1551
 	tag: ch-53
 	tag: Fire
 	tag: Flashback
-	tag: p-018
+	tag: p-18
 	tag: Psychopomps
 	tag: Tony
 page:1550
@@ -126,7 +371,7 @@ page:1550
 	tag: ch-53
 	tag: CourtSymbol
 	tag: Flashback
-	tag: p-017
+	tag: p-17
 	tag: Tony
 page:1549
 	date: 2015-08-05
@@ -139,7 +384,7 @@ page:1549
 	tag: Donny
 	tag: Fire
 	tag: Flashback
-	tag: p-016
+	tag: p-16
 	tag: Psychopomps
 	tag: Surma
 	tag: Tony
@@ -152,7 +397,7 @@ page:1548
 	tag: Court
 	tag: Donny
 	tag: Flashback
-	tag: p-015
+	tag: p-15
 	tag: Surma
 	tag: Tony
 	tag: TonyHouse
@@ -171,7 +416,7 @@ page:1547
 	tag: GoodHope
 	tag: Hand
 	tag: OmegaDevice
-	tag: p-014
+	tag: p-14
 	tag: Surma
 	tag: Tony
 	tag: TonyHouse
@@ -184,7 +429,7 @@ page:1546
 	tag: ch-53
 	tag: Donny
 	tag: Hand
-	tag: p-013
+	tag: p-13
 	tag: Tony
 	tag: TonyHouse
 page:1545
@@ -196,7 +441,7 @@ page:1545
 	tag: ch-53
 	tag: Donny
 	tag: Hand
-	tag: p-012
+	tag: p-12
 	tag: Tony
 	tag: TonyHouse
 page:1544
@@ -210,7 +455,7 @@ page:1544
 	tag: Etherium
 	tag: Fire
 	tag: FireElemental
-	tag: p-011
+	tag: p-11
 	tag: WhiteRoom
 page:1543
 	date: 2015-07-22
@@ -222,7 +467,7 @@ page:1543
 	tag: Donny
 	tag: Fire
 	tag: FireElemental
-	tag: p-010
+	tag: p-10
 	tag: WhiteRoom
 page:1542
 	date: 2015-07-20
@@ -515,41 +760,41 @@ page:1516
 	date: 2015-05-20
 	desc: Anthony: Antimony, make sure you are ready before then
 	tag: Annie
-	tag: Anthony
 	tag: ch-52
 	tag: Kat
 	tag: p-09
 	tag: Parley
 	tag: Smitty
+	tag: Tony
 	tag: WhiteRoom
 page:1515
 	date: 2015-05-18
 	desc: Anthony: He is not cooperating with my instructions
 	tag: Annie
-	tag: Anthony
 	tag: ch-52
 	tag: Kat
 	tag: p-08
 	tag: Rey
+	tag: Tony
 	tag: WhiteRoom
 page:1514
 	date: 2015-05-15
 	desc: Anthony: Now, about Reynard
 	tag: Annie
-	tag: Anthony
 	tag: ch-52
 	tag: Kat
 	tag: p-07
 	tag: Rey
+	tag: Tony
 	tag: WhiteRoom
 page:1513
 	date: 2015-05-13
 	desc: Kat: I think something fishy is going on...
 	tag: Annie
-	tag: Anthony
 	tag: ch-52
 	tag: Kat
 	tag: p-06
+	tag: Tony
 	tag: WhiteRoom
 page:1512
 	date: 2015-05-11
@@ -563,12 +808,12 @@ page:1511
 	date: 2015-05-08
 	desc: Kat: Why is this stupid room so big?!
 	tag: Annie
-	tag: ch-52
 	tag: Card
-	tag: Winsbury
+	tag: ch-52
 	tag: Kat
 	tag: p-04
 	tag: WhiteRoom
+	tag: Winsbury
 page:1510
 	date: 2015-05-06
 	desc: Kat: Why is this stupid room so big?!
@@ -817,12 +1062,12 @@ page:1484
 	tag: Annie
 	tag: ch-50
 	tag: ClanglerBot
+	tag: FriendsDorm
 	tag: JoeyBot
 	tag: Kat
 	tag: p-21
 	tag: Paz
 	tag: Rey
-	tag: FriendsDorm
 page:1483
 	auth: Heckles
 	date: 2015-03-04
@@ -830,18 +1075,18 @@ page:1483
 	note: Paz shares a dorm/apartment with Margo "on the floor below"
 	tag: Annie
 	tag: ch-50
+	tag: FriendsDorm
 	tag: Kat
 	tag: p-20
 	tag: Paz
-	tag: FriendsDorm
 page:1482
 	date: 2015-03-02
 	desc: Kat: Hey!
 	tag: Annie
 	tag: ch-50
+	tag: FriendsDorm
 	tag: Kat
 	tag: p-19
-	tag: FriendsDorm
 page:1481
 	date: 2015-02-27
 	desc: Andrew: Is it ok that I'm kinda creeped out by this whole thing?
@@ -857,8 +1102,8 @@ page:1480
 	tag: ch-50
 	tag: Nurse
 	tag: p-17
-	tag: Smitty
 	tag: PadComp
+	tag: Smitty
 	tag: TransferClinic
 page:1479
 	date: 2015-02-23
@@ -869,9 +1114,9 @@ page:1479
 	tag: GrowthTank
 	tag: Nurse
 	tag: p-16
-	tag: Smitty
 	tag: PadComp
 	tag: RabbitBoy
+	tag: Smitty
 	tag: Totem
 	tag: TransferClinic
 page:1478
@@ -883,8 +1128,8 @@ page:1478
 	tag: GrowthTank
 	tag: Nurse
 	tag: p-15
-	tag: Smitty
 	tag: PadComp
+	tag: Smitty
 	tag: Totem
 	tag: TransferClinic
 page:1477
@@ -894,8 +1139,8 @@ page:1477
 	tag: ch-50
 	tag: Nurse
 	tag: p-14
-	tag: Smitty
 	tag: PadComp
+	tag: Smitty
 	tag: Totem
 	tag: TransferClinic
 page:1476
@@ -914,20 +1159,20 @@ page:1475
 	desc: Andrew Smith: To tell the truth, without Georgie around, it was... well, kind of boring!
 	tag: Annie
 	tag: ch-50
+	tag: p-12
 	tag: Smitty
 	tag: Totem
-	tag: p-12
 page:1474
 	date: 2015-02-11
 	desc: (from the Forest, into the Court)
 	tag: Annie
-	tag: ch-50
 	tag: Bridge
-	tag: Smitty
+	tag: ch-50
 	tag: Court
 	tag: Gillitie
 	tag: Jackalope
 	tag: p-11
+	tag: Smitty
 page:1473
 	date: 2015-02-09
 	desc: Coyote: Yes! It still breathes
@@ -945,12 +1190,12 @@ page:1472
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
-	tag: p-09
 	tag: Coyote
 	tag: Etherium
 	tag: Fairies
-	tag: Red
 	tag: Jackalope
+	tag: p-09
+	tag: Red
 	tag: Teeth
 page:1471
 	date: 2015-02-04
@@ -959,27 +1204,27 @@ page:1471
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
-	tag: p-08
 	tag: Coyote
 	tag: Etherium
 	tag: Fairies
-	tag: Red
 	tag: Jackalope
-	tag: Totem
+	tag: p-08
+	tag: Red
 	tag: Teeth
+	tag: Totem
 page:1470
 	date: 2015-02-02
 	desc: Coyote: When it comes to taking life, even *my* imagination is but a whisper
 	tag: Annie
 	tag: AnnieCut
 	tag: ch-50
-	tag: p-07
 	tag: Coyote
-	tag: Etherium
 	tag: Earth
+	tag: Etherium
 	tag: Jackalope
-	tag: Totem
+	tag: p-07
 	tag: Teeth
+	tag: Totem
 page:1469
 	date: 2015-01-30
 	desc: Coyote: Luckily for our friend, making a new body is easy!
@@ -987,11 +1232,11 @@ page:1469
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
-	tag: p-06
 	tag: Coyote
 	tag: Etherium
 	tag: Gillitie
 	tag: Jackalope
+	tag: p-06
 	tag: Teeth
 page:1468
 	date: 2015-01-28
@@ -1000,11 +1245,11 @@ page:1468
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
-	tag: p-05
 	tag: Coyote
 	tag: Etherium
 	tag: Gillitie
 	tag: Jackalope
+	tag: p-05
 	tag: Teeth
 page:1467
 	date: 2015-01-26
@@ -1013,11 +1258,11 @@ page:1467
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
-	tag: p-04
 	tag: Coyote
 	tag: Etherium
 	tag: Gillitie
 	tag: Jackalope
+	tag: p-04
 page:1466
 	date: 2015-01-23
 	desc: Annie: It has been so much fun having Kat here...
@@ -1025,11 +1270,11 @@ page:1466
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
-	tag: p-03
 	tag: Coyote
 	tag: Etherium
 	tag: Gillitie
 	tag: Kat
+	tag: p-03
 	tag: Teeth
 page:1465
 	date: 2015-01-21
@@ -1038,17 +1283,17 @@ page:1465
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-50
-	tag: p-02
 	tag: Coyote
 	tag: Etherium
 	tag: Gillitie
+	tag: p-02
 page:1464
 	date: 2015-01-19
 	desc: Chapter 50:<br><br>**Totem**<br><br>_Icon: a cloud of steam_
-	note: Start of Year 10
+	note: Start of Year 10 -- age 14-15
 	tag: ch-50
-	tag: p-01
 	tag: Cover
+	tag: p-01
 page:1463
 	date: 2015-01-16
 	desc: City Face's Book of Birds: The Stars
@@ -3216,102 +3461,105 @@ page:1262
 	desc: When you come to visit me from now on, I can teach you about creatures like these
 page:1261
 	date: 2013-10-11
-	tag: ch-44
+	desc: Annie: In truth, Ysengrin, I was scared back there
 	tag: Annie
 	tag: Blood
+	tag: ch-44
 	tag: Gillitie
 	tag: TreeBody
 	tag: Ysengrin
-	desc: In truth, Ysengrin, I was scared back there
 page:1260
 	date: 2013-10-09
-	tag: ch-44
+	desc: Ysengrin: To see you standing tall, with your back straight, looking down on them
 	tag: Annie
 	tag: Blood
+	tag: ch-44
 	tag: Gillitie
 	tag: Ysengrin
-	desc: To see you standing tall, with your back straight, looking down on them
 page:1259
 	date: 2013-10-07
-	tag: ch-44
+	desc: Elemental Annie: This is not how I wanted to do things
 	tag: Annie
+	tag: ch-44
 	tag: Fire
 	tag: FireSpike
 	tag: Gillitie
 	tag: Monster
 	tag: OldCourt
-	desc: This is not how I wanted to do things
 page:1258
+	auth: Tom: Set yourself on fire
 	date: 2013-10-04
-	tag: ch-44
 	tag: Annie
+	tag: ch-44
 	tag: Fight
 	tag: Fire
 	tag: FireSpike
 	tag: Gillitie
 	tag: Monster
+	tag: MossOgre
 	tag: OldCourt
 	tag: Ysengrin
-	auth: Tom: Set yourself on fire
 page:1257
+	auth: Tom: Create a fire around yourself
 	date: 2013-10-02
-	tag: ch-44
 	tag: Annie
+	tag: ch-44
 	tag: Fight
 	tag: Fire
 	tag: Gillitie
 	tag: Monster
+	tag: MossOgre
 	tag: OldCourt
 	tag: Ysengrin
-	auth: Tom: Create a fire around yourself
 page:1256
 	date: 2013-09-30
-	tag: ch-44
+	desc: The human! Get the human!
 	tag: Annie
 	tag: Blood
+	tag: ch-44
 	tag: Fight
 	tag: Fire
 	tag: Gillitie
 	tag: Monster
 	tag: OldCourt
 	tag: Ysengrin
-	desc: The human! Get the human!
 page:1255
 	date: 2013-09-27
-	tag: ch-44
+	desc: _(Speaking their language)_
 	tag: Annie
 	tag: Blood
+	tag: ch-44
 	tag: Fight
 	tag: Fire
 	tag: Gillitie
 	tag: Monster
 	tag: OldCourt
 	tag: Ysengrin
-	desc: _(Speaking their language)_
 page:1254
 	date: 2013-09-25
-	tag: ch-44
+	desc: Blink, blink (Antimony wakes, Ysengrin looks to be losing his fight)
 	tag: Annie
 	tag: Blood
+	tag: ch-44
 	tag: Fight
 	tag: Gillitie
 	tag: Monster
 	tag: OldCourt
 	tag: Ysengrin
-	desc: Blink, blink (Antimony wakes, Ysengrin looks to be losing his fight)
 page:1253
 	date: 2013-09-23
-	tag: ch-44
+	desc: Coyote: Their legs get stuck in my teeth
 	tag: Annie
+	tag: ch-44
 	tag: Coyote
 	tag: Etherium
 	tag: Gillitie
 	tag: Wisp
-	desc: Their legs get stuck in my teeth
 page:1252
 	date: 2013-09-20
-	tag: ch-44
+	desc: Coyote: Don't mind me, I'm just out hunting
 	tag: Annie
+	tag: ch-44
 	tag: Coyote
 	tag: Etherium
 	tag: Fire
@@ -3319,18 +3567,17 @@ page:1252
 	tag: Gillitie
 	tag: OldCourt
 	tag: Wisp
-	desc: Don't mind me, I'm just out hunting
 page:1251
 	date: 2013-09-18
-	tag: ch-44
+	desc: You're lying!
 	tag: Annie
 	tag: AnnieCut
+	tag: ch-44
 	tag: Coyote
 	tag: Etherium
 	tag: Gillitie
 	tag: SeedBismuth
 	tag: Wisp
-	desc: You're lying!
 page:1250
 	date: 2013-09-16
 	tag: ch-44
@@ -7018,13 +7265,13 @@ page:872
 	desc: if you like green skin and pointy ears
 page:871
 	date: 2011-04-25
-	tag: ch-33
+	desc: So... you're descended from a fire spirit?
 	tag: Annie
+	tag: ch-33
 	tag: Court
 	tag: Kat
 	tag: Landscape
 	tag: Roof
-	desc: So... you're descended from a fire spirit?
 page:870
 	date: 2011-04-22
 	desc: Chapter 33:<br><br>**Give and Take**<br><br>_Icon: Robot design script/code_
@@ -7034,13 +7281,13 @@ page:870
 	tag: RobotDesigns
 page:869
 	date: 2011-04-20
-	tag: ch-32
+	desc: Moro
 	tag: Annie
+	tag: ch-32
 	tag: Filler
 	tag: Kat
 	tag: PrincessMononoke
 	tag: Rey
-	desc: Moro
 page:868
 	date: 2011-04-18
 	tag: ch-32
@@ -7052,14 +7299,14 @@ page:868
 	desc: Bah! It's some manner of animated picture?
 page:867
 	date: 2011-04-15
-	tag: ch-32
+	desc: Bonus Page: Welcome to Year 9!
 	tag: Bonus
 	tag: Bud
+	tag: ch-32
 	tag: Dorm
 	tag: Habitat
 	tag: Lindsey
 	tag: SubDorm
-	desc: Bonus Page: Welcome to Year 9!
 page:866
 	date: 2011-04-13
 	tag: ch-32
@@ -7290,6 +7537,7 @@ page:844
 	date: 2011-02-21
 	auth: Tom: Welcome back to the start of another school year.
 	desc: Chapter 32:<br><br>**From the Forest She Came**<br><br>_Icon: SubDorm_
+	note: Year 9 -- age 13-14
 	tag: ch-32
 	tag: Cover
 	tag: Flowers
@@ -13795,7 +14043,7 @@ page:306
 page:305
 	date: 2007-10-01
 	desc: Chapter 15:<br><br>**Red Returns**<br><br>_Icon: Red_<br>
-	note: Year 8
+	note: Year 8 -- Age 12-13
 	tag: ch-15
 	tag: Cover
 	tag: Scissors

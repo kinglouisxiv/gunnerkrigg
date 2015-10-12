@@ -21,7 +21,7 @@ AnimalLab	a Court research lab [_{W}_](http://gunnerkrigg.wikia.com/wiki/Animal_
 Anja	Anja Donlan, [Kat's](#kat) mother; Roma origin but lived mostly in Spain [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anja)
 Ankou	Breton grim reaper; [psychopomp](#psychopomps)[_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ankou)
 Annan	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forest' [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Waters)
-Annie 	Antimony Carver, our protagonist ([fire](#fire) Head Girl) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_Carver)
+Annie 	Antimony Carver, our protagonist ("Fire Head Girl") [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_Carver)
 AnnieCut	The cut on [Annie's](#annie) ethereal face from [Jeanne's](#jeanne) [sword](#sword)
 AnnieJumper	[Annie's](#annie) original school jumper
 AntiGrav	An anti-gravity generator that [Kat](#kat) makes for a science fair, and converts to a "ship" (flier) later
@@ -52,6 +52,7 @@ Blackboard	Classroom surface for writing on with chalk sticks, _a.k.a._ chalkboa
 BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotking)
 BlinkerStone	[Etheric](#etherics) lens device [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blinker_stone)
 Blood 	Circulatory fluid, supposed to be internal
+BLOOM	a watery explosion noise
 Blue 	A fairy obsessed with hair which goes up; friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue)
 BlueSmoke	A failure mode of [BioLimb](#biolimb) flesh
 Blush 	Happy/embarrassed/emotional
@@ -65,9 +66,10 @@ Bonus 	Extra pages at the end of the chapter [_{W}_](http://gunnerkrigg.wikia.co
 Boots 	Made for walking
 Boxbot 	[A robot](#robots). [Terrible](#terrible). Not as good as [Robox](#robox) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Boxbot)
 Bridge 	The Annan Bridge leads from Gunnerkrigg Court across the [Annan Water](#annan) to [Gillitie Wood](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Bridge)
-Brinnie 	Sultry childhood friend of [Surma](#surma), [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore) _&amp; co._ Probably Brynhildr, the Valkyrie [_{W}_](http://gunnerkrigg.wikia.com/wiki/Brinnie)
+Brinnie 	Sultry school friend of [Surma](#surma), [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore) _&amp; co._ Probably Brynhildr, the Valkyrie [_{W}_](http://gunnerkrigg.wikia.com/wiki/Brinnie)
+BrokenMan	[Coyote's](#coyote) story name for [Anthony Carver](#tony) after his return to [Gunnerkrigg Court](#court) and [Annie's](#annie) life
 Bud 	Husband of [Lindsey](#lindsey); boys' [dorm](#subdorm) monitor [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bud)
-Bugsy 	Teacher Lady, or Teach. [Foley](#foley) teacher, rather be sleeping
+Bugsy 	Teacher Lady, or Teach. [Foley](#foley) teacher, would rather be sleeping
 Buzz 	The buzzing in [Zimmy's](#zimmy) head when the stimuli get too much
 Buzzer 	Bug shaped device for fooling the court's student tracking system
 Caduceus	"Herald's staff" borne by Hermes/[Mercury](#mercury), symbol of commerce
@@ -268,13 +270,14 @@ MetalGearSolid	A computer game that [Kat](#kat) likes.
 Mice	Small rodents, common pests, and also in [labs](#animallab).
 Microsat5	[Tony's](#tony) payload delivery satellite
 ModdeyDhoo	One of the Black Dogs, a [psychopomp](#psychopomps) from the Isle of Man [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Moddey_Dhoo)
-Monster	A scary creature
+Monster	A scary creature; some of them live in the forest
 Montgomery	A [Seraph](#seraph) [robot](#robots)
 Monument	A physical tribute to a well respected person
 Moon	Our most ancient satellite!
 MoonGirl	Chang'e ([ref](http://www.gunnerkrigg.com/?p=920)), a deity or personification of the Moon [_{W}_](http://gunnerkrigg.wikia.com/wiki/Chang'e)
 MoonPrint	Thumbprint on the moon
 Mort	A [ghost](#ghosts) who haunts part of the school
+MossOgre	a [forest](#gillite) [monster](#monster) which is not fire-resistant
 MrThorn	Mr Thorn, Court protector and games teacher to [Annie](#annie) and [Kat's](#kat) parents' generation [_{W}_](http://gunnerkrigg.wikia.com/wiki/Mr._Thorn)
 Music	Everyone loves music!
 Muut	Egyptian [psychopomp](#psychopomps) (escorts the dead to the afterlife) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Muut)
@@ -291,6 +294,7 @@ Ogee	A city fairy with the power of rusting, who hangs out with a magpie called 
 OldCourt	Parts of Gunnerkrigg Court that used to be in [Gillitie Forest](#gillitie) before the division by [Coyote](#coyote).
 Ooze	What [Martin's](#martin), lizard turns into when it hits the floor
 Orb	The _Globus cruciger_, a Christian symbol of power, wielded by monarchs and Christ
+PadComp	a slate/tablet/pad computer or interface device seen in the [Transfer Clinic](#transferclinic)
 Parley	George Parley: three years older than Antimony, swordswoman, teleports, candidate for Court medium ('Big Nose Girl'), interested in [Smitty](#smitty) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Parley)
 PartyHat	A Party hat, hats are fun!
 Paz	Paz Cadena-Blanco, Spanish, (forename is pronounced "Path") can talk to animals; is raising [CityFace](#cityface) with [Bobby](#bobby); becomes close to [Kat](#kat). [_{W}_](http://gunnerkrigg.wikia.com/wiki/Paz)
@@ -384,7 +388,7 @@ TicToc	Birdlike robotic watchers: the "Thousand Eyes"; [Zimmy](#zimmy) can feel 
 Tiki	A Polynesian totem
 TimeStop	When time is stopped from passing; [Coyote](#coyote) can do this.
 Tom	Tom Siddell, author of Gunnerkrigg Court
-TomatoWangFae	likes to wang tomatoes. Friends with BlushFae
+TomatoWangFae	likes to wang tomatoes. Friends with [BlushFae](#blushfae)
 Tombstone	The marker for a grave.
 Tony	Anthony Carver, [Annie's](#annie) father
 TornSea	an [etheric](#etherics) gap in the sea's reality
@@ -420,6 +424,7 @@ Water	Ancient element; H<small><sub>2</sub></small>O; necessary for life; rivers
 WaterFae	'this girl' -- short blue spikey hair, 2 dots under right eye, had a waterfall?
 WaterSymbol	Alchemical symbol for [water](#water)
 WhiteRabbit	Every story begins with a rabbit (except the ones that don't)
+WhiteRoom	Annie's living space in year 10 (Chapter 51 on)  after the return of her [father](#tony)
 WhiteSpider	Also known as WhiteLegs, associated with [Jack](#jack) Hyland's [etheric](#etherics) form when he got stuck in [Zimmingham](#zimmingham), until [Zimmy](#zimmy) helped him get rid of it
 Winsbury	William (Willie) Winsbury; student with [Annie](#annie) and [Kat](#kat), not a very nice boy; dating [Janet](#janet)
 Wisp	a misleading monster of [Gillitie Wood](#gillitie) (_see_ [Will-o'-the-Wisp](https://en.wikipedia.org/wiki/Will-o%27-the-wisp))
@@ -496,4 +501,6 @@ ch-49a	Intermission: City Face's Book of Birds
 ch-50	Totem
 ch-51	The Tree
 ch-52	Sneak
+ch-53	Annie and the Fire
+ch-54	Meetings and Re-Meetings
 ; ---TAGS EOF ---
