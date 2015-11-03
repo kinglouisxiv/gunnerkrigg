@@ -122,7 +122,7 @@ Dracula 	the stereotypical [vampire](#vampire) count
 DrDisaster	Dr Randy Disaster sends the students on hologram simulation adventures and woos [Jones](#jones)! [_{W}_](http://gunnerkrigg.wikia.com/wiki/Randy_Disaster)
 Drone 	a small, remotely guided flying machine
 Dryad 	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one
-Earth 	Ancient element; the planet on which we live; the great mother and life-giver [_{W}_](http://gunnerkrigg.wikia.com/wiki/Earth)
+Earth 	Ancient element; the planet on which we live; the great mother and life-giver
 Ectoplasm	material of the Etherium which may be moulded by the Will into Form
 Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#sword) [_{W}_](http://gunnerkrigg.wikia.com/wiki/James_Eglamore)
 EglamoreKnife	A switchblade/flick knife present that [Eglamore](#eglamore) treasures
@@ -175,7 +175,6 @@ GraveYard	a field of the dead
 GreatSecret	[Coyote's](#coyote) Great Secret.
 GreenArrow	Green arrow with horseshoe tip. Created by [Diego](#diego), shot by [Steadman](#steadman), hit [Jeanne's Lover](#jeanneslover) swimming the [Annan](#annan) to her
 GreenFae	'this other one' -- long straight green hair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
-GreenFairy	friend of, speaker for, the [Jackalope](#jackalope)
 Grounds 	The grounds/gardens of Gunnerkrigg Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
 GroundSymbol	The electronic symbol for ground
 GuestComic	Guest comic strips from end of Year 7/Book one
@@ -353,6 +352,7 @@ SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological d
 SmallBot	A young eye-witness model [robot](#robots)
 Smitty	Andrew Smith ('Mighty Eyebrows Boy'), a student two years above Annie; brings order from chaos; interested in [Parley](#parley); becomes Court medium
 Smoke	Where it is, there is often [fire](#fire)
+Snuffle	a green forest fairy: friend of, speaker for, the [Jackalope](#jackalope). Name derivation given on [page 1583](#p1583).
 Spankies	From [Annie](#annie) for when [Coyote](#coyote) is a Bad Dog!
 Sparring	A mock or training fight; usually for learning or practising martial arts or swordfighting
 Speakeasy	A hotel-like place that the students sneak out to with a "speakeasy-like atmosphere"

@@ -29,18 +29,108 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1587
+	date: 2015-11-02
+	desc: Bonus page 54: Some Coyotes
+	tag: ch-54
+	tag: Coyote
+page:1586
+	date: 2015-10-30
+	desc: Annie: My friends didn't abandon me...
+	note: Ysengrin regenerates the TreeBody's burnt arm
+	tag: Annie
+	tag: ch-54
+	tag: Gillitie
+	tag: p-23
+	tag: Rey
+	tag: Ysengrin
+page:1585
+	date: 2015-10-28
+	desc: Annie: My blinker stone was a gift from a dear friend I'll never see again
+	tag: Annie
+	tag: ch-54
+	tag: Gillitie
+	tag: Mort
+	tag: p-22
+	tag: Ysengrin
+page:1584
+	date: 2015-10-26
+	desc: Snuffle: What's this thing?
+	tag: Annie
+	tag: ch-54
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: p-21
+	tag: RubikCube
+	tag: Snuffle
+page:1583
+	date: 2015-10-23
+	desc: Green Fairy: Then... Do you know my name?
+	note: Green fairy named here (in Rabbit) as "SNIFF: In Out Out" with a provided translation of 'Snuffle'
+	tag: ch-54
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: p-20
+	tag: Snuffle
+page:1582
+	auth: The ol' hangout spot
+	date: 2015-10-21
+	tag: Annie
+	tag: ch-54
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: p-19
+	tag: RubikCube
+	tag: Smitty
+	tag: Snuffle
+	tag: Ysengrin
+page:1581
+	date: 2015-10-19
+	desc: Annie: Careful! Don't---
+	tag: Annie
+	tag: ch-54
+	tag: Fire
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: p-18
+	tag: RubikCube
+	tag: Smitty
+	tag: Ysengrin
+page:1580
+	date: 2015-10-16
+	desc: Ysengrin: If he truly does hurt you, I will rend the flesh from his bones on your word 
+	tag: Annie
+	tag: ch-54
+	tag: Fire
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: p-17
+	tag: Smitty
+	tag: Ysengrin
+page:1579
+	date: 2015-10-14
+	desc: Ysengrin: Your father looks at you and sees the ghost of his dead wife
+	note: Blinkerstone dust and shards
+	tag: Annie
+	tag: BlinkerStone
+	tag: ch-54
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: p-16
+	tag: Smitty
+	tag: Ysengrin
 page:1578
 	date: 2015-10-12
 	desc: Ysengrin: Did he force you to cut out this essential part of yourself?
 	note: Flashback to [1258](#p1258); Moss Ogre named here
 	tag: Annie
 	tag: BlinkerStone
-	tag: Flashback
-	tag: MossOgre
 	tag: ch-54
+	tag: Flashback
 	tag: Gillitie
-	tag: Smitty
+	tag: MossOgre
 	tag: p-15
+	tag: Smitty
 	tag: Ysengrin
 page:1577
 	date: 2015-10-09
@@ -1376,7 +1466,7 @@ page:1452
 	tag: FireSymbol
 	tag: Gamma
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Helmet
 	tag: Iota
 	tag: Kat
@@ -1503,7 +1593,7 @@ page:1441
 	date: 2014-12-05
 	desc: Paz: ¿Que no soy una amenaza?
 	note: approximately: "I'm not a threat?" [ref.](#1402)
-	rag: Whale
+	tag: Whale
 	tag: Annie
 	tag: Becky
 	tag: ch-49
@@ -2249,17 +2339,17 @@ page:1381
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Smitty
 page:1380
 	date: 2014-07-16
-	desc: GreenFairy: Did you hear that? You're gonna do it!
+	desc: Snuffle: Did you hear that? You're gonna do it!
 	tag: ch-48
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Tears
 page:1379
@@ -2270,13 +2360,13 @@ page:1379
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Party
 	tag: Smitty
 page:1378
 	date: 2014-07-11
-	desc: GreenFairy: Will she forget me?
+	desc: Snuffle: Will she forget me?
 	note: [Flashback](http://www.gunnerkrigg.com/?p=1286)
 	tag: Annie
 	tag: Anwyn
@@ -2285,13 +2375,13 @@ page:1378
 	tag: Fire
 	tag: Flashback
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Party
 	tag: Smitty
 page:1377
 	date: 2014-07-09
-	desc: GreenFairy: She says she wants to be more than she is...
+	desc: Snuffle: She says she wants to be more than she is...
 	tag: Annie
 	tag: Anwyn
 	tag: Canvey
@@ -2299,13 +2389,13 @@ page:1377
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Party
 	tag: Smitty
 page:1376
 	date: 2014-07-07
-	desc: GreenFairy: It's my friend... She wants to be human
+	desc: Snuffle: It's my friend... She wants to be human
 	tag: Annie
 	tag: Anwyn
 	tag: Canvey
@@ -2313,7 +2403,7 @@ page:1376
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Party
 	tag: Smitty
@@ -2328,7 +2418,7 @@ page:1375
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Parley
 	tag: Party
@@ -2340,7 +2430,7 @@ page:1374
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Party
 page:1373
@@ -2350,7 +2440,7 @@ page:1373
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Party
 page:1372
@@ -2362,7 +2452,7 @@ page:1372
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Moon
 	tag: MoonPrint
@@ -2377,7 +2467,7 @@ page:1371
 	tag: Coyote
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jones
 	tag: Parley
 	tag: Smitty
@@ -2393,7 +2483,7 @@ page:1370
 	tag: Fire
 	tag: FireElemental
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Parley
 	tag: Smitty
 	tag: Ysengrin
@@ -2430,7 +2520,7 @@ page:1367
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Parley
 	tag: Smitty
@@ -2443,7 +2533,7 @@ page:1366
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Jones
 	tag: Parley
@@ -2458,7 +2548,7 @@ page:1365
 	tag: Coyote
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Ysengrin
 page:1364
@@ -2470,7 +2560,7 @@ page:1364
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 page:1363
 	date: 2014-06-06
@@ -2480,7 +2570,7 @@ page:1363
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Smitty
 page:1362
@@ -2492,7 +2582,7 @@ page:1362
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Heart
 	tag: Jackalope
 	tag: Moon
@@ -2510,7 +2600,7 @@ page:1361
 	tag: FireElemental
 	tag: FireSpike
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Moon
 	tag: Ysengrin
 page:1360
@@ -2520,7 +2610,7 @@ page:1360
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 	tag: Snowflake
 	tag: SunSymbol
@@ -2540,7 +2630,7 @@ page:1358
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 page:1357
 	date: 2014-05-23
@@ -2561,7 +2651,7 @@ page:1356
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 page:1355
 	date: 2014-05-19
@@ -2570,7 +2660,7 @@ page:1355
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: GreenFairy
+	tag: Snuffle
 	tag: Jackalope
 page:1354
 	date: 2014-05-16
