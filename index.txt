@@ -29,9 +29,135 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1601
+	date: 2015-12-04
+	desc: Kat: You can't move all the muscles at once!
+	tag: BioLimb
+	tag: ch-56
+	tag: Kat
+	tag: KatsWorkshop
+	tag: p-010
+	tag: Paz
+page:1600
+	date: 2015-12-02
+	desc: A fleshy interface in Robot’s sensorium II
+	tag: BioLimb
+	tag: ch-56
+	tag: p-09
+	tag: RobotS13
+page:1599
+	date: 2015-11-30
+	desc: A fleshy interface in Robot’s sensorium I
+	tag: BioLimb
+	tag: ch-56
+	tag: p-08
+	tag: RobotS13
+page:1598
+	date: 2015-11-27
+	desc: Kat: Okay, I'm sending you the new code
+	tag: BioLimb
+	tag: ch-56
+	tag: Kat
+	tag: KatsWorkshop
+	tag: p-07
+	tag: Paz
+	tag: Reboot
+	tag: RobotS13
+page:1597
+	date: 2015-11-25
+	desc: Kat: Yeah, I guess I've been pretty distracted these days
+	tag: BioLimb
+	tag: Blush
+	tag: ch-56
+	tag: Jeanne
+	tag: Kat
+	tag: KatsWorkshop
+	tag: p-06
+	tag: Paz
+	tag: RobotS13
+page:1596
+	date: 2015-11-23
+	desc: Kat: Yeah, I guess I've been pretty distracted these days
+	tag: BioLimb
+	tag: Blush
+	tag: ch-56
+	tag: Kat
+	tag: KatsWorkshop
+	tag: p-05
+	tag: Paz
+	tag: RobotS13
+page:1595
+	date: 2015-11-20
+	desc: Kat: Sorry to keep using you as a guinea pig, Robot!
+	tag: BioLimb
+	tag: Blush
+	tag: ch-56
+	tag: ChapterIcon
+	tag: Heart
+	tag: Kat
+	tag: KatsWorkshop
+	tag: p-04
+	tag: Paz
+	tag: RobotS13
+page:1594
+	date: 2015-11-18
+	desc: Kat: Sorry to keep using you as a guinea pig, Robot!
+	tag: BioLimb
+	tag: ch-56
+	tag: Kat
+	tag: KatsWorkshop
+	tag: p-03
+	tag: Paz
+	tag: RobotS13
+page:1593
+	date: 2015-11-16
+	desc: Robot: I cannot access the new modifications
+	tag: ch-56
+	tag: BioLimb
+	tag: Kat
+	tag: KatsWorkshop
+	tag: p-02
+	tag: Paz
+	tag: RobotS13
+page:1592
+	date: 2015-11-13
+	desc: Chapter 56:<br><br>New Data<br><br>Icon: A red heart on a black field
+	tag: ch-56
+	tag: p-01
+page:1591
+	date: 2015-11-11
+	desc: Bonus Page 55: Tea: The chapter's over! Gimmie something to talk about!
+	tag: Bonus
+	tag: ch-55
+	tag: Tea
+page:1590
+	date: 2015-11-09
+	desc: Coyote: Hehe!
+	tag: ch-55
+	tag: Coyote
+	tag: p-03
+page:1589
+	date: 2015-11-06
+	desc: Annie: I - I want Reynard back
+	tag: Annie
+	tag: ch-55
+	tag: p-02
+	tag: Tony
+	tag: TonyHouse
+	tag: WolfToy
+page:1588
+	date: 2015-11-04
+	desc: Chapter 55:<br><br>The Breakout<br><br>Icon: Door to Tony's house?
+	tag: Annie
+	tag: ch-55
+	tag: CreatorGlyph
+	tag: p-01
+	tag: Rey
+	tag: Tony
 page:1587
 	date: 2015-11-02
 	desc: Bonus page 54: Some Coyotes
+	tag: Bonus
 	tag: ch-54
 	tag: Coyote
 page:1586
@@ -280,6 +406,7 @@ page:1563
 	desc: Bonus Page 53
 	note: Tom [tweeted](https://twitter.com/gunnerkrigg/status/641119424968302592) that this page follows on from [1541](#1541)
 	tag: Annie
+	tag: Bonus
 	tag: ch-53
 	tag: Fire
 	tag: HairdresserBot
@@ -659,6 +786,7 @@ page:1533
 	date: 2015-06-29
 	desc: Bonus Page 52: Puppy Reynard
 	tag: ch-52
+	tag: Bonus
 	tag: CreatorGlyph
 	tag: Cute
 	tag: Puppy
@@ -1141,6 +1269,7 @@ page:1485
 	auth: This is a reference to the television sitcom, Friends.
 	date: 2015-03-09
 	desc: Bonus Page 50: Year 10 dorms
+	tag: Bonus
 	tag: ch-50
 	tag: ClanglerBot
 	tag: FriendsDorm
@@ -1458,6 +1587,7 @@ page:1452
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: BismuthSymbol
+	tag: Bonus
 	tag: Court
 	tag: CourtStaffSymbol
 	tag: CreatorGlyph
@@ -1466,7 +1596,6 @@ page:1452
 	tag: FireSymbol
 	tag: Gamma
 	tag: Gillitie
-	tag: Snuffle
 	tag: Helmet
 	tag: Iota
 	tag: Kat
@@ -1475,6 +1604,7 @@ page:1452
 	tag: Rey
 	tag: Robots
 	tag: SM
+	tag: Snuffle
 	tag: SunSymbol
 	tag: Treatise
 	tag: Ysengrin
@@ -3248,14 +3378,14 @@ page:1296
 	tag: ch-46
 	tag: Cover
 page:1295
+	auth: Tom: They like to talk, but don't really have a lot to say
 	date: 2013-12-30
-	tag: ch-45
+	desc: Bonus page: Squeak<br>I'm a mouse!
 	tag: AnimalLab
 	tag: Bonus
+	tag: ch-45
 	tag: Paz
 	tag: WhiteMouse
-	desc: Bonus page: Squeak<br>I'm a mouse!
-	auth: Tom: They like to talk, but don't really have a lot to say
 page:1294
 	auth: Tom: Thanks for reading this chapter about girls being friends
 	date: 2013-12-27
@@ -3533,13 +3663,13 @@ page:1264
 	tag: Cover
 page:1263
 	date: 2013-10-16
-	tag: ch-44
+	desc: Bonus page: Okay<br>It's not _my_ blood
 	tag: Annie
-	tag: Bonus
 	tag: Blood
+	tag: Bonus
+	tag: ch-44
 	tag: Kat
 	tag: Paz
-	desc: Bonus page: Okay<br>It's not _my_ blood
 page:1262
 	date: 2013-10-14
 	tag: ch-44
@@ -3826,10 +3956,10 @@ page:1234
 	tag: Cover
 page:1233
 	date: 2013-08-07
-	tag: ch-43
-	tag: Bonus
-	tag: Hetty
 	desc: Bonus page: Helpful Hetty<br>always gets the job _done!_
+	tag: Bonus
+	tag: ch-43
+	tag: Hetty
 page:1232
 	date: 2013-08-05
 	tag: ch-43
@@ -4107,12 +4237,12 @@ page:1204
 	tag: SkullCrossbones
 page:1203
 	date: 2013-05-29
-	tag: ch-42
+	desc: Bonus Page: Traveller<br>Hmm, yes... Yes. This makes a lot more sense!
 	tag: Bonus
+	tag: ch-42
 	tag: Gillitie
 	tag: Ocean
 	tag: Octopus
-	desc: Bonus Page: Traveller<br>Hmm, yes... Yes. This makes a lot more sense!
 page:1202
 	date: 2013-05-27
 	tag: ch-42
@@ -4422,6 +4552,7 @@ page:1166
 	desc: "So, how's it been going?" open letter by Tom
 page:1165
 	date: 2013-03-11
+	desc: Bonus Page: Treatise Five
 	tag: Annie
 	tag: AntimonySymbol
 	tag: BlinkerStone
@@ -4437,7 +4568,6 @@ page:1165
 	tag: Treatise
 	tag: WanderingEye
 	tag: Ysengrin
-	desc: Bonus Page: Treatise Five
 page:1164
 	date: 2013-03-08
 	tag: ch-41
@@ -4851,12 +4981,12 @@ page:1128
 	tag: Smitty
 page:1127
 	date: 2012-12-12
-	tag: ch-40
+	desc: Bonus page: Uncanny Jonsey<br>Jones, are you able to... smile?
 	tag: Annie
 	tag: Bonus
+	tag: ch-40
 	tag: Jones
 	tag: Kat
-	desc: Bonus page: Uncanny Jonsey<br>Jones, are you able to... smile?
 page:1126
 	date: 2012-12-10
 	tag: ch-40
@@ -5083,10 +5213,10 @@ page:1092
 	tag: Landscape
 page:1091
 	date: 2012-09-19
-	tag: ch-39
-	tag: Bonus
-	tag: Mort
 	desc: Bonus Page: Mort Fun Time
+	tag: Bonus
+	tag: ch-39
+	tag: Mort
 page:1090
 	date: 2012-09-17
 	tag: ch-39
@@ -5763,15 +5893,15 @@ page:1026
 	tag: Cover
 page:1025
 	date: 2012-04-18
-	tag: ch-37
-	tag: Bonus
+	desc: Bonus Page: What About These Guys?
 	tag: Anja
 	tag: BakingDistraction
+	tag: Bonus
+	tag: ch-37
 	tag: Eglamore
 	tag: Jones
 	tag: Kat
 	tag: PlanTheta
-	desc: Bonus Page: What About These Guys?
 page:1024
 	date: 2012-04-16
 	tag: ch-37
@@ -5995,13 +6125,14 @@ page:1002
 	tag: Sky
 page:1001
 	date: 2012-02-22
-	tag: ch-36
-	tag: Bonus
+	desc: Bonus Page: Chapter 36 Character Guide
 	tag: AntlerFae
 	tag: BadgerFae
 	tag: Blue
 	tag: BlushFae
+	tag: Bonus
 	tag: Bugsy
+	tag: ch-36
 	tag: CurlyFae
 	tag: FishFae
 	tag: FlowerFae
@@ -6011,7 +6142,6 @@ page:1001
 	tag: Red
 	tag: WaterFae
 	tag: YellowFae
-	desc: Bonus Page: Chapter 36 Character Guide
 page:1000
 	date: 2012-02-20
 	tag: ch-36
@@ -6586,14 +6716,14 @@ page:948
 	tag: Flowers
 page:947
 	date: 2011-10-19
-	tag: ch-34
+	desc: Bonus Page: Backfired
 	tag: Bonus
+	tag: ch-34
 	tag: Janet
+	tag: John
 	tag: Kat
 	tag: Margo
-	tag: John
 	tag: Winsbury
-	desc: Bonus Page: Backfired
 page:946
 	date: 2011-10-17
 	tag: ch-34
@@ -7059,23 +7189,23 @@ page:900
 	desc: Chapter 34:<br><br>**Faraway Morning (and three short tales)**<br><br>_Icon: Students entering the Speakeasy_
 page:899
 	date: 2011-06-29
-	tag: ch-33
+	desc: Bonus Page: Helping Hand
 	tag: Bonus
 	tag: Boxbot
+	tag: ch-33
 	tag: Robots
 	tag: Robox
 	tag: Terrible
-	desc: Bonus Page: Helping Hand
 page:898
 	date: 2011-06-27
-	tag: ch-33
+	desc: Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
 	tag: Angel
+	tag: ch-33
 	tag: DiegoBot
-	tag: RobotS13
 	tag: Robots
+	tag: RobotS13
 	tag: RobotTomb
 	tag: Shadow
-	desc: Let it be known in this tomb of ancients, the angel called forth the spirit of the dead
 page:897
 	date: 2011-06-24
 	desc: CRACK (broken heart)
@@ -7399,38 +7529,38 @@ page:867
 	tag: SubDorm
 page:866
 	date: 2011-04-13
-	tag: ch-32
+	desc: It is with love that I must inform you that you really gotta take a shower
 	tag: Annie
 	tag: Boots
+	tag: ch-32
 	tag: Dirty
 	tag: Dorm
 	tag: Etherics
 	tag: Kat
 	tag: Rey
 	tag: SubDorm
-	desc: It is with love that I must inform you that you really gotta take a shower
 page:865
 	date: 2011-04-11
-	tag: ch-32
+	desc: I just want to go back to being friends
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-32
 	tag: Dorm
 	tag: Kat
 	tag: PrincessMononoke
 	tag: Rey
 	tag: SubDorm
-	desc: I just want to go back to being friends
 page:864
+	auth: Tom: Next: A rhino beetle that enjoys Sudoku.
 	date: 2011-04-08
-	tag: ch-32
+	desc: (traumatized Kat) 
 	tag: Annie
+	tag: ch-32
 	tag: Dirty
 	tag: Dorm
 	tag: Kat
 	tag: Lindsey
 	tag: SubDorm
-	desc: (traumatized Kat) 
-	auth: Tom: Next: A rhino beetle that enjoys Sudoku.
 page:863
 	date: 2011-04-06
 	tag: ch-32
@@ -8814,11 +8944,11 @@ page:789
 	tag: FireSpike
 page:788
 	date: 2010-10-22
-	tag: ch-30
+	desc: Bonus Page: New Skill
 	tag: Bonus
+	tag: ch-30
 	tag: Jones
 	tag: PartyHat
-	desc: Bonus Page: New Skill
 page:787
 	date: 2010-10-20
 	tag: ch-30
@@ -9114,12 +9244,12 @@ page:761
 	tag: Jeanne
 page:760
 	date: 2010-08-18
-	tag: ch-29
-	tag: Bonus
+	desc: Bonus Page: Pigeon facts
 	tag: Birds
 	tag: Bobby
+	tag: Bonus
+	tag: ch-29
 	tag: CityFace
-	desc: Bonus Page: Pigeon facts
 page:759
 	date: 2010-08-16
 	tag: ch-29
@@ -9301,14 +9431,14 @@ page:743
 	tag: Kat
 page:742
 	date: 2010-07-07
-	tag: ch-28
+	desc: Bonus Page: Professionals
 	tag: Bonus
+	tag: ch-28
 	tag: CourtStaffSymbol
 	tag: Employees
 	tag: Juliette
 	tag: PowerStation
 	tag: Robots
-	desc: Bonus Page: Professionals
 page:741
 	date: 2010-07-05
 	tag: ch-28
@@ -9599,11 +9729,11 @@ page:717
 	tag: PowerStation
 page:716
 	date: 2010-05-07
-	tag: ch-27
+	desc: Bonus Page: Meanwhile... (Who you kiddin', Kat?)
 	tag: Bonus
+	tag: ch-27
 	tag: Dorm
 	tag: Kat
-	desc: Bonus Page: Meanwhile... (Who you kiddin', Kat?)
 page:715
 	date: 2010-05-05
 	tag: ch-27
@@ -9665,8 +9795,9 @@ page:712
 	desc: Almost forgot!
 page:711
 	date: 2010-04-26
-	tag: ch-27
+	desc: I just need to see her again...
 	tag: Annie
+	tag: ch-27
 	tag: Computer
 	tag: Etherium
 	tag: Jack
@@ -9674,12 +9805,12 @@ page:711
 	tag: Rey
 	tag: WhiteSpider
 	tag: Zimmy
-	desc: I just need to see her again...
 page:710
 	date: 2010-04-23
-	tag: ch-27
+	desc: This has GOT to get her attention!
 	tag: Annie
 	tag: Boat
+	tag: ch-27
 	tag: Computer
 	tag: Employees
 	tag: Etherium
@@ -9687,19 +9818,18 @@ page:710
 	tag: PowerStation
 	tag: Rey
 	tag: Zimmy
-	desc: This has GOT to get her attention!
 page:709
 	date: 2010-04-21
-	tag: ch-27
+	desc: VOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 	tag: Annie
 	tag: Boat
+	tag: ch-27
 	tag: Computer
 	tag: Etherium
 	tag: Jack
 	tag: Lake
 	tag: PowerStation
 	tag: Rey
-	desc: VOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 page:708
 	date: 2010-04-19
 	tag: ch-27
@@ -9909,12 +10039,12 @@ page:689
 	tag: WhiteSpider
 page:688
 	date: 2010-03-03
-	tag: ch-26
-	tag: Bonus
+	desc: Bonus Page: Fox Call
 	tag: Annie
 	tag: AntimonySymbol
+	tag: Bonus
+	tag: ch-26
 	tag: Rey
-	desc: Bonus Page: Fox Call
 page:687
 	date: 2010-03-01
 	tag: ch-26
@@ -10178,13 +10308,13 @@ page:662
 	desc: Another year...
 page:661
 	date: 2009-12-30
-	tag: ch-25
+	desc: Bonus page: Robot Handling. Section H: miscellaneous. Robots may sometimes become attracted to you
 	tag: 113
 	tag: Bonus
+	tag: ch-25
 	tag: Flowers
 	tag: Robots
 	tag: Students
-	desc: Bonus page: Robot Handling. Section H: miscellaneous. Robots may sometimes become attracted to you
 page:660
 	date: 2009-12-28
 	tag: ch-25
@@ -10523,12 +10653,12 @@ page:632
 	tag: Pliers
 page:631
 	date: 2009-10-21
-	tag: ch-24
-	tag: Bonus
+	desc: Bonus Page: Absence and Hearts. (Reynardine... I... actually missed you)
 	tag: Annie
+	tag: Bonus
+	tag: ch-24
 	tag: Dorm
 	tag: Rey
-	desc: Bonus Page: Absence and Hearts. (Reynardine... I... actually missed you)
 page:630
 	date: 2009-10-19
 	tag: ch-24
@@ -10990,13 +11120,13 @@ page:596
 	tag: YoungsPark
 page:595
 	date: 2009-07-29
-	tag: ch-23
+	desc: Bonus Page: Doctor Disaster and the Chamber of Doom skull
 	tag: Bonus
+	tag: ch-23
 	tag: DrDisaster
 	tag: Jones
 	tag: Simulation
 	tag: VincentPrice
-	desc: Bonus Page: Doctor Disaster and the Chamber of Doom skull
 page:594
 	date: 2009-07-27
 	tag: ch-23
@@ -11354,18 +11484,18 @@ page:559
 	desc: Intermission:<br><br>**City Face**<br><br>_Tea announces a short story, from aboard the_ Mary Celeste
 page:558
 	date: 2009-05-13
-	tag: Bonus
-	tag: Treatise
+	desc: Bonus Page: Treatise Three. The end of the Second book.
 	tag: Abacus
 	tag: Annie
+	tag: Bonus
 	tag: Bridge
 	tag: Court
 	tag: Coyote
 	tag: CreatorGlyph
 	tag: Etherics
 	tag: Fire
-	tag: HaloCog
 	tag: Gillitie
+	tag: HaloCog
 	tag: Kat
 	tag: Latin
 	tag: MercurySymbol
@@ -11374,9 +11504,9 @@ page:558
 	tag: Shadowman
 	tag: SunSymbol
 	tag: Sword
+	tag: Treatise
 	tag: VenusFigurine
 	tag: Ysengrin
-	desc: Bonus Page: Treatise Three. The end of the Second book.
 page:557
 	date: 2009-05-11
 	tag: ch-22
@@ -11655,12 +11785,12 @@ page:535
 	tag: Tony
 page:534
 	date: 2009-03-18
-	tag: ch-21
+	desc: Bonus Page: Reynardine the Sheep (Rey gets angry before settling down with a Nancy Drew book)
 	tag: Bonus
+	tag: ch-21
 	tag: Dorm
 	tag: NancyDrew
 	tag: Rey
-	desc: Bonus Page: Reynardine the Sheep (Rey gets angry before settling down with a Nancy Drew book)
 page:533
 	date: 2009-03-16
 	tag: ch-21
@@ -11986,14 +12116,14 @@ page:503
 	tag: Cover
 page:502
 	date: 2009-01-02
-	tag: ch-20
+	desc: Bonus Page: (Coyote tells a story about the moon. And himself, obviously)
 	tag: Bonus
+	tag: ch-20
 	tag: Coyote
 	tag: CoyoteStories
 	tag: Eyes
 	tag: Moon
 	tag: Thief
-	desc: Bonus Page: (Coyote tells a story about the moon. And himself, obviously)
 page:501
 	date: 2008-12-31
 	tag: ch-20
@@ -12400,12 +12530,12 @@ page:473
 	tag: Ysengrin
 page:472
 	date: 2008-10-24
-	tag: ch-19
+	desc: Bonus Page: Time for Music
 	tag: Bonus
+	tag: ch-19
+	tag: John
 	tag: Mandolin
 	tag: Margo
-	tag: John
-	desc: Bonus Page: Time for Music
 page:471
 	date: 2008-10-22
 	tag: ch-19
@@ -13296,12 +13426,12 @@ page:395
 	tag: Fire
 page:394
 	date: 2008-04-25
-	tag: ch-17
+	desc: Bonus Page: Swords (Tea explains different swords)
 	tag: Bonus
+	tag: ch-17
 	tag: CourtLogo
 	tag: Sword
 	tag: Tea
-	desc: Bonus Page: Swords (Tea explains different swords)
 page:393
 	date: 2008-04-23
 	tag: ch-17

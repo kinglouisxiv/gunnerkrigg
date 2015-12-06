@@ -306,7 +306,7 @@ Psychopomps	Escort the dead to the afterlife/[Ether](#etherium) [_{W}_](http://g
 Queslett	[Annie](#annie) &amp; [Kat's](#kat) school House [_{W}_](http://gunnerkrigg.wikia.com/wiki/Queslett)
 Rain	[water](#water), falling from the sky
 Red	A crazy and abrasive fairy [_{W}_](http://gunnerkrigg.wikia.com/wiki/Red)
-Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Reynardine)
+Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie), possessing a [stuffed wolf toy](#wolftoy) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Reynardine)
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
 RobotCode	A cube with the [Robots](#robots)' instruction code transcribed onto it
@@ -327,7 +327,7 @@ ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was s
 S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robots13) [_{W}_](http://gunnerkrigg.wikia.com/wiki/S1)
 S13	[Robot](#robots13) was Seraph 13
 SailorBot	A class of robot encountered on the [cruise liner](#cruiseliner). Unusually, these are networked "fingers" of the Liner Bot itself
-Salon	Court hair salon, staffed by the HairdresserBot
+Salon	Court hair salon, staffed by the [HairdresserBot](#hairdresserbot)
 Sareed	Anwyn tree-weaver
 ScienceLab	A school science lab where [Kat](#kat) does her initial experiments and makings
 Scissors	A simple device for cutting things, especially paper, hair
@@ -503,4 +503,6 @@ ch-51	The Tree
 ch-52	Sneak
 ch-53	Annie and the Fire
 ch-54	Meetings and Re-Meetings
+ch-55	The Break Out
+ch-56	New Data
 ; ---TAGS EOF ---
