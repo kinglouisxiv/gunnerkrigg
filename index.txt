@@ -29,6 +29,216 @@
 ;
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1622
+	date: 2016-01-22
+	desc: Rey: We still have to figure out how to deal with... that...
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-57
+	tag: Etherium
+	tag: Fire
+	tag: FireElemental
+	tag: p-04
+	tag: Rey
+page:1621
+	date: 2016-01-20
+	desc: Antimony: We were in Games class
+	tag: Annie
+	tag: AnnieCut
+	tag: Ball
+	tag: ch-57
+	tag: Etherium
+	tag: Fire
+	tag: Flashback
+	tag: p-04
+	tag: Rey
+	tag: SchoolYard
+page:1620
+	date: 2016-01-18
+	desc: Antimony: Ah... I can see you...
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-57
+	tag: Etherium
+	tag: p-03
+	tag: Rey
+page:1619
+	date: 2016-01-15
+	desc: [Antimony kneeling, eyes closed]
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-57
+	tag: Etherium
+	tag: p-02
+page:1618
+	date: 2016-01-13
+	desc: Chapter 57:<br><br>Get it Together<br><br>Icon: An eye?
+	tag: ch-57
+	tag: p-01
+page:1617
+	date: 2016-01-11
+	desc: Bonus page 56: "These Guys?"<br>Tea: [Chapter 28, page five](#p720)
+	tag: BadgeBot
+	tag: ch-56
+	tag: CourtStaffSymbol
+	tag: Juliette
+	tag: Bonus
+	tag: Tea
+page:1616
+	date: 2016-01-08
+	desc: BadgeBot: I saw a creature posing as a student. I think it was a shadow man.
+	tag: BadgeBot
+	tag: ch-56
+	tag: CourtStaffSymbol
+	tag: Juliette
+	tag: p-025
+	tag: PillaredBuilding
+page:1615
+	date: 2016-01-06
+	desc: BadgeBot: The rumours are true
+	tag: BadgeBot
+	tag: ch-56
+	tag: CourtStaffSymbol
+	tag: p-024
+	tag: PillaredBuilding
+page:1614
+	date: 2016-01-04
+	desc: [The badged surveillance robot leaps tall buildings at a single bound]
+	tag: BadgeBot
+	tag: ch-56
+	tag: CourtStaffSymbol
+	tag: p-023
+	tag: SurveillanceMast
+	tag: Roof
+page:1613
+	date: 2016-01-01
+	desc: Robot: Ah, maths? I can help you with that
+	tag: BadgeBot
+	tag: Bandage
+	tag: BioLimb
+	tag: Blush
+	tag: ch-56
+	tag: CourtStaffSymbol
+	tag: p-022
+	tag: RobotS13
+	tag: Roof
+	tag: Shadow
+	tag: SurveillanceMast 
+page:1612
+	date: 2015-12-30
+	desc: Robot: The arm is weak right now
+	tag: Bandage
+	tag: BioLimb
+	tag: ch-56
+	tag: p-021
+	tag: RobotS13
+	tag: Shadow
+page:1611
+	date: 2015-12-28
+	desc: Shadow: Woww!
+	tag: Bandage
+	tag: BioLimb
+	tag: Blush
+	tag: ch-56
+	tag: p-020
+	tag: RobotS13
+	tag: Shadow
+page:1610
+	date: 2015-12-25
+	desc: Robot: I... I seem to have lost my train of thought
+	note: (Listed as a second page 18 on gunnerkrigg.com, later pages off by one...)
+	tag: Bandage
+	tag: BioLimb
+	tag: ch-56
+	tag: p-019
+	tag: RobotS13
+	tag: Shadow
+page:1609
+	date: 2015-12-23
+	desc: Robot: I can already feel myself evolving
+	tag: Bandage
+	tag: BioLimb
+	tag: ch-56
+	tag: p-018
+	tag: RobotS13
+	tag: Shadow
+page:1608
+	date: 2015-12-21
+	desc: Robot: What value do our efforts have if they come at no cost?
+	tag: BadgeBot
+	tag: Bandage
+	tag: BioLimb
+	tag: ch-56
+	tag: CourtStaffSymbol
+	tag: IndustrialUnit
+	tag: p-017
+	tag: Robots
+	tag: RobotS13
+page:1607
+	date: 2015-12-18
+	desc: Another Robot: But why should we want frailty? 
+	tag: BioLimb
+	tag: ch-56
+	tag: IndustrialUnit
+	tag: p-016
+	tag: Robots
+	tag: RobotS13
+page:1606
+	date: 2015-12-16
+	desc: Robot S13: And this is the Creator's gift to us. A world of pain. Of frailty
+	tag: BioLimb
+	tag: ch-56
+	tag: Cloud
+	tag: CreatorGlyph
+	tag: Dress
+	tag: Flowers
+	tag: Heart
+	tag: Kat
+	tag: p-015
+	tag: Robots
+	tag: RobotS13
+page:1605
+	date: 2015-12-14
+	desc: Robot: When I fractured my finger, I knew how to classify this new data
+	tag: Bandage
+	tag: BioLimb
+	tag: ch-56
+	tag: p-014
+	tag: Pain
+	tag: RobotS13
+page:1604
+	date: 2015-12-11
+	desc: Robot: When I activated my new arm I caught a glimpse of what was to come for us
+	tag: Bandage
+	tag: BioLimb
+	tag: ch-56
+	tag: Kat
+	tag: KatsWorkshop
+	tag: p-013
+	tag: RobotS13
+	tag: Roof
+page:1603
+	date: 2015-12-09
+	desc: Robot: I was attempting to vault over a wall
+	tag: Bandage
+	tag: BioLimb
+	tag: ch-56
+	tag: Kat
+	tag: KatsWorkshop
+	tag: p-012
+	tag: Paz
+	tag: RobotS13
+page:1602
+	date: 2015-12-07
+	desc: Robot: Ms Kat. I think I broke my finger
+	tag: BioLimb
+	tag: ch-56
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Kiss
+	tag: p-011
+	tag: Paz
+	tag: RobotS13
 page:1601
 	date: 2015-12-04
 	desc: Kat: You can't move all the muscles at once!
@@ -38,6 +248,7 @@ page:1601
 	tag: KatsWorkshop
 	tag: p-010
 	tag: Paz
+	tag: RobotS13
 page:1600
 	date: 2015-12-02
 	desc: A fleshy interface in Robot’s sensorium II
@@ -9432,72 +9643,80 @@ page:743
 page:742
 	date: 2010-07-07
 	desc: Bonus Page: Professionals
+	tag: BadgeBot
 	tag: Bonus
 	tag: ch-28
 	tag: CourtStaffSymbol
 	tag: Employees
 	tag: Juliette
+	tag: p-26
 	tag: PowerStation
 	tag: Robots
 page:741
 	date: 2010-07-05
-	tag: ch-28
+	desc: She can hardly be blamed for what she is
 	tag: Annie
+	tag: ch-28
 	tag: Gamma
 	tag: Jack
 	tag: Jones
 	tag: Lake
+	tag: p-25
 	tag: Rey
 	tag: Zimmy
-	desc: She can hardly be blamed for what she is
 page:740
 	date: 2010-07-02
-	tag: ch-28
+	desc: Did you make it rain?
 	tag: Annie
+	tag: ch-28
 	tag: Gamma
 	tag: Jack
 	tag: Jones
 	tag: Lake
+	tag: p-24
 	tag: PowerStation
 	tag: Rain
 	tag: Rey
 	tag: Zimmy
-	desc: Did you make it rain?
 page:739
 	date: 2010-06-30
-	tag: ch-28
+	desc: Also: not my boyfriend
 	tag: Annie
+	tag: ch-28
 	tag: Etherium
 	tag: Eyes
 	tag: Gamma
 	tag: Jack
 	tag: Lake
+	tag: p-23
 	tag: WhiteSpider
 	tag: Zimmy
-	desc: Also: not my boyfriend
 page:738
 	date: 2010-06-28
-	tag: ch-28
+	desc: Tell him... I'm sorry. For not helpin' him sooner.
 	tag: Annie
+	tag: ch-28
 	tag: Eyes
 	tag: Gamma
 	tag: Jack
 	tag: Lake
+	tag: p-22
 	tag: Zimmy
-	desc: Tell him... I'm sorry. For not helpin' him sooner.
 page:737
 	date: 2010-06-25
+	desc: Splat
 	tag: ch-28
 	tag: Eyes
 	tag: Jack
 	tag: Lake
+	tag: p-21
 	tag: PowerStation
 	tag: Rain
 	tag: WhiteSpider
 	tag: Zimmy
-	desc: Splat
 page:736
 	date: 2010-06-23
+	desc: (Rain washes Zimmingham away, revealing Zimmy and Annie...)
 	tag: Annie
 	tag: Buzz
 	tag: ch-28
@@ -9505,227 +9724,247 @@ page:736
 	tag: Gamma
 	tag: Jack
 	tag: Lake
+	tag: p-20
 	tag: PowerStation
 	tag: Rain
 	tag: WhiteSpider
 	tag: Zimmy
-	desc: (Rain washes Zimmingham away, revealing Zimmy and Annie...)
 page:735
 	date: 2010-06-21
-	tag: ch-28
+	desc: She's mine! She's my friend!
 	tag: Annie
 	tag: Buzz
+	tag: ch-28
 	tag: Eyes
 	tag: Gamma
 	tag: Jack
+	tag: p-19
 	tag: Rain
 	tag: Spider
 	tag: WhiteSpider
 	tag: Zimmingham
 	tag: Zimmy
-	desc: She's mine! She's my friend!
 page:734
 	date: 2010-06-18
-	tag: ch-28
+	desc: You're the last one we need!
 	tag: Annie
 	tag: Buzz
+	tag: ch-28
 	tag: Gamma
 	tag: Jack
+	tag: p-18
 	tag: Spider
 	tag: WhiteSpider
 	tag: Zimmingham
 	tag: Zimmy
-	desc: You're the last one we need!
 page:733
 	date: 2010-06-16
-	tag: ch-28
+	desc: I don't want to go in there! It's the spider's nest!
 	tag: Annie
 	tag: Buzz
+	tag: ch-28
 	tag: Gamma
 	tag: Jack
+	tag: p-17
 	tag: Spider
 	tag: WhiteSpider
 	tag: Zimmingham
 	tag: Zimmy
-	desc: I don't want to go in there! It's the spider's nest!
 page:732
 	date: 2010-06-14
-	tag: ch-28
+	desc: Oh no... We're all inside one of Zimmy's illusions!
 	tag: Annie
 	tag: Buzz
+	tag: ch-28
 	tag: Gamma
 	tag: Jack
+	tag: p-16
 	tag: Spider
 	tag: WhiteSpider
 	tag: Zimmingham
 	tag: Zimmy
-	desc: Oh no... We're all inside one of Zimmy's illusions!
 page:731
 	date: 2010-06-11
-	tag: ch-28
+	desc: Why go back now?
 	tag: Annie
 	tag: Buzz
+	tag: ch-28
 	tag: Gamma
 	tag: Jack
+	tag: p-15
 	tag: Spider
 	tag: WhiteSpider
 	tag: Zimmingham
 	tag: Zimmy
-	desc: Why go back now?
 page:730
 	date: 2010-06-09
-	tag: ch-28
+	desc: He's not a real person. Just a memory of someone.
 	tag: Annie
 	tag: Buzz
+	tag: ch-28
 	tag: Gamma
 	tag: Jack
+	tag: p-14
 	tag: Zimmingham
 	tag: Zimmy
-	desc: He's not a real person. Just a memory of someone.
 page:729
 	date: 2010-06-07
-	tag: ch-28
+	desc: I do it because I love you Zimmy
 	tag: Annie
 	tag: Buzz
+	tag: ch-28
 	tag: Gamma
+	tag: p-13
 	tag: Zimmingham
 	tag: Zimmy
-	desc: I do it because I love you Zimmy
 page:728
 	date: 2010-06-04
-	tag: ch-28
+	desc: No, Gamma, it's me, A-Annie
 	tag: Annie
+	tag: ch-28
 	tag: Gamma
 	tag: Jack
+	tag: p-12
 	tag: Zimmingham
 	tag: Zimmy
-	desc: No, Gamma, it's me, A-Annie
 page:727
 	date: 2010-06-02
-	tag: ch-28
+	desc: Gamma! We have to find Zimmy!
 	tag: Annie
+	tag: ch-28
 	tag: Gamma
+	tag: p-11
 	tag: Zimmingham
 	tag: Zimmy
-	desc: Gamma! We have to find Zimmy!
 page:726
 	date: 2010-05-31
-	tag: ch-28
+	desc: I am not a robot.
 	tag: Annie
+	tag: ch-28
 	tag: Jones
+	tag: p-10
 	tag: Rey
 	tag: Robots
 	tag: Roof
-	desc: I am not a robot.
 page:725
 	date: 2010-05-28
-	tag: ch-28
+	desc: She's always been a little touchy about her weight.
 	tag: Annie
 	tag: Boat
+	tag: ch-28
 	tag: Jones
 	tag: Lake
+	tag: p-09
 	tag: PowerStation
 	tag: Rey
-	desc: She's always been a little touchy about her weight.
 page:724
 	date: 2010-05-26
-	tag: ch-28
+	desc: Is Zimmy... human?
 	tag: Annie
 	tag: Boat
+	tag: ch-28
 	tag: Etherium
 	tag: Jones
 	tag: Lake
+	tag: p-08
 	tag: PowerStation
 	tag: Rey
 	tag: Zimmy
-	desc: Is Zimmy... human?
 page:723
 	date: 2010-05-24
-	tag: ch-28
+	desc: Zimmy... the station... I don't understand
 	tag: Annie
 	tag: Boat
+	tag: ch-28
 	tag: Etherium
 	tag: Gamma
 	tag: Jones
 	tag: Lake
+	tag: p-07
 	tag: PowerStation
 	tag: Rey
-	tag: Zimmy
 	tag: Zimmingham
-	desc: Zimmy... the station... I don't understand
+	tag: Zimmy
 page:722
 	date: 2010-05-21
-	tag: ch-28
+	desc: Juliette, allow the station to enter the collection stage
 	tag: Annie
 	tag: Boat
+	tag: ch-28
 	tag: Etherium
 	tag: Jones
 	tag: Juliette
 	tag: Lake
+	tag: p-06
 	tag: PowerStation
 	tag: Rey
 	tag: Zimmy
-	desc: Juliette, allow the station to enter the collection stage
 page:721
 	date: 2010-05-19
-	tag: ch-28
+	desc: I think... uh... I think he can fly.
 	tag: Aata
 	tag: Annie
-	tag: Employees
+	tag: BadgeBot
+	tag: ch-28
 	tag: CourtStaffSymbol
+	tag: Employees
 	tag: Flying
 	tag: Jones
 	tag: Juliette
+	tag: p-05
 	tag: PowerStation
 	tag: Rey
 	tag: Robots
 	tag: Shell
-	desc: I think... uh... I think he can fly.
 page:720
 	date: 2010-05-17
-	tag: ch-28
+	desc: Your assistance in locating Jack has been invaluable.
 	tag: Aata
 	tag: Annie
+	tag: ch-28
 	tag: CourtStaffSymbol
 	tag: Employees
 	tag: Jones
+	tag: p-04
 	tag: PowerStation
 	tag: Rey
 	tag: Robots
 	tag: Shell
-	desc: Your assistance in locating Jack has been invaluable.
 page:719
 	date: 2010-05-14
-	tag: ch-28
+	desc: Please! can't you just call...
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Bind
+	tag: ch-28
 	tag: CourtStaffSymbol
 	tag: Employees
 	tag: EyeCrossed
-	tag: MercurySymbol
 	tag: Jones
+	tag: MercurySymbol
+	tag: p-03
 	tag: PowerStation
 	tag: Rey
 	tag: Robots
 	tag: Shell
-	desc: Please! can't you just call...
 page:718
 	date: 2010-05-12
-	tag: ch-28
+	desc: Please! You have to help my friend!
 	tag: Annie
 	tag: Bind
+	tag: ch-28
 	tag: CourtStaffSymbol
 	tag: Employees
+	tag: p-02
 	tag: Rey
 	tag: Robots
 	tag: Shell
-	desc: Please! You have to help my friend!
 page:717
 	date: 2010-05-10
 	desc: Chapter 28:<br><br>**Spring Heeled Part 2**<br><br>_Icon: The head and upper body of a stone figure_
 	tag: ch-28
 	tag: Cover
+	tag: p-01
 	tag: PowerStation
 page:716
 	date: 2010-05-07
@@ -9736,12 +9975,13 @@ page:716
 	tag: Kat
 page:715
 	date: 2010-05-05
-	tag: ch-27
+	desc: What's going on here!
 	tag: 113
 	tag: Aata
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Bind
+	tag: ch-27
 	tag: Employees
 	tag: EyeCrossed
 	tag: Flying
@@ -9752,25 +9992,25 @@ page:715
 	tag: Robots
 	tag: SecurityDevice
 	tag: Shell
-	desc: What's going on here!
 page:714
 	date: 2010-05-03
-	tag: ch-27
+	desc: I don't care! He's my friend!
 	tag: Annie
 	tag: Bind
+	tag: ch-27
 	tag: EyeCrossed
 	tag: Flying
 	tag: Jack
 	tag: PowerStation
 	tag: Rey
 	tag: SecurityDevice
-	desc: I don't care! He's my friend!
 page:713
 	date: 2010-04-30
-	tag: ch-27
+	desc: I'm doing you a favour! Forget about him!
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Bind
+	tag: ch-27
 	tag: Computer
 	tag: EyeCrossed
 	tag: Jack
@@ -9778,13 +10018,13 @@ page:713
 	tag: PowerStation
 	tag: Rey
 	tag: SecurityDevice
-	desc: I'm doing you a favour! Forget about him!
 page:712
 	date: 2010-04-28
-	tag: ch-27
+	desc: Almost forgot!
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Bind
+	tag: ch-27
 	tag: Etherics
 	tag: EyeCrossed
 	tag: Jack
@@ -9792,7 +10032,6 @@ page:712
 	tag: PowerStation
 	tag: Rey
 	tag: SecurityDevice
-	desc: Almost forgot!
 page:711
 	date: 2010-04-26
 	desc: I just need to see her again...

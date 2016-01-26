@@ -35,6 +35,7 @@ Armoury 	Place where lots of weapons are stored
 Arsenic 	A highly poisonous metalloid [_{W}_](http://gunnerkrigg.wikia.com/wiki/Arsenic_(alchemy))
 Artilleryman	present at the [founding](#founding), friend of [Steadman](#steadman) the archer
 Axe 	Often used to chop wood
+BadgeBot	Robot with [Court Staff Symbol](#courtstaffsymbol), audio-visual surveillance mast in its head, and parkour skill similar to [RobotS13](#robots13)
 BadgerFae	'him too' – white hair, two black stripes, former badger
 BakingDistraction	Otherwise known as [Plan Theta](#plantheta); Cunningly devised to distract others while sneaking around
 Basil 	Minotaur [_{W}_](http://gunnerkrigg.wikia.com/wiki/Basil)
@@ -43,7 +44,7 @@ Beacon 	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) w
 Becky 	Becky Ground, blonde haired student -- name suspected to be a pun as she has never said anything [_{W}_](http://gunnerkrigg.wikia.com/wiki/Becky_Ground)
 Betty 	had a crush on her brother [Nigel's](#nigel) friend [Morty](#mort), WWII
 Bind 	[Etheric](#etherics) binding, hold or constraint hoodoo
-BioLimb 	[Kat's](#kat) grown robot parts project
+BioLimb 	[Kat's](#kat) grown robot parts project, blue/purple synthetic flesh
 Bip 	[Parley's](#parley) teleportation. May be accompanied by BARGE
 Birds 	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
 Birmingham	See [Zimmingham](#zimmingham)
@@ -90,7 +91,8 @@ Computer	You're using one right now. The court keeps student records, and many o
 Cookie 	Cookie Monster aka Lily Cooke is an enthusiastic friend of [Parley](#parley) along with [January](#jan) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Lily_Cooke)
 Court 	Gunnerkrigg Court, a mysterious institution that includes a boarding school [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
 CourtHall	A large important hall for meetings
-CourtLogo	Gunnerkrigg Court logo (for the school); Appears on detention slips and official school letters
+CourtLogo	Gunnerkrigg Court logo (for the school); appears on detention slips and official school letters
+CourtStaffSymbol	a line with a dot below each end, all in red; mostly appears in a 'security' context
 CourtSymbol	The symbol [Annie's](#annie) [Blinker Stone](#blinkerstone) makes; has a [Bismuth Symbol](#bismuthsymbol) within it
 Courtyard	A courtyard near the [library](#library)
 Cover 	A chapter cover [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chapter_Covers)
@@ -471,7 +473,7 @@ ch-24	Residential [{Y}](https://youtu.be/9wOhmBHUbmc)
 ch-25	Sky Watcher And The Angel [{Y}](https://youtu.be/BU4VhtsJInI)
 ch-26	The Old Dog's Tricks [{Y}](https://youtu.be/I8mA0KaX8h8)
 ch-27	Spring Heeled [{Y}](https://youtu.be/Q66FN07bMf8)
-ch-28	Spring Heeled Part 2
+ch-28	Spring Heeled Part 2 [{Y}](https://youtu.be/qF-mrQUbQc4)
 ch-29	A Bad Start
 ch-30	The Coward Heart
 ch-31	Fire Spike
