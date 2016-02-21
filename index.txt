@@ -26,9 +26,147 @@
 ;
 ; TODO: Kat's T-shirt logos/mottos
 ; TODO: check ROTD, VastyHall and Library, etc, use for consistency
-;
+; TODO: page numbers in early chapters
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1634
+	date: 2016-02-19
+	desc: Reynard: Think of the ball as your hand / And use your fire to light the ether
+	tag: Annie
+	tag: AnnieCut
+	tag: BowlingAlley
+	tag: ch-57
+	tag: p-17
+	tag: Reynard
+page:1633
+	date: 2016-02-17
+	desc: Winsbury: Lets move to a different lane
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Fire
+	tag: Kat
+	tag: Margo
+	tag: p-16
+	tag: Paz
+	tag: Reynard
+	tag: Winsbury
+page:1632
+	date: 2016-02-15
+	desc: [Annie, bowling]
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: p-15
+page:1631
+	date: 2016-02-12
+	desc: Winsbury: You're up Carver. I'll show you how to do it!
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: CreatorGlyph
+	tag: Janet
+	tag: John
+	tag: Margo
+	tag: p-14
+	tag: Rey
+	tag: Winsbury
+page:1630
+	date: 2016-02-10
+	desc: [Reynard spirit-form disapproves]
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: CreatorGlyph
+	tag: Janet
+	tag: John
+	tag: Kat
+	tag: Margo
+	tag: p-13
+	tag: Paz
+	tag: Rey
+	tag: SweatDrop
+	tag: Winsbury
+page:1629
+	date: 2016-02-08
+	desc: Annie: Bowling? I've never done this before...
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: CreatorGlyph
+	tag: Janet
+	tag: John
+	tag: Kat
+	tag: Margo
+	tag: p-12
+	tag: Paz
+	tag: Rey
+	tag: Winsbury
+page:1628
+	date: 2016-02-05
+	desc: [Annie and some of her former classmates]
+	tag: Annie
+	tag: ch-57
+	tag: CreatorGlyph
+	tag: Janet
+	tag: John
+	tag: Kat
+	tag: Margo
+	tag: p-11
+	tag: Paz
+	tag: Rey
+	tag: Winsbury
+page:1627
+	date: 2016-02-03
+	desc: Kat: Uh... Yeah, if you're sure about it
+	tag: Annie
+	tag: ch-57
+	tag: Kat
+	tag: p-10
+	tag: Rey
+	tag: WhiteRoom
+page:1626
+	date: 2016-02-01
+	desc: Kat: Rey! Buddy!
+	tag: Annie
+	tag: ch-57
+	tag: CreatorGlyph
+	tag: Kat
+	tag: p-09
+	tag: Rey
+	tag: WhiteRoom
+page:1625
+	date: 2016-01-29
+	desc: Annie: Reynard, I'm so sorry I gave you up!
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-57
+	tag: Etherium
+	tag: Fire
+	tag: Kat
+	tag: p-08
+	tag: Rey
+	tag: Tears
+	tag: WhiteRoom
+page:1624
+	date: 2016-01-27
+	desc: Rey: You'll get that sight back and more
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-57
+	tag: Etherium
+	tag: Fire
+	tag: p-07
+	tag: Rey
+page:1623
+	date: 2016-01-25
+	desc: Rey: a blinker stone is simply a lens for your natural abilities
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-57
+	tag: Etherium
+	tag: p-06
+	tag: Rey
 page:1622
 	date: 2016-01-22
 	desc: Rey: We still have to figure out how to deal with... that...
@@ -38,7 +176,7 @@ page:1622
 	tag: Etherium
 	tag: Fire
 	tag: FireElemental
-	tag: p-04
+	tag: p-05
 	tag: Rey
 page:1621
 	date: 2016-01-20
