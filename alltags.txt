@@ -474,7 +474,7 @@ ch-25	Sky Watcher And The Angel [{Y}](https://youtu.be/BU4VhtsJInI)
 ch-26	The Old Dog's Tricks [{Y}](https://youtu.be/I8mA0KaX8h8)
 ch-27	Spring Heeled [{Y}](https://youtu.be/Q66FN07bMf8)
 ch-28	Spring Heeled Part 2 [{Y}](https://youtu.be/qF-mrQUbQc4)
-ch-29	A Bad Start
+ch-29	A Bad Start [{Y}](https://youtu.be/75mlrei1DTY)
 ch-30	The Coward Heart
 ch-31	Fire Spike
 ch-31a	Intermission: City Face 2

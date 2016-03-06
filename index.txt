@@ -29,6 +29,68 @@
 ; TODO: page numbers in early chapters
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1640
+	date: 2016-03-04
+	desc: Janet: **Oh William!**
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Janet
+	tag: p-22
+	tag: Tears
+	tag: Winsbury
+page:1639
+	date: 2016-03-02
+	desc: Janet: Don't do it!
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Janet
+	tag: p-22
+	tag: SweatDrop
+	tag: Tears
+	tag: Winsbury
+page:1638
+	date: 2016-02-29
+	desc: Winsbury: You know... and like... it's not the same since you left the class
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: p-21
+	tag: SweatDrop
+	tag: Winsbury
+page:1637
+	date: 2016-02-26
+	desc: Annie:Is this where they keep the extras?
+	note: Flashback references [ch-03 p-02](#p34)
+	tag: Annie
+	tag: BowlingAlley
+	tag: Flashback
+	tag: ch-57
+	tag: p-20
+	tag: SweatDrop
+	tag: Winsbury
+page:1636
+	date: 2016-02-24
+	desc: John: Hey Winsbury, I don't like this ball. Can you go get me another one?
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: John
+	tag: Kat
+	tag: Margo
+	tag: p-19
+	tag: Paz
+	tag: Winsbury
+page:1635
+	date: 2016-02-22
+	desc: Paz: Don't be discouraged! I think you will get it soon
+	tag: Annie
+	tag: AnnieCut
+	tag: BowlingAlley
+	tag: ch-57
+	tag: p-18
+	tag: Paz
 page:1634
 	date: 2016-02-19
 	desc: Reynard: Think of the ball as your hand / And use your fire to light the ether
@@ -17148,6 +17210,7 @@ page:57
 	tag: Dorm
 	tag: Eglamore
 	tag: Kat
+	tag: p-25
 	tag: Rey
 page:56
 	date: 2005-10-13
@@ -17158,6 +17221,7 @@ page:56
 	tag: Eglamore
 	tag: EyeCrossed
 	tag: LeadSymbol
+	tag: p-24
 	tag: Rey
 	tag: Sivo
 page:55
@@ -17169,203 +17233,225 @@ page:55
 	tag: Eglamore
 	tag: EyeCrossed
 	tag: LeadSymbol
+	tag: p-23
 	tag: Sivo
 page:54
 	date: 2005-10-06
-	tag: ch-03
+	desc: (Rey's spirit enters the Wolf Toy instead)
 	tag: AnimalCells
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-03
 	tag: Eglamore
 	tag: EyeCrossed
 	tag: Lockpicks
-	tag: Rey
 	tag: MercurySymbol
+	tag: p-22
+	tag: Rey
 	tag: WolfToy
-	desc: (Rey's spirit enters the Wolf Toy instead)
 page:53
 	date: 2005-10-04
-	tag: ch-03
+	desc: (Rey leaves his body as a spirit and hovers over Annie. Eglamore knocks Annie out of the way)
 	tag: AnimalCells
 	tag: Annie
+	tag: ch-03
 	tag: Eglamore
 	tag: LeadSymbol
-	tag: Rey
 	tag: MercurySymbol
+	tag: p-21
+	tag: Rey
 	tag: WolfToy
-	desc: (Rey leaves his body as a spirit and hovers over Annie. Eglamore knocks Annie out of the way)
 page:52
 	date: 2005-09-29
-	tag: ch-03
+	desc: In fact what I need is... your body!
 	tag: AnimalCells
 	tag: Annie
-	tag: Rey
+	tag: ch-03
 	tag: MercurySymbol
+	tag: p-20
+	tag: Rey
 	tag: WolfToy
-	desc: In fact what I need is... your body!
 page:51
 	date: 2005-09-27
-	tag: ch-03
+	desc: Hiding behind a little girl isn't exactly very sporting
 	tag: AnimalCells
 	tag: Annie
+	tag: ch-03
 	tag: Eglamore
 	tag: LeadSymbol
+	tag: p-19
 	tag: Rey
 	tag: Sword
-	desc: Hiding behind a little girl isn't exactly very sporting
 page:50
 	date: 2005-09-22
-	tag: ch-03
+	desc: (Large Animal Holding Cells. Annie peers in, Rey is lying down, Eglamore standing in front of him)
 	tag: AnimalCells
 	tag: Annie
+	tag: ch-03
 	tag: Eglamore
 	tag: EyeCrossed
+	tag: p-18
 	tag: Rey
 	tag: Sword
-	desc: (Large Animal Holding Cells. Annie peers in, Rey is lying down, Eglamore standing in front of him)
 page:49
 	date: 2005-09-20
-	tag: ch-03
+	desc: I realised for the first time that I'd barely seen anyone other than the people in my class
 	tag: Annie
+	tag: ch-03
 	tag: Court
+	tag: p-17
 	tag: Train
 	tag: TrainStation
 	tag: WolfToy
-	desc: I realised for the first time that I'd barely seen anyone other than the people in my class
 page:48
 	date: 2005-09-15
-	tag: ch-03
+	desc: Judging by the state Reynardine was in, I deduced his prison was somewhere on the school grounds.
 	tag: Annie
+	tag: ch-03
 	tag: Hospital
 	tag: Lockpicks
+	tag: p-16
 	tag: TicToc
 	tag: WolfToy
-	desc: Judging by the state Reynardine was in, I deduced his prison was somewhere on the school grounds.
 page:47
 	date: 2005-09-13
-	tag: ch-03
+	desc: My mother could not be the only person with this name
 	tag: Annie
+	tag: ch-03
 	tag: Hospital
+	tag: p-15
 	tag: Rey
 	tag: Surma
-	desc: My mother could not be the only person with this name
 page:46
 	date: 2005-09-08
-	tag: ch-03
+	desc: You were hit on the head when the ceiling collapsed
 	tag: Annie
+	tag: ch-03
 	tag: Hospital
 	tag: Kat
+	tag: p-14
 	tag: WolfToy
-	desc: You were hit on the head when the ceiling collapsed
 page:45
 	date: 2005-09-06
-	tag: ch-03
+	desc: So... this must be her daughter.
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-03
 	tag: Eglamore
+	tag: p-13
 	tag: Rey
 	tag: Roof
-	desc: So... this must be her daughter.
 page:44
 	date: 2005-09-01
-	tag: ch-03
+	desc: You are bleeding, child.
 	tag: Annie
+	tag: ch-03
 	tag: Eglamore
+	tag: p-12
 	tag: Rey
 	tag: Roof
 	tag: Sword
 	tag: WolfToy
-	desc: You are bleeding, child.
 page:43
 	date: 2005-08-30
-	tag: ch-03
+	desc: If you leave, the man on yonder will take me away.
 	tag: Annie
+	tag: ch-03
 	tag: Eglamore
 	tag: LeadSymbol
+	tag: p-11
 	tag: Rey
 	tag: Roof
 	tag: Sword
 	tag: WolfToy
-	desc: If you leave, the man on yonder will take me away.
 page:42
 	date: 2005-08-25
-	tag: ch-03
+	desc: **Surma**, is that you?
 	tag: Annie
+	tag: ch-03
+	tag: p-10
 	tag: Rey
 	tag: Roof
 	tag: WolfToy
-	desc: **Surma**, is that you?
 page:41
 	date: 2005-08-23
-	tag: ch-03
+	desc: (Howling on roof)
 	tag: Annie
+	tag: ch-03
+	tag: p-09
 	tag: Rey
 	tag: Roof
 	tag: WolfToy
-	desc: (Howling on roof)
 page:40
 	date: 2005-08-18
-	tag: ch-03
+	desc: What a strange noise...
 	tag: Annie
+	tag: ch-03
 	tag: Dorm
+	tag: p-08
 	tag: Roof
 	tag: WolfToy
-	desc: What a strange noise...
 page:39
 	date: 2005-08-16
-	tag: ch-03
+	desc: **Quickly**, girls. We need to evacuate the room!
 	tag: Anja
 	tag: Becky
+	tag: ch-03
 	tag: Dorm
 	tag: Janet
+	tag: p-07
 	tag: Paz
-	desc: **Quickly**, girls. We need to evacuate the room!
 page:38
 	date: 2005-08-09
-	tag: ch-03
+	desc: (Roof collapse)
 	tag: Annie
+	tag: ch-03
 	tag: Dorm
 	tag: Kat
+	tag: p-06
 	tag: Roof
 	tag: WolfToy
-	desc: (Roof collapse)
 page:37
 	date: 2005-08-04
-	tag: ch-03
+	desc: That's the alchemist's symbol for Antimony
+	note: Kat t-shirt is a reference to [Aphex Twin](https://en.wikipedia.org/wiki/Aphex_twin) 
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-03
 	tag: Dorm
 	tag: Eglamore
 	tag: Heart
 	tag: Kat
-	desc: That's the alchemist's symbol for Antimony
-	note: Kat t-shirt is a reference to [Aphex Twin](https://en.wikipedia.org/wiki/Aphex_twin) 
+	tag: p-05
 page:36
 	date: 2005-08-02
-	tag: ch-03
+	desc: Well, just let me know the next time Winsbury gives you grief
 	tag: Annie
 	tag: Blush
+	tag: ch-03
 	tag: Eglamore
 	tag: Gym
 	tag: Kat
-	desc: Well, just let me know the next time Winsbury gives you grief
+	tag: p-04
 page:35
 	date: 2005-07-28
-	tag: ch-03
+	desc: Carver! Donlan! Get over here!
 	tag: Annie
+	tag: ch-03
 	tag: Eglamore
 	tag: Gym
 	tag: Kat
+	tag: p-03
 	tag: Winsbury
-	desc: Carver! Donlan! Get over here!
 page:34
 	date: 2005-07-26
-	tag: ch-03
+	desc: So what are you gonna do about it?
 	tag: Annie
+	tag: ch-03
 	tag: Gym
 	tag: Kat
+	tag: p-02
 	tag: Winsbury
-	desc: So what are you gonna do about it?
 page:33
 	date: 2005-07-21
 	desc: Chapter 3:<br><br>**Reynardine**<br><br>_Icon: Crossed out eye symbol (EyeCrossed) on a door_
@@ -17376,53 +17462,58 @@ page:33
 	tag: Cover
 	tag: LeadSymbol
 	tag: MercurySymbol
+	tag: p-01
 	tag: Roof
 	tag: Sky
 page:32
 	date: 2005-07-19
+	desc: Bonus Page: Year 7 Dormitories
 	tag: Bonus
 	tag: Dorm
 	tag: Queslett
 	tag: Shadow
 	tag: Tea
-	desc: Bonus Page: Year 7 Dormitories
 page:31
 	date: 2005-07-14
-	tag: ch-02
+	desc: I hope all our homework is this interesting.
 	tag: Annie
 	tag: Basil
+	tag: ch-02
 	tag: Classroom
 	tag: Janet
-	tag: Kat
 	tag: John
-	desc: I hope all our homework is this interesting.
+	tag: Kat
+	tag: p-15
 page:30
 	date: 2005-07-12
-	tag: ch-02
+	desc: And now of course, I turn out to be the bad guy.
 	tag: Annie
 	tag: Basil
+	tag: ch-02
 	tag: Classroom
-	desc: And now of course, I turn out to be the bad guy.
+	tag: p-14
 page:29
 	date: 2005-07-07
-	tag: ch-02
+	desc: I have a time share on the labyrinth you found me in
 	tag: Annie
 	tag: Basil
+	tag: ch-02
 	tag: Classroom
 	tag: Janet
-	tag: Kat
-	tag: Paz
 	tag: John
+	tag: Kat
+	tag: p-13
+	tag: Paz
 	tag: Winsbury
-	desc: I have a time share on the labyrinth you found me in
 page:28
 	date: 2005-07-05
-	tag: ch-02
+	desc: Phew, you girls gave me a fright, sneaking around like that.
 	tag: Annie
 	tag: Basil
+	tag: ch-02
 	tag: Kat
 	tag: Labyrinth
-	desc: Phew, you girls gave me a fright, sneaking around like that.
+	tag: p-12
 page:27
 	date: 2005-06-30
 	desc: BLAAAAAAAAAAAAH!
@@ -17431,6 +17522,7 @@ page:27
 	tag: ch-02
 	tag: Kat
 	tag: Labyrinth
+	tag: p-11
 page:26
 	date: 2005-06-28
 	desc: It was her wish that I continue my education here
@@ -17439,6 +17531,7 @@ page:26
 	tag: GoodHope
 	tag: Kat
 	tag: Labyrinth
+	tag: p-10
 	tag: Surma
 	tag: Tony
 page:25
@@ -17448,6 +17541,7 @@ page:25
 	tag: ch-02
 	tag: Kat
 	tag: Labyrinth
+	tag: p-09
 page:24
 	date: 2005-06-21
 	desc: Is this the guy you were talking about?
@@ -17456,6 +17550,7 @@ page:24
 	tag: Kat
 	tag: Labyrinth
 	tag: Library
+	tag: p-08
 page:23
 	date: 2005-06-16
 	desc: Annie: There is a whole section devoted to **Greek mythology** it seems
@@ -17463,6 +17558,7 @@ page:23
 	tag: ch-02
 	tag: Kat
 	tag: Library
+	tag: p-07
 	tag: WalkInPicture
 page:22
 	date: 2005-06-14
@@ -17471,6 +17567,7 @@ page:22
 	tag: ch-02
 	tag: Kat
 	tag: Library
+	tag: p-06
 page:21
 	date: 2005-06-09
 	desc: I was thinking of covering the minotaur
@@ -17478,6 +17575,7 @@ page:21
 	tag: ch-02
 	tag: Classroom
 	tag: Kat
+	tag: p-05
 page:20
 	date: 2005-06-07
 	desc: Find as much information as you can on a mythical figure of your choice
@@ -17486,6 +17584,7 @@ page:20
 	tag: Classroom
 	tag: Janet
 	tag: Kat
+	tag: p-04
 	tag: Teacher
 	tag: Winsbury
 page:19
@@ -17497,6 +17596,7 @@ page:19
 	tag: Classroom
 	tag: John
 	tag: Kat
+	tag: p-03
 	tag: Winsbury
 page:18
 	date: 2005-05-31
@@ -17505,6 +17605,7 @@ page:18
 	tag: Annie
 	tag: ch-02
 	tag: Classroom
+	tag: p-02
 	tag: Winsbury
 page:17
 	date: 2005-05-26
@@ -17514,6 +17615,7 @@ page:17
 	tag: Cover
 	tag: Kat
 	tag: Labyrinth
+	tag: p-01
 page:16
 	auth: Tom: Year 7 is the first year of [UK] secondary school, and is the equivalent of 6th grade in the US. Children in Year 7 are 11-12 years old
 	date: 2005-05-24
@@ -17533,6 +17635,7 @@ page:15
 	tag: Bridge
 	tag: ch-01
 	tag: Gillitie
+	tag: p-15
 	tag: Teacher
 page:14
 	date: 2005-05-17
@@ -17540,8 +17643,9 @@ page:14
 	tag: Bridge
 	tag: ch-01
 	tag: Gillitie
-	tag: RobotS13
+	tag: p-14
 	tag: Robots
+	tag: RobotS13
 	tag: Seraph
 	tag: Shadow
 	tag: Shadowmen
@@ -17550,8 +17654,9 @@ page:13
 	desc: Oh look! A birdie!
 	tag: Bridge
 	tag: ch-01
-	tag: RobotS13
+	tag: p-13
 	tag: Robots
+	tag: RobotS13
 	tag: Seraph
 	tag: Shadow
 	tag: TicToc
@@ -17561,8 +17666,9 @@ page:12
 	tag: Annie
 	tag: Bridge
 	tag: ch-01
-	tag: RobotS13
+	tag: p-12
 	tag: Robots
+	tag: RobotS13
 	tag: Seraph
 page:11
 	date: 2005-05-05
@@ -17570,6 +17676,7 @@ page:11
 	tag: Annie
 	tag: Bridge
 	tag: ch-01
+	tag: p-11
 	tag: Robots
 	tag: RobotS13
 	tag: Seraph
@@ -17580,16 +17687,18 @@ page:10
 	tag: Annie
 	tag: Bridge
 	tag: ch-01
-	tag: RobotS13
+	tag: p-10
 	tag: Robots
+	tag: RobotS13
 	tag: Shadow
 page:9
 	date: 2005-04-28
 	desc: Luckily, piecing the contraption together was relatively easy
 	tag: Annie
 	tag: ch-01
-	tag: RobotS13
+	tag: p-09
 	tag: Robots
+	tag: RobotS13
 	tag: Seraph
 	tag: Shadow
 page:8
@@ -17598,8 +17707,9 @@ page:8
 	tag: Annie
 	tag: ch-01
 	tag: Library
-	tag: RobotS13
+	tag: p-08
 	tag: Robots
+	tag: RobotS13
 	tag: Seraph
 	tag: Shadow
 page:7
@@ -17608,6 +17718,7 @@ page:7
 	tag: Annie
 	tag: ch-01
 	tag: Library
+	tag: p-07
 	tag: Shadow
 page:6
 	date: 2005-04-19
@@ -17615,33 +17726,38 @@ page:6
 	tag: Annan
 	tag: Annie
 	tag: ch-01
+	tag: p-06
 	tag: Shadow
 page:5
-	date: 2005-04-14
 	auth: Gunnerkrigg Court is a boarding school, which is why Antimony is still there at night
+	date: 2005-04-14
 	tag: Annan
 	tag: Annie
 	tag: Bridge
 	tag: ch-01
 	tag: Gillitie
+	tag: p-05
 	tag: Shadow
 page:4
 	date: 2005-04-12
 	desc: Where are you trying to go?
 	tag: Annie
 	tag: ch-01
+	tag: p-04
 	tag: Shadow
 page:3
 	date: 2005-04-07
 	desc: At times I would see this creature jump from shadow to shadow
 	tag: Annie
 	tag: ch-01
+	tag: p-03
 	tag: Shadow
 page:2
 	date: 2005-04-05
 	desc: Gunnerkrigg Court does not look much like a school at all
 	tag: Annie
 	tag: ch-01
+	tag: p-02
 	tag: Shadow
 page:1
 	date: 2005-04-04
@@ -17650,5 +17766,6 @@ page:1
 	tag: ch-01
 	tag: Court
 	tag: Cover
+	tag: p-01
 	tag: Sky
 ; --- INDEX EOF ---
