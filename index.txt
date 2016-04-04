@@ -26,9 +26,142 @@
 ;
 ; TODO: Kat's T-shirt logos/mottos
 ; TODO: check ROTD, VastyHall and Library, etc, use for consistency
-; TODO: page numbers in early chapters
+; TODO: page numbers 
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1653
+	date: 2016-04-04
+	desc: [Annie, daydreaming walking through the school, meets door]
+	tag: Annie
+	tag: ch-57
+	tag: Fire
+	tag: Flashback
+	tag: p-36
+page:1652
+	date: 2016-04-01
+	desc: Annie: You don't need to worry about me so much, Kat
+	tag: Annie
+	tag: ch-57
+	tag: Kat
+	tag: p-35
+page:1651
+	date: 2016-03-30
+	desc: Kat: We were all super surprised when we found out he fancied you!
+	tag: Annie
+	tag: ch-57
+	tag: Kat
+	tag: p-34
+	tag: Paz
+page:1650
+	date: 2016-03-28
+	desc: Kat: Tell me what happened, tell me what happened!
+	tag: Annie
+	tag: ch-57
+	tag: CreatorGlyph
+	tag: Janet
+	tag: Kat
+	tag: p-33
+	tag: Paz
+	tag: Rey
+	tag: Winsbury
+page:1649
+	date: 2016-03-25
+	desc: Reynard: Well then at least do this for me...
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Etherium
+	tag: Janet
+	tag: John
+	tag: Kat
+	tag: Margo
+	tag: p-32
+	tag: Paz
+	tag: Rey
+	tag: Winsbury
+page:1648
+	date: 2016-03-23
+	desc: Reynard: And... You're sure about wanting me to remain with Katerina?
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Etherium
+	tag: p-31
+	tag: Rey
+page:1647
+	date: 2016-03-21
+	desc: Reynard: Look, I've been thinking about this...
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Etherium
+	tag: p-30
+	tag: Rey
+page:1646
+	date: 2016-03-18
+	desc: Winsbury: Anyway we should get back. I bet the others are tearing their hair out
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Janet
+	tag: John
+	tag: Kat
+	tag: Margo
+	tag: p-29
+	tag: Paz
+	tag: Winsbury
+page:1645
+	date: 2016-03-16
+	desc: Annie: I think it is wonderful that you have each other
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Janet
+	tag: p-28
+	tag: Winsbury
+page:1644
+	date: 2016-03-14
+	desc: Janet: We ask that you keep this a secret too!
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Janet
+	tag: p-27
+	tag: Winsbury
+page:1643
+	date: 2016-03-11
+	desc: Winsbury: I'm really sorry about this, Carver
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Flashback
+	tag: Janet
+	tag: Kat
+	tag: p-26
+	tag: Paz
+	tag: Winsbury
+page:1642
+	date: 2016-03-09
+	desc: Winsbury: I'm really sorry about this, Carver
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Flashback
+	tag: Janet
+	tag: Kat
+	tag: p-25
+	tag: Paz
+	tag: Winsbury
+page:1641
+	date: 2016-03-07
+	desc: Annie: Are you... a **couple**?!
+	tag: Annie
+	tag: BowlingAlley
+	tag: ch-57
+	tag: Janet
+	tag: p-24
+	tag: WeddingDress
+	tag: Winsbury
 page:1640
 	date: 2016-03-04
 	desc: Janet: **Oh William!**
@@ -36,7 +169,7 @@ page:1640
 	tag: BowlingAlley
 	tag: ch-57
 	tag: Janet
-	tag: p-22
+	tag: p-23
 	tag: Tears
 	tag: Winsbury
 page:1639
@@ -2024,6 +2157,7 @@ page:1451
 	date: 2014-12-29
 	desc: Seraphs: It was worth it
 	tag: ch-49
+	tag: p-70
 	tag: Robots
 	tag: RobotS13
 	tag: Seraph
@@ -2032,6 +2166,7 @@ page:1450
 	date: 2014-12-26
 	desc: Seraph: The Creator hates us now
 	tag: ch-49
+	tag: p-69
 	tag: Robots
 	tag: Seraph
 	tag: Warehouse113
@@ -2041,6 +2176,7 @@ page:1449
 	tag: Anja
 	tag: Annie
 	tag: ch-49
+	tag: p-68
 	tag: Donny
 	tag: Kat
 	tag: SubDorm
@@ -2049,6 +2185,7 @@ page:1448
 	desc: Kat: ... kind of distracted recently
 	tag: Annie
 	tag: ch-49
+	tag: p-67
 	tag: Hellboy
 	tag: Kat
 	tag: SubDorm
@@ -2058,6 +2195,7 @@ page:1447
 	tag: Annie
 	tag: AntimonySymbol
 	tag: ch-49
+	tag: p-66
 	tag: CruiseLiner
 	tag: Jack
 	tag: Kat
@@ -2070,6 +2208,7 @@ page:1446
 	desc: Jack: Didn't see a reason to say no
 	tag: Annie
 	tag: ch-49
+	tag: p-65
 	tag: CruiseLiner
 	tag: Gamma
 	tag: Jack
@@ -2080,6 +2219,7 @@ page:1445
 	desc: Robot Minion: Sir, here is the ship's CPU.
 	tag: Annie
 	tag: ch-49
+	tag: p-64
 	tag: CPU
 	tag: CruiseLiner
 	tag: Gamma
@@ -2094,6 +2234,7 @@ page:1444
 	desc: Annie: \*Cough\* I - I think it's over...
 	tag: BlueSmoke
 	tag: ch-49
+	tag: p-63
 	tag: CruiseLiner
 	tag: Gamma
 	tag: Jack
@@ -2111,6 +2252,7 @@ page:1443
 	tag: Angel
 	tag: BlueSmoke
 	tag: ch-49
+	tag: p-62
 	tag: CruiseLiner
 	tag: Kat
 	tag: Lightning
@@ -2122,6 +2264,7 @@ page:1442
 	desc: Seraph: Creator...
 	tag: Annie
 	tag: ch-49
+	tag: p-61
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Kat
@@ -2138,6 +2281,7 @@ page:1441
 	tag: Annie
 	tag: Becky
 	tag: ch-49
+	tag: p-60
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Kat
@@ -2151,6 +2295,7 @@ page:1440
 	date: 2014-12-03
 	desc: Jenny: Here! I'm here!
 	tag: ch-49
+	tag: p-59
 	tag: CruiseLiner
 	tag: Jack
 	tag: Rain
@@ -2164,6 +2309,7 @@ page:1439
 	desc: CRASH / SMASH / Shhhhhhhh
 	tag: Annie
 	tag: ch-49
+	tag: p-58
 	tag: CruiseLiner
 	tag: Jack
 	tag: Kat
@@ -2176,6 +2322,7 @@ page:1438
 	date: 2014-11-28
 	desc: Janet: The ship is changing back!
 	tag: ch-49
+	tag: p-57
 	tag: CruiseLiner
 	tag: Lindsey
 	tag: Paz
@@ -2185,6 +2332,7 @@ page:1437
 	desc: Janet: The ship is changing back!
 	tag: Annie
 	tag: ch-49
+	tag: p-56
 	tag: CruiseLiner
 	tag: Gamma
 	tag: Jack
@@ -2197,6 +2345,7 @@ page:1436
 	date: 2014-11-24
 	desc: (Paz underwater)
 	tag: ch-49
+	tag: p-55
 	tag: Lindsey
 	tag: Paz
 	tag: Sea
@@ -2204,6 +2353,7 @@ page:1435
 	date: 2014-11-21
 	desc: BLOOSH
 	tag: ch-49
+	tag: p-54
 	tag: Paz
 	tag: Sea
 	tag: Zimmingham
@@ -2212,6 +2362,7 @@ page:1434
 	desc: CruiseLiner: No! Not yet!
 	tag: BLOOM
 	tag: ch-49
+	tag: p-53
 	tag: CruiseLiner
 	tag: Kat
 	tag: Kiss
@@ -2223,6 +2374,7 @@ page:1433
 	desc: Jack: Destroy the last syphon!
 	tag: Annie
 	tag: ch-49
+	tag: p-52
 	tag: Jack
 	tag: Kat
 	tag: Shadow
@@ -2233,6 +2385,7 @@ page:1432
 	desc: Shadow: Please listen, Miss Paz...
 	note: The CruiseLiner looking much more whale-like
 	tag: ch-49
+	tag: p-51
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Kat
@@ -2245,6 +2398,7 @@ page:1431
 	desc: Shadow: Those creepy bird robot things came from this way...
 	note: Shadow in bird/winged boy form
 	tag: ch-49
+	tag: p-50
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Robots
@@ -2257,6 +2411,7 @@ page:1430
 	desc: Annie: will Jenny be okay?
 	tag: Annie
 	tag: ch-49
+	tag: p-49
 	tag: Etherics
 	tag: Gamma
 	tag: Jack
@@ -2270,6 +2425,7 @@ page:1429
 	date: 2014-11-07
 	note: ZZAPP!
 	tag: ch-49
+	tag: p-48
 	tag: Etherics
 	tag: Jenny
 	tag: Robots
@@ -2282,6 +2438,7 @@ page:1428
 	note: Jenny disguised as Zimmy
 	tag: BLOOM
 	tag: ch-49
+	tag: p-47
 	tag: Jenny
 	tag: Robots
 	tag: Seraph
@@ -2292,6 +2449,7 @@ page:1427
 	desc: Seraph: They have destroyed another ether syphon
 	tag: BLOOM
 	tag: ch-49
+	tag: p-46
 	tag: Robots
 	tag: Seraph
 	tag: Zimmingham
@@ -2301,6 +2459,7 @@ page:1426
 	desc: CruiseLiner: The students and robots have banded together
 	tag: BLOOM
 	tag: ch-49
+	tag: p-45
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Kat
@@ -2314,6 +2473,7 @@ page:1425
 	date: 2014-10-29
 	desc: Paz: Making Kat change your body will not make her like you!
 	tag: ch-49
+	tag: p-44
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Kat
@@ -2329,6 +2489,7 @@ page:1424
 	note: Zimmy is represented by her hair
 	tag: Annie
 	tag: ch-49
+	tag: p-43
 	tag: Ectoplasm
 	tag: Gamma
 	tag: Jack
@@ -2345,6 +2506,7 @@ page:1423
 	tag: AnnieCut
 	tag: AntimonySymbol
 	tag: ch-49
+	tag: p-42
 	tag: EthericSyphon
 	tag: Jack
 	tag: Rey
@@ -2357,6 +2519,7 @@ page:1422
 	tag: Annie
 	tag: AntimonySymbol
 	tag: ch-49
+	tag: p-41
 	tag: Fight
 	tag: Fire
 	tag: Jack
@@ -2374,6 +2537,7 @@ page:1421
 	tag: Annie
 	tag: AntimonySymbol
 	tag: ch-49
+	tag: p-40
 	tag: Fight
 	tag: Rey
 	tag: RobotS13
@@ -2387,6 +2551,7 @@ page:1420
 	note: SailorBot have been transformed by Zimmingham 
 	tag: Annie
 	tag: ch-49
+	tag: p-39
 	tag: Jenny
 	tag: Rey
 	tag: RobotKing
@@ -2402,6 +2567,7 @@ page:1419
 	tag: Annie
 	tag: BLOOM
 	tag: ch-49
+	tag: p-38
 	tag: Gamma
 	tag: Jack
 	tag: Jenny
@@ -2416,6 +2582,7 @@ page:1418
 	desc: Robot: Destroying one of those platforms should destabilise the warped area
 	tag: BLOOM
 	tag: ch-49
+	tag: p-37
 	tag: EthericSyphon
 	tag: Rey
 	tag: RobotS13
@@ -2429,6 +2596,7 @@ page:1417
 	date: 2014-10-10
 	desc: Reynard: There! That must be it!
 	tag: ch-49
+	tag: p-36
 	tag: EthericSyphon
 	tag: Rey
 	tag: Speedboat
@@ -2441,6 +2609,7 @@ page:1416
 	date: 2014-10-08
 	desc: Cruise Liner: I have admired Lindsey for a long time
 	tag: ch-49
+	tag: p-35
 	tag: CruiseLiner
 	tag: Kat
 	tag: Lindsey
@@ -2451,6 +2620,7 @@ page:1415
 	date: 2014-10-06
 	desc: Kat: Look! I can affect the shape just by thinking about it!
 	tag: ch-49
+	tag: p-34
 	tag: Bones
 	tag: CruiseLiner
 	tag: Ectoplasm
@@ -2464,6 +2634,7 @@ page:1414
 	note: Kat out of frame, but final speech bubble is her, from its colour
 	tag: Annie
 	tag: ch-49
+	tag: p-33
 	tag: Ectoplasm
 	tag: Gamma
 	tag: Jack
@@ -2476,6 +2647,7 @@ page:1413
 	desc: Student: Hey! We found someone else!
 	tag: Annie
 	tag: ch-49
+	tag: p-32
 	tag: Gamma
 	tag: Jack
 	tag: Jenny
@@ -2490,6 +2662,7 @@ page:1412
 	tag: AntimonySymbol
 	tag: BlinkerStone
 	tag: ch-49
+	tag: p-31
 	tag: Drone
 	tag: Rey
 	tag: RobotS13
@@ -2504,6 +2677,7 @@ page:1411
 	tag: Annie
 	tag: BlinkerStone
 	tag: ch-49
+	tag: p-30
 	tag: Court
 	tag: Drone
 	tag: Jack
@@ -2517,6 +2691,7 @@ page:1410
 	note: BioLimb reactor vessel shatters as the limb fully transforms to Ectoplasm
 	tag: BioLimb
 	tag: ch-49
+	tag: p-29
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Kat
@@ -2528,6 +2703,7 @@ page:1409
 	desc: Cruise Liner: Creator. Please make me flesh
 	tag: BioLimb
 	tag: ch-49
+	tag: p-28
 	tag: CruiseLiner
 	tag: Ectoplasm
 	tag: Kat
@@ -2539,6 +2715,7 @@ page:1408
 	desc: Jenny: You could say he's a little... obsessed with this Zimmy, hehe!
 	tag: Annie
 	tag: ch-49
+	tag: p-27
 	tag: Jack
 	tag: Jenny
 	tag: Kat
@@ -2550,6 +2727,7 @@ page:1407
 	desc: Jack: Well, I hoped I'd never see this place again!
 	tag: Annie
 	tag: ch-49
+	tag: p-26
 	tag: Jack
 	tag: Jenny
 	tag: Ward
@@ -2560,6 +2738,7 @@ page:1406
 	desc: (Zimingham arises from the waves with monsterous silhouettes (the Seraph robots?) on walls)
 	tag: Annie
 	tag: ch-49
+	tag: p-25
 	tag: Gamma
 	tag: Jack
 	tag: Janet
@@ -2573,6 +2752,7 @@ page:1405
 	tag: Annie
 	tag: BlinkerStone
 	tag: ch-49
+	tag: p-24
 	tag: CruiseLiner
 	tag: Drone
 	tag: Jack
@@ -2585,6 +2765,7 @@ page:1404
 	tag: Annie
 	tag: BlinkerStone
 	tag: ch-49
+	tag: p-23
 	tag: CruiseLiner
 	tag: Drone
 	tag: Jack
@@ -2598,6 +2779,7 @@ page:1403
 	tag: Annie
 	tag: BlinkerStone
 	tag: ch-49
+	tag: p-22
 	tag: CruiseLiner
 	tag: Jack
 	tag: Janet
@@ -2613,6 +2795,7 @@ page:1402
 	desc: Seraph: No threat
 	tag: Annie
 	tag: ch-49
+	tag: p-21
 	tag: CruiseLiner
 	tag: Etherics
 	tag: HardHat
@@ -2630,6 +2813,7 @@ page:1401
 	desc: Seraph: Your fire-type abilities are temporarily suspended
 	tag: Annie
 	tag: ch-49
+	tag: p-20
 	tag: CruiseLiner
 	tag: Etherics
 	tag: Gamma
@@ -2647,6 +2831,7 @@ page:1400
 	note: Annie throws a fireball at a SailorBot
 	tag: Annie
 	tag: ch-49
+	tag: p-19
 	tag: CruiseLiner
 	tag: Etherics
 	tag: EthericSyphon
@@ -2661,6 +2846,7 @@ page:1399
 	desc: Seraph: We hypothesise the desired result can be achieved by altering reality
 	tag: BioLimb
 	tag: ch-49
+	tag: p-18
 	tag: CruiseLiner
 	tag: Gamma
 	tag: Kat
@@ -2674,6 +2860,7 @@ page:1398
 	desc: Ship: You will make me flesh, and I will finally win the heart of Lindsey
 	tag: Annie
 	tag: ch-49
+	tag: p-17
 	tag: CruiseLiner
 	tag: Kat
 	tag: Paz
@@ -2684,6 +2871,7 @@ page:1397
 	date: 2014-08-25
 	desc: Sailor Bot: Creator Kat. You will make me flesh
 	tag: ch-49
+	tag: p-16
 	tag: BioLimb
 	tag: CruiseLiner
 	tag: Kat
@@ -2696,6 +2884,7 @@ page:1396
 	desc: Ship: Attention, passengers
 	tag: Annie
 	tag: ch-49
+	tag: p-15
 	tag: CruiseLiner
 	tag: Kat
 	tag: Paz
@@ -2708,6 +2897,7 @@ page:1395
 	desc: Jenny: C'mon honey, it'll be ok
 	tag: Annie
 	tag: ch-49
+	tag: p-14
 	tag: CruiseLiner
 	tag: Gamma
 	tag: Jack
@@ -2721,6 +2911,7 @@ page:1394
 	desc: Jack: Carver! Did you know Zimmy was here?!
 	tag: Annie
 	tag: ch-49
+	tag: p-13
 	tag: CruiseLiner
 	tag: Gamma
 	tag: Jack
@@ -2732,6 +2923,7 @@ page:1393
 	tag: Annie
 	tag: Becky
 	tag: ch-49
+	tag: p-12
 	tag: CruiseLiner
 	tag: Jack
 	tag: Janet
@@ -2749,6 +2941,7 @@ page:1392
 	desc: Annie: Ah! You both look lovely!
 	tag: Annie
 	tag: ch-49
+	tag: p-11
 	tag: CruiseLiner
 	tag: Kat
 	tag: Moon
@@ -2758,6 +2951,7 @@ page:1391
 	date: 2014-08-11
 	desc: Poster: Summertime / year end / Ocean-style / DANCE / with music! / NO / breakdancing / allowed / TONIGHT
 	tag: ch-49
+	tag: p-10
 	tag: CruiseLiner
 	tag: Sea 
 	tag: Robots
@@ -2768,6 +2962,7 @@ page:1390
 	tag: AnchorSymbol
 	tag: Annie
 	tag: ch-49
+	tag: p-09
 	tag: CruiseLiner
 	tag: Gamma
 	tag: Robots
@@ -2781,6 +2976,7 @@ page:1389
 	tag: Annie
 	tag: Becky
 	tag: ch-49
+	tag: p-08
 	tag: CruiseLiner
 	tag: Gamma
 	tag: Kat
@@ -2798,6 +2994,7 @@ page:1388
 	tag: Annie
 	tag: Becky
 	tag: ch-49
+	tag: p-07
 	tag: CruiseLiner
 	tag: Kat
 	tag: Lindsey
@@ -2811,6 +3008,7 @@ page:1387
 	tag: AnchorSymbol
 	tag: Annie
 	tag: ch-49
+	tag: p-06
 	tag: CruiseLiner
 	tag: Kat
 	tag: Lindsey
@@ -2824,6 +3022,7 @@ page:1386
 	tag: AnchorSymbol
 	tag: Annie
 	tag: ch-49
+	tag: p-05
 	tag: CruiseLiner
 	tag: Kat
 	tag: Quay
@@ -2836,6 +3035,7 @@ page:1385
 	tag: AnchorSymbol
 	tag: Annie
 	tag: ch-49
+	tag: p-04
 	tag: Jack
 	tag: Jenny
 	tag: Kat
@@ -2847,6 +3047,7 @@ page:1384
 	tag: AnchorSymbol
 	tag: Annie
 	tag: ch-49
+	tag: p-03
 	tag: Jack
 	tag: Jenny
 	tag: Kat
@@ -2858,6 +3059,7 @@ page:1383
 	desc: [EXCITED INTONATION]
 	tag: Annie
 	tag: ch-49
+	tag: p-02
 	tag: CruiseLiner
 	tag: Kat
 	tag: Lindsey
@@ -2868,6 +3070,7 @@ page:1382
 	date: 2014-07-21
 	desc: Chapter 49:<br><br>**The Torn Sea**<br><br>_Icon: calm, sunny water_
 	tag: ch-49
+	tag: p-01
 	tag: Cover
 page:1381
 	auth: Tom: She beat up Coyote single handed?!
@@ -16827,6 +17030,7 @@ page:100
 	tag: Eglamore
 	tag: EtherSymbol
 	tag: Kat
+	tag: p-04
 page:99
 	date: 2006-03-14
 	desc: (Robot is on the bridge with a wooden arm, Rey is trying to drag Annie away, Eglamore is running towards them)
@@ -16834,6 +17038,7 @@ page:99
 	tag: Bridge
 	tag: ch-07
 	tag: Eglamore
+	tag: p-03
 	tag: Rey
 	tag: RobotS13
 	tag: Shadowman
@@ -16848,12 +17053,14 @@ page:98
 	tag: Court
 	tag: Kat
 	tag: LeadSymbol
+	tag: p-02
 	tag: TicToc
 page:97
 	date: 2006-03-07
 	desc: Chapter 7:<br><br>**Of New and Old**<br><br>_Icon: TicToc_
 	tag: ch-07
 	tag: Cover
+	tag: p-01
 	tag: TicToc
 page:96
 	auth: Tom: Kat probably only has action figures she thinks are hot.
@@ -16876,6 +17083,7 @@ page:95
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
+	tag: p-11
 	tag: Tony
 page:94
 	date: 2006-02-23
@@ -16887,6 +17095,7 @@ page:94
 	tag: GoodHope
 	tag: Habitat
 	tag: Kat
+	tag: p-10
 	tag: Tony
 page:93
 	date: 2006-02-21
@@ -16896,6 +17105,7 @@ page:93
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
+	tag: p-09
 	tag: Tony
 page:92
 	date: 2006-02-16
@@ -16907,6 +17117,7 @@ page:92
 	tag: Crying
 	tag: Habitat
 	tag: Kat
+	tag: p-08
 page:91
 	date: 2006-02-14
 	desc: You caught us red handed! Hahaha!
@@ -16916,6 +17127,7 @@ page:91
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
+	tag: p-07
 page:90
 	date: 2006-02-09
 	desc: (Annie and Kat throw cherries into each others' mouths and Kat falls out of the tree)
@@ -16924,6 +17136,7 @@ page:90
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
+	tag: p-06
 page:89
 	date: 2006-02-07
 	desc: (Annie and Kat climb the tree and sit in it)
@@ -16932,6 +17145,7 @@ page:89
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
+	tag: p-05
 page:88
 	date: 2006-02-02
 	desc: We all eat a handful of dirt before we die, Annie. Who cares if it tastes like cherries?
@@ -16940,6 +17154,7 @@ page:88
 	tag: CherryTree
 	tag: Habitat
 	tag: Kat
+	tag: p-04
 page:87
 	date: 2006-01-31
 	desc: I wanted to show you something
@@ -16948,6 +17163,7 @@ page:87
 	tag: Court
 	tag: Habitat
 	tag: Kat
+	tag: p-03
 page:86
 	date: 2006-01-26
 	desc: Tell me more about Mr. Eglamore! What was it like being wrapped up in his arms?
@@ -16957,6 +17173,7 @@ page:86
 	tag: ch-06
 	tag: HabitatSymbol
 	tag: Kat
+	tag: p-02
 page:85
 	date: 2006-01-24
 	desc: Chapter 6:<br><br>**A Handful of Dirt**<br><br>_Icon: the Cherry Tree in the Habitat_
@@ -16964,6 +17181,7 @@ page:85
 	tag: CherryTree
 	tag: Cover
 	tag: Habitat
+	tag: p-01
 page:84
 	date: 2006-01-19
 	desc: Bonus Page: Cupid Undone (Winsbury and Janet secretly express their love) (room tscd504)
@@ -16983,6 +17201,7 @@ page:83
 	tag: Gamma
 	tag: Hall
 	tag: Kat
+	tag: p-15
 	tag: Rey
 	tag: Zimmy
 page:82
@@ -16993,6 +17212,7 @@ page:82
 	tag: Gamma
 	tag: Hall
 	tag: Kat
+	tag: p-14
 	tag: Rey
 	tag: Zimmy
 page:81
@@ -17004,6 +17224,7 @@ page:81
 	tag: Gamma
 	tag: Hall
 	tag: Kat
+	tag: p-13
 	tag: Rey
 	tag: Zimmy
 page:80
@@ -17014,6 +17235,7 @@ page:80
 	tag: ch-05
 	tag: Hall
 	tag: Kat
+	tag: p-12
 	tag: Rey
 	tag: Zimmy
 page:79
@@ -17024,6 +17246,7 @@ page:79
 	tag: Gamma
 	tag: Hall
 	tag: Kat
+	tag: p-11
 	tag: Rey
 	tag: WolfToy
 	tag: Zimmy
@@ -17037,6 +17260,7 @@ page:78
 	tag: Gamma
 	tag: Hall
 	tag: Kat
+	tag: p-10
 	tag: WolfToy
 	tag: Zimmy
 page:77
@@ -17047,6 +17271,7 @@ page:77
 	tag: Dorm
 	tag: Hall
 	tag: Kat
+	tag: p-09
 	tag: Students
 page:76
 	date: 2005-12-22
@@ -17055,6 +17280,7 @@ page:76
 	tag: ch-05
 	tag: Gamma
 	tag: Hall
+	tag: p-08
 	tag: Zimmy
 page:75
 	date: 2005-12-20
@@ -17069,6 +17295,7 @@ page:75
 	tag: Eglamore
 	tag: Hall
 	tag: Kat
+	tag: p-07
 page:74
 	date: 2005-12-15
 	desc: I'll see you and bignose and 'er crappy invention tomorrow!
@@ -17078,6 +17305,7 @@ page:74
 	tag: Gamma
 	tag: Kat
 	tag: Library
+	tag: p-06
 	tag: Zimmy
 page:73
 	date: 2005-12-13
@@ -17088,6 +17316,7 @@ page:73
 	tag: Gamma
 	tag: Kat
 	tag: Library
+	tag: p-05
 	tag: Zimmy
 page:72
 	date: 2005-12-08
@@ -17098,6 +17327,7 @@ page:72
 	tag: Gamma
 	tag: Kat
 	tag: Library
+	tag: p-04
 	tag: Zimmy
 page:71
 	date: 2005-12-06
@@ -17107,6 +17337,7 @@ page:71
 	tag: ch-05
 	tag: Classroom
 	tag: Kat
+	tag: p-03
 page:70
 	date: 2005-12-01
 	desc: Class 7qn's entrant in the year 7 science fair will be Katerina's zero gravity generator!
@@ -17114,6 +17345,7 @@ page:70
 	tag: ch-05
 	tag: Classroom
 	tag: Kat
+	tag: p-02
 	tag: Teacher
 page:69
 	date: 2005-11-29
@@ -17124,6 +17356,7 @@ page:69
 	tag: Cover
 	tag: Gamma
 	tag: Library
+	tag: p-01
 	tag: Zeta
 page:68
 	date: 2005-11-24
@@ -17139,12 +17372,14 @@ page:67
 	tag: ch-04
 	tag: Court
 	tag: Mort
+	tag: p-09
 page:66
 	date: 2005-11-17
 	desc: (Paz gets frightened by a creepy circus clown, screams and runs away)
 	tag: ch-04
 	tag: Circus
 	tag: Clowns
+	tag: p-08
 	tag: Paz
 page:65
 	date: 2005-11-15
@@ -17152,12 +17387,14 @@ page:65
 	tag: ch-04
 	tag: Circus
 	tag: Clowns
+	tag: p-07
 	tag: Paz
 page:64
 	date: 2005-11-10
 	desc: (Paz is walking along, humming, when she realises the door is gone, and a nice balloon)
 	tag: ch-04
 	tag: Court
+	tag: p-06
 	tag: Paz
 page:63
 	date: 2005-11-08
@@ -17166,6 +17403,7 @@ page:63
 	tag: ch-04
 	tag: Court
 	tag: Mort
+	tag: p-05
 page:62
 	date: 2005-11-03
 	desc: I don't think anyone has been scared of the bedsheet phantasm ensemble for a long time
@@ -17173,6 +17411,7 @@ page:62
 	tag: ch-04
 	tag: Court
 	tag: Mort
+	tag: p-04
 page:61
 	date: 2005-11-01
 	desc: I'm a ghost! Aren't you scared?!
@@ -17180,12 +17419,14 @@ page:61
 	tag: ch-04
 	tag: Court
 	tag: Mort
+	tag: p-03
 page:60
 	date: 2005-10-27
 	desc: (Annie trims a bonsai, then hears a ghost wailing)
 	tag: Annie
 	tag: ch-04
 	tag: Court
+	tag: p-02
 page:59
 	date: 2005-10-25
 	desc: Chapter 4:<br><br>**Not Very Scary**<br><br>_Icon: Annie in the Court_
@@ -17193,6 +17434,7 @@ page:59
 	tag: ch-04
 	tag: Court
 	tag: Cover
+	tag: p-01
 page:58
 	date: 2005-10-20
 	desc: Bonus Page: Rogat Orjak (Hardwick and Little's Bestiary)
