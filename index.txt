@@ -29,6 +29,358 @@
 ; TODO: page numbers 
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1683
+	date: 2016-06-13
+	desc: Smitty: What's in here?!
+	tag: Annie
+	tag: Blush
+	tag: ch-58
+	tag: Hearts
+	tag: JackalopeBoy
+	tag: p-26
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+page:1682
+	date: 2016-06-10
+	desc: Parley: Okay. I think... <br> I want to eat a whole cow
+	tag: Annie
+	tag: ch-58
+	tag: Eglamore
+	tag: JackalopeBoy
+	tag: p-25
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+page:1681
+	date: 2016-06-08
+	desc: Parley: Sorry, sorry! I've gotten stronger...
+	tag: Annie
+	tag: ch-58
+	tag: Eglamore
+	tag: Hearts
+	tag: JackalopeBoy
+	tag: p-24
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+page:1680
+	date: 2016-06-06
+	desc: Annie: I've had to... learn to focus more recently
+	tag: Annie
+	tag: ch-58
+	tag: Eglamore
+	tag: JackalopeBoy
+	tag: p-23
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+page:1679
+	date: 2016-06-03
+	desc: Smitty: Parley's back!
+	tag: Annie
+	tag: ch-58
+	tag: JackalopeBoy
+	tag: p-22
+	tag: Phone
+	tag: Smitty
+	tag: Snuffle
+	tag: Strings
+page:1678
+	date: 2016-06-01
+	desc: Bugsy: The work's kinda boring, sure, but you don't know how important getting our own names is!
+	tag: Annie
+	tag: Bugsy
+	tag: BlueHair
+	tag: JackalopeBoy
+	tag: ch-58
+	tag: p-21
+	tag: Smitty
+	tag: Snuffle
+page:1677
+	date: 2016-05-30
+	desc: Annie: It's exhausting keeping up with them all!
+	tag: Annie
+	tag: Bugsy
+	tag: ch-58
+	tag: p-20
+	tag: Smitty
+page:1676
+	date: 2016-05-27
+	desc: Annie: Can you all manipulate the Ether like this?
+	tag: Annie
+	tag: AnnieCut
+	tag: BlueHair
+	tag: ch-58
+	tag: Etherium
+	tag: GoldenHair
+	tag: JackalopeBoy
+	tag: p-19
+	tag: PurpleHair
+	tag: Snuffle
+page:1675
+	date: 2016-05-25
+	desc: Snuffle: Wow! They can give you names here?!
+	tag: Annie
+	tag: AnnieCut
+	tag: BlueHair
+	tag: Bugsy
+	tag: CantRemember
+	tag: ch-58
+	tag: Computer
+	tag: DataStream
+	tag: DVDs
+	tag: Etherium
+	tag: JackalopeBoy
+	tag: p-18
+	tag: PurpleHair
+	tag: Snuffle
+	tag: SymbolText
+page:1674
+	date: 2016-05-23
+	desc: The classes are pretty boring most of the time, but we can do whatever we want as long as the work gets done!
+	tag: Bugsy
+	tag: ch-58
+	tag: Computer
+	tag: DataConnection
+	tag: Etherium
+	tag: GoldenHair
+	tag: JackalopeBoy
+	tag: p-17
+	tag: Snuffle
+	tag: SymbolText
+page:1673
+	date: 2016-05-20
+	desc: ... learn ... how to speak and read!
+	tag: Bugsy
+	tag: ch-58
+	tag: Computer
+	tag: DataStream
+	tag: Etherium
+	tag: GoldenHair
+	tag: JackalopeBoy
+	tag: KeyTops
+	tag: p-16
+	tag: PurpleHair
+	tag: SymbolText
+page:1672
+	date: 2016-05-18
+	desc: Annie: I can't understand---
+	tag: Annie
+	tag: AnnieCut
+	tag: Bugsy
+	tag: BlueHair
+	tag: ch-58
+	tag: Clothes
+	tag: Computer
+	tag: Etherium
+	tag: GoldenHair
+	tag: JackalopeBoy
+	tag: p-15
+	tag: Smoke
+	tag: SymbolText
+page:1671
+	date: 2016-05-15
+	desc: Annie: Ms. Bugsy, can you see these?
+	tag: Annie
+	tag: AnnieCut
+	tag: Bugsy
+	tag: ch-58
+	tag: Etherium
+	tag: p-14
+	tag: Smitty
+	tag: Strings
+page:1670
+	date: 2016-05-13
+	desc: Annie: Snuffle, you look amazing
+	tag: Annie
+	tag: AnnieCut
+	tag: Bugsy
+	tag: ch-58
+	tag: Etherium
+	tag: Flowers
+	tag: Forest
+	tag: JackalopeBoy
+	tag: p-13
+	tag: PurpleHair
+	tag: Smitty
+	tag: Snuffle
+	tag: Strings
+page:1669
+	date: 2016-05-11
+	desc: Bugsy: Ah, you made it
+	tag: Annie
+	tag: AnnieCut
+	tag: BlueHair
+	tag: PurpleHair
+	tag: Bugsy
+	tag: ch-58
+	tag: Etherium
+	tag: GoldenHair
+	tag: JackalopeBoy
+	tag: p-12
+	tag: Snuffle
+;	check tag for multiple fairy/pupils
+page:1668
+	date: 2016-05-09
+	desc: Smitty: Now what's happening?
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-58
+	tag: Etherium
+	tag: JackalopeBoy
+	tag: p-11
+	tag: Smitty
+page:1667
+	date: 2016-05-06
+	desc: Snuffle: I think what would be good would be if you all try eating less on account of how fat and stupid you all look
+	note: a classroom full of former forest denizens
+	tag: Bugsy
+	tag: BlueHair
+	tag: ch-58
+	tag: GoldenHair
+	tag: JackalopeBoy
+	tag: p-10
+	tag: Smitty
+	tag: Snuffle
+page:1666
+	date: 2016-05-04
+	desc: Bugsy: Oh! Lemme go get your buddy!
+	tag: Annie
+	tag: Bugsy
+	tag: ch-58
+	tag: JackalopeBoy
+	tag: p-09
+	tag: Smitty
+	tag: Snuffle
+page:1665
+	date: 2016-05-02
+	desc: Snuffle: Finally, a sane person!
+	tag: Annie
+	tag: Bugsy
+	tag: ch-58
+	tag: p-08
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+	tag: Streamers
+page:1664
+	date: 2016-04-27
+	desc: Smitty: Yeah! That's why I couldn't come with you to the forest, since she was on her training trip with Eglamore
+	tag: Annie
+	tag: ch-58
+	tag: Eglamore
+	tag: p-07
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+page:1663
+	date: 2016-04-27
+	desc: Snuffle: Kinda crummy
+	tag: Annie
+	tag: ch-58
+	tag: p-06
+	tag: Smitty
+	tag: Snuffle
+page:1662
+	date: 2016-04-25
+	desc: Court Worker: Standard decontamination procedure
+	note: Numbered as page 4 on the Gunnerkrigg site
+	tag: Annie
+	tag: ch-58
+	tag: Court
+	tag: DecontaminationUnit
+	tag: p-05
+	tag: Smitty
+	tag: Snuffle
+page:1661
+	date: 2016-04-22
+	desc: The Welcome Wagon
+	tag: Annie
+	tag: Bridge
+	tag: ch-58
+	tag: Court
+	tag: Coyote
+	tag: DecontaminationUnit
+	tag: Gillitie
+	tag: p-04
+	tag: Snuffle
+page:1660
+	date: 2016-04-20
+	desc: Coyote: On this day, daughter of the forest, < Snuffle > has been granted entry into the Court!
+	tag: Achewater
+	tag: Annie
+	tag: Anwyn
+	tag: Canvey
+	tag: ch-58
+	tag: Coyote
+	tag: Fairies
+	tag: Gillitie
+	tag: Music
+	tag: p-03
+	tag: Snuffle
+	tag: Streamers
+	tag: Ysengrin
+page:1659
+	date: 2016-04-18
+	desc: "This really is a BIG DAY"
+	tag: ch-58
+	tag: Coyote
+	tag: Gillitie
+	tag: p-02
+	tag: Streamers
+	tag: Ysengrin
+page:1658
+	date: 2016-04-15
+	desc: Chapter 58:<br><br>**A Big Day!**<br><br>Icon: Three stones?
+	tag: ch-58
+	tag: p-01
+page:1657
+	date: 2016-04-13
+	desc: Rey: You should invest in more of those liquid carbon missiles
+	tag: Annie
+	tag: CreatorGlyph
+	tag: Eyepatch
+	tag: Filler
+	tag: Heart
+	tag: Kat
+	tag: Rey
+	tag: Sketch
+page:1656
+	date: 2016-04-11
+	desc: Annie: Oh! It's another game about this man
+	note: Metal Gear Solid V: Phantom Pain
+	tag: Annie
+	tag: CreatorGlyph
+	tag: Filler
+	tag: Kat
+	tag: Rey
+	tag: Sketch
+page:1655
+	date: 2016-04-08
+	desc: Bonus Page 57: Cleared Up
+	note: see [Ch 34, p38](#p939) and [p46](#p945)
+	tag: Annie
+	tag: Bud
+	tag: Flashback
+	tag: Janet
+	tag: John
+	tag: Kat
+	tag: Margo
+	tag: Paz
+	tag: Tea
+	tag: Winsbury
+page:1654
+	date: 2016-04-06
+	desc: [Annie adjusts her hair, does not incinerate anything]
+	note: see [1621](#p1621)
+	tag: Annie
+	tag: ch-57
+	tag: Fire
+	tag: Blush
+	tag: Boy-a
+	tag: Girl-b
+	tag: p-37
 page:1653
 	date: 2016-04-04
 	desc: [Annie, daydreaming walking through the school, meets door]
@@ -36,6 +388,8 @@ page:1653
 	tag: ch-57
 	tag: Fire
 	tag: Flashback
+	tag: Boy-a
+	tag: Girl-b
 	tag: p-36
 page:1652
 	date: 2016-04-01
@@ -3113,7 +3467,6 @@ page:1378
 	desc: Snuffle: Will she forget me?
 	note: [Flashback](http://www.gunnerkrigg.com/?p=1286)
 	tag: Annie
-	tag: Anwyn
 	tag: ch-48
 	tag: Fairies
 	tag: Fire
@@ -3127,7 +3480,6 @@ page:1377
 	date: 2014-07-09
 	desc: Snuffle: She says she wants to be more than she is...
 	tag: Annie
-	tag: Anwyn
 	tag: Canvey
 	tag: ch-48
 	tag: Fairies
@@ -3141,16 +3493,15 @@ page:1376
 	date: 2014-07-07
 	desc: Snuffle: It's my friend... She wants to be human
 	tag: Annie
-	tag: Anwyn
 	tag: Canvey
 	tag: ch-48
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
-	tag: Snuffle
 	tag: Jackalope
 	tag: Party
 	tag: Smitty
+	tag: Snuffle
 page:1375
 	date: 2014-07-04
 	desc: (Fairy aerobatics)
@@ -3162,11 +3513,11 @@ page:1375
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
-	tag: Snuffle
 	tag: Jackalope
 	tag: Parley
 	tag: Party
 	tag: Smitty
+	tag: Snuffle
 page:1374
 	date: 2014-07-02
 	desc: Canvey: How do you even become human anyway?
@@ -3174,9 +3525,9 @@ page:1374
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: Snuffle
 	tag: Jackalope
 	tag: Party
+	tag: Snuffle
 page:1373
 	date: 2014-06-30
 	desc: Canvey: Okay, okay. So everybody is having fun but you.
@@ -3184,9 +3535,9 @@ page:1373
 	tag: ch-48
 	tag: Fairies
 	tag: Gillitie
-	tag: Snuffle
 	tag: Jackalope
 	tag: Party
+	tag: Snuffle
 page:1372
 	date: 2014-06-27
 	desc: (music winds through the forest night and the Anwyn village)
@@ -3196,12 +3547,13 @@ page:1372
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
-	tag: Snuffle
 	tag: Jackalope
 	tag: Moon
 	tag: MoonPrint
 	tag: Music
 	tag: Party
+	tag: Snuffle
+	tag: Streamers
 page:1371
 	date: 2014-06-25
 	desc: Coyote: Party
@@ -6380,33 +6732,33 @@ page:1037
 	desc: Don't tell me you are looking into her dreams...
 page:1036
 	date: 2012-05-14
-	tag: ch-38
+	desc: Woah! Haha! Did she get a green boyfriend or sumthin'?
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Anwyn
+	tag: ch-38
 	tag: CityFace
 	tag: Gillitie
 	tag: Hospital
+	tag: Jones
 	tag: Kamlen
 	tag: Kat
-	tag: Jones
 	tag: Mask
 	tag: Rey
 	tag: RobotS13
 	tag: Shadow
 	tag: Zimmy
-	desc: Woah! Haha! Did she get a green boyfriend or sumthin'?
 page:1035
 	date: 2012-05-11
-	tag: ch-38
+	desc: Oh yeah, she went into the forest, huh?
 	tag: Annie
 	tag: Bind
+	tag: ch-38
 	tag: CoyoteTooth
 	tag: Gillitie
 	tag: Kamlen
 	tag: Spider
 	tag: Zimmy
-	desc: Oh yeah, she went into the forest, huh?
 page:1034
 	date: 2012-05-09
 	tag: ch-38
@@ -7206,47 +7558,48 @@ page:961
 	tag: Smitty
 page:960
 	date: 2011-11-18
-	tag: ch-35
+	desc: don't stop 'til you hit me this time!
 	tag: Bip
+	tag: ch-35
 	tag: Parley
 	tag: RobotS13
 	tag: Shadow
-	desc: don't stop 'til you hit me this time!
 page:959
 	date: 2011-11-16
+	desc: don't apologise, man, this is awesome!
 	tag: ch-35
 	tag: Parley
 	tag: RobotS13
-	desc: don't apologise, man, this is awesome!
 page:958
 	date: 2011-11-14
-	tag: ch-35
+	desc: Whoa, hey, you're not holding back on me, are ya?!
 	tag: Annie
+	tag: ch-35
 	tag: FlowerHeadband
 	tag: Parley
 	tag: RobotS13
 	tag: Shadow
-	desc: Whoa, hey, you're not holding back on me, are ya?!
 page:957
 	date: 2011-11-11
-	tag: ch-35
+	desc: you must admit, it is a nice sight
 	tag: Annie
+	tag: ch-35
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Rey
 	tag: Smitty
-	desc: you must admit, it is a nice sight
 page:956
 	date: 2011-11-09
+	desc: fencing...
 	tag: ch-35
 	tag: Parley
 	tag: RobotS13
 	tag: Shadow
-	desc: fencing...
 page:955
 	date: 2011-11-07
-	tag: ch-35
+	desc: okay! you up for some sparring, robby?
 	tag: Annie
+	tag: ch-35
 	tag: FlowerHeadband
 	tag: Jeanne
 	tag: Kat
@@ -7254,12 +7607,12 @@ page:955
 	tag: Rey
 	tag: RobotS13
 	tag: Smitty
-	desc: okay! you up for some sparring, robby?
 page:954
 	date: 2011-11-04
-	tag: ch-35
+	desc: did you just do that thing where you say "bam" right when I decide to jump?
 	tag: Annie
 	tag: Bip
+	tag: ch-35
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Parley
@@ -7267,61 +7620,60 @@ page:954
 	tag: RobotS13
 	tag: Shadow
 	tag: Smitty
-	desc: did you just do that thing where you say "bam" right when I decide to jump?
 page:953
 	date: 2011-11-02
-	tag: ch-35
+	desc: Reynard is the resident ladies expert
 	tag: Annie
+	tag: ch-35
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
 	tag: Smitty
-	desc: Reynard is the resident ladies expert
 page:952
 	date: 2011-10-31
-	tag: ch-35
+	desc: Sorry about that. It happens sometimes
 	tag: Annie
 	tag: Bip
+	tag: ch-35
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Parley
 	tag: Rey
 	tag: Smitty
-	desc: sorry about that. It happens sometimes
 page:951
 	date: 2011-10-28
+	desc: byee, little lovelies!
 	tag: ch-35
 	tag: Cookie
 	tag: Jan
 	tag: Parley
 	tag: Smitty
-	desc: byee, little lovelies!
 page:950
 	date: 2011-10-26
-	tag: ch-35
+	desc: aw, look, parley, it's your kiddy club!
 	tag: 113
 	tag: Annie
 	tag: Bip
 	tag: BismuthSymbol
+	tag: ch-35
 	tag: Cookie
 	tag: FlowerHeadband
 	tag: Jan
 	tag: Kat
 	tag: Parley
 	tag: Smitty
-	desc: aw, look, parley, it's your kiddy club!
 page:949
 	date: 2011-10-24
-	tag: ch-35
+	desc: is she not here yet? Ahem... bam. BIP
 	tag: Annie
 	tag: Bip
+	tag: ch-35
 	tag: FlowerHeadband
 	tag: Kat
 	tag: Parley
 	tag: Rey
 	tag: Smitty
-	desc: is she not here yet? Ahem... bam. BIP
 page:948
 	date: 2011-10-21
 	desc: Chapter 35:<br><br>**Parley and Smitty Are In This One**<br><br>_Icon: a flower_
@@ -7337,405 +7689,449 @@ page:947
 	tag: John
 	tag: Kat
 	tag: Margo
+	tag: p-48
 	tag: Winsbury
 page:946
 	date: 2011-10-17
-	tag: ch-34
+	desc: hey Linds, gimmie a kiss
 	tag: Annie
 	tag: AnnieCut
 	tag: Bud
+	tag: ch-34
 	tag: Etherics
 	tag: Lindsey
+	tag: p-47
 	tag: Speakeasy
-	desc: hey Linds, gimmie a kiss
 page:945
 	date: 2011-10-14
-	tag: ch-34
+	desc: They're a good bunch of kids just having some fun
 	tag: Annie
 	tag: Bud
+	tag: ch-34
 	tag: Creeper
 	tag: Etherics
+	tag: p-46
 	tag: Speakeasy
-	desc: They're a good bunch of kids just having some fun
 page:944
 	date: 2011-10-12
-	tag: ch-34
-	tag: Annie
-	tag: Kat
-	tag: Speakeasy
 	desc: Scoot, scoot, dearest
+	tag: Annie
+	tag: ch-34
+	tag: Kat
+	tag: p-45
+	tag: Speakeasy
 page:943
 	date: 2011-10-10
-	tag: ch-34
+	desc: Kat creepin'
 	tag: Annie
+	tag: ch-34
+	tag: Creeper
 	tag: Jack
 	tag: Kat
+	tag: p-44
 	tag: Paz
 	tag: Speakeasy
-	tag: Creeper
-	desc: Kat creepin'
 page:942
 	date: 2011-10-07
-	tag: ch-34
-	tag: Annie
-	tag: Jack
-	tag: Speakeasy
 	desc: well I-
+	tag: Annie
+	tag: ch-34
+	tag: Jack
+	tag: p-43
+	tag: Speakeasy
 page:941
 	date: 2011-10-05
-	tag: ch-34
+	desc: The sun's coming up
 	tag: Annie
 	tag: Buzzer
+	tag: ch-34
 	tag: Jack
+	tag: John
 	tag: Kat
 	tag: Margo
+	tag: p-42
 	tag: Paz
 	tag: Speakeasy
-	tag: John
-	desc: The sun's coming up
 page:940
 	date: 2011-10-03
-	tag: ch-34
+	desc: So really... Zimmy?
 	tag: Annie
+	tag: ch-34
 	tag: Jack
+	tag: p-41
 	tag: Speakeasy
 	tag: Ysengrin
-	desc: So really... Zimmy?
 page:939
 	date: 2011-09-30
-	tag: ch-34
+	desc: huh, looks like they don't believe us!
 	tag: Bud
+	tag: ch-34
 	tag: Janet
+	tag: John
 	tag: Kat
+	tag: Kiss
 	tag: Margo
 	tag: Matt
+	tag: p-40
 	tag: Paz
 	tag: Speakeasy
-	tag: John
 	tag: Winsbury
-	desc: huh, looks like they don't believe us!
 page:938
 	date: 2011-09-28
+	desc: right, right. So you were driving your tricked out horse
 	tag: ch-34
 	tag: Janet
+	tag: p-39
 	tag: Speakeasy
 	tag: Winsbury
-	desc: right, right. So you were driving your tricked out horse
 page:937
 	date: 2011-09-26
+	desc: no no, William, you misremember
 	tag: ch-34
 	tag: Janet
+	tag: p-38
 	tag: Speakeasy
 	tag: Winsbury
-	desc: no no, William, you misremember
 page:936
 	date: 2011-09-23
-	tag: ch-34
+	desc: it all started in year 7 when I was an undercover cop
 	tag: 113
+	tag: ch-34
 	tag: Janet
+	tag: p-37
 	tag: Speakeasy
 	tag: Winsbury
-	desc: it all started in year 7 when I was an undercover cop
 page:935
 	date: 2011-09-21
-	tag: ch-34
+	desc: I'd say you get along pretty well now
 	tag: Bud
+	tag: ch-34
 	tag: Janet
+	tag: John
 	tag: Kat
 	tag: Margo
 	tag: Matt
+	tag: p-36
 	tag: Paz
 	tag: Speakeasy
-	tag: John
 	tag: Winsbury
-	desc: I'd say you get along pretty well now
 page:934
 	date: 2011-09-19
-	tag: ch-34
+	desc: no! sing the boys part!
 	tag: Bud
+	tag: ch-34
 	tag: Janet
+	tag: John
 	tag: Kat
 	tag: Mandolin
 	tag: Margo
 	tag: Matt
+	tag: p-35
 	tag: Paz
 	tag: Speakeasy
-	tag: John
 	tag: Winsbury
-	desc: no! sing the boys part!
 page:933
 	date: 2011-09-16
-	tag: ch-34
+	desc: I just don't know what I'm doing...
 	tag: 113
 	tag: Annie
+	tag: ch-34
 	tag: Jack
+	tag: p-34
 	tag: Speakeasy
-	desc: I just don't know what I'm doing...
 page:932
 	date: 2011-09-14
-	tag: ch-34
+	desc: I really am sorry, Jack
 	tag: Annie
+	tag: ch-34
 	tag: Jack
+	tag: p-33
 	tag: Roof
 	tag: Speakeasy
-	desc: I really am sorry, Jack
 page:931
 	date: 2011-09-12
-	tag: ch-34
+	desc: this wasn't some "flash of anger" thing
 	tag: Annie
+	tag: ch-34
 	tag: Jack
+	tag: p-32
 	tag: Roof
 	tag: Speakeasy
-	desc: this wasn't some "flash of anger" thing
 page:930
 	date: 2011-09-09
-	tag: ch-34
+	desc: man, talk about baggage!
 	tag: Annie
+	tag: ch-34
 	tag: Jack
+	tag: p-31
 	tag: Roof
 	tag: Speakeasy
-	desc: man, talk about baggage!
 page:929
 	date: 2011-09-07
-	tag: ch-34
+	desc: You've got some strange ideas about revenge, Carver
 	tag: Annie
+	tag: ch-34
 	tag: Jack
+	tag: p-30
 	tag: Roof
 	tag: Speakeasy
-	desc: You've got some strange ideas about revenge, Carver
 page:928
 	date: 2011-09-05
-	tag: ch-34
+	desc: I- I'm fairly certain she and Gamma are... an item.
 	tag: Annie
+	tag: ch-34
 	tag: Jack
+	tag: p-29
 	tag: Roof
 	tag: Speakeasy
 	tag: Spider
 	tag: Zimmy
-	desc: I- I'm fairly certain she and Gamma are... an item.
 page:927
 	date: 2011-09-02
-	tag: ch-34
+	desc: I'm in love with Zimmy!
 	tag: Annie
+	tag: ch-34
 	tag: Jack
+	tag: p-28
 	tag: Roof
 	tag: Speakeasy
 	tag: Zimmy
-	desc: I'm in love with Zimmy!
 page:926
 	date: 2011-08-31
-	tag: ch-34
+	desc: Jack... I don't think I like you very much
 	tag: Annie
+	tag: ch-34
 	tag: Jack
+	tag: p-27
 	tag: Roof
 	tag: Speakeasy
-	desc: Jack... I don't think I like you very much
 page:925
 	date: 2011-08-29
-	tag: ch-34
+	desc: no, bud can still see us
 	tag: Annie
 	tag: Bud
+	tag: ch-34
 	tag: Jack
+	tag: p-26
 	tag: Roof
 	tag: Speakeasy
-	desc: no, bud can still see us
 page:924
 	date: 2011-08-26
-	tag: ch-34
+	desc: I wasn't hitting on you!
 	tag: Blush
+	tag: ch-34
 	tag: Kat
+	tag: p-25
 	tag: Paz
 	tag: Speakeasy
-	desc: I wasn't hitting on you!
 page:923
 	date: 2011-08-24
+	desc: I-I like you but... I-I'm not... like that...
 	tag: ch-34
 	tag: Kat
+	tag: p-24
 	tag: Paz
 	tag: Speakeasy
-	desc: I-I like you but... I-I'm not... like that...
 page:922
 	date: 2011-08-22
+	desc: oh Kat, I'm so embarrassed!
 	tag: ch-34
 	tag: Kat
+	tag: p-23
 	tag: Paz
 	tag: Speakeasy
-	desc: oh Kat, I'm so embarrassed!
 page:921
 	date: 2011-08-19
-	tag: ch-34
+	desc: was that necessary, William?
 	tag: Blush
 	tag: Bud
+	tag: ch-34
 	tag: Janet
+	tag: John
 	tag: Kat
 	tag: Margo
 	tag: Matt
+	tag: p-22
 	tag: Paz
 	tag: Speakeasy
-	tag: John
 	tag: Winsbury
-	desc: was that necessary, William?
 page:920
 	date: 2011-08-17
+	desc: but I can't stop thinking about her. Oh, and I think she took my mp3 player.
 	tag: ch-34
 	tag: Matt
 	tag: MoonGirl
+	tag: p-21
 	tag: Speakeasy
 	tag: WhiteRabbit
-	desc: but I can't stop thinking about her. Oh, and I think she took my mp3 player.
 page:919
 	date: 2011-08-15
+	desc: she was really really obsessed with the moon
 	tag: ch-34
 	tag: Matt
 	tag: MoonGirl
 	tag: MoonPrint
+	tag: p-20
 	tag: Speakeasy
-	desc: she was really really obsessed with the moon
 page:918
 	date: 2011-08-12
+	desc: so I was walking back from my extended trig class and there was a rabbit.
 	tag: ch-34
 	tag: Matt
 	tag: MoonGirl
+	tag: p-19
 	tag: Speakeasy
 	tag: WhiteRabbit
-	desc: so I was walking back from my extended trig class and there was a rabbit.
 page:917
 	date: 2011-08-10
+	desc: Hey Matt. Why don't you tell us about that girl you're always on about?
 	tag: ch-34
 	tag: Janet
 	tag: Kat
 	tag: Margo
 	tag: Matt
+	tag: p-18
 	tag: Paz
 	tag: Speakeasy
 	tag: Winsbury
-	desc: Hey Matt. Why don't you tell us about that girl you're always on about?
 page:916
 	date: 2011-08-08
-	tag: ch-34
+	desc: Give to me your hand!
 	tag: Annie
 	tag: Blush
 	tag: Bud
+	tag: ch-34
 	tag: Jack
 	tag: Janet
 	tag: Kat
 	tag: Margo
 	tag: Matt
+	tag: p-17
 	tag: Paz
 	tag: Speakeasy
 	tag: Winsbury
-	desc: Give to me your hand!
 page:915
 	date: 2011-08-05
-	tag: ch-34
+	desc: can I try it?
 	tag: Annie
 	tag: BlinkerStone
+	tag: ch-34
 	tag: Etherics
 	tag: Jack
+	tag: p-16
 	tag: Speakeasy
-	desc: can I try it?
 page:914
 	date: 2011-08-03
-	tag: ch-34
+	desc: he's actually a very powerful psychic
 	tag: Annie
 	tag: BlinkerStone
 	tag: Bud
+	tag: ch-34
 	tag: Etherics
 	tag: Jack
 	tag: Kat
+	tag: p-15
 	tag: Speakeasy
-	desc: he's actually a very powerful psychic
 page:913
 	date: 2011-08-01
-	tag: ch-34
+	desc: so romantic! Don't you think so, Matt?
 	tag: Annie
+	tag: ch-34
 	tag: Jack
 	tag: Janet
+	tag: John
 	tag: Margo
 	tag: Matt
+	tag: p-14
 	tag: Paz
 	tag: Speakeasy
-	tag: John
 	tag: Winsbury
-	desc: so romantic! Don't you think so, matt?
 page:912
 	date: 2011-07-29
+	desc: so we went back and we finished it
 	tag: ch-34
 	tag: Ghosts
+	tag: John
 	tag: Mandolin
 	tag: Margo
+	tag: p-13
 	tag: Speakeasy
-	tag: John
-	desc: so we went back and we finished it
 page:911
 	date: 2011-07-27
+	desc: even when we left the mandolin behind, they wouldn't leave us alone
 	tag: ch-34
 	tag: Ghosts
-	tag: Margo
-	tag: Speakeasy
 	tag: John
-	desc: even when we left the mandolin behind, they wouldn't leave us alone
+	tag: Margo
+	tag: p-12
+	tag: Speakeasy
 page:910
 	date: 2011-07-25
-	tag: ch-34
+	desc: it sounded great when I played it, but as soon as Margo started singing...
 	tag: 113
+	tag: ch-34
+	tag: John
 	tag: Mandolin
 	tag: Margo
+	tag: p-11
 	tag: Speakeasy
-	tag: John
-	desc: it sounded great when I played it, but as soon as Margo started singing...
 page:909
 	date: 2011-07-22
-	tag: ch-34
+	desc: hey Margo, look what I brought! Oh nooo! That's not the haunted one, is it?
 	tag: Annie
 	tag: Bud
+	tag: ch-34
 	tag: Jack
 	tag: Janet
+	tag: John
 	tag: Kat
 	tag: Mandolin
 	tag: Margo
 	tag: Matt
+	tag: p-10
 	tag: Paz
 	tag: Speakeasy
-	tag: John
 	tag: Winsbury
-	desc: hey Margo, look what I brought! Oh nooo! That's not the haunted one, is it?
 page:908
 	date: 2011-07-20
-	tag: ch-34
+	desc: we haven't really talked since before the summer
 	tag: Annie
 	tag: Buzzer
+	tag: ch-34
 	tag: Jack
+	tag: p-09
 	tag: Speakeasy
-	desc: we haven't really talked since before the summer
 page:907
 	date: 2011-07-18
-	tag: ch-34
+	desc: what the wife doesn't know can't hurt her, right?
 	tag: Annie
 	tag: Bud
+	tag: ch-34
 	tag: Jack
 	tag: Kat
+	tag: p-08
 	tag: Speakeasy
-	desc: what the wife doesn't know can't hurt her, right?
 page:906
 	date: 2011-07-15
-	tag: ch-34
+	desc: so... no trouble?
 	tag: Annie
 	tag: Bud
+	tag: ch-34
 	tag: Jack
 	tag: Janet
+	tag: John
 	tag: Kat
 	tag: Margo
 	tag: Matt
+	tag: p-07
 	tag: Paz
 	tag: Speakeasy
-	tag: John
 	tag: Winsbury
-	desc: so... no trouble?
 page:905
 	date: 2011-07-13
-	tag: ch-34
+	desc: girls sneaking out
 	tag: Annie
+	tag: ch-34
 	tag: Dorm
 	tag: Janet
 	tag: Kat
@@ -7743,64 +8139,69 @@ page:905
 	tag: Lindsey
 	tag: Moon
 	tag: MoonPrint
+	tag: p-06
 	tag: Paz
 	tag: Robots
 	tag: Speakeasy
-	desc: girls sneaking out
 page:904
 	date: 2011-07-11
-	tag: ch-34
+	desc: thanks for your help, robots!
 	tag: Annie
 	tag: Buzzer
+	tag: ch-34
 	tag: Dorm
 	tag: Janet
 	tag: Kat
 	tag: Margo
+	tag: p-05
 	tag: Paz
 	tag: Rey
 	tag: Robots
-	desc: thanks for your help, robots!
 page:903
 	date: 2011-07-08
-	tag: ch-34
+	desc: so... we'll be out all night?
 	tag: Annie
+	tag: ch-34
 	tag: Janet
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Margo
+	tag: p-04
 	tag: Paz
 	tag: Robots
-	desc: so... we'll be out all night?
 page:902
 	date: 2011-07-06
-	tag: ch-34
+	desc: if we keep quiet, she will think the robots are leaving, not us.
 	tag: Annie
 	tag: Buzzer
+	tag: ch-34
 	tag: Janet
 	tag: Kat
 	tag: Margo
+	tag: p-03
 	tag: Paz
-	tag: Robots
 	tag: Robotics
-	desc: if we keep quiet, she will think the robots are leaving, not us.
+	tag: Robots
 page:901
 	date: 2011-07-04
-	tag: ch-34
+	desc: well, we found out the court can track all our movements.
 	tag: Annie
 	tag: Buzzer
+	tag: ch-34
 	tag: Jack
 	tag: Janet
 	tag: Kat
 	tag: Margo
+	tag: p-02
 	tag: Paz
 	tag: Robots
-	desc: well, we found out the court can track all our movements.
 page:900
 	date: 2011-07-01
+	desc: Chapter 34:<br><br>**Faraway Morning (and three short tales)**<br><br>_Icon: Students entering the Speakeasy_
+	tag: Buzzer
 	tag: ch-34
 	tag: Cover
-	tag: Buzzer
-	desc: Chapter 34:<br><br>**Faraway Morning (and three short tales)**<br><br>_Icon: Students entering the Speakeasy_
+	tag: p-01
 page:899
 	date: 2011-06-29
 	desc: Bonus Page: Helping Hand
@@ -8087,16 +8488,16 @@ page:873
 	desc: didn't he try to kill you at one point?
 page:872
 	date: 2011-04-27
-	tag: ch-33
+	desc: if you like green skin and pointy ears
 	tag: Annie
 	tag: Anwyn
+	tag: ch-33
 	tag: Court
 	tag: Gillitie
 	tag: Kamlen
 	tag: Khepi
 	tag: Roof
 	tag: Symbol
-	desc: if you like green skin and pointy ears
 page:871
 	date: 2011-04-25
 	desc: So... you're descended from a fire spirit?
@@ -8325,21 +8726,22 @@ page:849
 	desc: I have no idea what this thing does
 page:848
 	date: 2011-03-02
-	tag: ch-32
+	desc: I wish I hadn't been so cruel to you Reynard
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-32
 	tag: Dirty
 	tag: Dorm
 	tag: Rey
 	tag: SubDorm
-	desc: I wish I hadn't been so cruel to you Reynard
 page:847
 	date: 2011-02-28
-	tag: ch-32
+	desc: I'm so sorry for what I said
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Anwyn
 	tag: Bind
+	tag: ch-32
 	tag: CoyoteTooth
 	tag: Dirty
 	tag: Dorm
@@ -8347,26 +8749,25 @@ page:847
 	tag: Khepi
 	tag: Rey
 	tag: SubDorm
-	desc: I'm so sorry for what I said
 page:846
 	date: 2011-02-25
-	tag: ch-32
+	desc: Oh! You smell like the forest!
 	tag: Annie
 	tag: AntimonySymbol
+	tag: ch-32
 	tag: Dirty
 	tag: Dorm
 	tag: Gillitie
 	tag: Rey
 	tag: SubDorm
-	desc: Oh! You smell like the forest!
 page:845
 	date: 2011-02-23
-	tag: ch-32
+	desc: (Reynardine is waiting, looking outside, sadly, in the Submarine dorm)
 	tag: AntimonySymbol
+	tag: ch-32
 	tag: Dorm
 	tag: Rey
 	tag: SubDorm
-	desc: (Reynardine is waiting, looking outside, sadly, in the Submarine dorm)
 page:844
 	date: 2011-02-21
 	auth: Tom: Welcome back to the start of another school year.
@@ -8411,9 +8812,10 @@ page:AitF2-29
 	desc: Kamlen!
 	tag: Annie
 	tag: Anwyn
+	tag: ch-31c
 	tag: Gillitie
 	tag: Kamlen
-	tag: ch-31c
+	tag: Streamers
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=29
 page:AitF2-28
 	desc: Hrmm. Good.
@@ -8461,10 +8863,11 @@ page:AitF2-23
 	desc: Well, we don't have to stay cooped up in here all day
 	tag: Annie
 	tag: Anwyn
+	tag: ch-31c
 	tag: Gillitie
 	tag: KhepiHouse
 	tag: Sareed
-	tag: ch-31c
+	tag: Streamers
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%202&p=23
 page:AitF2-22
 	desc: Why are you here, Sareed?
@@ -8937,26 +9340,27 @@ page:AitF-8
 	desc: Give 'er a haul someone! Don't just gawp like toothies!
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=8
 page:AitF-7
-	tag: ch-31b
+	desc: I use the hauler y'see, as I'm ripe with my next babe to feed
 	tag: Annie
 	tag: Anwyn
 	tag: Bind
+	tag: ch-31b
 	tag: Gillitie
 	tag: Khepi
 	tag: KhepiHouse
-	desc: I use the hauler y'see, as I'm ripe with my next babe to feed
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=7
 page:AitF-6
-	tag: ch-31b
+	desc: You'll stay with us, the Anwyn we're called
 	tag: Annie
 	tag: Anwyn
 	tag: Bind
+	tag: ch-31b
 	tag: Gillitie
 	tag: Kamlen
 	tag: Khepi
 	tag: KhepiHouse
 	tag: Sareed
-	desc: You'll stay with us, the Anwyn we're called
+	tag: Streamers
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=6
 page:AitF-5
 	tag: ch-31b
@@ -8990,6 +9394,7 @@ page:AitF-2
 	tag: Annie
 	tag: Anwyn
 	tag: Bind
+	tag: Streamers
 	tag: Gillitie
 	desc: (view into the Anwyn village)
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=2)
@@ -8999,6 +9404,7 @@ page:AitF-1
 	tag: Bind
 	tag: Coyote
 	tag: Gillitie
+	tag: Streamers
 	tag: Jones
 	tag: Ysengrin
 	desc: I can stay here?
@@ -9128,6 +9534,7 @@ page:831
 	tag: ch-31
 	tag: Annie
 	tag: Gillitie
+	tag: Streamers
 	tag: Ysengrin
 	desc: (Annie enters the clearing with the forest people)
 page:830
@@ -9142,6 +9549,7 @@ page:829
 	tag: ch-31
 	tag: Annie
 	tag: Gillitie
+	tag: Streamers
 	tag: Ysengrin
 	desc: You are stronger than you were this morning
 page:828
@@ -9149,6 +9557,7 @@ page:828
 	tag: ch-31
 	tag: Annie
 	tag: Gillitie
+	tag: Streamers
 	tag: Surma
 	tag: Tears
 	tag: Ysengrin
@@ -16803,6 +17212,7 @@ page:119
 	tag: Annie
 	tag: Bridge
 	tag: ch-07
+	tag: p-23
 	tag: Eglamore
 	tag: Surma
 	tag: TicToc
@@ -16817,6 +17227,7 @@ page:118
 	tag: Shadowman
 	tag: Sword
 	tag: WoodenArm
+	tag: p-22
 page:117
 	date: 2006-05-16
 	desc: Oh! So this is Reynardine? Well now, this makes things much easier!
@@ -16830,6 +17241,7 @@ page:117
 	tag: Sword
 	tag: TicToc
 	tag: WoodenArm
+	tag: p-21
 page:116
 	date: 2006-05-11
 	desc: Robot, you have a new arm?
@@ -16842,6 +17254,7 @@ page:116
 	tag: Sword
 	tag: TicToc
 	tag: WoodenArm
+	tag: p-20
 page:115
 	date: 2006-05-09
 	desc: Is that Carver? She left school grounds?!
@@ -16850,6 +17263,7 @@ page:115
 	tag: Eglamore
 	tag: Kat
 	tag: Sword
+	tag: p-19
 page:114
 	date: 2006-05-04
 	desc: And Shadow 2? What are you both doing here?
@@ -16861,6 +17275,7 @@ page:114
 	tag: Shadowman
 	tag: TicToc
 	tag: WoodenArm
+	tag: p-18
 page:113
 	date: 2006-05-02
 	desc: It must be robot. He may need my help.
@@ -16870,6 +17285,7 @@ page:113
 	tag: Court
 	tag: Kat
 	tag: Rey
+	tag: p-17
 page:112
 	date: 2006-04-27
 	desc: Could he have come back?
@@ -16883,6 +17299,7 @@ page:112
 	tag: RobotS13
 	tag: ScienceLab
 	tag: Shadowman
+	tag: p-16
 page:111
 	date: 2006-04-25
 	desc: Are you two going to kiss now?
@@ -16895,6 +17312,7 @@ page:111
 	tag: Kat
 	tag: Rey
 	tag: ScienceLab
+	tag: p-15
 page:110
 	date: 2006-04-20
 	desc: Kat, I'm sorry I caused a scene this morning.
@@ -16907,6 +17325,7 @@ page:110
 	tag: ScienceLab
 	tag: Spider
 	tag: VenusSymbol
+	tag: p-14
 page:109
 	date: 2006-04-18
 	desc: You still carry that thing, Jim?
@@ -16917,6 +17336,7 @@ page:109
 	tag: Eglamore
 	tag: EglamoreKnife
 	tag: EtherSymbol
+	tag: p-13
 page:108
 	date: 2006-04-13
 	desc: Criminal or not, I won't allow him to be subjected to that again.
@@ -16930,6 +17350,7 @@ page:108
 	tag: EtherSymbol
 	tag: Kat
 	tag: Rey
+	tag: p-12
 page:107
 	date: 2006-04-11
 	desc: I can take anything with eyes, be they real or not.
@@ -16945,6 +17366,7 @@ page:107
 	tag: EtherSymbol
 	tag: EyeCrossed
 	tag: Rey
+	tag: p-11
 page:106
 	date: 2006-04-06
 	desc: Damn you, girl! And I had the perfect disguise!
@@ -16959,6 +17381,7 @@ page:106
 	tag: EthericShield
 	tag: EyeCrossed
 	tag: Rey
+	tag: p-10
 page:105
 	date: 2006-04-04
 	desc: If you don't mind; I also have something I think you should see
@@ -16970,6 +17393,7 @@ page:105
 	tag: Eglamore
 	tag: Kat
 	tag: WolfToy
+	tag: p-09
 page:104
 	date: 2006-03-30
 	desc: But when Anthony wants to disappear, he'll do so.
@@ -16980,6 +17404,7 @@ page:104
 	tag: Donny
 	tag: Eglamore
 	tag: Kat
+	tag: p-08
 page:103
 	date: 2006-03-28
 	desc: Who's this cute guy here? That... that would be me.
@@ -16993,6 +17418,7 @@ page:103
 	tag: Kat
 	tag: Photo
 	tag: Tony
+	tag: p-07
 page:102
 	date: 2006-03-23
 	desc: Wow! Is this you guys when you were kids?!
@@ -17006,6 +17432,7 @@ page:102
 	tag: Kat
 	tag: Photo
 	tag: Tony
+	tag: p-06
 page:101
 	date: 2006-03-21
 	desc: Reynardine can't hurt anyone any more
@@ -17019,6 +17446,7 @@ page:101
 	tag: Kat
 	tag: MercurySymbol
 	tag: Rey
+	tag: p-05
 page:100
 	date: 2006-03-16
 	desc: Call me Anja, and this is Donny.

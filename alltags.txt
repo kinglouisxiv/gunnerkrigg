@@ -55,6 +55,7 @@ BlinkerStone	[Etheric](#etherics) lens device [_{W}_](http://gunnerkrigg.wikia.c
 Blood 	Circulatory fluid, supposed to be internal
 BLOOM	a watery explosion noise
 Blue 	A fairy obsessed with hair which goes up; friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue)
+BlueHair	a former fairy, now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 BlueSmoke	A failure mode of [BioLimb](#biolimb) flesh
 Blush 	Happy/embarrassed/emotional
 BlushFae	'her too' – dark pink hair, two rosy cheeks (likes to "wang tomatoes?") [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
@@ -66,6 +67,7 @@ Bones 	Calcified weight bearing structures in the body of vertebrates forming an
 Bonus 	Extra pages at the end of the chapter [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bonus_pages)
 Boots 	Made for walking
 Boxbot 	[A robot](#robots). [Terrible](#terrible). Not as good as [Robox](#robox) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Boxbot)
+Boy-a	A Court pupil
 Bridge 	The Annan Bridge leads from Gunnerkrigg Court across the [Annan Water](#annan) to [Gillitie Wood](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Bridge)
 Brinnie 	Sultry school friend of [Surma](#surma), [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore) _&amp; co._ Probably Brynhildr, the Valkyrie [_{W}_](http://gunnerkrigg.wikia.com/wiki/Brinnie)
 BrokenMan	[Coyote's](#coyote) story name for [Anthony Carver](#tony) after his return to [Gunnerkrigg Court](#court) and [Annie's](#annie) life
@@ -75,6 +77,7 @@ Buzz 	The buzzing in [Zimmy's](#zimmy) head when the stimuli get too much
 Buzzer 	Bug shaped device for fooling the court's student tracking system
 Caduceus	"Herald's staff" borne by Hermes/[Mercury](#mercury), symbol of commerce
 Camcorder	ancient 20th century technology records moving images on magnetic tape
+CantRemember	The court functionary who names [Bugsy](#bugsy) from his DVD collection. She can't remember his name or face
 Canvey 	a [Canvey Island Monster](https://en.wikipedia.org/wiki/Canvey_Island_Monster)
 Cards 	A pack of playing cards
 Castle 	Where royalty live. Even space alien royalty
@@ -125,8 +128,9 @@ DrDisaster	Dr Randy Disaster sends the students on hologram simulation adventure
 Drone 	a small, remotely guided flying machine
 Dryad 	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one
 Earth 	Ancient element; the planet on which we live; the great mother and life-giver
-Ectoplasm	material of the Etherium which may be moulded by the Will into Form
-Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#sword) [_{W}_](http://gunnerkrigg.wikia.com/wiki/James_Eglamore)
+Ectoplasm	material of the [Etherium](#etherium) which may be moulded by the Will into Form
+Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#sword) [_{W}_](http://gunnerkrigg.wikia.com/wiki/James_Eglamore) 
+;<!-- check the "sir" -->
 EglamoreKnife	A switchblade/flick knife present that [Eglamore](#eglamore) treasures
 EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword), [armour](#armour), a [Tiki](#tiki) and a [mask](#mask) among other things
 Employees	Miscellaneous Court employees; includes security staff, gardeners, scientists, [power station](#powerstation) operators and even mysterious dudes who take [Gamma](#gamma) and [Zimmy](#zimmy) from [Birmingham](#birmingham) to the Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Court_Employees)
@@ -166,10 +170,12 @@ FriendsDorm	Year 10's dorm block is modelled on the apartment from _Friends_. Se
 Gamma 	Gamma Czarnecki, a quiet girl from Poland, who only speaks Polish; friend of [Zimmy](#zimmy) with whom she has a telepathic link and who she met in [Birmingham](#zimmingham); a Greek letter &Gamma;/&gamma; equivalent to our letter "G" [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gamma)
 Ghosts 	sometimes haunt [mandolins](#mandolin)
 Gillitie	Gillitie Wood, where the wild things are, _a.k.a._ The Forest [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gillitie_Wood)
+Girl-b	A Court pupil
 Glass 	A transparent silicon oxide substance used to make windows and the water bearing vessels also called "glasses"
 GlassFiber	Strands of glass used in insulation. Exposure causes itchiness and respiratory problems.
 God 	What is god?
 Gol-shogeg	Big worm slug monster
+GoldenHair	a former fairy, manipulates the Ether to "make you believe things that ain't even real"; now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 GoldSymbol	Alchemical symbol for gold, or sometimes for the Sun (see also [SunSymbol](#sunsymbol))
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
 GoodHope	Good Hope Hospital is where [Surma](#surma) was before she died [_{W}_](http://gunnerkrigg.wikia.com/wiki/Good_Hope_Hospital)
@@ -187,8 +193,8 @@ Habitat 	An environmental decontamination habitat
 HabitatSymbol	The sign for an artificial habitat
 HairdresserBot	a [robot](#robots) that cuts hair; lots of arms [_{W}_](http://gunnerkrigg.wikia.com/wiki/Scissorbot)
 Hall 	Function hall [113](#113), a hall in the school
-Hammer 	A tool for driving nails into things or beating things into shape
 HaloCog	indicative of Kat's status amongst the robots
+Hammer 	A tool for driving nails into things or beating things into shape
 Hand	[Tony](#tony) has an artificial/prosthetic hand in later life
 HardwickLittleBestiary	Reference on mystical creatures [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hardwick_and_Little's_Bestiary)
 HarryPotter	Deserves to be taped to a flag pole for being a ponce
@@ -296,7 +302,7 @@ OldCourt	Parts of Gunnerkrigg Court that used to be in [Gillitie Forest](#gillit
 Ooze	What [Martin's](#martin), lizard turns into when it hits the floor
 Orb	The _Globus cruciger_, a Christian symbol of power, wielded by monarchs and Christ
 PadComp	a slate/tablet/pad computer or interface device seen in the [Transfer Clinic](#transferclinic)
-Parley	George Parley: three years older than Antimony, swordswoman, teleports, candidate for Court medium ('Big Nose Girl'), interested in [Smitty](#smitty) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Parley)
+Parley	George Parley: three years older than Antimony, swordswoman, teleports, candidate for Court medium ('Big Nose Girl') or Protector, interested in [Smitty](#smitty) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Parley)
 PartyHat	A Party hat, hats are fun!
 Paz	Paz Cadena-Blanco, Spanish, (forename is pronounced "Path") can talk to animals; is raising [CityFace](#cityface) with [Bobby](#bobby); becomes close to [Kat](#kat). [_{W}_](http://gunnerkrigg.wikia.com/wiki/Paz)
 Photo	A photograph of [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore), [Surma](#surma), [Tony](#tony) and [Brinnie](#brinnie) from their school days [_{W}_](http://gunnerkrigg.wikia.com/wiki/That_Photo)
@@ -305,6 +311,7 @@ Pliers	Used for manipulating wire; may include wire-strippers or wire-cutters
 PowerStation	A Court system to extract energy from the [Etherium](#etherium) on an industrial scale [_{W}_](http://gunnerkrigg.wikia.com/wiki/The_Power_Station)
 PrincessMononoke	Animated movie by Hayao Miyazaki
 Psychopomps	Escort the dead to the afterlife/[Ether](#etherium) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps)
+PurpleHair	a former fairy, manipulates the Ether to create plant and woodland scenes; now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 Queslett	[Annie](#annie) &amp; [Kat's](#kat) school House [_{W}_](http://gunnerkrigg.wikia.com/wiki/Queslett)
 Rain	[water](#water), falling from the sky
 Red	A crazy and abrasive fairy [_{W}_](http://gunnerkrigg.wikia.com/wiki/Red)
@@ -352,7 +359,7 @@ SkullCrossbones	The skull and crossbones; a poison or toxin symbol; symbolises d
 Sky	Comes as advertised; full of stars; the universe; the "father" in mythology
 SkyWatcher	A praying mantis-like [robot](#robots) that collects meteorological data [_{W}_](http://gunnerkrigg.wikia.com/wiki/Sky_Watcher)
 SmallBot	A young eye-witness model [robot](#robots)
-Smitty	Andrew Smith ('Mighty Eyebrows Boy'), a student two years above Annie; brings order from chaos; interested in [Parley](#parley); becomes Court medium
+Smitty	Andrew Smith ('Mighty Eyebrows Boy'), a student two years above Annie; brings order from chaos; interested in [Parley](#parley); becomes a Court medium
 Smoke	Where it is, there is often [fire](#fire)
 Snuffle	a green forest fairy: friend of, speaker for, the [Jackalope](#jackalope). Name derivation given on [page 1583](#p1583).
 Spankies	From [Annie](#annie) for when [Coyote](#coyote) is a Bad Dog!
@@ -368,6 +375,7 @@ Stars	Celestial bodies
 Steadman	An archer, present at the [founding](#founding) of the court, a close friend of the [Artilleryman](#artilleryman)
 StepsHouse	[Eglamore](#eglamore) lives here
 StopBot	Model B [robot](#robots) with stop signs for heads and boxing glove arms
+Strings	[Annie](#annie) sees these as a representation of [Smitty's](#smitty) connection to the Ether
 Students	Miscellaneous students
 SubDorm	Year 9's dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors
 SullivansJohn	see [John](#john)
@@ -476,12 +484,12 @@ ch-27	Spring Heeled [{Y}](https://youtu.be/Q66FN07bMf8)
 ch-28	Spring Heeled Part 2 [{Y}](https://youtu.be/qF-mrQUbQc4)
 ch-29	A Bad Start [{Y}](https://youtu.be/75mlrei1DTY)
 ch-30	The Coward Heart [{Y}](https://youtu.be/4v_eLpuUzo0)
-ch-31	Fire Spike
+ch-31	Fire Spike [{Y}](https://youtu.be/MoIRDw2xuAM)
 ch-31a	Intermission: City Face 2
 ch-31b	Annie in the Forest, part 1
 ch-31c	Annie in the Forest, part 2
-ch-32	From the Forest She Came
-ch-33	Give and Take
+ch-32	From the Forest She Came [{Y}](https://youtu.be/1sv9tYVUvnU)
+ch-33	Give and Take [{Y}](https://youtu.be/Kd-CpZJuSYU)
 ch-34	Faraway Morning (and three short tales)
 ch-35	Parley and Smitty Are In This One
 ch-36	Red Gets a Name
@@ -507,4 +515,6 @@ ch-53	Annie and the Fire
 ch-54	Meetings and Re-Meetings
 ch-55	The Break Out
 ch-56	New Data
+ch-57	Get it Together
+ch-58	A Big Day!
 ; ---TAGS EOF ---
