@@ -54,7 +54,7 @@ BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotk
 BlinkerStone	[Etheric](#etherics) lens device [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blinker_stone)
 Blood 	Circulatory fluid, supposed to be internal
 BLOOM	a watery explosion noise
-Blue 	A fairy obsessed with hair which goes up; friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue)
+Blue 	A fairy obsessed with hair which goes up. Two vertical blue dots on her forehead. Friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue)
 BlueHair	a former fairy, now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 BlueSmoke	A failure mode of [BioLimb](#biolimb) flesh
 Blush 	Happy/embarrassed/emotional
@@ -490,8 +490,8 @@ ch-31b	Annie in the Forest, part 1
 ch-31c	Annie in the Forest, part 2
 ch-32	From the Forest She Came [{Y}](https://youtu.be/1sv9tYVUvnU)
 ch-33	Give and Take [{Y}](https://youtu.be/Kd-CpZJuSYU)
-ch-34	Faraway Morning (and three short tales)
-ch-35	Parley and Smitty Are In This One
+ch-34	Faraway Morning (and three short tales) [{Y}](https://youtu.be/TEguWvEAvoc)
+ch-35	Parley and Smitty Are In This One [{Y}](https://youtu.be/agTp-68G-hE)
 ch-36	Red Gets a Name
 ch-37	Microsat 5
 ch-38	Divine
@@ -517,4 +517,5 @@ ch-55	The Break Out
 ch-56	New Data
 ch-57	Get it Together
 ch-58	A Big Day!
+ch-59	Jeanne
 ; ---TAGS EOF ---

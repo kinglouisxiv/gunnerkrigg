@@ -29,6 +29,337 @@
 ; TODO: page numbers 
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1712
+	date: 2016-08-19
+	desc: [Annie floating in the Ether / Annan]
+	tag: Annan
+	tag: Annie
+	tag: AnnieCut
+	tag: Bones
+	tag: ch-59
+	tag: Etherium
+	tag: GreenArrow
+	tag: p-17
+	tag: Skeleton
+page:1711
+	date: 2016-08-17
+	desc: [Annie floating in the Ether / Annan]
+	tag: Annan
+	tag: Annie
+	tag: AnnieCut
+	tag: Etherium
+	tag: ch-59
+	tag: p-16
+page:1710
+	date: 2016-08-15
+	desc: Annie: Well then, down I go!
+	tag: Annan
+	tag: Annie
+	tag: AnnieCut
+	tag: Etherium
+	tag: Boat
+	tag: ch-59
+	tag: Kat
+	tag: Tracker
+	tag: p-15
+page:1709
+	date: 2016-08-12
+	desc: Annie: Kat. You found it?
+	tag: Annan
+	tag: Annie
+	tag: Boat
+	tag: ch-59
+	tag: Enclosure
+	tag: Kat
+	tag: Tracker
+	tag: p-14
+page:1708
+	date: 2016-08-10
+	desc: Kat: Annie, I can't guarantee that I'll be able to detect **anything**
+	tag: Annan
+	tag: Annie
+	tag: Boat
+	tag: ch-59
+	tag: Kat
+	tag: Tracker
+	tag: p-13
+	tag: Ping
+page:1707
+	date: 2016-08-08
+	desc: Kat: It's getting something...
+	tag: Annan
+	tag: Annie
+	tag: Blue
+	tag: Boat
+	tag: ch-59
+	tag: CreatorGlyph
+	tag: Jeanne
+	tag: Kat
+	tag: Tracker
+	tag: p-12
+	tag: Parley
+	tag: Red
+	tag: Smitty
+page:1706
+	date: 2016-08-05
+	desc: Kat: It… worked?
+	tag: Annan
+	tag: Annie
+	tag: Blue
+	tag: Boat
+	tag: ch-59
+	tag: Jeanne
+	tag: Kat
+	tag: Tracker
+	tag: p-11
+	tag: Parley
+	tag: Red
+	tag: Smitty
+page:1705
+	date: 2016-08-03
+	desc: Annie: Please just try to keep quiet…
+	tag: Annan
+	tag: Annie
+	tag: Blue
+	tag: Boat
+	tag: ch-59
+	tag: CostumeBook
+	tag: Etherium
+	tag: Jeanne
+	tag: Kat
+	tag: Tracker
+	tag: p-10
+	tag: Parley
+	tag: Smitty
+	tag: Watercolour
+page:1704
+	date: 2016-08-01
+	desc: Red: Oh! Make some of these guys! Haha!
+	tag: Annie
+	tag: AnnieCut
+	tag: Blue
+	tag: Blush
+	tag: ch-59
+	tag: CostumeBook
+	tag: Etherium
+	tag: p-09
+	tag: Watercolour
+page:1703
+	date: 2016-07-29
+	desc: Red: Oh! Make some of these guys! Haha!
+	tag: Annie
+	tag: AnnieCut
+	tag: Blue
+	tag: ch-59
+	tag: CostumeBook
+	tag: Etherium
+	tag: Jeanne
+	tag: p-08
+	tag: Parley
+	tag: Watercolour
+page:1702
+	date: 2016-07-27
+	desc: Annie: It seems to be working!
+	tag: ch-59
+	tag: Annie
+	tag: AnnieCut
+	tag: Blue
+	tag: CostumeBook
+	tag: Etherium
+	tag: Jeanne
+	tag: p-07
+	tag: Parley
+	tag: Watercolour
+page:1701
+	date: 2016-07-25
+	desc: [Jeanne & George walk together]
+	tag: ch-59
+	tag: Annie
+	tag: AnnieCut
+	tag: Etherium
+	tag: Jeanne
+	tag: p-06
+	tag: Parley
+	tag: Watercolour
+page:1700
+	date: 2016-07-22
+	desc: [Jeanne meets George Parley]
+	tag: ch-59
+	tag: Etherium
+	tag: Jeanne
+	tag: p-05
+	tag: Parley
+	tag: Watercolour
+page:1699
+	date: 2016-07-20
+	desc: [Jeanne around the idyllic Court]
+	tag: ch-59
+	tag: Etherium
+	tag: Jeanne
+	tag: p-04
+	tag: Watercolour
+page:1698
+	date: 2016-07-18
+	desc: [Jeanne at fencing practice]
+	tag: ch-59
+	tag: CourtStaffSymbol
+	tag: Etherium
+	tag: Jeanne
+	tag: p-03
+	tag: Sword
+	tag: Watercolour
+page:1697
+	date: 2016-07-15
+	desc: [a watercolour view of a previous age of the Court and Forest]
+	tag: ch-59
+	tag: Etherium
+	tag: p-02
+	tag: Watercolour
+page:1696
+	date: 2016-07-13
+	desc: Chapter 59:<br><br>**Jeanne**<br><br>Icon: two faraway figures face to face? Or... A Handbag?
+	tag: ch-59
+	tag: Jeanne
+	tag: p-01
+	tag: Smoke
+page:1695
+	date: 2016-07-11
+	desc: Bonus Page: Chapter 58 Character guide.
+	tag: AGuy
+	tag: Bonus
+	tag: Bridge
+	tag: Bugsy
+	tag: CanSheEvenSee
+	tag: ch-58
+	tag: DontRememberGuy
+	tag: HeyGuy
+	tag: HippyLookingGirl
+	tag: JackalopeBoy
+	tag: OkayGuy
+	tag: ThisOneTooGirl
+	tag: WellThenGirl
+page:1694
+	date: 2016-07-08
+	desc: Parley: What do you think?
+	tag: Annie
+	tag: Bridge
+	tag: ch-58
+	tag: JackalopeBoy
+	tag: p-36
+	tag: Parley
+	tag: Smitty
+page:1693
+	date: 2016-07-06
+	tag: Annie
+	tag: AnnieCut
+	tag: Bridge
+	tag: ch-58
+	tag: Etherium
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: p-36
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+	tag: Strings
+page:1692
+	date: 2016-07-04
+	desc: Snuffle: Thee Court is super boring and totally sucks, but you live there now and that's the best part! 
+	tag: Annie
+	tag: Bridge
+	tag: Gillitie
+	tag: ch-58
+	tag: JackalopeBoy
+	tag: p-35
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+page:1691
+	date: 2016-07-01
+	desc: Annie: As far as I'm aware Mr. Eglamore hasn't even met with my father since his return
+	tag: Annie
+	tag: Bridge
+	tag: ch-58
+	tag: DecontaminationUnit
+	tag: Hand
+	tag: JackalopeBoy
+	tag: p-34
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+page:1690
+	date: 2016-06-29
+	desc: Annie: As far as I'm aware Mr. Eglamore hasn't even met with my father since his return
+	tag: Annie
+	tag: ch-58
+	tag: JackalopeBoy
+	tag: p-33
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+page:1689
+	date: 2016-06-27
+	desc: Eglamore: He's always been a shifty [PERSON]
+	tag: Annie
+	tag: Campfire
+	tag: Censor
+	tag: ch-58
+	tag: Eglamore
+	tag: Flashback
+	tag: p-32
+	tag: OmegaDevice
+	tag: Parley
+page:1688
+	date: 2016-06-24
+	desc: Eglamore: That guy is a [SILLY] sack of [DOO DOO]
+	tag: Campfire
+	tag: Censor
+	tag: ch-58
+	tag: Eglamore
+	tag: Flashback
+	tag: p-31
+	tag: Parley
+page:1687
+	date: 2016-06-22
+	desc: Annie: Well I don't think it's any of my tell me everything right now
+	tag: Annie
+	tag: ch-58
+	tag: Eglamore
+	tag: Flashback
+	tag: p-30
+	tag: Parley
+	tag: Smitty
+	tag: Sword
+page:1686
+	date: 2016-06-20
+	desc: Parley: We spent most of our time out in the mountains
+	tag: Annie
+	tag: Burger
+	tag: ch-58
+	tag: JackalopeBoy
+	tag: p-29
+	tag: Parley
+	tag: Smitty
+	tag: Snuffle
+page:1685
+	date: 2016-06-17
+	desc: Parley: The training I was on wasn't exactly... normal
+	tag: Annie
+	tag: ch-58
+	tag: p-28
+	tag: Parley
+	tag: Punch
+	tag: Smitty
+	tag: Tattoo
+page:1684
+	date: 2016-06-15
+	desc: Parley: The training I was on wasn't exactly... normal
+	tag: Blush
+	tag: ch-58
+	tag: Jump
+	tag: p-27
+	tag: Parley
+	tag: Smitty
 page:1683
 	date: 2016-06-13
 	desc: Smitty: What's in here?!
@@ -91,9 +422,9 @@ page:1678
 	desc: Bugsy: The work's kinda boring, sure, but you don't know how important getting our own names is!
 	tag: Annie
 	tag: Bugsy
-	tag: BlueHair
-	tag: JackalopeBoy
 	tag: ch-58
+	tag: HippyLookingGirl
+	tag: JackalopeBoy
 	tag: p-21
 	tag: Smitty
 	tag: Snuffle
@@ -110,30 +441,32 @@ page:1676
 	desc: Annie: Can you all manipulate the Ether like this?
 	tag: Annie
 	tag: AnnieCut
-	tag: BlueHair
+	tag: HippyLookingGirl
 	tag: ch-58
 	tag: Etherium
-	tag: GoldenHair
+	tag: HeyGuy
+	tag: OkayGuy
 	tag: JackalopeBoy
 	tag: p-19
-	tag: PurpleHair
+	tag: CanSheEvenSee
+	tag: ThisOneTooGirl
 	tag: Snuffle
 page:1675
 	date: 2016-05-25
 	desc: Snuffle: Wow! They can give you names here?!
 	tag: Annie
 	tag: AnnieCut
-	tag: BlueHair
+	tag: HippyLookingGirl
 	tag: Bugsy
 	tag: CantRemember
+	tag: HeyGuy
+	tag: CanSheEvenSee
+	tag: OkayGuy
 	tag: ch-58
-	tag: Computer
-	tag: DataStream
 	tag: DVDs
 	tag: Etherium
 	tag: JackalopeBoy
 	tag: p-18
-	tag: PurpleHair
 	tag: Snuffle
 	tag: SymbolText
 page:1674
@@ -144,11 +477,13 @@ page:1674
 	tag: Computer
 	tag: DataConnection
 	tag: Etherium
-	tag: GoldenHair
 	tag: JackalopeBoy
+	tag: Leaves
 	tag: p-17
 	tag: Snuffle
 	tag: SymbolText
+	tag: ThisOneTooGirl
+	tag: WellThenGirl
 page:1673
 	date: 2016-05-20
 	desc: ... learn ... how to speak and read!
@@ -157,28 +492,33 @@ page:1673
 	tag: Computer
 	tag: DataStream
 	tag: Etherium
-	tag: GoldenHair
+	tag: OkayGuy
+	tag: AGuy
+	tag: HeyGuy
+	tag: ThisOneTooGirl
 	tag: JackalopeBoy
+	tag: WellThenGirl
 	tag: KeyTops
 	tag: p-16
-	tag: PurpleHair
+	tag: CanSheEvenSee
 	tag: SymbolText
 page:1672
 	date: 2016-05-18
 	desc: Annie: I can't understand---
+	tag: AGuy
 	tag: Annie
 	tag: AnnieCut
 	tag: Bugsy
-	tag: BlueHair
 	tag: ch-58
 	tag: Clothes
 	tag: Computer
 	tag: Etherium
-	tag: GoldenHair
+	tag: HippyLookingGirl
 	tag: JackalopeBoy
 	tag: p-15
 	tag: Smoke
 	tag: SymbolText
+	tag: ThisOneTooGirl
 page:1671
 	date: 2016-05-15
 	desc: Annie: Ms. Bugsy, can you see these?
@@ -195,14 +535,13 @@ page:1670
 	desc: Annie: Snuffle, you look amazing
 	tag: Annie
 	tag: AnnieCut
-	tag: Bugsy
+	tag: CanSheEvenSee
 	tag: ch-58
 	tag: Etherium
 	tag: Flowers
 	tag: Forest
 	tag: JackalopeBoy
 	tag: p-13
-	tag: PurpleHair
 	tag: Smitty
 	tag: Snuffle
 	tag: Strings
@@ -211,16 +550,17 @@ page:1669
 	desc: Bugsy: Ah, you made it
 	tag: Annie
 	tag: AnnieCut
-	tag: BlueHair
-	tag: PurpleHair
 	tag: Bugsy
+	tag: CanSheEvenSee
 	tag: ch-58
 	tag: Etherium
-	tag: GoldenHair
+	tag: HeyGuy
+	tag: HippyLookingGirl
 	tag: JackalopeBoy
+	tag: OkayGuy
 	tag: p-12
 	tag: Snuffle
-;	check tag for multiple fairy/pupils
+	tag: ThisOneTooGirl
 page:1668
 	date: 2016-05-09
 	desc: Smitty: Now what's happening?
@@ -236,9 +576,14 @@ page:1667
 	desc: Snuffle: I think what would be good would be if you all try eating less on account of how fat and stupid you all look
 	note: a classroom full of former forest denizens
 	tag: Bugsy
-	tag: BlueHair
+	tag: AGuy
+	tag: HippyLookingGirl
 	tag: ch-58
-	tag: GoldenHair
+	tag: ThisOneTooGirl
+	tag: OkayGuy
+	tag: CanSheEvenSee
+	tag: WellThenGirl
+	tag: IDontRememberGuy
 	tag: JackalopeBoy
 	tag: p-10
 	tag: Smitty
@@ -9967,151 +10312,165 @@ page:789
 	tag: FireSpike
 page:788
 	date: 2010-10-22
-	desc: Bonus Page: New Skill
+	desc: Bonus Page 30: New Skill
 	tag: Bonus
 	tag: ch-30
 	tag: Jones
 	tag: PartyHat
 page:787
 	date: 2010-10-20
-	tag: ch-30
+	desc: (Kat drags Annie off while Parley and Smitty have their first kiss)
 	tag: Annie
+	tag: ch-30
 	tag: Kat
 	tag: Kiss
+	tag: p-27
 	tag: Parley
 	tag: Smitty
-	desc: (Kat drags Annie off while Parley and Smitty have their first kiss)
 page:786
 	date: 2010-10-18
-	tag: ch-30
+	desc: I-I think we're going to stay out here a while.
 	tag: Annie
+	tag: ch-30
 	tag: Kat
+	tag: p-26
 	tag: Parley
 	tag: Smitty
-	desc: I-I think we're going to stay out here a while.
 page:785
 	date: 2010-10-15
-	tag: ch-30
+	desc: That's incredible, Parley...
 	tag: Annie
 	tag: Bip
+	tag: ch-30
 	tag: Kat
+	tag: p-25
 	tag: Parley
 	tag: Smitty
 	tag: Steadman
-	desc: That's incredible, Parley...
 page:784
 	date: 2010-10-13
-	tag: ch-30
+	desc: haha, I think I get it now
 	tag: Annie
 	tag: Bip
+	tag: ch-30
 	tag: Kat
+	tag: p-24
 	tag: Parley
 	tag: Smitty
-	desc: haha, I think I get it now.
 page:783
 	date: 2010-10-11
-	tag: ch-30
+	desc: She thought I was a coward
 	tag: Blush
+	tag: ch-30
+	tag: p-23
 	tag: Parley
 	tag: Smitty
-	desc: She thought I was a coward
 page:782
 	date: 2010-10-08
-	tag: ch-30
+	desc: Don't tell anyone about her. Not until I can see her again.
 	tag: Annie
+	tag: ch-30
 	tag: Court
 	tag: Jeanne
 	tag: Kat
+	tag: p-22
 	tag: Parley
 	tag: SirYoung
 	tag: Smitty
-	desc: Don't tell anyone about her. Not until I can see her again.
 page:781
 	date: 2010-10-06
-	tag: ch-30
+	desc: I-I felt everything she did... She loved him so much-...
 	tag: Annie
+	tag: ch-30
 	tag: Jeanne
 	tag: Kat
+	tag: p-21
 	tag: Parley
 	tag: Smitty
 	tag: Tears
-	desc: I-I felt everything she did... She loved him so much-..
 page:780
 	date: 2010-10-04
-	tag: ch-30
+	desc: Oh god! What was that?! What the hell was that?!
 	tag: Annie
 	tag: BlinkerStone
+	tag: ch-30
 	tag: Etherics
 	tag: Kat
+	tag: p-20
 	tag: Parley
 	tag: Smitty
 	tag: Tears
-	desc: Oh god! What was that?! What the hell was that?!
 page:779
 	date: 2010-10-01
-	tag: ch-30
+	desc: That's it!
 	tag: Annan
 	tag: Annie
 	tag: AnnieCut
 	tag: BlinkerStone
+	tag: ch-30
 	tag: Etherics
 	tag: Jeanne
+	tag: p-19
 	tag: Parley
 	tag: Sword
 	tag: Tears
-	desc: That's it!
 page:778
 	date: 2010-09-29
-	tag: ch-30
+	desc: Knock the stone from her hand!
 	tag: Annan
 	tag: Annie
 	tag: AnnieCut
 	tag: BlinkerStone
+	tag: ch-30
 	tag: Etherics
 	tag: Jeanne
+	tag: p-18
 	tag: Parley
 	tag: Sword
 	tag: Tears
-	desc: Knock the stone from her hand!
 page:777
 	date: 2010-09-27
-	tag: ch-30
+	desc: My heart was run through and left to die on the riverbed
 	tag: Annan
 	tag: Annie
 	tag: AnnieCut
+	tag: ch-30
 	tag: Etherics
 	tag: Heart
 	tag: Jeanne
+	tag: p-17
 	tag: Parley
 	tag: Sword
 	tag: Tears
-	desc: My heart was run through and left to die on the riverbed
 page:776
 	date: 2010-09-24
-	tag: ch-30
+	desc: (Jeanne's lover is peirced by Steadman's arrow)
 	tag: Annan
 	tag: Archery
+	tag: ch-30
 	tag: Etherics
 	tag: Flashback
 	tag: GreenArrow
 	tag: Jeanne
 	tag: JeannesLover
+	tag: p-16
 	tag: Steadman
-	desc: (Jeanne's lover is peirced by Steadman's arrow)
 page:775
 	date: 2010-09-22
-	tag: ch-30
+	desc: (Jeanne is lowered to the banks of the Annan waters, and sees her lover swimming towards her)
 	tag: Annan
+	tag: ch-30
 	tag: Court
 	tag: Etherics
 	tag: Flashback
 	tag: Gillitie
 	tag: Jeanne
 	tag: JeannesLover
+	tag: p-15
 	tag: Sword
-	desc: (Jeanne is lowered to the banks of the Annan waters, and sees her lover swimming towards her)
 page:774
 	date: 2010-09-20
+	desc: (Jeanne receives a note, writes a letter and gets Steadman to fire it into the forest on an arrow)
 	tag: Archery
 	tag: Birds
 	tag: ch-30
@@ -10121,8 +10480,8 @@ page:774
 	tag: Gillitie
 	tag: Jeanne
 	tag: Letter
+	tag: p-14
 	tag: Steadman
-	desc: (Jeanne receives a note, writes a letter and gets Steadman to fire it into the forest on an arrow)
 page:773
 	date: 2010-09-17
 	desc: (Jeanne and her lover seperated, (by coyote??) into the court and the forest sides.
@@ -10135,14 +10494,16 @@ page:773
 	tag: Jeanne
 	tag: JeannesLover
 	tag: MoonSymbol
+	tag: p-13
 	tag: Rey
 	tag: SunSymbol
 	tag: Sword
 	tag: Ysengrin
 page:772
 	date: 2010-09-15
-	tag: ch-30
+	desc: (Jeanne and her lover embracing, surrounded by dissaproving looking figures from both the court and the forest)
 	tag: Birds
+	tag: ch-30
 	tag: Court
 	tag: Coyote
 	tag: Etherics
@@ -10150,13 +10511,14 @@ page:772
 	tag: Gillitie
 	tag: Jeanne
 	tag: Kiss
+	tag: p-12
 	tag: Parley
 	tag: SirYoung
 	tag: Steadman
 	tag: Ysengrin
-	desc: (Jeanne and her lover embracing, surrounded by dissaproving looking figures from both the court and the forest)
 page:771
 	date: 2010-09-13
+	desc: (Jeanne and her lover embracing, watched by Diego)
 	tag: ch-30
 	tag: Court
 	tag: Diego
@@ -10166,9 +10528,10 @@ page:771
 	tag: Jeanne
 	tag: JeannesLover
 	tag: Kiss
-	desc: (Jeanne and her lover embracing, watched by Diego)
+	tag: p-11
 page:770
 	date: 2010-09-10
+	desc: (Jeanne finishing fencing practice, before going to the forest and embracing her lover)
 	tag: ch-30
 	tag: Etherics
 	tag: Flashback
@@ -10176,98 +10539,107 @@ page:770
 	tag: Jeanne
 	tag: JeannesLover
 	tag: Kiss
+	tag: p-10
 	tag: Sword
-	desc: (Jeanne finishing fencing practice, before going to the forest and embracing her lover)
 page:769
 	date: 2010-09-08
-	tag: ch-30
+	desc: Wh-what's going on?!
 	tag: Annan
 	tag: Annie
 	tag: AnnieCut
 	tag: BlinkerStone
+	tag: ch-30
 	tag: Etherics
 	tag: Jeanne
+	tag: p-09
 	tag: Parley
 	tag: Sword
-	desc: Wh-what's going on?!
 page:768
 	date: 2010-09-06
-	tag: ch-30
+	desc: You getting the hang of it?
 	tag: Annie
+	tag: ch-30
 	tag: Etherics
 	tag: Kat
+	tag: p-08
 	tag: Parley
 	tag: Smitty
-	desc: You getting the hang of it?
 page:767
 	date: 2010-09-03
-	tag: ch-30
+	desc: Oof! Aw damn it!
 	tag: Annan
 	tag: Annie
 	tag: Bip
 	tag: BlinkerStone
+	tag: ch-30
 	tag: Etherics
 	tag: Kat
+	tag: p-07
 	tag: Parley
 	tag: Smitty
-	desc: Oof! Aw damn it!
 page:766
 	date: 2010-09-01
-	tag: ch-30
+	desc: I-I can't get back!
 	tag: Annan
 	tag: Annie
 	tag: AnnieCut
 	tag: BlinkerStone
+	tag: ch-30
 	tag: Etherics
 	tag: Jeanne
+	tag: p-06
 	tag: Sword
-	desc: I-I can't get back!
 page:765
 	date: 2010-08-30
-	tag: ch-30
+	desc: It landed right where we need it!
 	tag: Annan
 	tag: Annie
 	tag: AnnieCut
 	tag: BlinkerStone
 	tag: Bones
+	tag: ch-30
 	tag: Etherics
 	tag: Jeanne
+	tag: p-05
 	tag: Sword
-	desc: It landed right where we need it!
 page:764
 	date: 2010-08-27
-	tag: ch-30
+	desc: I think I know who could make the shot
 	tag: Annan
 	tag: Annie
 	tag: Birds
 	tag: BlinkerStone
+	tag: ch-30
 	tag: Kat
+	tag: p-04
 	tag: Smitty
-	desc: I think I know who could make the shot
 page:763
 	date: 2010-08-25
-	tag: ch-30
+	desc: No, it landed in the river again
 	tag: Annan
 	tag: Annie
 	tag: BlinkerStone
 	tag: Bridge
+	tag: ch-30
 	tag: Kat
-	desc: No, it landed in the river again
+	tag: p-03
 page:762
 	date: 2010-08-23
-	tag: ch-30
+	desc: (The blinkerstone bounces over the ground next to the court, before falling into the Annan)
 	tag: Annan
 	tag: BlinkerStone
-	desc: (The blinkerstone bounces over the ground next to the court, before falling into the Annan)
+	tag: ch-30
+	tag: p-02
 page:761
 	date: 2010-08-20
 	desc: Chapter 30:<br><br>**The Coward Heart**<br><br>_Icon: Jeanne and Annie in the Etherium_
 	tag: ch-30
 	tag: Cover
 	tag: Jeanne
+	tag: p-01
 page:760
 	date: 2010-08-18
-	desc: Bonus Page: Pigeon facts
+	desc: Bonus Page 29: Pigeon facts
 	tag: Birds
 	tag: Bobby
 	tag: Bonus
@@ -10278,6 +10650,7 @@ page:759
 	tag: ch-29
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-17
 	tag: RobotS13
 	tag: RobotDesigns
 	tag: RobotParts
@@ -10290,6 +10663,7 @@ page:758
 	tag: CityFace
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-16
 	tag: RobotS13
 	tag: RobotParts
 	tag: Robots
@@ -10300,6 +10674,7 @@ page:757
 	tag: Annie
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-15
 	tag: RobotS13
 	tag: RobotParts
 	tag: Robots
@@ -10314,6 +10689,7 @@ page:756
 	tag: CityFace
 	tag: Kat
 	tag: Paz
+	tag: p-14
 	desc: You are welcome, Angel.
 page:755
 	date: 2010-08-06
@@ -10326,6 +10702,7 @@ page:755
 	tag: CreatorGlyph
 	tag: Kat
 	tag: Paz
+	tag: p-13
 	tag: RobotS13
 	tag: RobotDesigns
 	tag: RobotParts
@@ -10340,6 +10717,7 @@ page:754
 	tag: CityFace
 	tag: Kat
 	tag: Paz
+	tag: p-12
 	tag: Robots
 	desc: I ask to help, to change things and make them better.
 page:753
@@ -10351,6 +10729,7 @@ page:753
 	tag: Kat
 	tag: Mice
 	tag: Paz
+	tag: p-11
 	tag: Robots
 	desc: Self-regulated?! That just means they can do what they want!
 page:752
@@ -10364,6 +10743,7 @@ page:752
 	tag: Kat
 	tag: Mice
 	tag: Paz
+	tag: p-10
 	tag: Robots
 	desc: Are these, like, pets or something?
 page:751
@@ -10374,6 +10754,7 @@ page:751
 	tag: Bobby
 	tag: CityFace
 	tag: Kat
+	tag: p-09
 	tag: Paz
 	tag: Robots
 	desc: The bird appears to be unharmed, Paz
@@ -10385,6 +10766,7 @@ page:750
 	tag: Bobby
 	tag: CityFace
 	tag: Kat
+	tag: p-08
 	tag: Paz
 	tag: Robots
 	desc: Ooh! A baby pigeon!
@@ -10394,6 +10776,7 @@ page:749
 	tag: Birds
 	tag: CityFace
 	tag: Kat
+	tag: p-07
 	tag: Train
 	desc: How can you be so tiny and fragile?
 	auth: Tom: The train is nicknamed Blaine
@@ -10404,6 +10787,7 @@ page:748
 	tag: CityFace
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-06
 	tag: Paz
 	tag: RobotParts
 	tag: Robots
@@ -10415,6 +10799,7 @@ page:747
 	tag: CityFace
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-05
 	tag: RobotParts
 	tag: Robots
 	desc: Where'd the parents go?
@@ -10425,6 +10810,7 @@ page:746
 	tag: CityFace
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-04
 	tag: Robots
 	desc: I-it's a... baby bird! Uhh I think...
 page:745
@@ -10432,6 +10818,7 @@ page:745
 	tag: ch-29
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-03
 	tag: RobotS13
 	tag: RobotDesigns
 	tag: RobotParts
@@ -10442,6 +10829,7 @@ page:744
 	tag: ch-29
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-02
 	tag: RobotS13
 	tag: RobotParts
 	tag: Robots
@@ -10452,6 +10840,7 @@ page:743
 	tag: ch-29
 	tag: Cover
 	tag: Kat
+	tag: p-01
 page:742
 	date: 2010-07-07
 	desc: Bonus Page: Professionals
@@ -11439,22 +11828,23 @@ page:655
 	desc: It didn't have to be this way...
 page:654
 	date: 2009-12-14
-	tag: ch-25
+	desc: It must be Jeanne
+	note: apparantly a WoT refers to the character in the top left frame as the Artilleryman - link?
 	tag: Annan
 	tag: Archery
 	tag: Artilleryman
+	tag: ch-25
 	tag: Court
 	tag: Diego
 	tag: DiegoBot
 	tag: Flashback
 	tag: Jeanne
 	tag: SirYoung
-	desc: It must be Jeanne
-	note: apparantly a WoT refers to the character in the top left frame as the Artilleryman - link?
 page:653
 	date: 2009-12-11
-	tag: ch-25
+	desc: The device is ready, Sir Young
 	tag: Archery
+	tag: ch-25
 	tag: Court
 	tag: Diego
 	tag: DiegoBot
@@ -11462,20 +11852,21 @@ page:653
 	tag: GreenArrow
 	tag: SirYoung
 	tag: Steadman
-	desc: The device is ready, Sir Young
 page:652
 	date: 2009-12-09
+	desc: So she still loves that traitor does she?
 	tag: ch-25
 	tag: Diego
 	tag: DiegoBot
 	tag: Fight
 	tag: Flashback
 	tag: Jeanne
+	tag: JeanneHome
 	tag: Robots
 	tag: Traitor
-	desc: So she still loves that traitor does she?
 page:651
 	date: 2009-12-07
+	desc: Get out you horrible little man!
 	tag: ch-25
 	tag: Diego
 	tag: DiegoBot
@@ -11483,37 +11874,40 @@ page:651
 	tag: Flashback
 	tag: Gillitie
 	tag: Jeanne
+	tag: JeanneHome
 	tag: Robots
 	tag: Sword
 	tag: Traitor
-	desc: Get out you horrible little man!
 page:650
 	date: 2009-12-04
-	tag: ch-25
+	desc: Who needs the trees and animals of the forest?
 	tag: Annan
+	tag: ch-25
 	tag: Court
 	tag: Diego
 	tag: DiegoBot
 	tag: Flashback
 	tag: Gillitie
 	tag: Jeanne
+	tag: JeanneHome
 	tag: Robots
 	tag: Sword
-	desc: Who needs the trees and animals of the forest?
 page:649
 	date: 2009-12-02
+	desc: Another little toy Diego?
 	tag: ch-25
 	tag: Diego
 	tag: DiegoBot
 	tag: Flashback
 	tag: Jeanne
+	tag: JeanneHome
 	tag: Robots
 	tag: Sword
-	desc: Another little toy Diego?
 page:648
 	date: 2009-11-30
-	tag: ch-25
+	desc: Please awaken and show us your story once more.
 	tag: Annie
+	tag: ch-25
 	tag: Diego
 	tag: DiegoBot
 	tag: DiegoStudy
@@ -11522,19 +11916,18 @@ page:648
 	tag: RobotKing
 	tag: RobotParts
 	tag: Robots
-	desc: Please awaken and show us your story once more.
 page:647
 	date: 2009-11-27
-	tag: ch-25
+	desc: What IS all this?
 	tag: Annie
 	tag: BismuthSymbol
+	tag: ch-25
 	tag: DiegoBot
 	tag: DiegoStudy
 	tag: Kat
 	tag: RobotHQ
 	tag: RobotKing
 	tag: Robots
-	desc: What IS all this?
 page:646
 	date: 2009-11-25
 	desc: It was created by a divine being and sent to watch over us all
