@@ -29,6 +29,342 @@
 ; TODO: page numbers 
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1740
+	date: 2016-10-24
+	desc: [Something huge, bony skeletal, breaks into (forms out of) the structure of the machine-like maze]<br>[End of Book 6]
+	tag: Annie
+	tag: BonyThing
+	tag: ch-59
+	tag: JeannesLover
+	tag: MachineMaze
+	tag: p-45
+page:1739
+	date: 2016-10-21
+	desc: Kat: They've started fighting...
+	tag: Annan
+	tag: Annie
+	tag: Boat
+	tag: ch-59
+	tag: GreenLight
+	tag: Kat
+	tag: p-44
+	tag: Tracker
+	tag: Wand
+page:1738
+	date: 2016-10-19
+	desc: Jeanne: I do remember you, coward heart
+	tag: Annan
+	tag: ch-59
+	tag: Parley
+	tag: Jeanne
+	tag: p-43
+	tag: Strings
+	tag: Smitty
+	tag: Sword
+page:1737
+	date: 2016-10-17
+	desc: Parley: Dammit!
+	tag: Annan
+	tag: Blue
+	tag: ch-59
+	tag: Jeanne
+	tag: p-42
+	tag: Parley
+	tag: Red
+	tag: Smitty
+	tag: Strings
+	tag: Sword
+page:1736
+	date: 2016-10-14
+	desc: Jeanne: That... that should have been a clean hit
+	tag: Annan
+	tag: Blue
+	tag: ch-59
+	tag: Fight
+	tag: Jeanne
+	tag: p-41
+	tag: Red
+	tag: Sword
+page:1735
+	date: 2016-10-12
+	desc: [Jeanne thrusts her sword through Blue's head]
+	tag: Blue
+	tag: Annan
+	tag: ch-59
+	tag: Fight
+	tag: Jeanne
+	tag: p-40
+	tag: Parley
+	tag: Red
+	tag: Sword
+	tag: Watercolour
+page:1734
+	date: 2016-10-10
+	desc: Red: Huh, it's kinda cool, I guess
+	tag: Blue
+	tag: ch-59
+	tag: Fight
+	tag: Jeanne
+	tag: p-39
+	tag: Red
+	tag: Sword
+	tag: Watercolour
+page:1733
+	date: 2016-10-07
+	desc: Jeanne: There was someone else here...
+	tag: Blue
+	tag: ch-59
+	tag: Fight
+	tag: Jeanne
+	tag: p-38
+	tag: Parley
+	tag: Red
+	tag: Sword
+	tag: Watercolour
+page:1732
+	date: 2016-10-05
+	desc: Jeanne: She has a dragonslayer's power?
+	tag: ch-59
+	tag: Fight
+	tag: Jeanne
+	tag: p-37
+	tag: Parley
+	tag: Sword
+	tag: Watercolour
+page:1731
+	date: 2016-10-03
+	desc: Annie: Some of these parts can move...
+	tag: Annie
+	tag: AnnieScar
+	tag: ch-59
+	tag: Etherium
+	tag: Fire
+	tag: JeannesLover
+	tag: MachineMaze
+	tag: p-36
+	tag: WaterSpirit
+page:1730
+	date: 2016-09-30
+	desc: Annie: What is all this?
+	tag: Annie
+	tag: AnnieScar
+	tag: ch-59
+	tag: Etherium
+	tag: Fire
+	tag: JeannesLover
+	tag: MachineMaze
+	tag: p-35
+	tag: WaterSpirit
+page:1729
+	date: 2016-09-28
+	desc: Red: Okay, she's distracted! Get her back!
+	tag: Annan
+	tag: Blue
+	tag: ch-59
+	tag: Jeanne
+	tag: p-34
+	tag: Parley
+	tag: Red
+	tag: Sword
+	tag: Watercolour
+page:1728
+	date: 2016-09-26
+	desc: Jeanne: George?! Why would you attack me?!
+	tag: Annan
+	tag: ch-59
+	tag: Fight
+	tag: Jeanne
+	tag: p-33
+	tag: Parley
+	tag: RobotS13
+	tag: Sword
+	tag: Wham
+page:1727
+	date: 2016-09-23
+	desc: Blue: I -- I can't keep hold of her when she's fighting! 
+	tag: Annan
+	tag: Blue
+	tag: ch-59
+	tag: Fight
+	tag: Jeanne
+	tag: p-32
+	tag: RobotS13
+	tag: Sword
+page:1726
+	date: 2016-09-21
+	desc: Jeanne: A monster?
+	tag: Annan
+	tag: Blue
+	tag: ch-59
+	tag: Diego
+	tag: Fencer
+	tag: Fight
+	tag: Jeanne
+	tag: p-31
+	tag: Parley
+	tag: Red
+	tag: RobotS13
+	tag: Smitty
+	tag: Sword
+	tag: Watercolour
+page:1725
+	date: 2016-09-19
+	desc: Kat: This is it!
+	note: Kat recreates the [GreenArrow](#greenarrow) glow
+	tag: ch-59
+	tag: DiegoDesigns
+	tag: Flashback
+	tag: GreenLight
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Moon
+	tag: p-30
+	tag: Sun
+page:1724
+	date: 2016-09-16
+	desc: Kat: C'mon c'mon c'mon c'mon c'mon... 
+	tag: Annan
+	tag: Annie
+	tag: Boat
+	tag: ch-59
+	tag: DiegoDesigns
+	tag: Flashback
+	tag: Kat
+	tag: KatsWorkshop
+	tag: p-29
+	tag: Tracker
+page:1723
+	date: 2016-09-14
+	desc: Annie: It's like a maze
+	tag: Annan
+	tag: Annie
+	tag: AnnieScar
+	tag: Boat
+	tag: ch-59
+	tag: Etherium
+	tag: Fire
+	tag: JeannesLover
+	tag: Kat
+	tag: MachineMaze
+	tag: p-28
+	tag: Tracker
+	tag: WaterSpirit
+page:1722
+	date: 2016-09-12
+	desc: [Annie's fire lights]
+	tag: Annie
+	tag: ch-59
+	tag: Etherium
+	tag: JeannesLover
+	tag: MachineMaze
+	tag: p-27
+	tag: WaterSpirit
+	tag: FireElemental
+page:1721
+	date: 2016-09-09
+	desc: Annie: You're Jeanne's ---
+	tag: Annie
+	tag: ch-59
+	tag: Etherium
+	tag: JeannesLover
+	tag: MachineMaze
+	tag: p-26
+	tag: WaterSpirit
+page:1720
+	date: 2016-09-07
+	desc: [Annie lands inside a machine / clockwork / maze with a watery figure in front of her]
+	tag: Annie
+	tag: ch-59
+	tag: Etherium
+	tag: JeannesLover
+	tag: MachineMaze
+	tag: p-25
+	tag: WaterSpirit
+page:1719
+	date: 2016-09-05
+	desc: [Annie touches the Green Arrow]
+	tag: Annan
+	tag: Annie
+	tag: AnnieCut
+	tag: Bones
+	tag: ch-59
+	tag: Etherium
+	tag: GreenArrow
+	tag: p-24
+page:1718
+	date: 2016-09-02
+	desc: Jeanne: My sword is... a part of me
+	tag: ch-59
+	tag: Etherium
+	tag: Fencer
+	tag: Fight
+	tag: Jeanne
+	tag: p-23
+	tag: RobotS13
+	tag: Sword
+	tag: Watercolour
+page:1717
+	date: 2016-08-31
+	desc: Jeanne: What are you?!
+	tag: ch-59
+	tag: Etherium
+	tag: Fencer
+	tag: Fight
+	tag: Jeanne
+	tag: p-22
+	tag: Sword
+	tag: Watercolour
+page:1716
+	date: 2016-08-29
+	desc: Red: She's flipping out! Keep hold of her!
+	tag: Blue
+	tag: ch-59
+	tag: CostumeBook
+	tag: Etherium
+	tag: Fencer
+	tag: Jeanne
+	tag: p-21
+	tag: Red
+	tag: Sword
+	tag: Watercolour
+page:1715
+	date: 2016-08-26
+	desc: Jeanne: **this is not what I am!**
+	tag: Annan
+	tag: Annie
+	tag: Blue
+	tag: ch-59
+	tag: Etherium
+	tag: GreenArrow
+	tag: Jeanne
+	tag: p-20
+	tag: Red
+	tag: Smitty
+	tag: Watercolour
+page:1714
+	date: 2016-08-24
+	desc: [Watercolour Jeanne starts to link back to Ghost Jeanne]
+	tag: Annan
+	tag: Annie
+	tag: ch-59
+	tag: Etherium
+	tag: GreenArrow
+	tag: Jeanne
+	tag: p-19
+	tag: Parley
+	tag: Watercolour
+page:1713
+	date: 2016-08-22
+	desc: Parley: What’s wrong?
+	tag: Blue
+	tag: ch-59
+	tag: CostumeBook
+	tag: Etherium
+	tag: Jeanne
+	tag: p-18
+	tag: Parley
+	tag: Red
+	tag: Watercolour
 page:1712
 	date: 2016-08-19
 	desc: [Annie floating in the Ether / Annan]
@@ -39,6 +375,7 @@ page:1712
 	tag: ch-59
 	tag: Etherium
 	tag: GreenArrow
+	tag: JeannesLover
 	tag: p-17
 	tag: Skeleton
 page:1711
@@ -134,7 +471,7 @@ page:1705
 	tag: Watercolour
 page:1704
 	date: 2016-08-01
-	desc: Red: Oh! Make some of these guys! Haha!
+	desc: Red: Oh! Do oe of these!
 	tag: Annie
 	tag: AnnieCut
 	tag: Blue
@@ -143,6 +480,7 @@ page:1704
 	tag: CostumeBook
 	tag: Etherium
 	tag: p-09
+	tag: Red
 	tag: Watercolour
 page:1703
 	date: 2016-07-29
@@ -245,7 +583,7 @@ page:1694
 	tag: Bridge
 	tag: ch-58
 	tag: JackalopeBoy
-	tag: p-36
+	tag: p-37
 	tag: Parley
 	tag: Smitty
 page:1693
@@ -1123,7 +1461,7 @@ page:1616
 	tag: ch-56
 	tag: CourtStaffSymbol
 	tag: Juliette
-	tag: p-025
+	tag: p-25
 	tag: PillaredBuilding
 page:1615
 	date: 2016-01-06
@@ -1131,7 +1469,7 @@ page:1615
 	tag: BadgeBot
 	tag: ch-56
 	tag: CourtStaffSymbol
-	tag: p-024
+	tag: p-24
 	tag: PillaredBuilding
 page:1614
 	date: 2016-01-04
@@ -1139,7 +1477,7 @@ page:1614
 	tag: BadgeBot
 	tag: ch-56
 	tag: CourtStaffSymbol
-	tag: p-023
+	tag: p-23
 	tag: SurveillanceMast
 	tag: Roof
 page:1613
@@ -1151,7 +1489,7 @@ page:1613
 	tag: Blush
 	tag: ch-56
 	tag: CourtStaffSymbol
-	tag: p-022
+	tag: p-22
 	tag: RobotS13
 	tag: Roof
 	tag: Shadow
@@ -1162,7 +1500,7 @@ page:1612
 	tag: Bandage
 	tag: BioLimb
 	tag: ch-56
-	tag: p-021
+	tag: p-21
 	tag: RobotS13
 	tag: Shadow
 page:1611
@@ -1172,7 +1510,7 @@ page:1611
 	tag: BioLimb
 	tag: Blush
 	tag: ch-56
-	tag: p-020
+	tag: p-20
 	tag: RobotS13
 	tag: Shadow
 page:1610
@@ -1182,7 +1520,7 @@ page:1610
 	tag: Bandage
 	tag: BioLimb
 	tag: ch-56
-	tag: p-019
+	tag: p-19
 	tag: RobotS13
 	tag: Shadow
 page:1609
@@ -1191,7 +1529,7 @@ page:1609
 	tag: Bandage
 	tag: BioLimb
 	tag: ch-56
-	tag: p-018
+	tag: p-18
 	tag: RobotS13
 	tag: Shadow
 page:1608
@@ -1203,7 +1541,7 @@ page:1608
 	tag: ch-56
 	tag: CourtStaffSymbol
 	tag: IndustrialUnit
-	tag: p-017
+	tag: p-17
 	tag: Robots
 	tag: RobotS13
 page:1607
@@ -1212,7 +1550,7 @@ page:1607
 	tag: BioLimb
 	tag: ch-56
 	tag: IndustrialUnit
-	tag: p-016
+	tag: p-16
 	tag: Robots
 	tag: RobotS13
 page:1606
@@ -1226,7 +1564,7 @@ page:1606
 	tag: Flowers
 	tag: Heart
 	tag: Kat
-	tag: p-015
+	tag: p-15
 	tag: Robots
 	tag: RobotS13
 page:1605
@@ -1235,7 +1573,7 @@ page:1605
 	tag: Bandage
 	tag: BioLimb
 	tag: ch-56
-	tag: p-014
+	tag: p-14
 	tag: Pain
 	tag: RobotS13
 page:1604
@@ -1246,7 +1584,7 @@ page:1604
 	tag: ch-56
 	tag: Kat
 	tag: KatsWorkshop
-	tag: p-013
+	tag: p-13
 	tag: RobotS13
 	tag: Roof
 page:1603
@@ -1257,7 +1595,7 @@ page:1603
 	tag: ch-56
 	tag: Kat
 	tag: KatsWorkshop
-	tag: p-012
+	tag: p-12
 	tag: Paz
 	tag: RobotS13
 page:1602
@@ -1268,7 +1606,7 @@ page:1602
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Kiss
-	tag: p-011
+	tag: p-11
 	tag: Paz
 	tag: RobotS13
 page:1601
@@ -1278,7 +1616,7 @@ page:1601
 	tag: ch-56
 	tag: Kat
 	tag: KatsWorkshop
-	tag: p-010
+	tag: p-10
 	tag: Paz
 	tag: RobotS13
 page:1600
@@ -8562,6 +8900,7 @@ page:898
 	tag: Angel
 	tag: ch-33
 	tag: DiegoBot
+	tag: p-29
 	tag: Robots
 	tag: RobotS13
 	tag: RobotTomb
@@ -8575,6 +8914,7 @@ page:897
 	tag: GolemHeart
 	tag: Heart
 	tag: Kat
+	tag: p-28
 	tag: Robots
 	tag: RobotTomb
 	tag: SeedBismuth
@@ -8585,8 +8925,9 @@ page:896
 	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
-	tag: RobotS13
+	tag: p-27
 	tag: Robots
+	tag: RobotS13
 	tag: RobotTomb
 page:895
 	date: 2011-06-20
@@ -8596,8 +8937,9 @@ page:895
 	tag: DiegoBot
 	tag: Flashback
 	tag: Kat
-	tag: RobotS13
+	tag: p-26
 	tag: Robots
+	tag: RobotS13
 	tag: RobotTomb
 page:894
 	date: 2011-06-17
@@ -8605,6 +8947,7 @@ page:894
 	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
+	tag: p-25
 	tag: Robots
 	tag: RobotTomb
 page:893
@@ -8614,6 +8957,7 @@ page:893
 	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
+	tag: p-24
 	tag: Robots
 	tag: RobotTomb
 page:892
@@ -8624,8 +8968,9 @@ page:892
 	tag: DiegoBot
 	tag: Flashback
 	tag: Kat
-	tag: RobotS13
+	tag: p-23
 	tag: Robots
+	tag: RobotS13
 	tag: RobotTomb
 page:891
 	date: 2011-06-10
@@ -8634,8 +8979,9 @@ page:891
 	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
-	tag: RobotS13
+	tag: p-22
 	tag: Robots
+	tag: RobotS13
 	tag: Shadow
 page:890
 	date: 2011-06-08
@@ -8645,8 +8991,9 @@ page:890
 	tag: DiegoBot
 	tag: Kat
 	tag: KatsWorkshop
-	tag: RobotS13
+	tag: p-21
 	tag: Robots
+	tag: RobotS13
 page:889
 	date: 2011-06-06
 	desc: SKANG!
@@ -8656,8 +9003,9 @@ page:889
 	tag: DiegoBot
 	tag: Kat
 	tag: KatsWorkshop
-	tag: RobotS13
+	tag: p-20
 	tag: Robots
+	tag: RobotS13
 page:888
 	date: 2011-06-03
 	desc: I think I can make a bypass for it...
@@ -8669,8 +9017,9 @@ page:888
 	tag: KatsWorkshop
 	tag: Moon
 	tag: MoonPrint
-	tag: RobotS13
+	tag: p-19
 	tag: Robots
+	tag: RobotS13
 	tag: Sky
 	tag: Sun
 page:887
@@ -8680,157 +9029,172 @@ page:887
 	tag: ch-33
 	tag: Kat
 	tag: KatsWorkshop
-	tag: RobotS13
+	tag: p-18
 	tag: RobotCode
-	tag: RobotDesigns
+	tag: DiegoDesigns
 	tag: Robotics
 	tag: Robots
+	tag: RobotS13
 page:886
 	date: 2011-05-30
-	tag: ch-33
+	desc: you... can read it?
 	tag: Annie
+	tag: ch-33
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-17
 	tag: RobotCode
-	tag: RobotDesigns
-	tag: RobotParts
+	tag: DiegoDesigns
 	tag: Robotics
+	tag: RobotParts
 	tag: Robots
-	desc: you... can read it?
 page:885
 	date: 2011-05-27
-	tag: ch-33
+	desc: Oh my god! This is incredible!
 	tag: Annie
+	tag: ch-33
 	tag: Kat
 	tag: KatsWorkshop
-	tag: RobotS13
+	tag: p-16
 	tag: RobotCode
-	tag: RobotDesigns
+	tag: DiegoDesigns
 	tag: Robotics
 	tag: Robots
-	desc: Oh my god! This is incredible!
+	tag: RobotS13
 page:884
 	date: 2011-05-25
-	tag: ch-33
+	desc: about that operating code you asked us to print...
 	tag: Annie
 	tag: BlinkerStone
+	tag: ch-33
 	tag: Fire
 	tag: Kat
 	tag: KatsWorkshop
-	tag: RobotDesigns
+	tag: p-15
+	tag: DiegoDesigns
 	tag: Robotics
 	tag: Robots
-	desc: about that operating code you asked us to print...
 page:883
 	date: 2011-05-23
-	tag: ch-33
+	desc: but... this would mean Diego was a... magician, not a scientist
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: GolemHeart
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-14
 	tag: RobotParts
 	tag: Robots
-	desc: but... this would mean Diego was a... magician, not a scientist
 page:882
 	date: 2011-05-20
-	tag: ch-33
+	desc: What if these are not really robots in the modern sense, but golems?
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: Etherics
 	tag: GolemHeart
 	tag: Kat
 	tag: KatsWorkshop
-	tag: RobotDesigns
-	tag: RobotParts
+	tag: p-13
+	tag: DiegoDesigns
 	tag: Robotics
+	tag: RobotParts
 	tag: Robots
-	desc: What if these are not really robots in the modern sense, but golems?
 page:881
 	date: 2011-05-18
-	tag: ch-33
+	desc: how come you guys picked a creepy looking robot
 	tag: Annie
+	tag: ch-33
 	tag: DiegoBot
 	tag: Kat
-	tag: Robots
 	tag: KatsWorkshop
-	desc: how come you guys picked a creepy looking robot
+	tag: p-12
+	tag: Robots
 page:880
 	date: 2011-05-16
-	tag: ch-33
+	desc: the bad news is that all his work is written in gibberish
 	tag: Annie
+	tag: ch-33
 	tag: DiegoStudy
 	tag: GolemHeart
 	tag: Heart
 	tag: Kat
+	tag: p-11
 	tag: Robotics
-	desc: the bad news is that all his work is written in gibberish
 page:879
 	date: 2011-05-13
-	tag: ch-33
+	desc: He somehow made machines that could move despite not having internal mechanisms like modern robots
 	tag: Annie
+	tag: ch-33
 	tag: Diego
 	tag: DiegoStudy
 	tag: Kat
+	tag: p-10
 	tag: Robots
-	desc: He somehow made machines that could move despite not having internal mechanisms like modern robots
 page:878
 	date: 2011-05-11
+	desc: should you really be following her around like this?
 	tag: ch-33
 	tag: Court
 	tag: Creeper
+	tag: p-09
 	tag: RobotS13
 	tag: Roof
 	tag: Shadow
-	desc: should you really be following her around like this?
 page:877
 	date: 2011-05-09
-	tag: ch-33
+	desc: I wonder how the court was built
 	tag: Annie
+	tag: ch-33
 	tag: Court
 	tag: Founding
 	tag: Kat
+	tag: p-08
 	tag: RobotS13
 	tag: Roof
 	tag: SeedBismuth
-	desc: I wonder how the court was built
 page:876
 	date: 2011-05-06
-	tag: ch-33
+	desc: I guess clearing my mind was harder than I thought
 	tag: Annie
+	tag: ch-33
 	tag: Court
 	tag: Kat
-	tag: RobotDesigns
-	tag: RobotParts
+	tag: p-07
+	tag: DiegoDesigns
 	tag: Robotics
+	tag: RobotParts
 	tag: Roof
-	desc: I guess clearing my mind was harder than I thought
 page:875
 	date: 2011-05-04
-	tag: ch-33
+	desc: Clear your mind and listen
 	tag: Annie
+	tag: ch-33
 	tag: Court
 	tag: Etherics
 	tag: Kat
+	tag: p-06
 	tag: Roof
-	desc: Clear your mind and listen
 page:874
 	date: 2011-05-02
-	tag: ch-33
+	desc: I brought you up here because I wanted to show you something
 	tag: Annie
+	tag: ch-33
 	tag: Court
 	tag: Kat
+	tag: p-05
 	tag: Roof
-	desc: I brought you up here because I wanted to show you something
 page:873
 	date: 2011-04-29
-	tag: ch-33
+	desc: didn't he try to kill you at one point?
 	tag: Annie
+	tag: ch-33
 	tag: Court
 	tag: Kat
+	tag: p-04
 	tag: Roof
 	tag: Ysengrin
-	desc: didn't he try to kill you at one point?
 page:872
 	date: 2011-04-27
 	desc: if you like green skin and pointy ears
@@ -8841,6 +9205,7 @@ page:872
 	tag: Gillitie
 	tag: Kamlen
 	tag: Khepi
+	tag: p-03
 	tag: Roof
 	tag: Symbol
 page:871
@@ -8851,6 +9216,7 @@ page:871
 	tag: Court
 	tag: Kat
 	tag: Landscape
+	tag: p-02
 	tag: Roof
 page:870
 	date: 2011-04-22
@@ -8858,7 +9224,8 @@ page:870
 	tag: ch-33
 	tag: Cover
 	tag: GolemHeart
-	tag: RobotDesigns
+	tag: p-01
+	tag: DiegoDesigns
 page:869
 	date: 2011-04-20
 	desc: Moro
@@ -8870,13 +9237,13 @@ page:869
 	tag: Rey
 page:868
 	date: 2011-04-18
-	tag: ch-32
+	desc: Bah! It's some manner of animated picture?
 	tag: Annie
+	tag: ch-32
 	tag: Filler
 	tag: Kat
 	tag: PrincessMononoke
 	tag: Rey
-	desc: Bah! It's some manner of animated picture?
 page:867
 	date: 2011-04-15
 	desc: Bonus Page: Welcome to Year 9!
@@ -9877,6 +10244,7 @@ page:832
 page:831
 	date: 2011-01-31
 	tag: ch-31
+	tag: p-43
 	tag: Annie
 	tag: Gillitie
 	tag: Streamers
@@ -9885,6 +10253,7 @@ page:831
 page:830
 	date: 2011-01-28
 	tag: ch-31
+	tag: p-42
 	tag: Annie
 	tag: Gillitie
 	tag: Ysengrin
@@ -9892,6 +10261,7 @@ page:830
 page:829
 	date: 2011-01-26
 	tag: ch-31
+	tag: p-41
 	tag: Annie
 	tag: Gillitie
 	tag: Streamers
@@ -9900,6 +10270,7 @@ page:829
 page:828
 	date: 2011-01-24
 	tag: ch-31
+	tag: p-40
 	tag: Annie
 	tag: Gillitie
 	tag: Streamers
@@ -9910,6 +10281,7 @@ page:828
 page:827
 	date: 2011-01-21
 	tag: ch-31
+	tag: p-39
 	tag: Annie
 	tag: Bind
 	tag: Coyote
@@ -9923,6 +10295,7 @@ page:826
 	tag: Bind
 	tag: Coyote
 	tag: Gillitie
+	tag: p-38
 	tag: Ysengrin
 	desc: Bring her along Ysengrin, and we will find her a home for the summer
 page:825
@@ -9934,6 +10307,7 @@ page:825
 	tag: Gillitie
 	tag: Jones
 	tag: TimeStop
+	tag: p-37
 	tag: Ysengrin
 	desc: Is this acceptable?
 page:824
@@ -9947,6 +10321,7 @@ page:824
 	tag: Jones
 	tag: TimeStop
 	tag: Ysengrin
+	tag: p-36
 	desc: I see you don't have the tooth I gave you
 page:823
 	date: 2011-01-12
@@ -9960,6 +10335,7 @@ page:823
 	tag: Kat
 	tag: Rey
 	tag: TimeStop
+	tag: p-35
 	tag: Ysengrin
 	desc: You put many people in danger today
 page:822
@@ -9974,6 +10350,7 @@ page:822
 	tag: Gillitie
 	tag: Jones
 	tag: SunSymbol
+	tag: p-34
 	tag: WanderingEye
 	tag: Ysengrin
 page:821
@@ -9988,6 +10365,7 @@ page:821
 	tag: Gillitie
 	tag: Jones
 	tag: Moon
+	tag: p-33
 	tag: SunSymbol
 	tag: WanderingEye
 page:820
@@ -10005,6 +10383,7 @@ page:820
 	tag: Jones
 	tag: Surma
 	tag: Tony
+	tag: p-32
 	tag: WanderingEye
 page:819
 	date: 2011-01-03
@@ -10017,6 +10396,7 @@ page:819
 	tag: Gillitie
 	tag: Jones
 	tag: Surma
+	tag: p-31
 	tag: WanderingEye
 	tag: Ysengrin
 page:818
@@ -10029,6 +10409,7 @@ page:818
 	tag: Jones
 	tag: Rey
 	tag: Surma
+	tag: p-30
 	tag: WanderingEye
 page:817
 	date: 2010-12-29
@@ -10040,6 +10421,7 @@ page:817
 	tag: Jones
 	tag: Rey
 	tag: Surma
+	tag: p-29
 	tag: WanderingEye
 	tag: Ysengrin
 page:816
@@ -10054,6 +10436,7 @@ page:816
 	tag: Surma
 	tag: WanderingEye
 	tag: Ysengrin
+	tag: p-28
 page:815
 	date: 2010-12-24
 	tag: ch-31
@@ -10063,6 +10446,7 @@ page:815
 	tag: Jones
 	tag: WanderingEye
 	tag: Ysengrin
+	tag: p-27
 	desc: Wandering Eye? So many visitors today!
 page:814
 	date: 2010-12-22
@@ -10072,6 +10456,7 @@ page:814
 	tag: Gillitie
 	tag: Surma
 	tag: Tears
+	tag: p-26
 	desc: Don't look into my dreams Coyote
 page:813
 	date: 2010-12-20
@@ -10083,6 +10468,7 @@ page:813
 	tag: Surma
 	tag: Tears
 	tag: Tony
+	tag: p-25
 	desc: He still loves you very much
 page:812
 	date: 2010-12-17
@@ -10093,6 +10479,7 @@ page:812
 	tag: Surma
 	tag: Tears
 	tag: Tony
+	tag: p-24
 	desc: (Young Annie walks in on her father crying over her mother in hospital)
 page:811
 	date: 2010-12-15
@@ -10100,6 +10487,7 @@ page:811
 	tag: Annie
 	tag: Gillitie
 	tag: Shadowmen
+	tag: p-23
 	tag: Ysengrin
 	desc: I would never hurt them
 page:810
@@ -10109,6 +10497,7 @@ page:810
 	tag: Gillitie
 	tag: Tears
 	tag: Ysengrin
+	tag: p-22
 	desc: You are here because you are weak
 page:809
 	date: 2010-12-10
@@ -10117,6 +10506,7 @@ page:809
 	tag: Gillitie
 	tag: Tears
 	tag: Ysengrin
+	tag: p-21
 	desc: (Annie reaches the forest and finds Ysengrin)
 page:808
 	date: 2010-12-08
@@ -10128,6 +10518,7 @@ page:808
 	tag: EthericShield
 	tag: Fire
 	tag: Gillitie
+	tag: p-20
 	desc: Damn it...
 page:807
 	date: 2010-12-06
@@ -10137,6 +10528,7 @@ page:807
 	tag: Eglamore
 	tag: Etherics
 	tag: Fire
+	tag: p-19
 	tag: Tears
 	desc: (Annie runs over the bridge, and puts up an etheric fire to block Eglamore from stopping her)
 page:806
@@ -10147,6 +10539,7 @@ page:806
 	tag: Court
 	tag: Gillitie
 	tag: Tears
+	tag: p-18
 	desc: (Annie runs, crying from her room, and ends up at the bridge)
 page:805
 	date: 2010-12-01
@@ -10159,6 +10552,7 @@ page:805
 	tag: Surma
 	tag: Tears
 	tag: Tony
+	tag: p-17
 	desc: We all knew it would happen, if Surma ever had a child
 page:804
 	date: 2010-11-29
@@ -10171,6 +10565,7 @@ page:804
 	tag: Surma
 	tag: Tears
 	tag: Tony
+	tag: p-16
 	desc: You are the reason Surma died!
 page:803
 	date: 2010-11-26
@@ -10180,6 +10575,7 @@ page:803
 	tag: Rey
 	tag: Surma
 	tag: Tony
+	tag: p-15
 	desc: I know why she was like that
 page:802
 	date: 2010-11-24
@@ -10190,6 +10586,7 @@ page:802
 	tag: Rey
 	tag: Surma
 	tag: Tony
+	tag: p-14
 	desc: How could she ever love a creature like you?
 page:801
 	date: 2010-11-22
@@ -10199,6 +10596,7 @@ page:801
 	tag: Rey
 	tag: Surma
 	tag: Tony
+	tag: p-13
 	desc: She never loved you
 page:800
 	date: 2010-11-19
@@ -10209,6 +10607,7 @@ page:800
 	tag: Kat
 	tag: Rey
 	tag: Tony
+	tag: p-12
 	desc: You're not my father Renard, stop acting like it.
 page:799
 	date: 2010-11-17
@@ -10218,6 +10617,7 @@ page:799
 	tag: Homework
 	tag: Kat
 	tag: Rey
+	tag: p-11
 	desc: Don't tell me you're going to copy Katerina's work again?
 page:798
 	date: 2010-11-15
@@ -10226,6 +10626,7 @@ page:798
 	tag: Dorm
 	tag: Homework
 	tag: Kat
+	tag: p-10
 	desc: (Annie leaves Jack, frowns again, then goes to the dorm and takes Kat's homework book)
 page:797
 	date: 2010-11-12
@@ -10234,6 +10635,7 @@ page:797
 	tag: Blush
 	tag: Jack
 	tag: Kat
+	tag: p-09
 	desc: I'll see you next year perhaps
 page:796
 	date: 2010-11-10
@@ -10243,6 +10645,7 @@ page:796
 	tag: Hyland
 	tag: Kat
 	tag: Surma
+	tag: p-08
 	desc: He said he knew your mum
 page:795
 	date: 2010-11-08
@@ -10250,6 +10653,7 @@ page:795
 	tag: Annie
 	tag: Jack
 	tag: WhiteSpider
+	tag: p-07
 	desc: So, you know, thanks again.
 page:794
 	date: 2010-11-05
@@ -10258,7 +10662,8 @@ page:794
 	tag: Jack
 	tag: Kat
 	tag: KatsWorkshop
-	desc: (Annie leaves Kat's workshop, andfrowns. She then sees Jack as she walks back to the dorm)
+	tag: p-06
+	desc: (Annie leaves Kat's workshop, and frowns. She then sees Jack as she walks back to the dorm)
 page:793
 	date: 2010-11-03
 	tag: ch-31
@@ -10272,6 +10677,7 @@ page:793
 	tag: Rey
 	tag: Surma
 	tag: Ysengrin
+	tag: p-05
 	desc: I must head back and pack some more
 page:792
 	date: 2010-11-01
@@ -10284,6 +10690,7 @@ page:792
 	tag: KatsWorkshop
 	tag: Rey
 	tag: Surma
+	tag: p-04
 	desc: So my mother... tricked Renard into thinking she loved him?
 page:791
 	date: 2010-10-29
@@ -10295,6 +10702,7 @@ page:791
 	tag: Rey
 	tag: Surma
 	desc: Surma, I... I love you!
+	tag: p-03
 page:790
 	date: 2010-10-27
 	tag: ch-31
@@ -10304,12 +10712,14 @@ page:790
 	tag: Rey
 	tag: Surma
 	desc: Easy now Reynardine!
+	tag: p-02
 page:789
 	date: 2010-10-25
 	desc: Chapter 31:<br><br>**Fire Spike**<br><br>_Icon: Fire Spike flame / crown_
 	tag: ch-31
 	tag: Cover
 	tag: FireSpike
+	tag: p-01
 page:788
 	date: 2010-10-22
 	desc: Bonus Page 30: New Skill
@@ -10652,7 +11062,7 @@ page:759
 	tag: KatsWorkshop
 	tag: p-17
 	tag: RobotS13
-	tag: RobotDesigns
+	tag: DiegoDesigns
 	tag: RobotParts
 	tag: Robots
 	desc: I had an amazing idea.
@@ -10704,7 +11114,7 @@ page:755
 	tag: Paz
 	tag: p-13
 	tag: RobotS13
-	tag: RobotDesigns
+	tag: DiegoDesigns
 	tag: RobotParts
 	tag: Robots
 	desc: (Kat gets insperation from a bird's wing!)
@@ -10820,7 +11230,7 @@ page:745
 	tag: KatsWorkshop
 	tag: p-03
 	tag: RobotS13
-	tag: RobotDesigns
+	tag: DiegoDesigns
 	tag: RobotParts
 	tag: Robots
 	desc: Who asked you guys for help?
@@ -17285,6 +17695,7 @@ page:147
 	tag: ch-08
 	tag: Court
 	tag: Kat
+	tag: p-27
 page:146
 	date: 2006-08-24
 	desc: You remember that time I told you that I'd never lost anyone I cared for?
@@ -17295,6 +17706,7 @@ page:146
 	tag: Gillitie
 	tag: Jeanne
 	tag: Kat
+	tag: p-26
 	tag: Shadow
 page:145
 	date: 2006-08-22
@@ -17306,6 +17718,7 @@ page:145
 	tag: Gillitie
 	tag: Jeanne
 	tag: Kat
+	tag: p-25
 	tag: Shadow
 page:144
 	date: 2006-08-17
@@ -17317,6 +17730,7 @@ page:144
 	tag: Fairies
 	tag: Gillitie
 	tag: Kat
+	tag: p-24
 	tag: Red
 page:143
 	date: 2006-08-15
@@ -17329,17 +17743,19 @@ page:143
 	tag: Fairies
 	tag: Gillitie
 	tag: Kat
+	tag: p-23
 	tag: Red
 	tag: Shadow
 page:142
 	date: 2006-08-10
-	tag: ch-08
+	desc: I knew you were still alive!
 	tag: Annan
 	tag: Annie
 	tag: AntiGrav
+	tag: ch-08
 	tag: Gillitie
 	tag: Kat
-	desc: I knew you were still alive!
+	tag: p-22
 page:141
 	date: 2006-08-08
 	desc: (Jeanne slashes Annie across the face, a light appears)
@@ -17352,6 +17768,7 @@ page:141
 	tag: Fairies
 	tag: Gillitie
 	tag: Jeanne
+	tag: p-21
 	tag: Red
 	tag: Sword
 page:140
@@ -17364,6 +17781,7 @@ page:140
 	tag: Fairies
 	tag: Gillitie
 	tag: Jeanne
+	tag: p-20
 	tag: Red
 	tag: Sword
 page:139
@@ -17378,6 +17796,7 @@ page:139
 	tag: Fire
 	tag: Gillitie
 	tag: Jeanne
+	tag: p-19
 	tag: Red
 	tag: Sword
 	tag: TicToc
@@ -17393,6 +17812,7 @@ page:138
 	tag: Fire
 	tag: Gillitie
 	tag: Jeanne
+	tag: p-18
 	tag: Red
 	tag: Shadow
 page:137
@@ -17404,6 +17824,7 @@ page:137
 	tag: ch-08
 	tag: Fairies
 	tag: Gillitie
+	tag: p-17
 	tag: Red
 	tag: Shadow
 page:136
@@ -17419,6 +17840,7 @@ page:136
 	tag: Gillitie
 	tag: Glass
 	tag: GoodHope
+	tag: p-16
 	tag: Red
 	tag: Shadow
 	tag: Surma
@@ -17434,6 +17856,7 @@ page:135
 	tag: Fairies
 	tag: Fire
 	tag: Gillitie
+	tag: p-15
 	tag: Red
 	tag: Shadow
 page:134
@@ -17447,19 +17870,21 @@ page:134
 	tag: Gillitie
 	tag: Jeanne
 	tag: Muut
+	tag: p-14
 	tag: Red
 	tag: Shadow
 page:133
 	date: 2006-07-11
-	tag: ch-08
+	desc: He wanted us to give you this. Something you may find useful given your... current situation
 	tag: Annan
 	tag: Annie
 	tag: BlinkerStone
+	tag: ch-08
 	tag: Gillitie
 	tag: Jeanne
 	tag: Muut
+	tag: p-13
 	tag: Shadow
-	desc: He wanted us to give you this. Something you may find useful given your... current situation
 page:132
 	date: 2006-07-06
 	desc: Someone who is "just fine" would not be in this place.
@@ -17470,6 +17895,7 @@ page:132
 	tag: Fairies
 	tag: Gillitie
 	tag: Muut
+	tag: p-12
 	tag: Red
 	tag: TicToc
 page:131
@@ -17482,6 +17908,7 @@ page:131
 	tag: Fairies
 	tag: Gillitie
 	tag: Muut
+	tag: p-11
 	tag: Red
 	tag: Shadow
 page:130
@@ -17493,6 +17920,7 @@ page:130
 	tag: ch-08
 	tag: Fairies
 	tag: Gillitie
+	tag: p-10
 	tag: Red
 	tag: Shadow
 page:129
@@ -17504,6 +17932,7 @@ page:129
 	tag: ch-08
 	tag: Fairies
 	tag: Gillitie
+	tag: p-09
 	tag: Red
 	tag: Shadow
 page:128
@@ -17515,6 +17944,7 @@ page:128
 	tag: ch-08
 	tag: Fairies
 	tag: Gillitie
+	tag: p-08
 	tag: Red
 	tag: RobotS13
 	tag: Shadow
@@ -17526,6 +17956,7 @@ page:127
 	tag: Annie
 	tag: ch-08
 	tag: Gillitie
+	tag: p-07
 	tag: Scissors
 	tag: TicToc
 page:126
@@ -17537,6 +17968,7 @@ page:126
 	tag: ch-08
 	tag: Gillitie
 	tag: Jeanne
+	tag: p-06
 	tag: TicToc
 page:125
 	date: 2006-06-13
@@ -17545,6 +17977,7 @@ page:125
 	tag: Annie
 	tag: ch-08
 	tag: Gillitie
+	tag: p-05
 	tag: TicToc
 page:124
 	date: 2006-06-08
@@ -17553,6 +17986,7 @@ page:124
 	tag: Annie
 	tag: ch-08
 	tag: Gillitie
+	tag: p-04
 	tag: TicToc
 page:123
 	date: 2006-06-06
@@ -17562,6 +17996,7 @@ page:123
 	tag: Flashback
 	tag: Glass
 	tag: GoodHope
+	tag: p-03
 	tag: Surma
 	tag: Water
 page:122
@@ -17572,6 +18007,7 @@ page:122
 	tag: Flashback
 	tag: Glass
 	tag: GoodHope
+	tag: p-02
 	tag: Water
 page:121
 	date: 2006-05-30
@@ -17579,6 +18015,7 @@ page:121
 	tag: ch-08
 	tag: Cover
 	tag: Glass
+	tag: p-01
 	tag: Water
 page:120
 	date: 2006-05-25

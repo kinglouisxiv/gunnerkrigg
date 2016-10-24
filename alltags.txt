@@ -112,7 +112,8 @@ CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/[
 DanielRSchiff	[Rey's](#rey) victim [_{W}_](http://gunnerkrigg.wikia.com/wiki/Daniel_R_Schiff)
 DeathsHead	admissions clerk to the [Realm of the Dead](#rotd), a 2 dimensional skull
 Desert 	No rain in here. Where [Coyotes](#coyote) live, sometimes
-Diego 	creepy robotics expert of the Court's early days; creator of the original [robots](#robots) (but not the TicTocs); and referred to as "creator" by them. Implicated in the [Jeanne](#jeanne) affair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Diego)
+DeigoDesigns	Designs and blueprints for [robot](#robots) and others of [Diego's](#diego) works
+Diego 	Creepy robotics expert / magician of the Court's early days; maker of the original [robots](#robots) and referred to as "The Creator" by them. Implicated in the [Jeanne](#jeanne) affair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Diego)
 DiegoBot	One of the original [robots](#robots) created by Diego many years ago [_{W}_](http://gunnerkrigg.wikia.com/wiki/Old_Robot)
 DiegoStudy	Home of all things ancient [robot](#robots)
 Dirty 	What you become when you don't wash for a while
@@ -144,10 +145,11 @@ EugeneGould	Explorer after whom a psychic challenge is named; once won by [Parle
 EyeCrossed	A crossed out eye that is a complex warding sign, made by [Anja](#anja) and [Donny](#donny) to bind [Rey](#rey)
 EyeGunk 	[Etheric](#etherics) eye-gunk possessed by [Zimmy](#zimmy) and others affected by [Zimmingham](#zimmingham)
 Eyes 	When seeing is important
-EyeSymbol	An eye symbol associated with [Coyote](#coyote) and [Gillitie](#gillitie)
+EyeSymbol	An eye symbol associated with [Coyote](#coyote) and [Gillitie](#gillitie) Forest
 FacelessPeople	People without faces who [Zimmy](#zimmy) sometimes sees
 Fairies 	[Gillitie](#gillitie) Wood is full of them [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
 FencingHall	Where [sword](#sword)-fighting, fencing, sparring are taught
+Fencer	a fuzzily defined etheric illusion by [Blue](#blue) to distract [Jeanne](#jeanne).
 Fight 	When two people have a disagreement, violently
 Filler 	Not a mainstream story comic
 FinalRecords	A part of the [Realm of the Dead](#rotd)
@@ -174,7 +176,7 @@ Girl-b	A Court pupil
 Glass 	A transparent silicon oxide substance used to make windows and the water bearing vessels also called "glasses"
 GlassFiber	Strands of glass used in insulation. Exposure causes itchiness and respiratory problems.
 God 	What is god?
-Gol-shogeg	Big worm slug monster
+Gol-shogeg	Big worm slug monster. An etheric illusion by [Blue](#blue)
 GoldenHair	a former fairy, manipulates the Ether to "make you believe things that ain't even real"; now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 GoldSymbol	Alchemical symbol for gold, or sometimes for the Sun (see also [SunSymbol](#sunsymbol))
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
@@ -258,6 +260,7 @@ Lindsey	[dorm](#subdorm) monitor, PhD Structural Engineering, accredited couples
 LindseyComputer	[Lindsey's](#lindsey) computer translates for her
 Lockpicks	[Annie](#annie) has some lock-picks which she stores in the WolfToy/[Rey's](#rey) body
 LoveLetter	A written expression of love; may be anonymous
+MachineMaze	An etheric component of the [GreenArrow](#greenarrow), trapping the [victim spirit](#jeanneslover)
 MakeUp	Cosmetics to define or enhance appearance, particularly of the face, eyes and mouth
 Mallt-y-nos	Matilda of the Night, Night Malt; Welsh [psychopomp](#psychopomps)/crone/witch; rides with the [Cŵn Annwn](#cwnannwn) (hounds of the underworld) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Mallt-y-nos#Mallt-y-nos)
 Mandolin	stringed musical instrument; sometimes they're haunted
@@ -318,8 +321,7 @@ Red	A crazy and abrasive fairy [_{W}_](http://gunnerkrigg.wikia.com/wiki/Red)
 Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie), possessing a [stuffed wolf toy](#wolftoy) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Reynardine)
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
-RobotCode	A cube with the [Robots](#robots)' instruction code transcribed onto it
-RobotDesigns	Designs and Blueprints for [robot](#robots) old and new
+RobotCode	A cube with the [Robots'](#robots) instruction code transcribed onto it, see also [DiegoDesigns](#diegodesigns)
 RobotHQ	Where the [robots](#robots) hang out
 Robotics	Like [Etherics](#etherics) but with metal
 RobotKing	A [robot](#robots) with a crown, blank face, and a pen
@@ -375,7 +377,7 @@ Stars	Celestial bodies
 Steadman	An archer, present at the [founding](#founding) of the court, a close friend of the [Artilleryman](#artilleryman)
 StepsHouse	[Eglamore](#eglamore) lives here
 StopBot	Model B [robot](#robots) with stop signs for heads and boxing glove arms
-Strings	[Annie](#annie) sees these as a representation of [Smitty's](#smitty) connection to the Ether
+Strings	Multicolour threads some see as representation of [Smitty's](#smitty) connection to the Ether
 Students	Miscellaneous students
 SubDorm	Year 9's dorm: a retrofitted sub aquatic deep sea drilling platform. [Lindsey](#lindsey) and [Bud](#bud) are the dorm monitors
 SullivansJohn	see [John](#john)
