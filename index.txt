@@ -29,13 +29,256 @@
 ; TODO: page numbers 
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1764
+	date: 2016-12-09
+	desc: Jeanne: So. She has the ability to teleport
+	tag: Jeanne
+	tag: Annan
+	tag: ch-60
+	tag: Parley
+	tag: Sword
+	tag: GreenZap
+	tag: p-12
+page:1763
+	date: 2016-12-07
+	desc: Annie: Oh! Incredible! I - I can't even describe what I'm seeing!<br>Kat: Man, why don't I ever get to see the cool stuff
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-60
+	tag: Etherium
+	tag: JeannesLover
+	tag: Kat
+	tag: Lock
+	tag: Lockpicks
+	tag: MachineMaze
+	tag: p-11
+page:1762
+	date: 2016-12-05
+	desc: Annie: No wonder Andrew suggested I bring these...
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-60
+	tag: Etherium
+	tag: JeannesLover
+	tag: Kat
+	tag: Lock
+	tag: MachineMaze
+	tag: p-10
+	tag: Lockpicks
+page:1761
+	date: 2016-12-02
+	auth: Tom: Parley
+	desc: Jeanne: She struck me from behind?
+	tag: Annan
+	tag: ch-60
+	tag: Fight
+	tag: Jeanne
+	tag: p-09
+	tag: Parley
+	tag: Sword
+	tag: Bip
+page:1760
+	date: 2016-11-30
+	auth: Tom: Trick/sleeve
+	desc: Jeanne: She struck men from behind?
+	tag: Annan
+	tag: ch-60
+	tag: Fight
+	tag: Jeanne
+	tag: p-08
+	tag: Parley
+	tag: Sword
+	tag: Bip
+page:1759
+	date: 2016-11-28
+	auth: Tom: Pommel strike
+	tag: Annan
+	tag: ch-60
+	tag: Fight
+	tag: Jeanne
+	tag: p-07
+	tag: Parley
+	tag: Sword
+	tag: Bip
+page:1758
+	date: 2016-11-25
+	desc: Parley: She's too fast for me!
+	tag: Annan
+	tag: ch-60
+	tag: Fight
+	tag: Jeanne
+	tag: p-06
+	tag: Parley
+	tag: Sword
+page:1757
+	date: 2016-11-23
+	desc: Kat: You might be seeing something different though
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-60
+	tag: Etherium
+	tag: Flashback
+	tag: JeannesLover
+	tag: Kat
+	tag: Lock
+	tag: MachineMaze
+	tag: Mort
+	tag: p-05
+	tag: ROTD
+page:1756
+	date: 2016-11-21
+	desc: Kat: expected it to look a little different I guess
+	tag: Annie
+	tag: AnnieCut
+	tag: Anwyn
+	tag: ch-60
+	tag: Etherium
+	tag: JeannesLover
+	tag: Kat
+	tag: Lock
+	tag: MachineMaze
+	tag: p-04
+page:1755
+	date: 2016-11-18
+	desc: Kat: Is... Is this the Ether?
+	tag: Etherium
+	tag: Angel
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-60
+	tag: Kat
+	tag: MachineMaze
+	tag: p-03
+page:1754
+	date: 2016-11-16
+	desc: Annie: What **is** that thing?!
+	tag: Angel
+	tag: Annie
+	tag: AnnieCut
+	tag: ch-60
+	tag: Kat
+	tag: MachineMaze
+	tag: p-02
+page:1753
+	date: 2016-11-14
+	desc: Chapter 60:<br><br>**The Other Shore**<br><br>Icon: Close-up of Kat's 'angel' face
+	tag: Annan
+	tag: ch-60
+	tag: p-01
+page:1752
+	date: 2016-11-11
+	desc: City Face Cool Pigeon Puzzles 10 - A Cool Message?
+	tag: CityFace
+	tag: Pigeon
+	tag: PigeonGlyphs
+page:1751
+	date: 2016-11-10
+	desc: City Face Cool Pigeon Puzzles 9 - More Diffs?
+	tag: CityFace
+	tag: Pigeon
+page:1750
+	date: 2016-11-09
+	desc: City Face Cool Pigeon Puzzles 8 - What's These Dots??!
+	tag: Beak
+	tag: Dots
+page:1749
+	date: 2016-11-08
+	desc: City Face Cool Pigeon Puzzles 7 - Oops!
+	tag: Cat
+	tag: Cigarette
+	tag: CityFace
+	tag: Maze
+	tag: Pigeon
+	tag: Seagull
+	tag: Wheel
+page:1748
+	date: 2016-11-07
+	desc: City Face Cool Pigeon Puzzles 6 - Circle Time?
+	tag: Cigarette
+	tag: CityFace
+	tag: Pigeon
+	tag: Rubbish
+	tag: Syringe
+page:1747
+	date: 2016-11-04
+	desc: City Face Cool Pigeon Puzzles 5 - More Words?
+	tag: Pigeon
+	tag: CityFace
+	tag: Crossword
+page:1746
+	date: 2016-11-03
+	desc: City Face Cool Pigeon Puzzles 4 - Spot The Diff!
+	tag: Pigeon
+	tag: CityFace
+	tag: SpotTheDiff
+page:1745
+	date: 2016-11-02
+	desc: City Face Cool Pigeon Puzzles 3 - Search-A-Word
+	tag: Pigeon
+	tag: CityFace
+	tag: SearchAWord
+page:1744
+	date: 2016-11-01
+	desc: City Face Cool Pigeon Puzzles 2 - Colouring Page
+	tag: Pigeon
+	tag: CityFace
+	tag: Colouring
+page:1743
+	date: 2016-10-31
+	desc: City Face Cool Pigeon Puzzles 1 - Maze
+	tag: Pigeon
+	tag: CityFace
+	tag: Maze
+	tag: Crisp
+page:1742
+	date: 2016-10-28
+	desc: Break Announcement
+	tag: Earth
+	tag: Forest
+	tag: Gloves
+	tag: Hole
+	tag: Shovel
+	tag: Tea
+	tag: Tom
+page:1741
+	date: 2016-10-26
+	desc: Bonus Page 59: Treatise 7
+	note: Here's a lovely Kabbalistic [interpretation of the Treatise](http://gunnerkrigg.proboards.com/post/133466/thread) in terms of the Sephirot
+	tag: Annan
+	tag: Annie
+	tag: AnnieCut
+	tag: AntimonySymbol
+	tag: Blue
+	tag: Court
+	tag: Coyote
+	tag: CreatorGlyph
+	tag: FireElemental
+	tag: Gillitie
+	tag: JackalopeBoy
+	tag: Jeanne
+	tag: Jones
+	tag: MoonSymbol
+	tag: Parley
+	tag: Paz
+	tag: Red
+	tag: Rey
+	tag: RobotS13
+	tag: Shadow
+	tag: Smitty
+	tag: Snuffle
+	tag: Stars
+	tag: SunSymbol
+	tag: Tony
+	tag: Treatise
+	tag: Ysengrin
 page:1740
 	date: 2016-10-24
-	desc: [Something huge, bony skeletal, breaks into (forms out of) the structure of the machine-like maze]<br>[End of Book 6]
+	desc: [End of Book 6]
+	tag: Angel
 	tag: Annie
-	tag: BonyThing
 	tag: ch-59
 	tag: JeannesLover
+	tag: Kat
 	tag: MachineMaze
 	tag: p-45
 page:1739
@@ -135,7 +378,7 @@ page:1731
 	date: 2016-10-03
 	desc: Annie: Some of these parts can move...
 	tag: Annie
-	tag: AnnieScar
+	tag: AnnieCut
 	tag: ch-59
 	tag: Etherium
 	tag: Fire
@@ -147,7 +390,7 @@ page:1730
 	date: 2016-09-30
 	desc: Annie: What is all this?
 	tag: Annie
-	tag: AnnieScar
+	tag: AnnieCut
 	tag: ch-59
 	tag: Etherium
 	tag: Fire
@@ -238,7 +481,7 @@ page:1723
 	desc: Annie: It's like a maze
 	tag: Annan
 	tag: Annie
-	tag: AnnieScar
+	tag: AnnieCut
 	tag: Boat
 	tag: ch-59
 	tag: Etherium
@@ -1269,7 +1512,7 @@ page:1634
 	tag: BowlingAlley
 	tag: ch-57
 	tag: p-17
-	tag: Reynard
+	tag: Rey
 page:1633
 	date: 2016-02-17
 	desc: Winsbury: Lets move to a different lane
@@ -1281,7 +1524,7 @@ page:1633
 	tag: Margo
 	tag: p-16
 	tag: Paz
-	tag: Reynard
+	tag: Rey
 	tag: Winsbury
 page:1632
 	date: 2016-02-15

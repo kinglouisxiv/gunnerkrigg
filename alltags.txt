@@ -22,7 +22,7 @@ Anja	Anja Donlan, [Kat's](#kat) mother; Roma origin but lived mostly in Spain [_
 Ankou	Breton grim reaper; [psychopomp](#psychopomps)[_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ankou)
 Annan	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forest' [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Waters)
 Annie 	Antimony Carver, our protagonist ("Fire Head Girl") [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_Carver)
-AnnieCut	The cut on [Annie's](#annie) ethereal face from [Jeanne's](#jeanne) [sword](#sword)
+AnnieCut	The cut on [Annie's](#annie) face from [Jeanne's](#jeanne) [sword](#sword), only visible in the Ether
 AnnieJumper	[Annie's](#annie) original school jumper
 AntiGrav	An anti-gravity generator that [Kat](#kat) makes for a science fair, and converts to a "ship" (flier) later
 AntimonySymbol	The alchemical symbol for antimony; associated with [Annie](#annie) and [Surma](#surma) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_(alchemy))
@@ -54,7 +54,7 @@ BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotk
 BlinkerStone	[Etheric](#etherics) lens device [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blinker_stone)
 Blood 	Circulatory fluid, supposed to be internal
 BLOOM	a watery explosion noise
-Blue 	A fairy obsessed with hair which goes up. Two vertical blue dots on her forehead. Friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue)
+Blue 	A fairy obsessed with hair which goes up. Two vertical blue dots on her forehead. Friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue). Creator of convincing etheric illusions.
 BlueHair	a former fairy, now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 BlueSmoke	A failure mode of [BioLimb](#biolimb) flesh
 Blush 	Happy/embarrassed/emotional
@@ -213,7 +213,8 @@ Hyland 	[Jack's](#jack) father and classmate of [Eglamore](#eglamore), [Donny](#
 Iota 	Greek letter, speculated to symbolise [Jack](#jack) or [Jenny](#jenny) when it appeared in a treatise with [Gamma](#gamma) and [Zeta](#zeta)
 Irial 	[Kamlen's](#kamlen) [Anwyn](#anwyn) love
 Jack 	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jack_Hyland)
-Jackalope	appears as a rabbit with stub horns, a denizen of [Gillite Wood](#gillitie); friend of [GreenFairy](#greenfairy); wishes to become human
+Jackalope	appears as a rabbit with stub horns, a denizen of [Gillite Wood](#gillitie); friend of [GreenFairy](#greenfairy); wishes to become human, reincarnated as [JackalopeBoy](#jackalopeboy)
+JackalopeBoy	vat-grown, slightly rabbity-looking boy, personality transferred from [Jackalope](#jackalope) via a [Totem](#totem)
 JackOLantern	A carved, decorative pumpkin used for Hallowe'en/Halloween as a lantern
 Jan	January, curt friend of [Parley](#parley) [_{W}_](http://gunnerkrigg.wikia.com/wiki/January)
 Janet	Janet Llanwellyn; fierce daughter of the [Headmaster](#headmaster); dating [William Winsbury](#winsbury) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Janet_Llanwellyn)
@@ -411,7 +412,7 @@ ToyShop	A toy shop in [Zimmingham](#zimmingham) where [Zimmy](#zimmy) and [Gamma
 Train	One of many trains that is used to commute in the court
 TrainStation	One of many stations in the court
 Traitor	One who betrays their allies
-TransferClinic	A place where the Court grows mindless children in metal vats
+TransferClinic	A place where the Court grows mindless children in metal vats, for personalities implanted through [Totems](#totem)
 Treatise	Symbolic representation of the story
 TreeBody	[Ysengrin's](#ysengrin) artificial tree-like body. His true body underneath is a physically weaker, much older wolf
 TreeDog	They usually go woof, unless created by the [forest](#gillitie)
@@ -494,8 +495,8 @@ ch-32	From the Forest She Came [{Y}](https://youtu.be/1sv9tYVUvnU)
 ch-33	Give and Take [{Y}](https://youtu.be/Kd-CpZJuSYU)
 ch-34	Faraway Morning (and three short tales) [{Y}](https://youtu.be/TEguWvEAvoc)
 ch-35	Parley and Smitty Are In This One [{Y}](https://youtu.be/agTp-68G-hE)
-ch-36	Red Gets a Name
-ch-37	Microsat 5
+ch-36	Red Gets a Name [{Y}](https://youtu.be/8zOjhd1-J4s)
+ch-37	Microsat 5 [{Y}](https://youtu.be/qm_fFuk9ky0)
 ch-38	Divine
 ch-39	The Great Secret
 ch-40	The Stone
