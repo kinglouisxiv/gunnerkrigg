@@ -24,11 +24,122 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ; tags starting ch-* are treated separately as chapter identifiers
 ;
-; TODO: Kat's T-shirt logos/mottos
+; TODO: tag Kat's T-shirt logos/mottos?
 ; TODO: check ROTD, VastyHall and Library, etc, use for consistency
 ; TODO: page numbers 
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1773
+	date: 2016-12-30
+	desc: Parley: A main gauche? 
+	tag: Annan
+	tag: Bip
+	tag: ch-60
+	tag: Fight
+	tag: Jeanne
+	tag: MainGauche
+	tag: p-20
+	tag: Parley
+	tag: Smitty
+	tag: Sword
+page:1772
+	date: 2016-12-28
+	desc: [Parley blocks Jeanne's dash at Andrew Smith] 
+	tag: Annan
+	tag: Bip
+	tag: ch-60
+	tag: Fight
+	tag: Jeanne
+	tag: p-20
+	tag: Parley
+	tag: Smitty
+	tag: Sword
+page:1771
+	date: 2016-12-26
+	desc: Jeanne: These strings keep wrapping round me no matter how many times I cut them
+	tag: Annan
+	tag: ch-60
+	tag: Fight
+	tag: Jeanne
+	tag: p-19
+	tag: Parley
+	tag: Smitty
+	tag: Strings
+	tag: Sword
+page:1770 
+	date: 2016-12-23
+	desc: Annie: Jeanne can see where Parley's going to teleport!
+	tag: Annan
+	tag: Annie
+	tag: Bip
+	tag: ch-60
+	tag: Fight
+	tag: Jeanne
+	tag: p-18
+	tag: Parley
+	tag: Smitty
+	tag: Sword
+page: 1769
+	date: 2016-12-21
+	desc: Kat: Oh my god Jeanne's going crazy!
+	tag: Annan
+	tag: Annie
+	tag: Boat
+	tag: ch-60
+	tag: Fight
+	tag: Jeanne
+	tag: Kat
+	tag: p-17
+	tag: Parley
+	tag: Sword
+page:1768
+	date: 2016-12-19
+	desc: Kat: Okay, now what do we do?
+	tag: Annan
+	tag: Annie
+	tag: Boat
+	tag: ch-60
+	tag: Kat
+	tag: p-16
+page:1767
+	date: 2016-12-16
+	desc: [Annie telekinetically recovers the arrow to the boat]
+	tag: Annan
+	tag: Annie
+	tag: Boat
+	tag: ch-60
+	tag: GreenArrow
+	tag: Kat
+	tag: p-15
+	tag: Tracker
+page:1766
+	date: 2016-12-14
+	desc: [Annie pulls out the arrow, the bones wash away]
+	tag: Annan
+	tag: Annie
+	tag: AnnieCut
+	tag: Bones
+	tag: ch-60
+	tag: Etherium
+	tag: GreenArrow
+	tag: JeannesLover
+	tag: p-14
+page:1765
+	date: 2016-12-12
+	desc: Annie: and with light pressure, turn the tensioner...
+	tag: Annan
+	tag: Annie
+	tag: ch-60
+	tag: Etherium
+	tag: GreenLight
+	tag: JeannesLover
+	tag: Kat
+	tag: Lock
+	tag: Lockpicks
+	tag: MachineMaze
+	tag: p-13
+	tag: Tracker
+	tag: Wand
 page:1764
 	date: 2016-12-09
 	desc: Jeanne: So. She has the ability to teleport
@@ -62,44 +173,44 @@ page:1762
 	tag: JeannesLover
 	tag: Kat
 	tag: Lock
+	tag: Lockpicks
 	tag: MachineMaze
 	tag: p-10
-	tag: Lockpicks
 page:1761
-	date: 2016-12-02
 	auth: Tom: Parley
+	date: 2016-12-02
 	desc: Jeanne: She struck me from behind?
 	tag: Annan
+	tag: Bip
 	tag: ch-60
 	tag: Fight
 	tag: Jeanne
 	tag: p-09
 	tag: Parley
 	tag: Sword
-	tag: Bip
 page:1760
-	date: 2016-11-30
 	auth: Tom: Trick/sleeve
+	date: 2016-11-30
 	desc: Jeanne: She struck men from behind?
 	tag: Annan
+	tag: Bip
 	tag: ch-60
 	tag: Fight
 	tag: Jeanne
 	tag: p-08
 	tag: Parley
 	tag: Sword
-	tag: Bip
 page:1759
-	date: 2016-11-28
 	auth: Tom: Pommel strike
+	date: 2016-11-28
 	tag: Annan
+	tag: Bip
 	tag: ch-60
 	tag: Fight
 	tag: Jeanne
 	tag: p-07
 	tag: Parley
 	tag: Sword
-	tag: Bip
 page:1758
 	date: 2016-11-25
 	desc: Parley: She's too fast for me!
@@ -127,7 +238,7 @@ page:1757
 	tag: ROTD
 page:1756
 	date: 2016-11-21
-	desc: Kat: expected it to look a little different I guess
+	desc: Kat: Expected it to look a little different I guess
 	tag: Annie
 	tag: AnnieCut
 	tag: Anwyn
@@ -17773,6 +17884,7 @@ page:163
 	desc: It's been taken care of
 	tag: 113
 	tag: ch-09
+	tag: p-15
 	tag: Eglamore
 	tag: Habitat
 	tag: HabitatSymbol
@@ -17783,6 +17895,7 @@ page:162
 	tag: Annie
 	tag: Bridge
 	tag: ch-09
+	tag: p-14
 	tag: Eglamore
 	tag: EglamoreOffice
 	tag: LeadSymbol
@@ -17794,6 +17907,7 @@ page:161
 	desc: Just know that I will be keepingg a close eye on him. And you.
 	tag: Annie
 	tag: ch-09
+	tag: p-13
 	tag: Eglamore
 	tag: EglamoreOffice
 	tag: Rey
@@ -17804,6 +17918,7 @@ page:160
 	tag: Annie
 	tag: BismuthSymbol
 	tag: ch-09
+	tag: p-12
 	tag: CourtLogo
 	tag: Eglamore
 	tag: EglamoreOffice
@@ -17814,6 +17929,7 @@ page:159
 	desc: You wanted to see me sir?
 	tag: Annie
 	tag: ch-09
+	tag: p-11
 	tag: Eglamore
 	tag: EglamoreOffice
 	tag: LeadSymbol
@@ -17825,6 +17941,7 @@ page:158
 	tag: Annie
 	tag: Blush
 	tag: ch-09
+	tag: p-10
 	tag: Classroom
 	tag: DonlanHouse
 	tag: Donny
@@ -17836,6 +17953,7 @@ page:157
 	tag: Annie
 	tag: Bridge
 	tag: ch-09
+	tag: p-09
 	tag: Classroom
 	tag: Eglamore
 	tag: Kat
@@ -17850,6 +17968,7 @@ page:156
 	tag: Annie
 	tag: Blush
 	tag: ch-09
+	tag: p-08
 	tag: Classroom
 	tag: Kat
 	tag: Mort
@@ -17860,6 +17979,7 @@ page:155
 	tag: Ankou
 	tag: Annie
 	tag: ch-09
+	tag: p-07
 	tag: GoodHope
 	tag: Mercury
 	tag: Neith
@@ -17870,6 +17990,7 @@ page:154
 	desc: For as long as I could remember I would see creatures walking the halls, hidden from the hospital staff.
 	tag: Annie
 	tag: ch-09
+	tag: p-06
 	tag: GoodHope
 	tag: Muut
 	tag: Psychopomps
@@ -17879,6 +18000,7 @@ page:153
 	desc: That sucks about the ghost with the sword. That isn't supposed to happen.
 	tag: Annie
 	tag: ch-09
+	tag: p-05
 	tag: Classroom
 	tag: Kat
 	tag: Mort
@@ -17890,6 +18012,7 @@ page:152
 	tag: BlinkerStone
 	tag: Blush
 	tag: ch-09
+	tag: p-04
 	tag: Classroom
 	tag: Kat
 	tag: Mort
@@ -17898,6 +18021,7 @@ page:151
 	desc: (Annie scares Mort instead)
 	tag: Annie
 	tag: ch-09
+	tag: p-03
 	tag: Classroom
 	tag: Kat
 	tag: Mort
@@ -17909,6 +18033,7 @@ page:150
 	tag: AlchemyChart
 	tag: BismuthSymbol
 	tag: ch-09
+	tag: p-02
 	tag: Classroom
 	tag: GoldSymbol
 	tag: Kat
@@ -17920,6 +18045,7 @@ page:149
 	date: 2006-09-05
 	desc: Chapter 9:<br><br>**Questions and Answers**<br><br>_Icon: Mask resembling both the Moon and a Yin-Yang_
 	tag: ch-09
+	tag: p-01
 	tag: Cover
 	tag: Tiki
 page:148
