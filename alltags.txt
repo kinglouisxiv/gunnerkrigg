@@ -5,7 +5,7 @@
 ; _italic_
 ; [internal link text](#sometag)
 ; [external link text](http://www.gunnerkrigg.com)
-113	A number that appears in many places in the Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/113)
+113	A number that appears in many places in the Court early in the story [_{W}_](http://gunnerkrigg.wikia.com/wiki/113)
 Aata	A short, wide, male security guard of the Court alongside [Shell](#shell) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Aata)
 Abacus	An ancient calculation aid
 Achewater	An [Anwyn](#anwyn) intoxicant, perhaps named for how you feel afterwards
@@ -54,7 +54,6 @@ BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotk
 BlinkerStone	[Etheric](#etherics) lens device [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blinker_stone)
 Blood 	Circulatory fluid, supposed to be internal
 BLOOM	a watery explosion noise
-Blue 	A fairy obsessed with hair which goes up. Two vertical blue dots on her forehead. Friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue). Creator of convincing etheric illusions.
 BlueHair	a former fairy, now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 BlueSmoke	A failure mode of [BioLimb](#biolimb) flesh
 Blush 	Happy/embarrassed/emotional
@@ -149,7 +148,7 @@ EyeSymbol	An eye symbol associated with [Coyote](#coyote) and [Gillitie](#gillit
 FacelessPeople	People without faces who [Zimmy](#zimmy) sometimes sees
 Fairies 	[Gillitie](#gillitie) Wood is full of them [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
 FencingHall	Where [sword](#sword)-fighting, fencing, sparring are taught
-Fencer	a fuzzily defined etheric illusion by [Blue](#blue) to distract [Jeanne](#jeanne).
+Fencer	a fuzzily defined etheric illusion by [Red's Friend](#redsfriend) to distract [Jeanne](#jeanne).
 Fight 	When two people have a disagreement, violently
 Filler 	Not a mainstream story comic
 FinalRecords	A part of the [Realm of the Dead](#rotd)
@@ -165,7 +164,7 @@ FlowerFae	'this one' -- purple hair, green bar under left eye [_{W}_](http://gun
 FlowerHeadband	AKA het-band. Pink flower headband, bestows +5 straightness upon the wearer (-5 for a male)
 Flowers 	Colourful plants that grow from the ground. Often given as gifts.
 Flying 	Moving through the air, like superman
-Foley 	One of the school Houses; home to [Red](#red), [Blue](#blue), [Shadow](#shadow) and some [fairies](#fairies) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Foley_House)
+Foley 	One of the school Houses; home to [Red](#red), [Red's Friend](#redsfriend), [Shadow](#shadow) and some [fairies](#fairies) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Foley_House)
 ForestSymbol	The symbol [Gillitie](#gillitie) uses to message; has an "eye" within it
 Founding	The founding of the court. Involves the [Seed Bismuth](#seedbismuth)
 FriendsDorm	Year 10's dorm block is modelled on the apartment from _Friends_. See [p.1485](http://www.gunnerkrigg.com/?p=1485). Annie & Kat have apartment #20; Rey, a Clanger robot and a Joey robot are across the hall in #19; Margo and Paz are the floor below, presumably #18.
@@ -176,7 +175,7 @@ Girl-b	A Court pupil
 Glass 	A transparent silicon oxide substance used to make windows and the water bearing vessels also called "glasses"
 GlassFiber	Strands of glass used in insulation. Exposure causes itchiness and respiratory problems.
 God 	What is god?
-Gol-shogeg	Big worm slug monster. An etheric illusion by [Blue](#blue)
+Gol-shogeg	Big worm slug monster. An etheric illusion by [Red's Friend](#redsfriend)
 GoldenHair	a former fairy, manipulates the Ether to "make you believe things that ain't even real"; now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 GoldSymbol	Alchemical symbol for gold, or sometimes for the Sun (see also [SunSymbol](#sunsymbol))
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
@@ -319,7 +318,9 @@ Psychopomps	Escort the dead to the afterlife/[Ether](#etherium) [_{W}_](http://g
 PurpleHair	a former fairy, manipulates the Ether to create plant and woodland scenes; now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 Queslett	[Annie](#annie) &amp; [Kat's](#kat) school House [_{W}_](http://gunnerkrigg.wikia.com/wiki/Queslett)
 Rain	[water](#water), falling from the sky
+Rats	There are no rats in the Court...
 Red	A crazy and abrasive fairy [_{W}_](http://gunnerkrigg.wikia.com/wiki/Red)
+RedsFriend 	A fairy obsessed with hair which goes up. Two vertical blue dots on her forehead. Friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue). Creator of convincing etheric illusions. (Previously tagged as 'Blue').
 Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie), possessing a [stuffed wolf toy](#wolftoy) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Reynardine)
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
@@ -498,7 +499,7 @@ ch-34	Faraway Morning (and three short tales) [{Y}](https://youtu.be/TEguWvEAvoc
 ch-35	Parley and Smitty Are In This One [{Y}](https://youtu.be/agTp-68G-hE)
 ch-36	Red Gets a Name [{Y}](https://youtu.be/8zOjhd1-J4s)
 ch-37	Microsat 5 [{Y}](https://youtu.be/qm_fFuk9ky0)
-ch-38	Divine
+ch-38	Divine [{Y}](https://youtu.be/WbDMLkci9hY)
 ch-39	The Great Secret
 ch-40	The Stone
 ch-41	Changes
