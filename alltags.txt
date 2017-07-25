@@ -6,12 +6,13 @@
 ; [internal link text](#sometag)
 ; [external link text](http://www.gunnerkrigg.com)
 113	A number that appears in many places in the Court early in the story [_{W}_](http://gunnerkrigg.wikia.com/wiki/113)
-Aata	A short, wide, male security guard of the Court alongside [Shell](#shell) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Aata)
+Aata	A short, wide member of the [Shadow Men](ShadowMenOrg), alongside [Shell](#shell) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Aata)
 Abacus	An ancient calculation aid
 Achewater	An [Anwyn](#anwyn) intoxicant, perhaps named for how you feel afterwards
-Adam	A boy with rashes; owner, and victim, of [Hetty](#hetty)
+Adam	A boy with rashes; owner and victim of [Hetty](#hetty)
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Administrator_Robot)
 Agni	Hindu [fire](#fire) god; [psychopomp](#psychopomps) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Agni)
+Ayilu	[Red's Friend](#redsfriend), named by [Red](#red) on [p.1796](http://www.gunnerkrigg.com/?p=1796).
 AlchemyChart	An alchemical chart
 Aly	Alistair [Kershaw](#kershaws); became a bird and went to the [Forest](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Alistair_Kershaw)
 AlyShirt	A shirt belonging to [Aly](#aly), which [Kat](#kat) now owns
@@ -41,9 +42,10 @@ BakingDistraction	Otherwise known as [Plan Theta](#plantheta); Cunningly devised
 Basil 	Minotaur [_{W}_](http://gunnerkrigg.wikia.com/wiki/Basil)
 Bats 	The animal kind.
 Beacon 	Safety tool given to [Annie](#annie), can summon [Eglamore](#eglamore) within 5 seconds; makes a [Valknut](#valknut) teleport when activated, much like [Brinnie's](#brinnie) teleport [_{W}_](http://gunnerkrigg.wikia.com/wiki/Safety_beacon)
-Becky 	Becky Ground, blonde haired student -- name suspected to be a pun as she has never said anything [_{W}_](http://gunnerkrigg.wikia.com/wiki/Becky_Ground)
+Becky 	Becky Ground, blonde haired student -- name suspected to be a pun on 'Back Ground' as she has never said anything [_{W}_](http://gunnerkrigg.wikia.com/wiki/Becky_Ground)
 Betty 	had a crush on her brother [Nigel's](#nigel) friend [Morty](#mort), WWII
 Bind 	[Etheric](#etherics) binding, hold or constraint hoodoo
+BioChassis	a later stage of [Kat's](#kat) vat-grown robot parts project using blue/purple synthetic flesh
 BioLimb 	[Kat's](#kat) grown robot parts project, blue/purple synthetic flesh
 Bip 	[Parley's](#parley) teleportation. May be accompanied by BARGE
 Birds 	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
@@ -94,7 +96,6 @@ Cookie 	Cookie Monster aka Lily Cooke is an enthusiastic friend of [Parley](#par
 Court 	Gunnerkrigg Court, a mysterious institution that includes a boarding school [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
 CourtHall	A large important hall for meetings
 CourtLogo	Gunnerkrigg Court logo (for the school); appears on detention slips and official school letters
-CourtStaffSymbol	a line with a dot below each end, all in red; mostly appears in a 'security' context
 CourtSymbol	The symbol [Annie's](#annie) [Blinker Stone](#blinkerstone) makes; has a [Bismuth Symbol](#bismuthsymbol) within it
 Courtyard	A courtyard near the [library](#library)
 Cover 	A chapter cover [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chapter_Covers)
@@ -130,7 +131,6 @@ Dryad 	Folk who can control and travel through the trees themselves, [Marcia](#m
 Earth 	Ancient element; the planet on which we live; the great mother and life-giver
 Ectoplasm	material of the [Etherium](#etherium) which may be moulded by the Will into Form
 Eglamore	Sir James Eglamore/Jimmy/Jim/James/Eggers. Big fellow with [sword](#sword) [_{W}_](http://gunnerkrigg.wikia.com/wiki/James_Eglamore) 
-;<!-- check the "sir" -->
 EglamoreKnife	A switchblade/flick knife present that [Eglamore](#eglamore) treasures
 EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword), [armour](#armour), a [Tiki](#tiki) and a [mask](#mask) among other things
 Employees	Miscellaneous Court employees; includes security staff, gardeners, scientists, [power station](#powerstation) operators and even mysterious dudes who take [Gamma](#gamma) and [Zimmy](#zimmy) from [Birmingham](#birmingham) to the Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Court_Employees)
@@ -269,12 +269,12 @@ Marble	A shining sphere of unmelting ice; trapped inside were brilliant colours 
 Marcia	Marcia Sutton, a [dryad](#dryad) and keeper of [Young's Park](#youngspark) with her husband, [Bob](#bob) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Marcia_Sutton)
 Margo	A student who enjoys singing. Artist. Dating [John](#john) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Margo)
 MarineFae	'and her' -- aquamarine hair, vertical green bar on forehead
-Martin	A young boy who has "lost his way" and whom young [Annie](#annie) needs to help [_{W}_](http://gunnerkrigg.wikia.com/wiki/Martin)
+Martin	A young boy who has "lost his way" to the Ether, who young [Annie](#annie) helps for the [Psychopomps](#psychopomps) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Martin)
 MartinLizard	A lizard that [Martin](#martin) likes and shows [Annie](#annie). Bites.
 MartinRoom	[Martin's](#martin) hospital/bed room
 Mask	A cover to hide face, appearance, emotions
 Matches	Playing with matches can start [fires](#firesymbol)
-Matt	Student and classmate of [Annie](#annie) and [Kat](#kat). Has met [Chang'e](#moongirl) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Matt)
+Matt	Student and classmate of [Annie](#annie) and [Kat](#kat). Has met [Chang'e](#moongirl) and her rabbit [_{W}_](http://gunnerkrigg.wikia.com/wiki/Matt)
 Mercury	A poisonous liquid metal; otherwise known as quicksilver; Mercury or Hermes was the son of Apollo, the trickster messenger god of medicine and commerce; [psychopomp](#psychopomps) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Hermes)
 MercurySymbol	The alchemical symbol for [mercury](#mercury); appears on [Rey's](#rey) spirit form [_{W}_](http://gunnerkrigg.wikia.com/wiki/Mercury_(alchemy))
 MetalGearSolid	A computer game that [Kat](#kat) likes.
@@ -320,7 +320,7 @@ Queslett	[Annie](#annie) &amp; [Kat's](#kat) school House [_{W}_](http://gunnerk
 Rain	[water](#water), falling from the sky
 Rats	There are no rats in the Court...
 Red	A crazy and abrasive fairy [_{W}_](http://gunnerkrigg.wikia.com/wiki/Red)
-RedsFriend 	A fairy obsessed with hair which goes up. Two vertical blue dots on her forehead. Friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue). Creator of convincing etheric illusions. (Previously tagged as 'Blue').
+RedsFriend 	Now (p1796) has a name: [Ayilu](#ayilu), as a reward for participation in the passing of [Jeanne](#jeanne). A fairy obsessed with hair which goes up. Two blue dots on her forehead. Friends with [Red](#red) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blue). Creator of convincing etheric illusions.
 Rey	Reynardine, Reynard, Renard, a crafty fox spirit or demon from [Gillitie Wood](#gillitie), possessing a [stuffed wolf toy](#wolftoy) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Reynardine)
 ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
@@ -339,7 +339,7 @@ Rolodex	the scryer, for incantations pertaining to names
 Roof	The top of the court
 ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them. (see also the [Vasty Hall of Death](#vastyhall))
 S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robots13) [_{W}_](http://gunnerkrigg.wikia.com/wiki/S1)
-S13	[Robot](#robots13) was Seraph 13
+;S13	[Robot](#robots13) was Seraph 13
 SailorBot	A class of robot encountered on the [cruise liner](#cruiseliner). Unusually, these are networked "fingers" of the Liner Bot itself
 Salon	Court hair salon, staffed by the [HairdresserBot](#hairdresserbot)
 Sareed	Anwyn tree-weaver
@@ -351,10 +351,12 @@ SecurityRobots	They ensure security, as [robot](#robots) [_{W}_](http://gunnerkr
 SeedBismuth	It's a mystery; involved in the [founding](#founding) of the court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Seed_Bismuth)
 Seeds	Some seeds that [Ysengrin](#ysengrin) uses for his terrifying skills of gardening. Used to create the [WoodenArm](#woodenarm) and also dropped in the [Court Hall](#courthall).
 Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robots13) was one originally [_{W}_](http://gunnerkrigg.wikia.com/wiki/S_Models)
-Shadow	The Thin Man, a [shadowman](#shadowmen) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_2)
-Shadowman	Not the Thin Man, but one of the [shadowmen](#shadowmen) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_3)
-Shadowmen	The glass-eyed men; creations of [Coyote](#coyote) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_People)
-Shell	A tall, thin female security guard of the Court, seen with [Aata](#aata) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shell)
+Shadow	a [shadowman](#shadowmen) lost in the Court as a child [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_2) become close friend of RobotS13
+Shadow3	a 'wild' [shadow man](#shadowmen) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_3)
+Shadowmen	aka the glass-eyed men, live shadows living in Gillitie Forest; creations of [Coyote](#coyote) according to himself [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_People)
+ShadowMenOrg	a 'secret' organisation within the court watching special events and creatures
+ShadowMenSymbol	a horizontal line with a dot below each end, all in red; symbol of the [Shadow Men](ShadowMenOrg) group within the Court
+Shell	A tall, thin member of the [Shadow Men](ShadowMenOrg), seen with [Aata](#aata) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shell)
 SimRocket	A rocket/spaceship in [Dr. Disaster's](#drdisaster) [simulation](#simulation)
 Simulation	One of [Dr. Disaster's](#drdisaster) holographic adventures
 SirYoung	Protector of the Court at its [founding](#founding); has a park dedicated to him, associated with [Nevihta](#nevihta), also see [Bullbot](#bullbot) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Sir_Young)
@@ -454,73 +456,77 @@ YoungsPark	A large park within the Court, looked after by [Bob](#bob) and his wi
 Ysengrin	Wolf/Tree hybrid demigod of the [forest](#gillitie); [Coyote's](#coyote) General
 ZAM	Noise of a [Valknut](#valknut) teleport
 Zeta	A Greek letter &Zeta;/&zeta; corresponding to our "Z"; [Zimmy's](#zimmy) real name
-Zimmingham	[Zimmy's](#zimmy) nightmarish version of Birmingham, which is where she and [Gamma](#gamma) are originally from
+Zimmingham	[Zimmy's](#zimmy) nightmarish version of Birmingham, which is where she and [Gamma](#gamma) are originally (?) from
 Zimmy	aka [Zeta](#zeta), a strange girl who is friends with [Gamma](#gamma); from Birmingham originally; an etheric generator
 ; --- Chapter TAGS ---
-ch-01	The Shadow and The Robot [{Y}](http://youtu.be/I9oF6ogesUA)
-ch-02	Schoolyard Myths [{Y}](http://youtu.be/t48sqVVkd0A)
-ch-03	Reynardine [{Y}](http://youtu.be/kQhsa8Ldf3c)
-ch-04	Not Very Scary [{Y}](http://youtu.be/WRy0msan9rQ)
-ch-05	Two Strange girls [{Y}](http://youtu.be/hgRSPQTvdn8)
-ch-06	A Handful of Dirt [{Y}](http://youtu.be/9GMaSm_jFdA)
-ch-07	Of New and Old [{Y}](http://youtu.be/jgbRFdOa1OM)
-ch-08	Broken Glass and Other Things [{Y}](http://youtu.be/Lp-YIsNiOCQ)
-ch-09	Questions and Answers [{Y}](http://youtu.be/RfpVdfLXydI)
-ch-10	Doctor Disaster versus the Creepy Space Aliens from Outer Space [{Y}](http://youtu.be/MliJpVzKEsw)
-ch-11	Dobranoc, Gamma [{Y}](http://youtu.be/GXeILNEigjc)
-ch-12	Mainly Involves Robots [{Y}](http://youtu.be/gMsc0Aqapvk)
-ch-13	A Week For Kat [{Y}](http://youtu.be/MA6RdGS8YRo)
-ch-14	The Fangs Of Summertime [{Y}](http://youtu.be/yJMW-dn7qD0)
-ch-14a	Intermission: A Selection of Guest Comics and Other Surprises
-ch-15	Red Returns [{Y}](http://youtu.be/zRAI9RrOL4c)
-ch-16	A Ghost Story [{Y}](http://youtu.be/d5agOAjjJsc)
-ch-17	The Medium Beginning [{Y}](http://youtu.be/NbVAIt7VJzY)
-ch-18	S1 [{Y}](http://youtu.be/fDZWjC341oc)
-ch-19	Power Station [{Y}](http://youtu.be/wXiHFd_SB9c)
-ch-20	Coyote Stories [{Y}](http://youtu.be/2CiKLCERprA)
-ch-21	Blinking [{Y}](http://youtu.be/ru5BEUlslMQ)
-ch-22	Ties [{Y}](http://youtu.be/ETZqrN27irQ)
-ch-22a	Intermission: City Face
-ch-23	Terror Castle of the Jupiter Moon Martians! A spacemonauts adventure! [{Y}](https://youtu.be/Z_TsUlHat0s)
-ch-24	Residential [{Y}](https://youtu.be/9wOhmBHUbmc)
-ch-25	Sky Watcher And The Angel [{Y}](https://youtu.be/BU4VhtsJInI)
-ch-26	The Old Dog's Tricks [{Y}](https://youtu.be/I8mA0KaX8h8)
-ch-27	Spring Heeled [{Y}](https://youtu.be/Q66FN07bMf8)
-ch-28	Spring Heeled Part 2 [{Y}](https://youtu.be/qF-mrQUbQc4)
-ch-29	A Bad Start [{Y}](https://youtu.be/75mlrei1DTY)
-ch-30	The Coward Heart [{Y}](https://youtu.be/4v_eLpuUzo0)
-ch-31	Fire Spike [{Y}](https://youtu.be/MoIRDw2xuAM)
-ch-31a	Intermission: City Face 2
-ch-31b	Annie in the Forest, part 1
-ch-31c	Annie in the Forest, part 2
-ch-32	From the Forest She Came [{Y}](https://youtu.be/1sv9tYVUvnU)
-ch-33	Give and Take [{Y}](https://youtu.be/Kd-CpZJuSYU)
-ch-34	Faraway Morning (and three short tales) [{Y}](https://youtu.be/TEguWvEAvoc)
-ch-35	Parley and Smitty Are In This One [{Y}](https://youtu.be/agTp-68G-hE)
-ch-36	Red Gets a Name [{Y}](https://youtu.be/8zOjhd1-J4s)
-ch-37	Microsat 5 [{Y}](https://youtu.be/qm_fFuk9ky0)
-ch-38	Divine [{Y}](https://youtu.be/WbDMLkci9hY)
-ch-39	The Great Secret
-ch-40	The Stone
-ch-41	Changes
-ch-41a	Intermission: City Face guest comics
-ch-42	Catalyst
-ch-43	Quicksilver
-ch-44	Crash Course
-ch-45	Thread
-ch-46	The Realm of the Dead
-ch-47	See Ya!
-ch-48	Tall Tales
-ch-49	The Torn Sea
-ch-49a	Intermission: City Face's Book of Birds
-ch-50	Totem
-ch-51	The Tree
-ch-52	Sneak
-ch-53	Annie and the Fire
-ch-54	Meetings and Re-Meetings
-ch-55	The Break Out
-ch-56	New Data
-ch-57	Get it Together
-ch-58	A Big Day!
+ch-63	The Shadow Men
+ch-62	And Then Coyote Said...
+ch-61	Red's Friend Gets A Name Too I Suppose
+ch-60	The Other Shore
 ch-59	Jeanne
+ch-58	A Big Day!
+ch-57	Get it Together
+ch-56	New Data
+ch-55	The Break Out
+ch-54	Meetings and Re-Meetings
+ch-53	Annie and the Fire
+ch-52	Sneak
+ch-51	The Tree
+ch-50	Totem
+ch-49a	Intermission: City Face's Book of Birds
+ch-49	The Torn Sea
+ch-48	Tall Tales
+ch-47	See Ya!
+ch-46	The Realm of the Dead
+ch-45	Thread
+ch-44	Crash Course
+ch-43	Quicksilver
+ch-42	Catalyst
+ch-41a	Intermission: City Face guest comics
+ch-41	Changes
+ch-40	The Stone [{Y}](https://youtu.be/87py46Dvwzo)
+ch-39	The Great Secret [{Y}](https://youtu.be/1AI2y9Q11Ao)
+ch-38	Divine [{Y}](https://youtu.be/WbDMLkci9hY)
+ch-37	Microsat 5 [{Y}](https://youtu.be/qm_fFuk9ky0)
+ch-36	Red Gets a Name [{Y}](https://youtu.be/8zOjhd1-J4s)
+ch-35	Parley and Smitty Are In This One [{Y}](https://youtu.be/agTp-68G-hE)
+ch-34	Faraway Morning (and three short tales) [{Y}](https://youtu.be/TEguWvEAvoc)
+ch-33	Give and Take [{Y}](https://youtu.be/Kd-CpZJuSYU)
+ch-32	From the Forest She Came [{Y}](https://youtu.be/1sv9tYVUvnU)
+ch-31c	Annie in the Forest, part 2
+ch-31b	Annie in the Forest, part 1
+ch-31a	Intermission: City Face 2
+ch-31	Fire Spike [{Y}](https://youtu.be/MoIRDw2xuAM)
+ch-30	The Coward Heart [{Y}](https://youtu.be/4v_eLpuUzo0)
+ch-29	A Bad Start [{Y}](https://youtu.be/75mlrei1DTY)
+ch-28	Spring Heeled Part 2 [{Y}](https://youtu.be/qF-mrQUbQc4)
+ch-27	Spring Heeled [{Y}](https://youtu.be/Q66FN07bMf8)
+ch-26	The Old Dog's Tricks [{Y}](https://youtu.be/I8mA0KaX8h8)
+ch-25	Sky Watcher And The Angel [{Y}](https://youtu.be/BU4VhtsJInI)
+ch-24	Residential [{Y}](https://youtu.be/9wOhmBHUbmc)
+ch-23	Terror Castle of the Jupiter Moon Martians! A spacemonauts adventure! [{Y}](https://youtu.be/Z_TsUlHat0s)
+ch-22a	Intermission: City Face
+ch-22	Ties [{Y}](http://youtu.be/ETZqrN27irQ)
+ch-21	Blinking [{Y}](http://youtu.be/ru5BEUlslMQ)
+ch-20	Coyote Stories [{Y}](http://youtu.be/2CiKLCERprA)
+ch-19	Power Station [{Y}](http://youtu.be/wXiHFd_SB9c)
+ch-18	S1 [{Y}](http://youtu.be/fDZWjC341oc)
+ch-17	The Medium Beginning [{Y}](http://youtu.be/NbVAIt7VJzY)
+ch-16	A Ghost Story [{Y}](http://youtu.be/d5agOAjjJsc)
+ch-15	Red Returns [{Y}](http://youtu.be/zRAI9RrOL4c)
+ch-14a	Intermission: A Selection of Guest Comics and Other Surprises
+ch-14	The Fangs Of Summertime [{Y}](http://youtu.be/yJMW-dn7qD0)
+ch-13	A Week For Kat [{Y}](http://youtu.be/MA6RdGS8YRo)
+ch-12	Mainly Involves Robots [{Y}](http://youtu.be/gMsc0Aqapvk)
+ch-11	Dobranoc, Gamma [{Y}](http://youtu.be/GXeILNEigjc)
+ch-10	Doctor Disaster versus the Creepy Space Aliens from Outer Space [{Y}](http://youtu.be/MliJpVzKEsw)
+ch-09	Questions and Answers [{Y}](http://youtu.be/RfpVdfLXydI)
+ch-08	Broken Glass and Other Things [{Y}](http://youtu.be/Lp-YIsNiOCQ)
+ch-07	Of New and Old [{Y}](http://youtu.be/jgbRFdOa1OM)
+ch-06	A Handful of Dirt [{Y}](http://youtu.be/9GMaSm_jFdA)
+ch-05	Two Strange girls [{Y}](http://youtu.be/hgRSPQTvdn8)
+ch-04	Not Very Scary [{Y}](http://youtu.be/WRy0msan9rQ)
+ch-03	Reynardine [{Y}](http://youtu.be/kQhsa8Ldf3c)
+ch-02	Schoolyard Myths [{Y}](http://youtu.be/t48sqVVkd0A)
+ch-01	The Shadow and The Robot [{Y}](http://youtu.be/I9oF6ogesUA)
 ; ---TAGS EOF ---
