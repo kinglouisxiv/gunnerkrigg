@@ -36,7 +36,7 @@ Armoury 	Place where lots of weapons are stored
 Arsenic 	A highly poisonous metalloid [_{W}_](http://gunnerkrigg.wikia.com/wiki/Arsenic_(alchemy))
 Artilleryman	present at the [founding](#founding), friend of [Steadman](#steadman) the archer
 Axe 	Often used to chop wood
-BadgeBot	Robot with [Court Staff Symbol](#courtstaffsymbol), audio-visual surveillance mast in its head, and parkour skill similar to [RobotS13](#robots13)
+Arthur	Robot with [Shadow Men symbol](#shadowmensymbol), audio-visual surveillance mast in its head, and parkour skill similar to [RobotS13](#robots13). Named in page 1843. Close to [Juliette](#juliette)
 BadgerFae	'him too' – white hair, two black stripes, former badger
 BakingDistraction	Otherwise known as [Plan Theta](#plantheta); Cunningly devised to distract others while sneaking around
 Basil 	Minotaur [_{W}_](http://gunnerkrigg.wikia.com/wiki/Basil)
@@ -227,7 +227,7 @@ Jokes	Ha, ha.
 JollyElfsberry	A prancing elf, and alias of [Coyote](#coyote)
 Jones	A mysterious court lady; a name of [Wandering Eye](#wanderingeye) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jones)
 JonesFootprints	Ancient footprints that appear to belong to [a human](#jones); how can this be?
-Juliette	[Employee](#employees) of the court, is qualified to run the [Ether station](#powerstation) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Juliette)
+Juliette	member of the [Shadow Men](#shadowmenorg). Qualified to run the [Ether station](#powerstation). Close to [Arthur](#arthur) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Juliette)
 JumpersPool	waterfall into a small lake in an open part of Gillitie
 JupiterMoonMartians	Friendly aliens in one of [Dr Disaster's](#drdisaster) [simulations](#simulation)
 Kamlen	[Anwyn](#anwyn) boy about [Annie's](#annie) and [Kat's](#kat) age [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn#Kamlen)
@@ -459,6 +459,7 @@ Zeta	A Greek letter &Zeta;/&zeta; corresponding to our "Z"; [Zimmy's](#zimmy) re
 Zimmingham	[Zimmy's](#zimmy) nightmarish version of Birmingham, which is where she and [Gamma](#gamma) are originally (?) from
 Zimmy	aka [Zeta](#zeta), a strange girl who is friends with [Gamma](#gamma); from Birmingham originally; an etheric generator
 ; --- Chapter TAGS ---
+ch-64	Get Lost
 ch-63	The Shadow Men
 ch-62	And Then Coyote Said...
 ch-61	Red's Friend Gets A Name Too I Suppose

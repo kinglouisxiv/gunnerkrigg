@@ -27,7 +27,6 @@
 ; TODO: tag Kat's T-shirt logos/mottos?
 ; TODO: check ROTD, VastyHall and Library, etc, use for consistency
 ; TODO: page numbers
-; TODO: BadgeBot > Arthur
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
 page:1860
@@ -228,7 +227,8 @@ page:1844
 	tag: Teacup
 page:1843
 	date: 2017-06-12
-	desc: Arthur: Not only are we in charge of your surveillance, we've temporarily disabled all monitoring equipment.
+	desc: Arthur: Not only are we in charge of your surveillance, we've temporarily disabled all monitoring equipment
+	note: Robot 'Arthur' named here
 	tag: Arthur
 	tag: Blush
 	tag: BioChassis
@@ -2766,7 +2766,7 @@ page:1618
 page:1617
 	date: 2016-01-11
 	desc: Bonus page 56: "These Guys?"<br>Tea: [Chapter 28, page five](#p720)
-	tag: BadgeBot
+	tag: Arthur
 	tag: ch-56
 	tag: ShadowMenSymbol
 	tag: Juliette
@@ -2774,8 +2774,8 @@ page:1617
 	tag: Tea
 page:1616
 	date: 2016-01-08
-	desc: BadgeBot: I saw a creature posing as a student. I think it was a shadow man.
-	tag: BadgeBot
+	desc: Arthur: I saw a creature posing as a student. I think it was a shadow man.
+	tag: Arthur
 	tag: ch-56
 	tag: ShadowMenSymbol
 	tag: Juliette
@@ -2783,8 +2783,8 @@ page:1616
 	tag: PillaredBuilding
 page:1615
 	date: 2016-01-06
-	desc: BadgeBot: The rumours are true
-	tag: BadgeBot
+	desc: Arthur: The rumours are true
+	tag: Arthur
 	tag: ch-56
 	tag: ShadowMenSymbol
 	tag: p-24
@@ -2792,7 +2792,7 @@ page:1615
 page:1614
 	date: 2016-01-04
 	desc: [The badged surveillance robot leaps tall buildings at a single bound]
-	tag: BadgeBot
+	tag: Arthur
 	tag: ch-56
 	tag: ShadowMenSymbol
 	tag: p-23
@@ -2801,7 +2801,7 @@ page:1614
 page:1613
 	date: 2016-01-01
 	desc: Robot: Ah, maths? I can help you with that
-	tag: BadgeBot
+	tag: Arthur
 	tag: Bandage
 	tag: BioLimb
 	tag: Blush
@@ -2853,7 +2853,7 @@ page:1609
 page:1608
 	date: 2015-12-21
 	desc: Robot: What value do our efforts have if they come at no cost?
-	tag: BadgeBot
+	tag: Arthur
 	tag: Bandage
 	tag: BioLimb
 	tag: ch-56
@@ -12725,7 +12725,7 @@ page:743
 page:742
 	date: 2010-07-07
 	desc: Bonus Page: Professionals
-	tag: BadgeBot
+	tag: Arthur
 	tag: Bonus
 	tag: ch-28
 	tag: ShadowMenSymbol
@@ -12986,7 +12986,7 @@ page:721
 	desc: I think... uh... I think he can fly.
 	tag: Aata
 	tag: Annie
-	tag: BadgeBot
+	tag: Arthur
 	tag: ch-28
 	tag: ShadowMenSymbol
 	tag: Employees
