@@ -29,6 +29,287 @@
 ; TODO: page numbers
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1886
+	date: 2017-09-20
+	desc: "The Next Day" & "The Next Day"
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: p-24
+	tag: Surma
+	tag: Tony
+page:1885
+	date: 2017-09-18
+	desc: Surma: Yuk!
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: p-23
+	tag: ShadowOrgSymbol
+	tag: Surma
+	tag: Tony
+page:1884
+	date: 2017-09-15
+	desc: Tony: According to the coordinates, it's this specific area
+	tag: ch-64
+	tag: Flashback
+	tag: HandHeldNav
+	tag: Jungle
+	tag: p-22
+	tag: ShadowOrgSymbol
+	tag: Surma
+	tag: Tony
+page:1883
+	date: 2017-09-13
+	desc: Tony: You said to not take it easy on you so, let's get going
+	tag: ch-64
+	tag: Coffee
+	tag: Flashback
+	tag: HandHeldNav
+	tag: Jungle
+	tag: JungleHut
+	tag: Map
+	tag: p-21
+	tag: ShadowOrgSymbol
+	tag: Surma
+	tag: Tony
+page:1882
+	date: 2017-09-11
+	desc: Tony: I'll get making some food
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: JungleHut
+	tag: p-20
+	tag: Surma
+	tag: Tony
+page:1881
+	date: 2017-09-08
+	desc: Tony: So you **literally** see things when you do that!
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: p-19
+	tag: Surma
+	tag: Tony
+	tag: Tears
+page:1880
+	date: 2017-09-04
+	desc: Surma: I can't concentrate when you keep lookin' at me!
+	auth: Tom: More Smoke than fire.
+	tag: Blush
+	tag: ch-64
+	tag: Etherium
+	tag: Fire
+	tag: Flashback
+	tag: Jungle
+	tag: Leaf
+	tag: p-18
+	tag: SmokeHair
+	tag: Surma
+	tag: Tony
+	tag: Twig
+page:1879
+	date: 2017-09-04
+	desc: Surma: Yeah. Keep hold of it
+	tag: Blush
+	tag: ch-64
+	tag: Fire
+	tag: Flashback
+	tag: Jungle
+	tag: Leaf
+	tag: p-17
+	tag: Surma
+	tag: SweatDrop
+	tag: Tony
+	tag: Twig
+page:1878
+	date: 2017-09-01
+	desc: Surma: So does the court always send you out here?
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: p-16
+	tag: Surma
+	tag: Tony
+page:1877
+	date: 2017-08-30
+	desc: Tony: So, shall we see why we're really out here?
+	tag: ch-64
+	tag: CourtSymbol
+	tag: EyesOnly
+	tag: Hat
+	tag: Flashback
+	tag: Jungle
+	tag: HandHeldNav
+	tag: Map
+	tag: Omega
+	tag: p-15
+	tag: Surma
+	tag: Tony
+page:1876
+	date: 2017-08-28
+	desc: Tony: Okay, that's it for this area
+	tag: Apple
+	tag: ch-64
+	tag: Flashback
+	tag: Hat
+	tag: Jungle
+	tag: p-14
+	tag: Surma
+	tag: Tony
+page:1875
+	date: 2017-08-25
+	desc: (jungle hike scenes)
+	tag: ch-64
+	tag: BigBug
+	tag: Flashback
+	tag: Hat
+	tag: Jungle
+	tag: p-13
+	tag: Surma
+	tag: Tony
+page:1874
+	date: 2017-08-23
+	desc: Tony: Here, you'll need this
+	tag: ch-64
+	tag: Flashback
+	tag: Hat
+	tag: InsectRepellant
+	tag: Jungle
+	tag: JungleHut
+	tag: p-12
+	tag: Surma
+	tag: Tony
+	tag: WaterBottle
+page:1873
+	date: 2017-08-21
+	desc: Surma: Did I sleep in? Are you just heading out?
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: JungleHut
+	tag: p-11
+	tag: Surma
+	tag: Tony
+page:1872
+	date: 2017-08-18
+	desc: Tony: Sorry did I wake you?
+	tag: ch-64
+	tag: Dream
+	tag: Eglamore
+	tag: Flashback
+	tag: Jungle
+	tag: JungleHut
+	tag: p-10
+	tag: Surma
+	tag: Tony
+page:1871
+	date: 2017-08-16
+	desc: Surma (thinks): Oh no! I thought there would be other people here since we'd studying language...
+	tag: ch-64
+	tag: Flashback
+	tag: Insects
+	tag: Jungle
+	tag: JungleHut
+	tag: p-09
+	tag: Surma
+	tag: Tony
+page:1870
+	date: 2017-08-14
+	desc: Surma: **Insects?!** I thought you said this was an **etymological** trip not **entomological!**
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: JungleHut
+	tag: JungleJeep
+	tag: p-08
+	tag: Surma
+	tag: Tony
+page:1869
+	date: 2017-08-11
+	desc: Surma: Maybe I **am** crazy!
+	tag: Aircraft
+	tag: JungleJeep
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: p-07
+	tag: Surma
+	tag: Tony
+page:1868
+	date: 2017-08-09
+	desc: Anja: It's a month long trip!
+	tag: Aircraft
+	tag: Anja
+	tag: ch-64
+	tag: Flashback
+	tag: p-06
+	tag: Surma
+page:1867
+	date: 2017-08-07
+	desc: Tony: Surma, this was to be an entomological expedition into the jungles of Brasil
+	tag: Anja
+	tag: ch-64
+	tag: Donny
+	tag: Flashback
+	tag: p-05
+	tag: Surma
+	tag: Tony
+page:1866
+	date: 2017-08-04
+	desc: Surma: Can't ya, like, go on your own, Tony?
+	tag: Anja
+	tag: ch-64
+	tag: Donny
+	tag: Flashback
+	tag: p-04
+	tag: Surma
+	tag: Tony
+page:1865
+	date: 2017-08-02
+	desc: Tony: That is fine, Donald.
+	tag: Anja
+	tag: ch-64
+	tag: Donny
+	tag: Flashback
+	tag: p-03
+	tag: Surma
+	tag: Tony
+page:1864
+	date: 2017-07-31
+	desc: Donny: Tony, I don't think I'm going to be able to come with you
+	tag: Anja
+	tag: ch-64
+	tag: Donny
+	tag: Flashback
+	tag: p-02
+	tag: Surma
+	tag: Tony
+page:1863
+	date: 2017-07-28
+	desc: Chapter 64:<br><br>**Get Lost**<br><br>Icon: high flying aircraft with contrail
+	tag: ch-64
+	tag: p-01
+page:1862
+	date: 2017-07-26
+	desc: Anja: Oh! Don't worry I will be qualifying that statement!
+	tag: Anja
+	tag: Annie
+	tag: ch-63
+	tag: DonlanHouse
+	tag: Kat
+	tag: p-24
+	tag: Bonus
+page:1861
+	date: 2017-07-24
+	desc: Anja: Tony didn't brainwash your mother. It was much worse than that...
+	tag: Anja
+	tag: Annie
+	tag: ch-63
+	tag: DonlanHouse
+	tag: Kat
+	tag: p-23
 page:1860
 	date: 2017-07-21
 	desc: Annie: But now... he's done something to make even **you** like him?!
