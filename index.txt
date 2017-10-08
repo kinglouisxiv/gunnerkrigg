@@ -29,6 +29,78 @@
 ; TODO: page numbers
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1893
+	date: 2017-10-06
+	desc: (Surma dreams of bugs)
+	tag: Bug
+	tag: Dream
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: JungleHut
+	tag: JungleJeep
+	tag: p-31
+	tag: Surma
+	tag: Tony
+page:1892
+	date: 2017-10-04
+	desc: Surma: I - I can't even imagine it!
+	tag: Blush
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: p-30
+	tag: Surma
+	tag: Tony
+page:1891
+	date: 2017-10-02
+	desc: Surma: Oh! Don't move! Don't move!
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: p-29
+	tag: Surma
+	tag: Tony
+page:1890
+	date: 2017-09-29
+	desc: Surma: A bug! It landed! On my clipboard!
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: p-28
+	tag: Surma
+	tag: Tony
+page:1889
+	date: 2017-09-27
+	desc: (A bug lands on Surma's recording sheet and drops a host of baby bugs)
+	tag: Bug
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: p-27
+	tag: Surma
+	tag: Tony
+page:1888
+	date: 2017-09-25
+	desc: Surma: Was... Was that what we were waiting for?
+	tag: Branch
+	tag: ch-64
+	tag: Flashback
+	tag: Jungle
+	tag: p-26
+	tag: Surma
+	tag: Tony
+page:1887
+	date: 2017-09-22
+	desc: (An assortment of jungle views with bugs and waiting)
+	tag: Bugs
+	tag: ch-64
+	tag: Fire
+	tag: Flashback
+	tag: Jungle
+	tag: p-25
+	tag: Surma
+	tag: Tony
 page:1886
 	date: 2017-09-20
 	desc: "The Next Day" & "The Next Day"
