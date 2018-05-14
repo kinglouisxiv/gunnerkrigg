@@ -29,29 +29,1013 @@
 ; TODO: page numbers
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:1987
+	auth: Tom: Sleep over.
+	date: 2018-05-14
+	desc: Narration: Kat was about to loose her workshop, since it was very near one of the affected areas
+	tag: Aata
+	tag: Arthur
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: RedEye
+	tag: RobotS13
+	tag: Robots
+	tag: Shadow
+	tag: ShadowMenOrg
+	tag: Shell
+	tag: Tony
+	tag: ch-67
+	tag: p-05
+page:1986
+	auth: Tom: [Chapter 12 page 21](http://www.gunnerkrigg.com/?p=220)
+	date: 2018-05-11
+	desc: Narration: All mobile robots had congregated at the edge of the forest and were completely unresponsive.
+	tag: Anya
+	tag: Arthur
+	tag: CPU
+	tag: Juliette
+	tag: Kat
+	tag: RedEye
+	tag: RobotS13
+	tag: Robots
+	tag: ch-67
+	tag: p-04
+page:1985
+	auth: Tom: Time to go.
+	date: 2018-05-09
+	desc: Narration: Power had been cut off to large sections of the court.
+	tag: GiantTree
+	tag: Train
+	tag: Staff
+	tag: Students
+	tag: ch-67
+	tag: p-03
+page:1984
+	auth: Tom: School's out.
+	date: 2018-05-07
+	desc: Narration: After the initial attack all classes were suspended.
+	tag: GiantTree
+	tag: RedEye
+	tag: Robots
+	tag: Rubble
+	tag: Ruins
+	tag: ch-67
+	tag: p-02
+page:1983
+	auth: Tom: Let's get on with it.
+	date: 2018-05-04
+	desc: Chapter 67:<br><br>**Evac**
+	tag: ch-67
+	tag: p-01
+page:1982
+	date: 2018-05-02
+	desc: Bonus Page 66: Coyote and Ysengrin
+	tag: Bonus
+	tag: Coyote
+	tag: Ysengrin
+	tag: ch-66
+page:1981
+	date: 2018-04-30
+	desc: Rey: You must be joking
+	tag: Annie
+	tag: ForestSymbol
+	tag: GiantTree
+	tag: Rey
+	tag: Rooftop
+	tag: ch-66
+	tag: p-45
+page:1980
+	date: 2018-04-27
+	desc: Coyote separating (?) from Ysengrin
+	tag: Coyote
+	tag: Gillite
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-44
+page:1979
+	date: 2018-04-25
+	desc: Coyote part: Heh
+	tag: Brain
+	tag: Coyote
+	tag: Gillite
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-43
+page:1978
+	date: 2018-04-23
+	desc: Robots / Purple Shield: VMMMMMM
+	tag: GiantTree
+	tag: PurpleShield
+	tag: Robots
+	tag: Rooftop
+	tag: ch-66
+	tag: p-42
+page:1977
+	date: 2018-04-20
+	desc: Purple Shield: SPRANG
+	tag: Ysengrin
+	tag: PurpleShield
+	tag: ch-66
+	tag: p-41
+page:1976
+	date: 2018-04-18
+	desc: Annie: Ysengrin... killed Coyote! I think he has his powers now!
+	tag: Annie
+	tag: Bip
+	tag: Eglamore
+	tag: Parley
+	tag: Rey
+	tag: AntimonySymbol
+	tag: ch-66
+	tag: p-40
+page:1975
+	date: 2018-04-16
+	desc: Parley: Annie... Did you just try to zap Eglamore into your room? Haha!
+	tag: Annie
+	tag: Beacon
+	tag: Bip
+	tag: Eglamore
+	tag: Parley
+	tag: Rey
+	tag: Sword
+	tag: Valknut
+	tag: WhiteRoom
+	tag: ch-66
+	tag: p-39
+page:1974
+	date: 2018-04-13
+	desc: Reynard: Antimony! What the devil is going on?!
+	tag: Annie
+	tag: AntimonySymbol
+	tag: Beacon
+	tag: Rey
+	tag: WhiteRoom
+	tag: ch-66
+	tag: p-38
+page:1973
+	date: 2018-04-11
+	desc: Ysengrin: No... / This is only a fraction.
+	tag: Annan
+	tag: Court
+	tag: Dust
+	tag: Flying
+	tag: GiantTree
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-37
+page:1972
+	date: 2018-04-09
+	desc: Ysengrin: Oh, Coyote. Coyote, Coyote.
+	tag: Annan
+	tag: Bridge
+	tag: Court
+	tag: Dust
+	tag: Flying
+	tag: GiantTree
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-36
+page:1971
+	date: 2018-04-06
+	desc: Smitty: Don't -- don't you have the beacon Eglamore gave you?!
+	tag: Annie
+	tag: Dust
+	tag: Smitty
+	tag: ch-66
+	tag: p-35
+page:1970
+	date: 2018-04-04
+	desc: Roots growing across the Annan gorge in instants, burrowing into the Court side
+	tag: Annan
+	tag: Annie
+	tag: Root
+	tag: Smitty
+	tag: ch-66
+	tag: p-34
+page:1969
+	date: 2018-04-02
+	desc: Trees still growing, towering above the Court townscape
+	tag: Court
+	tag: Annan
+	tag: GiantTree
+	tag: ch-66
+	tag: p-33
+page:1968
+	date: 2018-03-30
+	desc: People looking up / looking 'what the...?' 
+	note: "John" id tentative
+	tag: AnimalLab
+	tag: Anja
+	tag: Bobby
+	tag: Donny
+	tag: Janet
+	tag: John
+	tag: Jones
+	tag: Paz
+	tag: RedEye
+	tag: Robots
+	tag: Shadow
+	tag: Winsbury
+	tag: ch-66
+	tag: p-32
+page:1967
+	date: 2018-03-28
+	desc: Kat: The forest isn't in that direction
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Robots
+	tag: RedEye
+	tag: GiantTree
+	tag: ch-66
+	tag: p-31
+page:1966
+	date: 2018-03-26
+	desc: Kat sees trees towering over the Court townscape
+	tag: Kat
+	tag: KatsWorkshop
+	tag: BioTank
+	tag: GiantTree
+	tag: ch-66
+	tag: p-30
+page:1965
+	date: 2018-03-23
+	desc: [The Wooden Arm tree clenches its fist]
+	tag: LaserCow
+	tag: WoodenArm
+	tag: YoungsPark
+	tag: ch-66
+	tag: p-29
+page:1964
+	date: 2018-03-21
+	desc: [Buildings in the Court destroyed by explosive growth of seeds]
+	tag: Court
+	tag: ch-66
+	tag: p-28
+page:1963
+	date: 2018-03-19
+	desc: Coyote/Ysengrin: Ah yes, of course!
+	tag: Court
+	tag: Flashback
+	tag: Gillitie
+	tag: Seeds
+	tag: ch-66
+	tag: p-27
+page:1962
+	date: 2018-03-16
+	desc: [rubble of the bridge blocking the Annan river]
+	tag: Annan
+	tag: Gillitie
+	tag: ch-66
+	tag: p-26
+page:1961
+	date: 2018-03-14
+	desc: [Annie & Smitty reach the Court side of the bridge just ahead of the complete collapse]
+	tag: Annie
+	tag: Bridge
+	tag: Gillitie
+	tag: Smitty
+	tag: ch-66
+	tag: p-25
+page:1960
+	date: 2018-03-12
+	desc: [Giant claw shatters the forest end of the Annan bridge]
+	tag: Annie
+	tag: Bridge
+	tag: ForestClaw
+	tag: Gillitie
+	tag: Smitty
+	tag: ch-66
+	tag: p-24
+page:1959
+	date: 2018-03-09
+	desc: [Annie & Smitty flee across the Annan bridge pursued by a grasping claw of forest]
+	tag: Annie
+	tag: Bridge
+	tag: Coyote
+	tag: ForestClaw
+	tag: Gillitie
+	tag: Smitty
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-23
+page:1958
+	date: 2018-03-07
+	desc: [Ysengrin transforms in a Flash into a Coyote/Ysengrin hybrid]
+	tag: Coyote
+	tag: Gillitie
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-22
+page:1957
+	date: 2018-03-05
+	desc: Ysengrin: The river...
+	note: Ysengrin swallows Coyote's body whole
+	tag: Annan
+	tag: Coyote
+	tag: Flashback
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-21
+page:1956
+	date: 2018-03-02
+	desc: Coyote: Hahaha! You stupid old wolf!
+	tag: Coyote
+	tag: Flashback
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-20
+page:1955
+	date: 2018-02-28
+	desc: Smitty: Is this really happening?! Did he just **kill** Coyote?!
+	tag: Annie
+	tag: Gillitie
+	tag: Smitty
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-19
+page:1954
+	date: 2018-02-26
+	desc: Smitty: We need to get out of here...
+	tag: Annie
+	tag: Coyote
+	tag: Gillitie
+	tag: Smitty
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-18
+page:1953
+	date: 2018-02-23
+	desc: Annie: Ysengrin! What have you done!
+	tag: Annie
+	tag: Coyote
+	tag: Gillitie
+	tag: GreenFire
+	tag: MemoryPearl
+	tag: Saliva
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-17
+page:1952
+	date: 2018-02-21
+	desc: Ysengrin: GRAAAA 
+	tag: Bones
+	tag: Coyote
+	tag: Gillitie
+	tag: GreenEyes
+	tag: GreenFire
+	tag: Saliva
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-16
+page:1951
+	date: 2018-02-19
+	desc: Coyote: Ysengrin, now you will have to look after me~~
+	tag: Coyote
+	tag: Gillitie
+	tag: GreenEyes
+	tag: GreenFire
+	tag: Saliva
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-15
+page:1950
+	date: 2018-02-16
+	desc: Coyote: Ah, Lovely, lovely
+	tag: Annie
+	tag: Coyote
+	tag: Gillitie
+	tag: GreenEyes
+	tag: GreenFire
+	tag: Smitty
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-14
+page:1949
+	date: 2018-02-14
+	desc: Coyote: This is my Strength / And now it is yours
+	tag: Annie
+	tag: Coyote
+	tag: Gillitie
+	tag: Smitty
+	tag: Ysengrin
+	tag: Strength
+	tag: ch-66
+	tag: p-13
+page:1948
+	date: 2018-02-12
+	desc: (Coyote rips off a red patch of skin from his back)
+	tag: Annie
+	tag: Coyote
+	tag: Gillitie
+	tag: GreenFire
+	tag: Smitty
+	tag: ch-66
+	tag: p-12
+page:1947
+	date: 2018-02-09
+	desc: Coyote: Do you accept it, Ysengrin?
+	tag: Annie
+	tag: Coyote
+	tag: Gillitie
+	tag: GreenFire
+	tag: Smitty
+	tag: Wink
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-11
+page:1946
+	date: 2018-02-07
+	desc: Coyote: Before you leave, friends, I have an announcement!
+	tag: Annan
+	tag: Annie
+	tag: Coyote
+	tag: Gillitie
+	tag: Smitty
+	tag: Strength
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-10
+page:1945
+	date: 2018-02-05
+	desc: Coyote: It has taken me so many years to temper the rage inside you, Ysengrin
+	tag: Annan
+	tag: Annie
+	tag: Coyote
+	tag: Gillitie
+	tag: Smitty
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-09
+page:1944
+	date: 2018-02-02
+	desc: Coyote: Ah, Ysengrin, what would you do if you knew the ghost of the Annan Waters was gone?
+	tag: Coyote
+	tag: Flashback
+	tag: Annan
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-08
+page:1943
+	date: 2018-01-31
+	desc: Ysengrin: I said go! Cross the river!
+	tag: Coyote
+	tag: Flashback
+	tag: Annan
+	tag: Jeanne
+	tag: MemoryPearl
+	tag: RedDevil
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-07
+page:1942
+	date: 2018-01-28
+	desc: Coyote: Ysengrin, if you couild have one of my powers, which would you choose?
+	tag: Bone
+	tag: Coyote
+	tag: Flashback
+	tag: Gillitie
+	tag: MemoryPearl
+	tag: Strength
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-06
+page:1941
+	auth: Tom: Looking back
+	date: 2018-01-26
+	desc: Coyote: Ysengrin, if I gave you one of my powers which would you want?
+	tag: Coyote
+	tag: Flashback
+	tag: Gillitie
+	tag: MemoryPearl
+	tag: Smitty
+	tag: Strength
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-05
+page:1940
+	auth: Tom: Whatever she's saying must be important
+	date: 2018-01-24
+	desc: Annie: What do you think, Ysengrin?
+	tag: Annie
+	tag: Badger
+	tag: Coyote
+	tag: Gillitie
+	tag: Smitty
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-04
+page:1939
+	auth: Tom: Not paying full attention
+	date: 2018-01-22
+	desc: [Coyote doing etheric mind surgery on Ysengrin]
+	tag: Annie
+	tag: Badger
+	tag: Bone
+	tag: Coyote
+	tag: Ether
+	tag: Gillitie
+	tag: Smitty
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-03
+page:1938
+	auth: Tom: Hiding something
+	date: 2018-01-19
+	desc: Ysengrin: Hate
+	tag: Annie
+	tag: Bridge
+	tag: Coyote
+	tag: Ysengrin
+	tag: ch-66
+	tag: p-02
+page:1937
+	auth: Tom: Best chapter title yet.
+	date: 2018-01-17
+	desc: Chapter 66 - Memories of the Worthless
+	note: White circle / bead on a black background
+	tag: MemoryPearl
+	tag: ch-66
+	tag: p-01
+page:1936
+	date: 2018-01-15
+	desc: Bonus Page 65 – A Video Game
+	note: Old-style tech 'bargins' advert page, (with boxbot module?!)
+	tag: Advert
+	tag: Bonus
+	tag: ch-65
+page:1935
+	date: 2018-01-12
+	desc: Margo: Thank you so much, Kat!
+	tag: Candle
+	tag: FriendsDorm
+	tag: Kat
+	tag: AVideoGame
+	tag: Hearts
+	tag: Paz
+	tag: ch-65
+	tag: p-27
+page:1934
+	date: 2018-01-10
+	desc: Margo: Thank you so much, Kat!
+	tag: Candle
+	tag: FriendsDorm
+	tag: Kat
+	tag: Margo
+	tag: MargoLaptop
+	tag: Paz
+	tag: ch-65
+	tag: p-26
+page:1933
+	date: 2018-01-08
+	desc: Kat: Hey Margo! Is Paz in?
+	tag: FriendsDorm
+	tag: Kat
+	tag: Margo
+	tag: MargoLaptop
+	tag: ch-65
+	tag: p-25
+page:1932
+	date: 2018-01-05
+	desc: "Heading back"
+	tag: Annie
+	tag: AntimonySymbol
+	tag: FriendsDorm
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: ch-65
+	tag: p-24
+page:1931
+	date: 2018-01-03
+	desc: Rey: Katerina, congratulations on becoming a wizard with magical abilities
+	tag: Annie
+	tag: AntimonySymbol
+	tag: Kat
+	tag: Rey
+	tag: KatsWorkshop
+	tag: ch-65
+	tag: p-23
+page:1930
+	date: 2018-01-01
+	desc: Kat: There. All done!
+	tag: Annie
+	tag: AntimonySymbol
+	tag: GameController
+	tag: Kat
+	tag: Rey
+	tag: RobotTomb
+	tag: ch-65
+	tag: p-22
+page:1929
+	date: 2017-12-29
+	desc: Kat: Ok, Annie, I'm giving Reynard back to you now
+	tag: Annie
+	tag: CreatorGlyph
+	tag: GameController
+	tag: Kat
+	tag: Rey
+	tag: RobotTomb
+	tag: ch-65
+	tag: p-21
+page:1928
+	date: 2017-12-27
+	desc: Rey: But the arrow was used to entrap two poor souls in torment for all time!
+	tag: Annie
+	tag: CreatorGlyph
+	tag: Kat
+	tag: Rey
+	tag: RobotTomb
+	tag: ch-65
+	tag: p-20
+page:1927
+	date: 2017-12-25
+	desc: Kat: And speaking of features I need you two to help with something!
+	tag: Annie
+	tag: CreatorGlyph
+	tag: GreenArrow
+	tag: Kat
+	tag: Rey
+	tag: RobotTomb
+	tag: ch-65
+	tag: p-19
+page:1926
+	date: 2017-12-22
+	desc: Kat: Look, watch this!
+	tag: Annie
+	tag: Kat
+	tag: KatComputer
+	tag: MatterTransfer
+	tag: Rey
+	tag: RobotTomb
+	tag: Snips
+	tag: ch-65
+	tag: p-18
+page:1925
+	date: 2017-12-20
+	desc: Kat: I'm building a computer!
+	tag: Annie
+	tag: Kat
+	tag: KatComputer
+	tag: Rey
+	tag: RobotTomb
+	tag: ch-65
+	tag: p-17
+page:1924
+	date: 2017-12-18
+	desc: Annie: Reynard!
+	tag: Annie
+	tag: CreatorGlyph
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: ch-65
+	tag: p-16
+page:1923
+	date: 2017-12-15
+	desc: Annie: Kat, that was the first time I've ever really worked with my father!
+	tag: Annie
+	tag: Kat
+	tag: KatsWorkshop
+	tag: ch-65
+	tag: p-15
+page:1922
+	date: 2017-12-13
+	desc: Kat: Looks like that's about all we can do for today
+	tag: Annie
+	tag: Arthur
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: RobotS13
+	tag: Shadow
+	tag: Tony
+	tag: ch-65
+	tag: p-14
+page:1921
+	date: 2017-12-11
+	auth: Tom: Getting work done
+	tag: Annie
+	tag: Arthur
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: RobotS13
+	tag: Shadow
+	tag: Tony
+	tag: ch-65
+	tag: p-13
+page:1920
+	date: 2017-12-08
+	desc: Shadow: Let's show ’em Robot!
+	tag: Annie
+	tag: Arthur
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: RobotS13
+	tag: Shadow
+	tag: ShadowOrgSymbol
+	tag: Tony
+	tag: Wheelchair
+	tag: ch-65
+	tag: p-12
+page:1919
+	date: 2017-12-06
+	desc: Kat: Hey guys!
+	tag: Annie
+	tag: Arthur
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: RobotS13
+	tag: Shadow
+	tag: Tony
+	tag: Wheelchair
+	tag: ch-65
+	tag: p-11
+page:1918
+	date: 2017-12-04
+	desc: "Time Passes"
+	tag: Annie
+	tag: Arthur
+	tag: Handshake
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: RobotS13
+	tag: Shadow
+	tag: Tony
+	tag: Wheelchair
+	tag: ch-65
+	tag: p-10
+page:1917
+	date: 2017-12-01
+	desc: Juliette: So today I can get on with my interface...
+	tag: Annie
+	tag: Arthur
+	tag: Blush
+	tag: BoyStuff
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Tony
+	tag: ch-65
+	tag: p-09
+page:1916
+	date: 2017-11-29
+	desc: Juliette: Umm...
+	note: Flashback to [p. 713](#713)
+	tag: Annie
+	tag: BioTank
+	tag: Blush
+	tag: Juliette
+	tag: Arthur
+	tag: Flashback
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Tony
+	tag: ch-65
+	tag: p-08
+page:1915
+	date: 2017-11-27
+	desc: Kat: The first thing we need to get on with is restructuring the myoelectric connectors
+	tag: Annie
+	tag: BioTank
+	tag: Blush
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Tony
+	tag: ch-65
+	tag: p-07
+page:1914
+	date: 2017-11-24
+	desc: Tony: Good Morning
+	tag: Annie
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Tony
+	tag: ch-65
+	tag: p-06
+page:1913
+	date: 2017-11-22
+	desc: Annie: Morning!
+	tag: Annie
+	tag: BioTank
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Tony
+	tag: ch-65
+	tag: p-05
+page:1912
+	date: 2017-11-20
+	desc: Kat: Oh / Good idea
+	tag: BioTank
+	tag: Kat
+	tag: KatsWorkshop
+	tag: ch-65
+	tag: p-04
+page:1911
+	date: 2017-11-17
+	desc: Kat: The coast should be clear at 3, okay? Don't forget!
+	note: (Kat crosses to Rey's Apartment)
+	tag: Breakfast
+	tag: CreatorGlyph
+	tag: Kat
+	tag: Rey
+	tag: ch-65
+	tag: p-03
+page:1910
+	date: 2017-11-15
+	desc: Alarm Clock: Beep Beep Beep 
+	note: 7:00am Saturday, Kat's Apartment 
+	tag: Bed
+	tag: Kat
+	tag: Saturday
+	tag: ch-65
+	tag: p-02
+page:1909
+	date: 2017-11-13
+	desc: Chapter 65:<br><br>Katerday!<br><br>
+	tag: Kat
+	tag: ch-65
+	tag: p-01
+page:1908
+	auth: Tom: Annie never wore that shirt again
+	date: 2017-11-10
+	desc: Bonus Page 64: The Coolest<br>Annie: Actually that was a rhetorical question. I'm not expecting an answer
+	note: "Cool Beans" shirt
+	tag: Annie
+	tag: Anya
+	tag: Bonus
+	tag: Kat
+	tag: ch-64
+page:1907
+	date: 2017-11-08
+	desc: Annie: So why does he act differently for everyone but me?
+	tag: Anya
+	tag: Annie
+	tag: Kat
+	tag: ch-64
+	tag: p-45
+page:1906
+	date: 2017-11-06
+	desc: Kat: You know I was really angry when Mr. Carver wanted to work with me
+	tag: Anya
+	tag: Annie
+	tag: Kat
+	tag: ch-64
+	tag: p-44
+page:1905
+	date: 2017-11-03
+	desc: Kat: Annie's mom cheated on Uncle Jimmy?!
+	tag: Anya
+	tag: Annie
+	tag: Kat
+	tag: ch-64
+	tag: p-43
+page:1904
+	date: 2017-11-01
+	desc: [Eglamore leaves, followed by Jones]
+	auth: Tom: Jones was there the whole time
+	tag: Anya
+	tag: Donny
+	tag: Eglamore
+	tag: Flashback
+	tag: Jones
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-42
+page:1903
+	date: 2017-10-30
+	desc: Surma: James, you step back right now!
+	tag: Anya
+	tag: Donny
+	tag: Eglamore
+	tag: Flashback
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-41
+page:1902
+	date: 2017-10-27
+	desc: Eglamore: What did you do to her?!
+	tag: Eglamore
+	tag: Flashback
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-40
+page:1901
+	date: 2017-10-25
+	desc: Eglamore: You... / have **got** to be joking...
+	tag: Flashback
+	tag: Eglamore
+	tag: Donny
+	tag: Anja
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-39
+page:1900
+	date: 2017-10-23
+	desc: (anthropological jungle scenes)
+	tag: Flashback
+	tag: Jungle
+	tag: JungleHut
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-38
+page:1899
+	date: 2017-10-20
+	desc: Tony: Surma... What about James?
+	tag: Flashback
+	tag: Jungle
+	tag: JungleHut
+	tag: Kiss
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-37
+page:1898
+	date: 2017-10-18
+	desc: Tony: I think it's clear your ability to burn things uses up a certain amount of joules from your body
+	tag: Flashback
+	tag: Jungle
+	tag: JungleHut
+	tag: Kiss
+	tag: Mug
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-36
+page:1897
+	date: 2017-10-16
+	desc: (more entomological jungle scenes)
+	tag: Flashback
+	tag: Jungle
+	tag: Bug
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-35
+page:1896
+	date: 2017-10-13
+	desc: Surma: So we came all this way to watch a couple of slugs go at it?
+	tag: Flashback
+	tag: Jungle
+	tag: Slug
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-34
+page:1895
+	date: 2017-10-11
+	desc: Surma & Tony: Ah!
+	tag: Bug
+	tag: Flashback
+	tag: Jungle
+	tag: Slug
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-33
+page:1894
+	date: 2017-10-09
+	desc: Tony: No makeup today?
+	tag: Blush
+	tag: Flashback
+	tag: Jungle
+	tag: MakeUp
+	tag: Surma
+	tag: Tony
+	tag: ch-64
+	tag: p-32
 page:1893
 	date: 2017-10-06
 	desc: (Surma dreams of bugs)
 	tag: Bug
 	tag: Dream
-	tag: ch-64
 	tag: Flashback
 	tag: Jungle
 	tag: JungleHut
 	tag: JungleJeep
-	tag: p-31
 	tag: Surma
 	tag: Tony
+	tag: ch-64
+	tag: p-31
 page:1892
 	date: 2017-10-04
 	desc: Surma: I - I can't even imagine it!
 	tag: Blush
-	tag: ch-64
 	tag: Flashback
 	tag: Jungle
-	tag: p-30
 	tag: Surma
 	tag: Tony
+	tag: ch-64
+	tag: p-30
 page:1891
 	date: 2017-10-02
 	desc: Surma: Oh! Don't move! Don't move!
@@ -953,7 +1937,6 @@ page:1806
 	tag: Etherium
 	tag: Hearts
 	tag: ch-61
-	tag: p-15
 	tag: Red
 	tag: Wings
 	tag: Uniform
@@ -6135,6 +7118,7 @@ page:1352
 	tag: Kat
 	tag: ROTD
 	tag: Tears
+	tag: p-31
 	tag: VastyHall
 page:1351
 	date: 2014-05-09
@@ -6146,6 +7130,7 @@ page:1351
 	tag: Mort
 	tag: ROTD
 	tag: Tears
+	tag: p-30
 	tag: VastyHall
 page:1350
 	date: 2014-05-07
@@ -6153,6 +7138,7 @@ page:1350
 	tag: Annie
 	tag: ch-47
 	tag: Etherium
+	tag: p-29
 	tag: Mort
 page:1349
 	date: 2014-05-05
@@ -6162,6 +7148,7 @@ page:1349
 	tag: Etherium
 	tag: Mort
 	tag: ROTD
+	tag: p-28
 	tag: VastyHall
 page:1348
 	date: 2014-05-02
@@ -6173,6 +7160,7 @@ page:1348
 	tag: Mort
 	tag: ROTD
 	tag: Tears
+	tag: p-27
 	tag: VastyHall
 page:1347
 	date: 2014-04-30
@@ -6187,6 +7175,7 @@ page:1347
 	tag: ROTD
 	tag: Tears
 	tag: VastyHall
+	tag: p-26
 	tag: VHStape
 page:1346
 	date: 2014-04-28
@@ -6196,6 +7185,7 @@ page:1346
 	tag: FinalRecords
 	tag: Kat
 	tag: Mort
+	tag: p-25
 	tag: Tears
 page:1345
 	date: 2014-04-25
@@ -6208,6 +7198,7 @@ page:1345
 	tag: Mort
 	tag: ROTD
 	tag: VHStape
+	tag: p-24
 	tag: VastyHall
 page:1344
 	date: 2014-04-23
@@ -6218,6 +7209,7 @@ page:1344
 	tag: Kat
 	tag: Mort
 	tag: ROTD
+	tag: p-23
 	tag: VastyHall
 page:1343
 	date: 2014-04-21
@@ -6229,6 +7221,7 @@ page:1343
 	tag: Dracula
 	tag: ROTD
 	tag: Vampire
+	tag: p-22
 	tag: VastyHall
 page:1342
 	date: 2014-04-18
@@ -6241,6 +7234,7 @@ page:1342
 	tag: Jeanne
 	tag: ROTD
 	tag: Sword
+	tag: p-21
 	tag: VastyHall
 page:1341
 	date: 2014-04-16
@@ -6252,6 +7246,7 @@ page:1341
 	tag: GreenArrow
 	tag: Jeanne
 	tag: ROTD
+	tag: p-20
 	tag: VastyHall
 page:1340
 	date: 2014-04-14
@@ -6261,6 +7256,7 @@ page:1340
 	tag: Coffin
 	tag: Dracula
 	tag: ROTD
+	tag: p-19
 	tag: VastyHall
 page:1339
 	date: 2014-04-11
@@ -6271,6 +7267,7 @@ page:1339
 	tag: Coffin
 	tag: Dracula
 	tag: ROTD
+	tag: p-18
 	tag: VastyHall
 page:1338
 	date: 2014-04-09
@@ -6281,6 +7278,7 @@ page:1338
 	tag: Coffin
 	tag: Dracula
 	tag: ROTD
+	tag: p-17
 	tag: VastyHall
 page:1337
 	date: 2014-04-07
@@ -6292,6 +7290,7 @@ page:1337
 	tag: Coffin
 	tag: Dracula
 	tag: ROTD
+	tag: p-16
 	tag: VastyHall
 page:1336
 	date: 2014-04-04
@@ -6300,6 +7299,7 @@ page:1336
 	tag: Annie
 	tag: ch-47
 	tag: ROTD
+	tag: p-15
 	tag: VastyHall
 page:1335
 	date: 2014-04-02
@@ -6311,6 +7311,7 @@ page:1335
 	tag: Kat
 	tag: Mort
 	tag: ROTD
+	tag: p-13
 	tag: VastyHall
 page:1334
 	date: 2014-03-31
@@ -6322,34 +7323,36 @@ page:1334
 	tag: Kat
 	tag: Mort
 	tag: ROTD
+	tag: p-12
 	tag: VastyHall
 page:1333
 	date: 2014-03-28
 	desc: Annie: How could you ask me to do this?
 	tag: Annie
-	tag: ch-47
 	tag: FinalRecords
 	tag: Kat
 	tag: Mort
 	tag: ROTD
 	tag: VastyHall
+	tag: ch-47
+	tag: p-11
 page:1332
 	date: 2014-03-26
 	desc: Dracula: We've got an important job for you, now that you're a ghost!
 	tag: Ankou
-	tag: ch-47
 	tag: Dracula
 	tag: Jones
 	tag: Mort
 	tag: Psychopomps
 	tag: ROTD
 	tag: Vampire
+	tag: ch-47
+	tag: p-10
 page:1331
 	date: 2014-03-24
 	desc: Dracula: Okay, okay, what's going on here?
 	note: _Gunnerkrigg Court_ mentioned
 	tag: Ankou
-	tag: ch-47
 	tag: Court
 	tag: Dracula
 	tag: Jones
@@ -6357,100 +7360,113 @@ page:1331
 	tag: Psychopomps
 	tag: ROTD
 	tag: Vampire
+	tag: ch-47
+	tag: p-09
 page:1330
 	date: 2014-03-21
 	desc: Mortimer, your time has come early
 	tag: Ankou
-	tag: ch-47
 	tag: Jones
 	tag: Mort
 	tag: Psychopomps
+	tag: ch-47
+	tag: p-08
 page:1329
 	date: 2014-03-19
 	desc: Mort: Miss, were you hurt?!
 	tag: Ankou
-	tag: ch-47
 	tag: Jones
 	tag: Mort
 	tag: Psychopomps
+	tag: ch-47
+	tag: p-07
 page:1328
-	date: 2014-03-17
 	auth: Tom: This is a pretty standard SC50 bomb. In my research I wasn't able to find clear pictures of what the interior filling charges looked like, so if any of you know where I can find good reference for them, I'd like to update the page in the future if needed.
+	date: 2014-03-17
 	desc: (3-D 'exploded' cutaway of the bomb)
 	tag: Bomb
-	tag: ch-47
 	tag: Mort
+	tag: ch-47
+	tag: p-06
 page:1327
 	date: 2014-03-14
 	desc: Jones: It is too late for you 
 	tag: Bomb
-	tag: ch-47
 	tag: Jones
 	tag: Mort
+	tag: ch-47
+	tag: p-05
 page:1326
 	date: 2014-03-12
 	desc: Mort: Hey! You're going the wrong way, miss! (Rooooo...)
-	tag: ch-47
 	tag: Jones
 	tag: Mort
+	tag: ch-47
+	tag: p-04
 page:1325
 	date: 2014-03-10
 	desc: (An air raid siren sounds: Rooooo...)
-	tag: ch-47
 	tag: Mort
+	tag: ch-47
+	tag: p-03
 page:1324
 	date: 2014-03-07
-	desc: I know they'll find a nice safe place to send ya soon!
+	desc: Betty: Oh, Morty, I know they'll find a nice safe place to send ya soon!
 	tag: Betty
-	tag: ch-47
 	tag: Mort
 	tag: Nigel
-page:1323
-	date: 2014-03-05
-	desc: "MOTHERS: Your children are safer in the country" (a small boy in short trousers, with helmet & popgun reads a wall poster -- WWII, 1939 or '40)
 	tag: ch-47
+	tag: p-02
+page:1323
+	auth: Tom: There is a clue to the time period on this page. 
+	date: 2014-03-05
+	desc: "MOTHERS: Your children are safer in the country" (a small boy in short trousers, with helmet & popgun reads a wall poster -- WWII, 1939 or ’40)
 	tag: Mort
+	tag: ch-47
+	tag: p-02
 page:1322
 	date: 2014-03-03
 	desc: Chapter 47:<br><br>**See Ya!**<br><br>_Icon: Annie in front of dust clouds_
-	tag: ch-47
 	tag: Cover
 	tag: Mort
+	tag: ch-47
+	tag: p-01
 page:1321
-	date: 2014-02-28
 	auth: Tom: Don't let the door hit you on the way out, buddy.
-	desc: Bonus Page: But... it's my room...
-	note: A slightly different perspective on the bottom left panel of [p.1319](#p1319)
+	date: 2014-02-28
+	desc: Bonus Page 46: But... it's my room...
+	note: A slightly different view of the bottom left panel of [p.1319](#p1319)
 	tag: Bonus
-	tag: ch-46
 	tag: FinalRecords
 	tag: Kat
 	tag: Librarian
 	tag: ROTD
 	tag: VastyHall
+	tag: ch-46
 page:1320
 	date: 2014-02-26
-	desc: And to help you practice... I want you to take me into the ether
+	desc: Mort: And to help you practice... I want you to take me into the ether
 	tag: Annie
-	tag: ch-46
 	tag: FinalRecords
 	tag: Kat
 	tag: Mort
 	tag: Rolodex
+	tag: ch-46
+	tag: p-25
 page:1319
 	date: 2014-02-24
-	desc: Well don't blame me if you can't do your job right!
+	desc: Librarian: Well don't blame me if you can't do your job right!
 	tag: Annie
-	tag: ch-46
 	tag: FinalRecords
 	tag: Kat
 	tag: Librarian
 	tag: Mort
+	tag: ch-46
+	tag: p-24
 page:1318
 	date: 2014-02-21
-	desc: I wonder... if my mother is in here somewhere
+	desc: Annie: I wonder... if my mother is in here somewhere
 	tag: Annie
-	tag: ch-46
 	tag: FinalRecords
 	tag: Kat
 	tag: Librarian
@@ -6460,12 +7476,13 @@ page:1318
 	tag: Steadman
 	tag: VHStape
 	tag: VideoPlayer
+	tag: ch-46
+	tag: p-23
 page:1317
 	date: 2014-02-19
-	desc: I really wish I hadn't tripped over that damned dog
+	desc: Steadman: I really wish I hadn't tripped over that damned dog
 	tag: Annie
 	tag: Artilleryman
-	tag: ch-46
 	tag: FinalRecords
 	tag: Kat
 	tag: Librarian
@@ -6475,9 +7492,11 @@ page:1317
 	tag: Steadman
 	tag: VHStape
 	tag: VideoPlayer
+	tag: ch-46
+	tag: p-22
 page:1316
 	date: 2014-02-17
-	tag: ch-46
+	desc: ...incredible speed... ...ruthless... ...a vision of terror...
 	tag: Annie
 	tag: FinalRecords
 	tag: Kat
@@ -6486,23 +7505,26 @@ page:1316
 	tag: Rolodex
 	tag: VHStape
 	tag: VideoPlayer
-	desc: ...incredible speed... ...ruthless... ...a vision of terror...
+	tag: ch-46
+	tag: p-21
 page:1315
 	date: 2014-02-14
-	tag: ch-46
+	desc: Annie: Lamet? Jeanne killed a psychopomp?!
+	note: Chapter 46: Page 18 online, so page number off by 2 for the rest of the chapter.
 	tag: Annie
 	tag: FinalRecords
 	tag: Kat
-	tag: Librarian
 	tag: Lamet
+	tag: Librarian
 	tag: Mort
 	tag: Psychopomps
 	tag: VHStape
 	tag: VideoPlayer
-	desc: Lamet? Jeanne killed a psychopomp?!
+	tag: ch-46
+	tag: p-20
 page:1314
 	date: 2014-02-12
-	tag: ch-46
+	desc: Kat: Okay... so how do we **summon** the memories?
 	tag: Annie
 	tag: FinalRecords
 	tag: Kat
@@ -6510,10 +7532,11 @@ page:1314
 	tag: Mort
 	tag: VHStape
 	tag: VideoPlayer
-	desc: Okay... so how do we _summon_ the memories?
+	tag: ch-46
+	tag: p-19
 page:1313
 	date: 2014-02-10
-	tag: ch-46
+	desc: Librarian: These are the final recorded moments of those being taken into the ether
 	tag: Annie
 	tag: FinalRecords
 	tag: Kat
@@ -6521,28 +7544,31 @@ page:1313
 	tag: Mort
 	tag: Rolodex
 	tag: VHStape
-	desc: These are the final recorded moments of those being taken into the ether
+	tag: ch-46
+	tag: p-18
 page:1312
 	date: 2014-02-07
-	tag: ch-46
+	desc: Kat: Well, at least they have a book now
 	tag: Annie
 	tag: FinalRecords
 	tag: Kat
 	tag: Librarian
 	tag: Mort
-	desc: Well, at least they have a book now
+	tag: ch-46
+	tag: p-17
 page:1311
 	date: 2014-02-05
-	tag: ch-46
+	desc: Mort: Y'know ... final records is restricted...
 	tag: Annie
 	tag: Cobwebs
 	tag: Kat
 	tag: Librarian
 	tag: Mort
-	desc: Y'know ... final records is restricted...
+	tag: ch-46
+	tag: p-16
 page:1310
 	date: 2014-02-03
-	tag: ch-46
+	desc: Librarian: You won't find anything here. You need _Final Records_
 	tag: Annie
 	tag: Cobwebs
 	tag: Kat
@@ -6550,21 +7576,23 @@ page:1310
 	tag: Mort
 	tag: Rolodex
 	tag: SpecialCases
-	desc: You won't find anything here. You need _Final Records_
+	tag: ch-46
+	tag: p-15
 page:1309
 	date: 2014-01-31
-	tag: ch-46
+	desc: Kat: We're trying to find out stuff about a ghost called Jeanne
 	tag: Annie
 	tag: Cobwebs
 	tag: Kat
 	tag: Librarian
 	tag: Mort
 	tag: Tombstone
-	desc: We're trying to find out stuff about a ghost called Jeanne
-page:1308
-	date: 2014-01-29
-	url: http://www.gunnerkrigg.com/?p=1308
 	tag: ch-46
+	tag: p-14
+page:1308
+	auth: Tom: The ROTD is pretty proud of its library
+	date: 2014-01-29
+	desc: Kat: **This** is the library?
 	tag: Annie
 	tag: Bats
 	tag: Kat
@@ -6572,16 +7600,16 @@ page:1308
 	tag: Mort
 	tag: Rolodex
 	tag: Zombie
-	desc: _This_ is the library?
-	auth: Tom: The ROTD is pretty proud of its library
+	tag: ch-46
+	tag: p-13
+	url: http://www.gunnerkrigg.com/?p=1308
 page:1307
-	date: 2014-01-27
 	auth: Tom: This labyrinth of madness
-	desc: I think they have a library around here somewhere
+	date: 2014-01-27
+	desc: Mort: I think they have a library around here somewhere
 	tag: Annie
 	tag: Bats
 	tag: Cells
-	tag: ch-46
 	tag: Cobwebs
 	tag: JackOLantern
 	tag: Kat
@@ -6591,23 +7619,25 @@ page:1307
 	tag: Spider
 	tag: Tombstone
 	tag: Zombie
+	tag: ch-46
+	tag: p-12
 page:1306
 	date: 2014-01-24
-	desc: Here. Touch the bat for verification
+	desc: Deathshead: Here. Touch the bat for verification
 	tag: Annie
 	tag: Bats
-	tag: ch-46
 	tag: DeathsHead
 	tag: Kat
 	tag: ROTD
 	tag: Vampire
+	tag: ch-46
+	tag: p-11
 page:1305
 	date: 2014-01-22
-	desc: Oh, Uh... Mort and... two guests?
+	desc: Mort: Oh, Uh... Mort and... two guests?
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Bats
-	tag: ch-46
 	tag: Cobwebs
 	tag: CourtSymbol
 	tag: CreatorGlyph
@@ -6620,9 +7650,12 @@ page:1305
 	tag: ROTD
 	tag: Spider
 	tag: Tombstone
-page:1304
-	date: 2014-01-20
 	tag: ch-46
+	tag: p-10
+page:1304
+	auth: Tom: These halls of terror
+	date: 2014-01-20
+	desc: Annie: Oh, Mort, it's incredible!
 	tag: Annie
 	tag: Bats
 	tag: Bones
@@ -6635,355 +7668,396 @@ page:1304
 	tag: Skeleton
 	tag: Spider
 	tag: Tombstone
-	desc: Oh, Mort, it's incredible!
+	tag: ch-46
+	tag: p-09
 page:1303
 	date: 2014-01-17
-	tag: ch-46
+	desc: Mort: You can use any door as long as you know the password
 	tag: Annie
 	tag: Kat
 	tag: Mort
 	tag: ROTD
-	desc: You can use any door as long as you know the password
+	tag: ROTDdoor
+	tag: ch-46
+	tag: p-08
 page:1302
 	date: 2014-01-15
-	tag: ch-46
+	desc: Mort: It's like a department that deals with people who died but didn't get taken into the ether
 	tag: Annie
 	tag: Kat
 	tag: Mort
-	desc: It's like a department that deals with people who died but didn't get taken into the ether
+	tag: ch-46
+	tag: p-07
 page:1301
 	date: 2014-01-13
-	tag: ch-46
+	desc: Mort: I was allowed to stay because of _Special Circumstances!_
 	tag: Annie
 	tag: Kat
 	tag: Mort
 	tag: ROTD
 	tag: SpecialCircumstances
-	desc: I was allowed to stay because of _Special Circumstances!_
+	tag: ch-46
+	tag: p-06
 page:1300
 	date: 2014-01-10
-	tag: ch-46
+	desc: Annie: A forgotten prisoner from a forgotten time
 	tag: Annie
 	tag: GreenArrow
 	tag: Kat
 	tag: Parley
 	tag: Smitty
-	desc: A forgotten prisoner from a forgotten time
+	tag: ch-46
+	tag: p-05
 page:1299
 	date: 2014-01-08
-	tag: ch-46
+	desc: Annie: But she didn't destroy my blinker stone when we used it before
 	tag: Annie
 	tag: GreenArrow
 	tag: Kat
 	tag: Parley
 	tag: Smitty
-	desc: But she didn't destroy my blinker stone when we used it before
+	tag: ch-46
+	tag: p-04
 page:1298
 	date: 2014-01-06
-	tag: ch-46
+	desc: Kat: There she is
 	tag: Annie
 	tag: Jeanne
 	tag: Kat
 	tag: Parley
 	tag: RobotS13
 	tag: Smitty
-	desc: There she is
+	tag: ch-46
+	tag: p-03
 page:1297
 	date: 2014-01-03
-	tag: ch-46
+	desc: (camera -- blade -- camera halves)
 	tag: Camera
 	tag: Sword
-	desc: (camera -- blade -- camera halves)
+	tag: ch-46
+	tag: p-02
 page:1296
 	date: 2014-01-01
 	desc: Chapter 46:<br><br>**The Realm of the Dead**<br><br>_Icon: Door with a broken window_
 	tag: Bones
 	tag: ch-46
+	tag: p-01
 	tag: Cover
 page:1295
 	auth: Tom: They like to talk, but don't really have a lot to say
 	date: 2013-12-30
-	desc: Bonus page: Squeak<br>I'm a mouse!
+	desc: Bonus page 45: Squeak<br>I'm a mouse!
 	tag: AnimalLab
 	tag: Bonus
-	tag: ch-45
 	tag: Paz
 	tag: WhiteMouse
+	tag: ch-45
 page:1294
 	auth: Tom: Thanks for reading this chapter about girls being friends
 	date: 2013-12-27
 	desc: It was worth it
-	tag: ch-45
 	tag: KatsWorkshop
 	tag: RobotS13
 	tag: Robots
+	tag: ch-45
+	tag: p-31
 page:1293
 	date: 2013-12-25
 	desc: This is the first of us to die a proper death
-	tag: ch-45
 	tag: KatsWorkshop
 	tag: RobotS13
 	tag: Robots
+	tag: ch-45
+	tag: p-30
 page:1292
 	date: 2013-12-23
 	desc: (Annie & Kat enter the Habitat)
 	tag: Annie
-	tag: ch-45
 	tag: Habitat
 	tag: HabitatSymbol
 	tag: Kat
+	tag: ch-45
+	tag: p-29
 page:1291
 	date: 2013-12-20
 	desc: So why'd you hide here, but not want to go inside?
 	tag: Annie
-	tag: ch-45
 	tag: Habitat
 	tag: HabitatSymbol
 	tag: Kat
+	tag: ch-45
+	tag: p-28
 page:1290
 	date: 2013-12-18
 	desc: I'd totally date a girl if she was super hot!
 	tag: Annie
-	tag: ch-45
 	tag: Habitat
 	tag: HabitatSymbol
 	tag: Kat
+	tag: ch-45
+	tag: p-27
 page:1289
 	date: 2013-12-16
 	desc: And I'll do anything do anything for you!
 	tag: Annie
-	tag: ch-45
 	tag: Habitat
 	tag: HabitatSymbol
 	tag: Kat
+	tag: ch-45
+	tag: p-26
 page:1288
 	date: 2013-12-13
 	desc: Whoa whoa, Annie... _hate_ you?!
 	tag: Aly
 	tag: Annie
-	tag: ch-45
 	tag: Flashback
 	tag: Habitat
 	tag: HabitatSymbol
 	tag: Kat
+	tag: ch-45
+	tag: p-25
 page:1287
 	date: 2013-12-11
 	desc: Do you remember Alistair
 	tag: Aly
 	tag: Annie
-	tag: ch-45
 	tag: Flashback
 	tag: Habitat
 	tag: HabitatSymbol
 	tag: Kat
+	tag: ch-45
+	tag: p-24
 page:1286
 	date: 2013-12-09
 	desc: That you will one day leave me
 	tag: Annie
-	tag: ch-45
 	tag: Habitat
 	tag: HabitatSymbol
 	tag: Kat
+	tag: ch-45
+	tag: p-23
 page:1285
 	auth: Tom: Working out an issue by talking? Pretty risky.
 	date: 2013-12-06
 	desc: We can work it out
 	tag: Annie
-	tag: ch-45
 	tag: Habitat
 	tag: HabitatSymbol
 	tag: Kat
+	tag: ch-45
+	tag: p-22
 page:1284
 	auth: Tom: Here she is. There is where Annie was. Right here.
 	date: 2013-12-04
 	desc: (slow zoom out from the tree)
 	tag: Annie
-	tag: ch-45
 	tag: CherryTree
 	tag: Habitat
 	tag: HabitatSymbol
+	tag: ch-45
+	tag: p-21
 page:1283
 	date: 2013-12-02
 	desc: Nice choice!
-	tag: ch-45
 	tag: Kat
 	tag: Rey
 	tag: SubDorm
+	tag: ch-45
+	tag: p-20
 page:1282
 	date: 2013-11-29
 	desc: Humans will violently stamp out what they do not like
-	tag: ch-45
 	tag: Kat
 	tag: Rey
 	tag: SubDorm
+	tag: ch-45
+	tag: p-19
 page:1281
 	date: 2013-11-27
 	desc: Do you think I'm weird?
-	tag: ch-45
 	tag: Kat
 	tag: Rey
 	tag: SubDorm
+	tag: ch-45
+	tag: p-18
 page:1280
 	date: 2013-11-25
 	desc: Haha! I apologise!
-	tag: ch-45
 	tag: Kat
 	tag: Rey
 	tag: SubDorm
+	tag: ch-45
+	tag: p-17
 page:1279
 	date: 2013-11-22
 	desc: Do _not_ even start!
-	tag: ch-45
 	tag: Kat
 	tag: Rey
 	tag: SubDorm
+	tag: ch-45
+	tag: p-16
 page:1278
 	date: 2013-11-20
 	desc: Hi, Rey. Has Annie been by here?
 	tag: AdminBot
 	tag: Bridge
-	tag: ch-45
 	tag: Kat
 	tag: Labyrinth
 	tag: Rey
 	tag: RobotHQ
 	tag: Roof
 	tag: SubDorm
+	tag: ch-45
+	tag: p-15
 page:1277
 	date: 2013-11-18
 	desc: Man, all those weeks of work, fried / Eh, it was worth it!
 	tag: BioLimb
-	tag: ch-45
+	tag: BlueSmoke
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Paz
 	tag: Train
-	tag: BlueSmoke
+	tag: ch-45
+	tag: p-14
 page:1276
 	date: 2013-11-15
 	desc: Annie!
 	tag: Birds
-	tag: ch-45
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Robots
+	tag: ch-45
+	tag: p-13
 page:1275
 	auth: Tom: Tough to focus
 	date: 2013-11-13
 	desc: I better deal with that...
 	tag: Annie
-	tag: ch-45
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Kiss
 	tag: Paz
 	tag: Robots
+	tag: ch-45
+	tag: p-12
 page:1274
 	auth: Tom: Results continue to be guaranteed
 	date: 2013-11-11
 	desc: Waaaaaait, wait, wait
-	tag: ch-45
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Kiss
 	tag: Paz
+	tag: ch-45
+	tag: p-11
 page:1273
 	auth: Tom: Results Guaranteed
 	date: 2013-11-08
 	desc: You do not have to show off for me, Kat
-	tag: ch-45
+	tag: BlueSmoke
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Kiss
 	tag: Paz
-	tag: BlueSmoke
+	tag: ch-45
+	tag: p-10
 page:1272
 	auth: Tom: Make Vomit Noises
 	date: 2013-11-06
 	desc: Oh I think we can manage... just the two of us...
-	tag: ch-45
+	tag: BlueSmoke
 	tag: Creeper
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Paz
 	tag: RobotParts
-	tag: BlueSmoke
+	tag: ch-45
+	tag: p-09
 page:1271
 	auth: Tom: Rapidly bring face towards subject
 	date: 2013-11-04
 	desc: I could do with your... assistance
 	tag: BioLimb
-	tag: ch-45
 	tag: Creeper
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Paz
 	tag: RobotParts
+	tag: ch-45
+	tag: p-08
 page:1270
 	auth: Tom: When trying to impress, keep eyes closed
 	date: 2013-11-01
 	desc: A few minutes of hasty planning later
 	tag: BioLimb
-	tag: ch-45
 	tag: Creeper
 	tag: Fire
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Paz
 	tag: RobotParts
+	tag: ch-45
+	tag: p-07
 page:1269
 	auth: Tom: Never ask, only guess.
 	date: 2013-10-30
 	desc: I... I have to be sure!
-	tag: ch-45
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Paz
 	tag: Robots
 	tag: Seraph
+	tag: ch-45
+	tag: p-06
 page:1268
 	auth: Tom: Top security.
 	date: 2013-10-28
 	desc: State your name and the name of your hairdresser!
-	tag: ch-45
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Paz
 	tag: Robots
 	tag: Seraph
-page:1267
-	date: 2013-10-25
 	tag: ch-45
+	tag: p-05
+page:1267
+	auth: Tom: Paz and Kat and robots
+	date: 2013-10-25
+	desc: No! I like to see it! You are so clever, Kat!
 	tag: Blush
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Paz
 	tag: Robots
 	tag: Seraph
-	desc: No! I like to see it! You are so clever, Kat!
-	auth: Tom: Paz and Kat and robots
-page:1266
-	date: 2013-10-23
 	tag: ch-45
+	tag: p-04
+page:1266
+	auth: Tom: Pat and Kaz
+	date: 2013-10-23
+	desc: What is this room?
 	tag: CreatorGlyph
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Paz
-	desc: What is this room?
-	auth: Tom: Pat and Kaz
-page:1265
-	date: 2013-10-21
 	tag: ch-45
+	tag: p-03
+page:1265
+	auth: Tom: Kat and Paz
+	date: 2013-10-21
+	desc: So this is where you spend all your time!
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Paz
-	desc: So this is where you spend all your time!
-	auth: Tom: Kat and Paz
+	tag: ch-45
+	tag: p-02
 page:1264
 	date: 2013-10-18
 	desc: Chapter 45:<br><br>**Thread**<br><br>_Icon: A Bunsen burner_
-	tag: ch-45
 	tag: Cover
+	tag: ch-45
+	tag: p-01
 page:1263
 	date: 2013-10-16
 	desc: Bonus page: Okay<br>It's not _my_ blood
@@ -7876,6 +8950,7 @@ page:1166
 page:1165
 	date: 2013-03-11
 	desc: Bonus Page: Treatise Five
+	tag: AngelWheel
 	tag: Annie
 	tag: AntimonySymbol
 	tag: BlinkerStone
@@ -7886,6 +8961,8 @@ page:1165
 	tag: Gillitie
 	tag: Heart
 	tag: Kat
+	tag: Microsat5
+	tag: Photodiode
 	tag: RobotS13
 	tag: Shadow
 	tag: Treatise
@@ -7893,23 +8970,23 @@ page:1165
 	tag: Ysengrin
 page:1164
 	date: 2013-03-08
-	tag: ch-41
+	desc: It's written to _you_.
 	tag: Annie
 	tag: Dorm
 	tag: Kat
 	tag: LoveLetter
-	desc: It's written to _you_.
-page:1163
-	date: 2013-03-06
 	tag: ch-41
+page:1163
+	auth: Tom: Oh no
+	date: 2013-03-06
+	desc: It's a _Love Letter_
 	tag: Annie
 	tag: Dorm
 	tag: Heart
 	tag: Kat
 	tag: LoveLetter
 	tag: Rey
-	desc: It's a _Love Letter_
-	auth: Tom: Oh no
+	tag: ch-41
 page:1162
 	date: 2013-03-04
 	tag: ch-41
@@ -8555,6 +9632,7 @@ page:1089
 	tag: ch-39
 	tag: Coyote
 	tag: Etherium
+	tag: MemoryPearl
 	tag: Gillitie
 	tag: Ysengrin
 page:1088
@@ -11693,33 +12771,33 @@ page:AitF-23
 	desc: Out of sight is out of mind, right?
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=23
 page:AitF-22
-	tag: ch-31b
-	tag: p-22
+	desc: It's called makeup
 	tag: Annie
 	tag: Anwyn
 	tag: Blush
 	tag: Gillitie
 	tag: Kamlen
-	desc: It's called makeup
+	tag: ch-31b
+	tag: p-22
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=22
 page:AitF-21
-	tag: ch-31b
-	tag: p-21
+	desc: Why do ya wear them paints on your face?
 	tag: Annie
 	tag: Anwyn
 	tag: Gillitie
 	tag: Kamlen
-	desc: Why do ya wear them paints on your face?
+	tag: ch-31b
+	tag: p-21
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=21
 page:AitF-20
-	tag: ch-31b
-	tag: p-20
+	desc: (whispering, giggling Anwyn kids make-up mockery)
 	tag: Annie
 	tag: Anwyn
 	tag: Gillitie
 	tag: MakeUp
 	tag: Sareed
-	desc: (whispering, giggling Anwyn kids make-up mockery)
+	tag: ch-31b
+	tag: p-20
 	url: http://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201&p=20)
 page:AitF-19
 	tag: ch-31b
@@ -13082,7 +14160,6 @@ page:742
 	tag: Bonus
 	tag: ch-28
 	tag: ShadowMenSymbol
-	tag: Employees
 	tag: Juliette
 	tag: p-26
 	tag: PowerStation
@@ -13169,108 +14246,108 @@ page:735
 	desc: She's mine! She's my friend!
 	tag: Annie
 	tag: Buzz
-	tag: ch-28
 	tag: Eyes
 	tag: Gamma
 	tag: Jack
-	tag: p-19
 	tag: Rain
 	tag: Spider
 	tag: WhiteSpider
 	tag: Zimmingham
 	tag: Zimmy
+	tag: ch-28
+	tag: p-19
 page:734
 	date: 2010-06-18
 	desc: You're the last one we need!
 	tag: Annie
 	tag: Buzz
-	tag: ch-28
 	tag: Gamma
 	tag: Jack
-	tag: p-18
 	tag: Spider
 	tag: WhiteSpider
 	tag: Zimmingham
 	tag: Zimmy
+	tag: ch-28
+	tag: p-18
 page:733
 	date: 2010-06-16
 	desc: I don't want to go in there! It's the spider's nest!
 	tag: Annie
 	tag: Buzz
-	tag: ch-28
 	tag: Gamma
 	tag: Jack
-	tag: p-17
 	tag: Spider
 	tag: WhiteSpider
 	tag: Zimmingham
 	tag: Zimmy
+	tag: ch-28
+	tag: p-17
 page:732
 	date: 2010-06-14
 	desc: Oh no... We're all inside one of Zimmy's illusions!
 	tag: Annie
 	tag: Buzz
-	tag: ch-28
 	tag: Gamma
 	tag: Jack
-	tag: p-16
 	tag: Spider
 	tag: WhiteSpider
 	tag: Zimmingham
 	tag: Zimmy
+	tag: ch-28
+	tag: p-16
 page:731
 	date: 2010-06-11
 	desc: Why go back now?
 	tag: Annie
 	tag: Buzz
-	tag: ch-28
 	tag: Gamma
 	tag: Jack
-	tag: p-15
 	tag: Spider
 	tag: WhiteSpider
 	tag: Zimmingham
 	tag: Zimmy
+	tag: ch-28
+	tag: p-15
 page:730
 	date: 2010-06-09
 	desc: He's not a real person. Just a memory of someone.
 	tag: Annie
 	tag: Buzz
-	tag: ch-28
 	tag: Gamma
 	tag: Jack
-	tag: p-14
 	tag: Zimmingham
 	tag: Zimmy
+	tag: ch-28
+	tag: p-14
 page:729
 	date: 2010-06-07
 	desc: I do it because I love you Zimmy
 	tag: Annie
 	tag: Buzz
-	tag: ch-28
 	tag: Gamma
-	tag: p-13
 	tag: Zimmingham
 	tag: Zimmy
+	tag: ch-28
+	tag: p-13
 page:728
 	date: 2010-06-04
 	desc: No, Gamma, it's me, A-Annie
 	tag: Annie
-	tag: ch-28
 	tag: Gamma
 	tag: Jack
-	tag: p-12
 	tag: Zimmingham
 	tag: Zimmy
+	tag: ch-28
+	tag: p-12
 page:727
 	date: 2010-06-02
 	desc: Gamma! We have to find Zimmy!
 	tag: Annie
-	tag: ch-28
 	tag: Gamma
-	tag: p-11
 	tag: Zimmingham
 	tag: Zimmy
+	tag: ch-28
+	tag: p-11
 page:726
 	date: 2010-05-31
 	desc: I am not a robot.
@@ -13342,7 +14419,6 @@ page:721
 	tag: Arthur
 	tag: ch-28
 	tag: ShadowMenSymbol
-	tag: Employees
 	tag: Flying
 	tag: Jones
 	tag: Juliette
@@ -13356,51 +14432,48 @@ page:720
 	desc: Your assistance in locating Jack has been invaluable.
 	tag: Aata
 	tag: Annie
-	tag: ch-28
-	tag: ShadowMenSymbol
-	tag: Employees
 	tag: Jones
-	tag: p-04
 	tag: PowerStation
 	tag: Rey
 	tag: Robots
+	tag: ShadowMenSymbol
 	tag: Shell
+	tag: ch-28
+	tag: p-04
 page:719
 	date: 2010-05-14
 	desc: Please! can't you just call...
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Bind
-	tag: ch-28
-	tag: ShadowMenSymbol
-	tag: Employees
 	tag: EyeCrossed
 	tag: Jones
 	tag: MercurySymbol
-	tag: p-03
 	tag: PowerStation
 	tag: Rey
 	tag: Robots
+	tag: ShadowMenSymbol
 	tag: Shell
+	tag: ch-28
+	tag: p-03
 page:718
 	date: 2010-05-12
-	desc: Please! You have to help my friend!
+	desc: Annie: Please! You have to help my friend!
 	tag: Annie
 	tag: Bind
-	tag: ch-28
-	tag: ShadowMenSymbol
-	tag: Employees
-	tag: p-02
 	tag: Rey
 	tag: Robots
+	tag: ShadowMenSymbol
 	tag: Shell
+	tag: ch-28
+	tag: p-02
 page:717
 	date: 2010-05-10
 	desc: Chapter 28:<br><br>**Spring Heeled Part 2**<br><br>_Icon: The head and upper body of a stone figure_
-	tag: ch-28
 	tag: Cover
-	tag: p-01
 	tag: PowerStation
+	tag: ch-28
+	tag: p-01
 page:716
 	date: 2010-05-07
 	desc: Bonus Page: Meanwhile... (Who you kiddin', Kat?)
@@ -13678,51 +14751,52 @@ page:693
 	desc: I think he needs help
 page:692
 	date: 2010-03-12
-	tag: ch-27
-	tag: Annie
-	tag: Employees
-	tag: Jack
-	tag: Kat
-	tag: Letter
-	tag: Shell
-	tag: Students
 	desc: I'll... read it later.
-page:691
-	tag: Students
-	tag: Shell
-	tag: Letter
-	tag: Kat
-	tag: Jack
-	tag: Employees
-	tag: ch-27
+	tag: Aata
 	tag: Annie
-	desc: Here! He's here!
+	tag: Jack
+	tag: Kat
+	tag: Letter
+	tag: ShadowOrgSymbol
+	tag: Shell
+	tag: Students
+	tag: ch-27
+page:691
 	date: 2010-03-10
+	desc: Here! He's here!
+	tag: Annie
+	tag: Jack
+	tag: Kat
+	tag: Letter
+	tag: ShadowMenSymbol
+	tag: Shell
+	tag: Students
+	tag: ch-27
 page:690
 	date: 2010-03-08
-	tag: ch-27
+	desc: Ah, there you are
 	tag: Annie
 	tag: Jack
 	tag: Kat
 	tag: Students
-	desc: Ah, there you are
+	tag: ch-27
 page:689
 	date: 2010-03-05
 	desc: Chapter 27:<br><br>**Spring Heeled**<br><br>_Icon: Annie, Jack and Rey's silhouettes as they walk into the PowerStation_
-	tag: ch-27
 	tag: Cover
 	tag: WhiteSpider
+	tag: ch-27
 page:688
 	date: 2010-03-03
 	desc: Bonus Page: Fox Call
 	tag: Annie
 	tag: AntimonySymbol
 	tag: Bonus
-	tag: ch-26
 	tag: Rey
+	tag: ch-26
 page:687
 	date: 2010-03-01
-	tag: ch-26
+	desc: So when do you start teaching students how to use a sword?
 	tag: Annie
 	tag: Bridge
 	tag: Coyote
@@ -13730,43 +14804,43 @@ page:687
 	tag: Gillitie
 	tag: JollyElfsberry
 	tag: Sword
-	desc: So when do you start teaching students how to use a sword?
+	tag: ch-26
 page:686
 	date: 2010-02-26
-	tag: ch-26
+	desc: The keenest blade you will ever find!
 	tag: Annie
 	tag: Coyote
 	tag: CoyoteTooth
 	tag: Gillitie
-	desc: The keenest blade you will ever find!
+	tag: ch-26
 page:685
 	date: 2010-02-24
-	tag: ch-26
+	desc: You saw three Ysengrins tonight
 	tag: Annie
 	tag: Coyote
 	tag: CoyoteTooth
-	tag: Fish
 	tag: Etherics
+	tag: Fish
 	tag: Gillitie
 	tag: Ysengrin
-	desc: You saw three Ysengrins tonight
+	tag: ch-26
 page:684
 	date: 2010-02-22
-	tag: ch-26
+	desc: I will take her the rest of the way
 	tag: Annie
 	tag: Coyote
 	tag: Gillitie
 	tag: Ysengrin
-	desc: I will take her the rest of the way
+	tag: ch-26
 page:683
 	date: 2010-02-19
-	tag: ch-26
+	desc: Never apologise for what is not your fault
 	tag: Annie
 	tag: Coyote
 	tag: Fish
 	tag: Gillitie
 	tag: Ysengrin
-	desc: Never apologise for what is not your fault
+	tag: ch-26
 page:682
 	date: 2010-02-17
 	tag: ch-26
@@ -16613,246 +17687,266 @@ page:438
 	tag: Annie
 	tag: Bonus
 	tag: Boxbot
-	tag: ch-18
 	tag: Classroom
 	tag: Grounds
 	tag: Students
+	tag: ch-18
 page:437
 	date: 2008-08-04
 	desc: Sometimes I think Donny misses Jim more than I do.
 	tag: Anja
-	tag: ch-18
 	tag: Flashback
 	tag: KatsWorkshop
 	tag: Surma
+	tag: ch-18
+	tag: p-43
 page:436
 	date: 2008-08-01
 	desc: Just to get one of those robots to move. I wish I could see it!
 	tag: Anja
-	tag: ch-18
 	tag: Flashback
 	tag: KatsWorkshop
 	tag: Surma
 	tag: WorkshopKey
+	tag: ch-18
+	tag: p-42
 page:435
 	date: 2008-07-30
 	desc: Antimony! Wait for me!
 	tag: Annie
-	tag: ch-18
 	tag: Classroom
 	tag: Flashback
 	tag: Kat
 	tag: Winsbury
+	tag: ch-18
+	tag: p-41
 page:434
 	date: 2008-07-28
 	desc: Now we know Jeanne's name.
 	tag: Annie
 	tag: AntimonySymbol
-	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Sword
+	tag: ch-18
+	tag: p-40
 page:433
 	date: 2008-07-25
 	desc: The court robots have always maintained themselves
 	tag: Annie
 	tag: AntimonySymbol
-	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Sword
+	tag: ch-18
+	tag: p-39
 page:432
 	date: 2008-07-23
 	desc: I... that monster out there. I had such a hatred for it I could not... Ah... what a beautiful lady.
 	tag: Annan
 	tag: Annie
 	tag: AntimonySymbol
-	tag: ch-18
 	tag: DiegoBot
 	tag: Jeanne
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Shadow
 	tag: Sword
+	tag: ch-18
+	tag: p-38
 page:431
 	date: 2008-07-21
 	desc: For all his technical wonders, this Diego was unable to save her. So he fabricated this contrivance, this fantasy of his, and squirrelled it away beneath the ground
 	tag: Annie
 	tag: AntimonySymbol
-	tag: ch-18
 	tag: DiegoBot
 	tag: Jeanne
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Sword
 	tag: YoungBot
+	tag: ch-18
+	tag: p-37
 page:430
 	date: 2008-07-18
 	desc: A coward's shrine, made in tribute to a woman he loved from afar. / do you think a woman like that could ever feel anything other than pity for such a runt of a man?
 	tag: Annie
 	tag: AntimonySymbol
-	tag: ch-18
 	tag: Diego
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Shadow
 	tag: Sword
+	tag: ch-18
+	tag: p-36
 page:429
 	date: 2008-07-16
-	tag: ch-18
+	desc: It's her. Jeanne is the ghost by the Annan Waters.
 	tag: Annie
 	tag: DiegoBot
 	tag: Jeanne
 	tag: Kat
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Shadow
 	tag: Sword
-	desc: It's her. Jeanne is the ghost by the Annan Waters.
+	tag: ch-18
+	tag: p-35
 page:428
 	date: 2008-07-14
 	desc: He's going into that hole!
 	note: (S1 opens up a hole in the wall and the other guys clamber through it)
 	tag: Annie
-	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Shadow
 	tag: Sword
+	tag: ch-18
+	tag: p-34
 page:427
 	date: 2008-07-11
 	desc: Now they're all moving!
 	note: (S1 beheads the YoungBot and bows while the other robots clap)
 	tag: Annie
-	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Sword
 	tag: YoungBot
+	tag: ch-18
+	tag: p-33
 page:426
 	date: 2008-07-09
 	desc: This so called "fight" is scripted. A morbid play acted out by these machines.
 	tag: Annie
 	tag: AntimonySymbol
-	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Sword
 	tag: YoungBot
+	tag: ch-18
+	tag: p-32
 page:425
 	date: 2008-07-07
 	desc: (S1 continues to fence and damage the YoungBot; Kat is mystified)
-	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Sword
 	tag: YoungBot
+	tag: ch-18
+	tag: p-31
 page:424
 	date: 2008-07-04
 	desc: You will pay for what you did to her. But you will never be forgiven.
-	tag: ch-18
 	tag: DiegoBot
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Sword
 	tag: YoungBot
+	tag: ch-18
+	tag: p-30
 page:423
 	date: 2008-07-02
 	desc: What is that thing? (Rey pushes Annie and Kat out of the way while S1 fences the YoungBot)
 	tag: Annie
 	tag: AntimonySymbol
-	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Sword
 	tag: YoungBot
+	tag: ch-18
+	tag: p-29
 page:422
 	date: 2008-06-30
 	desc: (A large, beefy looking original robot emerges from the shadows)
-	tag: ch-18
 	tag: DiegoBot
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: YoungBot
+	tag: ch-18
+	tag: p-28
 page:421
 	date: 2008-06-27
 	desc: Who is Jeanne? / She died and we did nothing.
 	tag: Annie
-	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Shadow
 	tag: Sword
+	tag: ch-18
+	tag: p-27
 page:420
 	date: 2008-06-25
 	desc: Jeanne!
 	tag: Annie
-	tag: ch-18
 	tag: CPU
 	tag: DiegoBot
 	tag: Kat
 	tag: RobotS13
-	tag: Robots
 	tag: RobotTomb
+	tag: Robots
 	tag: S1
 	tag: Sword
+	tag: ch-18
+	tag: p-26
 page:419
 	date: 2008-06-25
-	desc: Actually all I did was put his limbs and head on to his body and switch him on. I don't have the first idea how to make a robot.
+	desc: Actually all I did was put his limbs and head on to his body and switch him on. I don't have the first idea how to make a robot
+	note: date as given on GC website, but may be 2008-06-23
 	tag: Annie
+	tag: p-25
 	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
@@ -16868,6 +17962,7 @@ page:418
 	tag: DiegoBot
 	tag: Kat
 	tag: Rey
+	tag: p-24
 	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
@@ -16880,6 +17975,7 @@ page:417
 	tag: ch-18
 	tag: DiegoBot
 	tag: Kat
+	tag: p-23
 	tag: RobotS13
 	tag: Robots
 	tag: RobotTomb
@@ -16892,6 +17988,7 @@ page:416
 	tag: AntimonySymbol
 	tag: Boxbot
 	tag: ch-18
+	tag: p-22
 	tag: DiegoBot
 	tag: Horsebot
 	tag: Kat
@@ -16903,6 +18000,7 @@ page:415
 	desc: Look at 'em all! Have you ever seen anything like it?!
 	tag: Annie
 	tag: ch-18
+	tag: p-21
 	tag: DiegoBot
 	tag: Kat
 	tag: Robots
@@ -16913,12 +18011,14 @@ page:414
 	desc: A new girl will be joining our class on Monday. I think you should get to know her. Maybe you can be friends. (Annie's student transfer letter is on the counter)
 	tag: Anja
 	tag: ch-18
+	tag: p-20
 	tag: CourtLogo
 	tag: DonlanHouse
 	tag: Flashback
 	tag: Kat
 page:413
 	date: 2008-06-09
+	tag: p-19
 	desc: Are you like her dad in disguise? / Ugh. Perish the thought, I was only curious. / You should stay as a wolf more often, dude.
 	tag: AntimonySymbol
 	tag: ch-18
@@ -16927,6 +18027,7 @@ page:413
 page:412
 	date: 2008-06-06
 	desc: How is she doing in her studies? Does she have many other friends? Has anyone been givingg her trouble? Has a boy caught her eye?
+	tag: p-18
 	tag: AntimonySymbol
 	tag: ch-18
 	tag: Kat
@@ -16936,6 +18037,7 @@ page:411
 	desc: Oh, we got to the bottom, finally.
 	tag: Annie
 	tag: BlinkerStone
+	tag: p-17
 	tag: ch-18
 	tag: Fire
 	tag: Kat
@@ -16946,6 +18048,7 @@ page:410
 	date: 2008-06-02
 	desc: Figure out how it burns somethings and not others. / It behaves that way because she wills it so. That's how a blinker stone works!
 	tag: Annie
+	tag: p-16
 	tag: BlinkerStone
 	tag: ch-18
 	tag: Fire
@@ -16959,6 +18062,7 @@ page:409
 	tag: Annie
 	tag: ch-18
 	tag: Kat
+	tag: p-15
 	tag: KatsWorkshop
 	tag: Lockpicks
 	tag: Rey
@@ -16971,6 +18075,7 @@ page:408
 	tag: ch-18
 	tag: Kat
 	tag: KatsWorkshop
+	tag: p-14
 	tag: Lockpicks
 	tag: Rey
 	tag: RobotS13
@@ -16981,6 +18086,7 @@ page:407
 	desc: Hahaa! Check this out this is awesome!
 	tag: Annie
 	tag: ch-18
+	tag: p-13
 	tag: Kat
 	tag: KatsWorkshop
 	tag: Rey
@@ -16994,6 +18100,7 @@ page:406
 	tag: ch-18
 	tag: Court
 	tag: Kat
+	tag: p-12
 	tag: KatsWorkshop
 	tag: Lockpicks
 	tag: Rey
@@ -17006,6 +18113,7 @@ page:405
 	tag: Annie
 	tag: AntimonySymbol
 	tag: ch-18
+	tag: p-11
 	tag: Kat
 	tag: Lockpicks
 	tag: Rey
@@ -17014,6 +18122,7 @@ page:405
 page:404
 	date: 2008-05-19
 	desc: Hey! Nice Teddy! Are you off to nursery?
+	tag: p-10
 	tag: Annie
 	tag: ch-18
 	tag: Kat
@@ -17024,6 +18133,7 @@ page:403
 	date: 2008-05-16
 	desc: Is this one of those situations where you pretend to be interested and then throw it back in my face? Like those other times?
 	tag: ch-18
+	tag: p-09
 	tag: Classroom
 	tag: Flashback
 	tag: Kat
@@ -17031,58 +18141,64 @@ page:403
 	tag: Winsbury
 page:402
 	date: 2008-05-14
-	desc: We have seen stranger. Remember that cursed teapot?
+	desc: Annie: We have seen stranger. Remember that cursed teapot?
 	tag: Annie
-	tag: ch-18
 	tag: Dorm
 	tag: Kat
 	tag: Stars
+	tag: ch-18
+	tag: p-08
 page:401
 	date: 2008-05-12
-	desc: I think there might be something going on between him and Miss Jones
+	desc: Annie: I think there might be something going on between him and Miss Jones
 	tag: Annie
-	tag: ch-18
 	tag: Dorm
 	tag: Kat
 	tag: Stars
+	tag: ch-18
+	tag: p-07
 page:400
 	date: 2008-05-09
-	desc: Of course, he was Uncle Jimmy before he was Mister Eglamore
+	desc: Kat: Of course, he was Uncle Jimmy before he was Mister Eglamore
 	tag: Anja
-	tag: ch-18
 	tag: DonlanHouse
 	tag: Donny
 	tag: Eglamore
 	tag: Flashback
 	tag: Kat
 	tag: Kiss
+	tag: ch-18
+	tag: p-06
 page:399
 	date: 2008-05-07
-	desc: Well, I think there is some life left in us yet. (Anja and Donny kiss)
+	desc: Donny: Well, I think there is some life left in us yet. (Anja and Donny kiss)
 	tag: Anja
 	tag: Annie
-	tag: ch-18
 	tag: DonlanHouse
 	tag: Donny
 	tag: EyeCrossed
 	tag: Kat
 	tag: Kiss
 	tag: WorkshopKey
+	tag: ch-18
+	tag: p-05
 page:398
 	date: 2008-05-05
-	desc: This key unlocks my old unit down by the west canals.
+	desc: Anya: This key unlocks my old unit down by the west canals.
 	tag: Anja
 	tag: Annie
-	tag: ch-18
 	tag: DonlanHouse
 	tag: Donny
 	tag: Kat
 	tag: WorkshopKey
+	tag: ch-18
+	tag: p-04
 page:397
 	date: 2008-05-02
-	desc: Waaait... what's going on here? Nothing! I uh... was wondering if you knew someplace I could use as a workshop. (Kat does a faaabulous entrance pose)
+	desc: (Kat does a faaabulous entrance pose) Kat: Waaait... what's going on here? / Donny & Anya: Nothing! / Kat: I uh... was wondering if you knew someplace I could use as a workshop. 
 	tag: Anja
 	tag: Annie
+	tag: p-03
 	tag: ch-18
 	tag: CrystalBall
 	tag: DonlanHouse
@@ -17093,19 +18209,21 @@ page:396
 	desc: Real slick, Donlan.
 	note: Kat's first lunchtime, year 1
 	tag: Becky
-	tag: ch-18
 	tag: Flashback
 	tag: Grounds
 	tag: Kat
 	tag: Students
+	tag: ch-18
+	tag: p-02
 page:395
 	date: 2008-04-28
 	desc: Chapter 18:<br><br>**S1**<br><br>_Icon: Kat's silhouette_
 	tag: Annie
 	tag: BlinkerStone
-	tag: ch-18
 	tag: Cover
 	tag: Fire
+	tag: ch-18
+	tag: p-01
 page:394
 	date: 2008-04-25
 	desc: Bonus Page: Swords (Tea explains different swords)
@@ -17116,32 +18234,36 @@ page:394
 	tag: Tea
 page:393
 	date: 2008-04-23
-	tag: ch-17
+	desc: Jones: It should only be a casual meeting anyway, and it will do you good to hear their side of the story.
 	tag: Annie
 	tag: Court
 	tag: Jones
+	tag: Lampshade
 	tag: Mort
-	desc: It should only be a casual meeting anyway, and it will do you good to hear their side of the story.
+	tag: ch-17
+	tag: p-36
 page:392
 	date: 2008-04-21
-	tag: ch-17
+	desc: Jones: When you want to go into the forest let me know.
 	tag: Annie
 	tag: Court
 	tag: Jones
-	desc: When you want to go into the forest let me know.
+	tag: ch-17
+	tag: p-35
 page:391
 	date: 2008-04-18
-	tag: ch-17
+	desc: Parley & Mort: FAREWELL!! hahaha!
 	tag: Annie
 	tag: Court
 	tag: Jones
 	tag: Mort
 	tag: Parley
 	tag: Smitty
-	desc: FAREWELL!! hahaha!
+	tag: ch-17
+	tag: p-34
 page:390
 	date: 2008-04-16
-	tag: ch-17
+	desc: Mort: Well, I scare people. It's all very important, I assure you.
 	tag: Annie
 	tag: Court
 	tag: Jones
@@ -17149,30 +18271,33 @@ page:390
 	tag: Parley
 	tag: Smitty
 	tag: Spider
-	desc: Well, I scare people. It's all very important, I assure you.
+	tag: ch-17
+	tag: p-33
 page:389
 	date: 2008-04-14
-	tag: ch-17
+	desc: Mort: GREETINGS HUMAN PERSON!
 	tag: Annie
 	tag: Court
 	tag: Jones
 	tag: Mort
 	tag: Parley
 	tag: Smitty
-	desc: GREETINGS HUMAN PERSON!
+	tag: ch-17
+	tag: p-32
 page:388
 	date: 2008-04-11
-	tag: ch-17
+	desc: Parley: Wow, a ghost! / **Spectral Being!** / **Do you mean us harm?!** / **We wish to communicate with you!**
 	tag: Annie
 	tag: Court
 	tag: Jones
 	tag: Mort
 	tag: Parley
 	tag: Smitty
-	desc: Wow, a ghost! Spectral Being! Do you mean us harm?! We wish to communicate with you!
+	tag: ch-17
+	tag: p-31
 page:387
 	date: 2008-04-09
-	tag: ch-17
+	desc: Jones: The truth is, both sides are as bad as each other.
 	tag: Annie
 	tag: Court
 	tag: Coyote
@@ -17181,29 +18306,32 @@ page:387
 	tag: Parley
 	tag: Smitty
 	tag: Ysengrin
-	desc: The truth is, both sides are as bad as each other.
+	tag: ch-17
+	tag: p-30
 page:386
 	date: 2008-04-07
-	tag: ch-17
+	desc: Annie: Well... the headmaster was acting very rudely. He didn't seem to care at all about the meeting.
 	tag: Annie
 	tag: Court
 	tag: Headmaster
 	tag: Jones
 	tag: Parley
 	tag: Smitty
-	desc: Well... the headmaster was acting very rudely. He didn't seem to care at all about the meeting.
+	tag: ch-17
+	tag: p-29
 page:385
 	date: 2008-04-04
-	tag: ch-17
+	desc: Smitty: As a prediction, Mr. Parley filled out a birth certificate for his first born child early. he got the weight, date, time and everything correct... everything except the gender.
 	tag: Annie
 	tag: Court
 	tag: Jones
 	tag: Parley
 	tag: Smitty
-	desc: As a prediction, Mr. Parley filled out a birth certificate for his first born child early. he got the weight, date, time and everything correct... everything except the gender.
+	tag: ch-17
+	tag: p-28
 page:384
 	date: 2008-04-02
-	tag: ch-17
+	desc: Jones: Parley senior is the only person to have "officially" completed the **Eugene Gould Psychic Challenge**.
 	tag: Annie
 	tag: Court
 	tag: EugeneGould
@@ -17211,30 +18339,33 @@ page:384
 	tag: Parley
 	tag: Smitty
 	tag: Sword
-	desc: Parley senior is the only person to have "officially" completed the Eugene Gould psychic challenge.
+	tag: ch-17
+	tag: p-27
 page:383
 	date: 2008-03-31
-	tag: ch-17
+	desc: (Smitty flings the cards over his shoulder) Parley: And look! They're all in order too! Haha! It's like his super power is to make everything boring! / Jones: It would be more diplomatic to say Andrew can subconciously create order where there was none.
 	tag: Annie
 	tag: Cards
 	tag: Court
 	tag: Jones
 	tag: Parley
 	tag: Smitty
-	desc: (Smitty flings the cards over his shoulder) And look! They're all in order too! Haha! It's like his super power is to make everything boring! / It would be more diplomatic to say Andrew can subconciously create order where there was none.
+	tag: ch-17
+	tag: p-26
 page:382
 	date: 2008-03-28
-	tag: ch-17
+	desc: Annie: And that makes any one of us better suited to mediation than other students?
 	tag: Annie
 	tag: Cards
 	tag: Court
 	tag: Jones
 	tag: Parley
 	tag: Smitty
-	desc: And that makes any one of us better suited to mediation than other students?
+	tag: ch-17
+	tag: p-25
 page:381
 	date: 2008-03-26
-	tag: ch-17
+	desc: Annie: Grabbing a sword by the blade isn't a valid move, is it?
 	tag: Annie
 	tag: CourtLogo
 	tag: Eglamore
@@ -17242,29 +18373,32 @@ page:381
 	tag: Jones
 	tag: Parley
 	tag: Smitty
-	desc: Grabbing a sword by the blade isn't a valid move, is it?
+	tag: ch-17
+	tag: p-24
 page:380
 	date: 2008-03-24
-	tag: ch-17
+	desc: Jones: "The **Carver** girl"? / Is that how you think of her? / You need to watch your step, James.
 	tag: CourtLogo
 	tag: Eglamore
 	tag: FencingHall
 	tag: Jones
 	tag: Sparring
 	tag: Sword
-	desc: "The Carver girl"? Is that how you think of her? You need to watch your step, James.
+	tag: ch-17
+	tag: p-23
 page:379
 	date: 2008-03-21
-	tag: ch-17
+	desc: (Jones swiftly disarms Eglamore and grabs the sword)
 	tag: Eglamore
 	tag: FencingHall
 	tag: Jones
 	tag: Sparring
 	tag: Sword
-	desc: (Jones swiftly disarms Eglamore and grabs the sword)
+	tag: ch-17
+	tag: p-22
 page:378
 	date: 2008-03-19
-	tag: ch-17
+	desc: (Eglamore and Jones start sparring; his sword glances off Jones's cheek)
 	tag: Annie
 	tag: Eglamore
 	tag: FencingHall
@@ -17273,10 +18407,11 @@ page:378
 	tag: Smitty
 	tag: Sparring
 	tag: Sword
-	desc: (Eglamore and Jones start sparring; the sword glances off Jones's cheek)
+	tag: ch-17
+ 	tag: p-21
 page:377
 	date: 2008-03-17
-	tag: ch-17
+	desc: Parley: Eglamore and Jones are having a quickie!
 	tag: Annie
 	tag: CourtLogo
 	tag: Eglamore
@@ -17286,10 +18421,11 @@ page:377
 	tag: Smitty
 	tag: Sparring
 	tag: Sword
-	desc: Eglamore and Jones are having a quickie!
+	tag: ch-17
+	tag: p-20
 page:376
 	date: 2008-03-14
-	tag: ch-17
+	desc: Annie: Doesn't Jones need a sword too? / Parley: Nah, she never uses them.
 	tag: Annie
 	tag: CourtLogo
 	tag: Eglamore
@@ -17297,10 +18433,11 @@ page:376
 	tag: Jones
 	tag: Parley
 	tag: Sword
-	desc: Doesn't Jones need a sword too? / Nah, she never uses them.
+	tag: ch-17
+	tag: p-19
 page:375
 	date: 2008-03-12
-	tag: ch-17
+	desc: Eglamore: Haha! No, because indoors, and at close range, Jones would flatten me.
 	tag: Annie
 	tag: CourtLogo
 	tag: Eglamore
@@ -17308,33 +18445,36 @@ page:375
 	tag: Jones
 	tag: Parley
 	tag: Sword
-	desc: Haha! No, because indoors, and at close range, Jones would flatten me.
+	tag: ch-17
+	tag: p-18
 page:374
 	date: 2008-03-10
-	tag: ch-17
+	desc: Jones: Growing it out again, James?
 	tag: Annie
 	tag: CourtLogo
 	tag: Eglamore
 	tag: FencingHall
 	tag: Jones
 	tag: Parley
-	desc: Growing it out again, James?
+	tag: ch-17
+	tag: p-14
 page:373
 	date: 2008-03-07
-	tag: ch-17
+	desc: Annie: Almost as if you ally yourself with neither side. / Jones: A keen observation, Antimony. However, irrelevant.
 	tag: Annie
 	tag: BismuthSymbol
 	tag: Eglamore
 	tag: FencingHall
 	tag: Jones
 	tag: Parley
+	tag: SchoolBell
 	tag: Sword
-	desc: Almost as if you ally yourself with neither side. / A keen observation, Antimony. However, irrelevant.
+	tag: ch-17
+	tag: p-13
 page:372
 	date: 2008-03-05
-	tag: ch-17
+	desc: Annie: But if the court has been without a medium since my mother left, why are there now suddenly three candidates?
 	tag: Annie
-	tag: Court
 	tag: Founding
 	tag: Gillitie
 	tag: Jones
@@ -17345,21 +18485,23 @@ page:372
 	tag: SunSymbol
 	tag: Sword
 	tag: Trees
-	desc: But if the court has been without a medium since my mother left, why are there now suddenly three candidates?
+	tag: ch-17
+	tag: p-12
 page:371
 	date: 2008-03-03
-	tag: ch-17
+	desc: Jones: The court first took root in what was once the heart of Gillitie Wood
+	auth: Tom: Etherial Tenet can be summarised as "It just does, okay?"
 	tag: Annie
-	tag: Court
 	tag: Founding
 	tag: Gillitie
 	tag: Jones
 	tag: SeedBismuth
 	tag: Sword
-	desc: The court first took root in what was once the heart of Gillitie Wood
+	tag: ch-17
+	tag: p-11
 page:370
 	date: 2008-02-29
-	tag: ch-17
+	desc: Jones: It serves as a reminder that the court was founded on a union between technological and etheric design
 	tag: Annie
 	tag: BismuthSymbol
 	tag: FencingHall
@@ -17367,10 +18509,11 @@ page:370
 	tag: Parley
 	tag: Sparring
 	tag: Sword
-	desc: It serves as a reminder that the court was founded on a union between technological and etheric design
+	tag: ch-17
+	tag: p-10
 page:369
 	date: 2008-02-27
-	tag: ch-17
+	desc: Jones: You can soon take stock of a person when you give them a blade.
 	tag: Annie
 	tag: Eglamore
 	tag: FencingHall
@@ -17379,10 +18522,11 @@ page:369
 	tag: Sparring
 	tag: Students
 	tag: Sword
-	desc: You can soon take stock of a person when you give them a blade.
+	tag: ch-17
+	tag: p-09
 page:368
 	date: 2008-02-25
-	tag: ch-17
+	desc: (Annie and Jones go into the fencing hall where Eglamore and Parley are sparring)
 	tag: Annie
 	tag: BismuthSymbol
 	tag: CourtLogo
@@ -17391,53 +18535,62 @@ page:368
 	tag: Jones
 	tag: Parley
 	tag: Sword
-	desc: (Annie and Jones go into the fencing hall where Eglamore and Parley are sparring)
+	tag: ch-17
+	tag: p-08
 page:367
 	date: 2008-02-22
-	tag: ch-17
+	desc: Annie: I had no idea she worked here. She never mentioned it.<br>Jones: Oh? that was your father's influence, I suspect.
 	tag: Annie
-	tag: Court
 	tag: Jones
-	desc: I had no idea she worked here. She never mentioned it. / Oh? that was your father's influence, I suspect.
+	tag: ch-17
+	tag: p-07
 page:366
 	date: 2008-02-20
-	tag: ch-17
+	desc: Annie: He asked me to visit him in the forest.
 	tag: Annie
 	tag: Court
 	tag: Jones
-	desc: He asked me to visit him in the forest.
+	tag: ch-17
+	tag: p-06
 page:365
 	date: 2008-02-18
-	tag: ch-17
+	desc: Annie: Yes... lessons in mediation sound interesting.
 	tag: Annie
-	tag: Court
 	tag: Jones
-	desc: Yes... lessons in mediation sound interesting.
+	tag: ch-17
+	tag: p-05
 page:364
 	date: 2008-02-15
-	tag: ch-17
+	desc: Annie: That was Miss Jones, from the meeting with Coyote
 	tag: Annie
 	tag: Jones
 	tag: Kat
 	tag: ScienceLab
-	desc: That was Miss Jones, from the meeting with Coyote
+	tag: ch-17
+	tag: p-04
 page:363
 	date: 2008-02-13
-	tag: ch-17
+	desc: (Annie copies Kat's homework)
+	auth: Tom: Oh look, it's that character who *absolutely is not the girl in the photo and neither is said girl Gamma's mom.*
 	tag: Annie
+	tag: DrDisaster
+	tag: Homework
 	tag: Jones
 	tag: Kat
-	tag: Homework
 	tag: ScienceLab
-	desc: Annie copies Kat's homework
+	tag: ch-17
+	tag: p-03
 page:362
 	date: 2008-02-11
-	tag: ch-17
+	desc: Kat: Come on Annie! You don't want to miss the practical!
+	note: Tom: [In case you were wondering](http://en.wikipedia.org/wiki/Double-slit_experiment)
 	tag: Annie
+	tag: DoubleSlitExperiment
 	tag: Kat
 	tag: Lasers
 	tag: ScienceLab
-	desc: Come on Annie! You don't want to miss the practical!
+	tag: ch-17
+	tag: p-02
 page:361
 	date: 2008-02-08
 	desc: Chapter 17:<br><br>**The Medium Beginning**<br><br>_Icon: the Simulation of the founding of the court and the Seed Bismuth_
@@ -17445,6 +18598,7 @@ page:361
 	tag: Cover
 	tag: Knight
 	tag: Sword
+	tag: p-01
 page:360
 	date: 2008-02-06
 	desc: Bonus Page: Dogs of the British Isles
@@ -18303,12 +19457,13 @@ page:282
 	date: 2007-08-17
 	desc: Coyote: You never could resist a pretty girl, could you?!
 	tag: Annie
-	tag: ch-14
 	tag: CourtHall
 	tag: Coyote
-	tag: p-25
+	tag: Seeds
 	tag: Spankies
 	tag: Ysengrin
+	tag: ch-14
+	tag: p-25
 page:281
 	date: 2007-08-15
 	desc: Coyote: Won't you come back to the forest with us, dearest cousin?

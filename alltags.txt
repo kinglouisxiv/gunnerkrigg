@@ -121,7 +121,7 @@ Divide 	The division between the Court and the [Forest](#gillitie) caused by [Co
 Dolls 	[Kat](#kat) probably only has action figures she thinks are hot: _i.e._ David Duchovny (Mulder), Batman and Hellboy
 DonlanHouse	Home of the Donlan family: [Anja](#anja), [Donny](#donny), [Kat](#kat)
 DonlanSymbol	A symbol found in the Donlan house and in [Anja](#anja) &amp; [Donny's](#donny) program; resembles the alchemical symbols for silver and ether
-Donny 	Donald Donlan, [Kat's](#kat) father [_{W}_](http://gunnerkrigg.wikia.com/wiki/Donald_Donlan)
+Donny 	Donald Donlan, [Kat's](#kat) father, [Anja's](#anja) partner [_{W}_](http://gunnerkrigg.wikia.com/wiki/Donald_Donlan)
 DoorBot 	A cranky old man [robot](#robots) who guards the door to the [RobotHQ](#robothq) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Doorbot)
 Dorm 	Living quarters at school
 Dracula 	the stereotypical [vampire](#vampire) count 
@@ -196,7 +196,7 @@ HairdresserBot	a [robot](#robots) that cuts hair; lots of arms [_{W}_](http://gu
 Hall 	Function hall [113](#113), a hall in the school
 HaloCog	indicative of Kat's status amongst the robots
 Hammer 	A tool for driving nails into things or beating things into shape
-Hand	[Tony](#tony) has an artificial/prosthetic hand in later life
+Hand	[Tony](#tony) has a prosthetic hand in later life
 HardwickLittleBestiary	Reference on mystical creatures [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hardwick_and_Little's_Bestiary)
 HarryPotter	Deserves to be taped to a flag pole for being a ponce
 Headmaster	Jonathan Llanwellyn, [Janet's](#janet) father; surprisingly grey, apathetic man, with bad posture [_{W}_](http://gunnerkrigg.wikia.com/wiki/Headmaster)
@@ -217,8 +217,8 @@ JackalopeBoy	vat-grown, slightly rabbity-looking boy, personality transferred fr
 JackOLantern	A carved, decorative pumpkin used for Hallowe'en/Halloween as a lantern
 Jan	January, curt friend of [Parley](#parley) [_{W}_](http://gunnerkrigg.wikia.com/wiki/January)
 Janet	Janet Llanwellyn; fierce daughter of the [Headmaster](#headmaster); dating [William Winsbury](#winsbury) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Janet_Llanwellyn)
-Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a fencer belonging to the court. _"She died and we did nothing"_ [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jeanne)
-JeannesLover	Jeanne's [Anwyn](#anwyn) [forest](#gillitie) lover, name as yet unknown [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn#Jeanne.27s_lover)
+Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a fencer at the early court. _"She died and we did nothing"_ [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jeanne)
+JeannesLover	Jeanne's [Anwyn](#anwyn) [forest](#gillitie) lover, name unknown. Struck by the [Green Arrow](#greenarrow) crossing the Annan [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn#Jeanne.27s_lover)
 Jem	a credulous young [Anwyn](#anwyn)
 Jenny	goth cruise-companion of [Jack's](#jack), apprentice witch
 JoeyBot	A reference to Joey Tribbiani in _Friends_ 
@@ -233,7 +233,7 @@ JupiterMoonMartians	Friendly aliens in one of [Dr Disaster's](#drdisaster) [simu
 Kamlen	[Anwyn](#anwyn) boy about [Annie's](#annie) and [Kat's](#kat) age [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn#Kamlen)
 Kat	Katerina Donlan, the scientifically inclined best friend of [Annie](#annie), also close to [Paz](#paz); [Anja](#anja) & [Donny](#donny) Donlan's daughter, sometimes called Katja by her mother [_{W}_](http://gunnerkrigg.wikia.com/wiki/Katerina_Donlan)
 KatsHomework	A thing that [Annie](#annie) copies
-KatsWorkshop	Where [Kat](#kat) indulges her hobbies; by the West Canals; has a hidden room in the bottom [_{W}_](http://gunnerkrigg.wikia.com/wiki/Kat's_Storage_Room)
+KatsWorkshop	Where [Kat](#kat) indulges her hobbies, formerly her [mother's](#anya); by the West Canals; has a [basement](#robottomb) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Kat's_Storage_Room)
 KershawHouse	Where [Aly](#aly) and his parents Mr and Mrs [Kershaw](#kershaws) used to live.
 Kershaws	[Aly's](#aly) parents. [birds](#birds).
 Ketrak	[Psychopomp](#psychopomps) to the insects! [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ketrak)
@@ -339,7 +339,6 @@ Rolodex	the scryer, for incantations pertaining to names
 Roof	The top of the court
 ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them. (see also the [Vasty Hall of Death](#vastyhall))
 S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robots13) [_{W}_](http://gunnerkrigg.wikia.com/wiki/S1)
-;S13	[Robot](#robots13) was Seraph 13
 SailorBot	A class of robot encountered on the [cruise liner](#cruiseliner). Unusually, these are networked "fingers" of the Liner Bot itself
 Salon	Court hair salon, staffed by the [HairdresserBot](#hairdresserbot)
 Sareed	Anwyn tree-weaver
@@ -481,10 +480,10 @@ ch-47	See Ya!
 ch-46	The Realm of the Dead
 ch-45	Thread
 ch-44	Crash Course
-ch-43	Quicksilver
-ch-42	Catalyst
+ch-43	Quicksilver [{Y}](https://youtu.be/mqjemuTekXo)
+ch-42	Catalyst [{Y}](https://youtu.be/dJbLGjymKfA)
 ch-41a	Intermission: City Face guest comics
-ch-41	Changes
+ch-41	Changes [{Y}](https://youtu.be/8AQF3TXyU6M)
 ch-40	The Stone [{Y}](https://youtu.be/87py46Dvwzo)
 ch-39	The Great Secret [{Y}](https://youtu.be/1AI2y9Q11Ao)
 ch-38	Divine [{Y}](https://youtu.be/WbDMLkci9hY)
