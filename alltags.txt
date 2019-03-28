@@ -12,7 +12,6 @@ Achewater	An [Anwyn](#anwyn) intoxicant, perhaps named for how you feel afterwar
 Adam	A boy with rashes; owner and victim of [Hetty](#hetty)
 AdminBot	A secretarial [robot](#robots) who sits at the Admin desk at [RobotHQ](#robothq) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Administrator_Robot)
 Agni	Hindu [fire](#fire) god; [psychopomp](#psychopomps) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Agni)
-Ayilu	[Red's Friend](#redsfriend), named by [Red](#red) on [p.1796](http://www.gunnerkrigg.com/?p=1796).
 AlchemyChart	An alchemical chart
 Aly	Alistair [Kershaw](#kershaws); became a bird and went to the [Forest](#gillitie) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Alistair_Kershaw)
 AlyShirt	A shirt belonging to [Aly](#aly), which [Kat](#kat) now owns
@@ -23,6 +22,7 @@ Anja	Anja Donlan, [Kat's](#kat) mother; Roma origin but lived mostly in Spain [_
 Ankou	Breton grim reaper; [psychopomp](#psychopomps)[_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ankou)
 Annan	Annan Waters, a wide river in a deep gorge which separates [Gunnerkrigg Court](#court) from [Gillitie Wood](#gillitie), the 'forest' [_{W}_](http://gunnerkrigg.wikia.com/wiki/Annan_Waters)
 Annie 	Antimony Carver, our protagonist ("Fire Head Girl") [_{W}_](http://gunnerkrigg.wikia.com/wiki/Antimony_Carver)
+Annie2	a duplicate [Annie](#annie), created by Loup, but which is Annie and which the copy?
 AnnieCut	The cut on [Annie's](#annie) face from [Jeanne's](#jeanne) [sword](#sword), only visible in the Ether
 AnnieJumper	[Annie's](#annie) original school jumper
 AntiGrav	An anti-gravity generator that [Kat](#kat) makes for a science fair, and converts to a "ship" (flier) later
@@ -34,9 +34,11 @@ Argument	Somewhere between a disagreement and a fight
 Armour 	protective plates and other such wearable items
 Armoury 	Place where lots of weapons are stored
 Arsenic 	A highly poisonous metalloid [_{W}_](http://gunnerkrigg.wikia.com/wiki/Arsenic_(alchemy))
+Arthur	Robot with [Shadow Men symbol](#shadowmensymbol), audio-visual surveillance mast in its head, and parkour skill similar to [RobotS13](#robots13). Named in page 1843. Close to [Juliette](#juliette)
 Artilleryman	present at the [founding](#founding), friend of [Steadman](#steadman) the archer
 Axe 	Often used to chop wood
-Arthur	Robot with [Shadow Men symbol](#shadowmensymbol), audio-visual surveillance mast in its head, and parkour skill similar to [RobotS13](#robots13). Named in page 1843. Close to [Juliette](#juliette)
+Ayilu	[Red's Friend](#redsfriend), named by [Red](#red) on [p.1796](http://www.gunnerkrigg.com/?p=1796).
+BLOOM	a watery explosion noise
 BadgerFae	'him too' – white hair, two black stripes, former badger
 BakingDistraction	Otherwise known as [Plan Theta](#plantheta); Cunningly devised to distract others while sneaking around
 Basil 	Minotaur [_{W}_](http://gunnerkrigg.wikia.com/wiki/Basil)
@@ -47,16 +49,15 @@ Betty 	had a crush on her brother [Nigel's](#nigel) friend [Morty](#mort), WWII
 Bind 	[Etheric](#etherics) binding, hold or constraint hoodoo
 BioChassis	a later stage of [Kat's](#kat) vat-grown robot parts project using blue/purple synthetic flesh
 BioLimb 	[Kat's](#kat) grown robot parts project, blue/purple synthetic flesh
+BioTank 	transparent tube tank for [Kat's](#kat) grown robot parts project
 Bip 	[Parley's](#parley) teleportation. May be accompanied by BARGE
 Birds 	Birds have wings and feathers, [Kat](#kat) and [Paz](#paz) are both fond of them
 Birmingham	See [Zimmingham](#zimmingham)
 BismuthSymbol	The alchemical symbol for bismuth; associated with the Court and its founding via the [Seed Bismuth](#seedbismuth) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bismuth_(alchemy))
-Blackboard	Classroom surface for writing on with chalk sticks, _a.k.a._ chalkboard if not black
 BlackPen	A black marker pen used to draw faces. Used by the [Robot King](#robotking)
+Blackboard	Classroom surface for writing on with chalk sticks, _a.k.a._ chalkboard if not black
 BlinkerStone	[Etheric](#etherics) lens device [_{W}_](http://gunnerkrigg.wikia.com/wiki/Blinker_stone)
 Blood 	Circulatory fluid, supposed to be internal
-BLOOM	a watery explosion noise
-BlueHair	a former fairy, now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 BlueSmoke	A failure mode of [BioLimb](#biolimb) flesh
 Blush 	Happy/embarrassed/emotional
 BlushFae	'her too' – dark pink hair, two rosy cheeks (likes to "wang tomatoes?") [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
@@ -64,7 +65,7 @@ Boat 	A vehicle for crossing [water](#water)
 Bob 	Bob Sutton, a gardener/maintainer of artificial habitats and keeper of [Young's Park](#youngspark) with his wife, [Marcia](#marcia) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bob)
 Bobby 	A [robot](#robots) who works with [Paz](#paz) at the [Animal Lab](#animallab) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bobby)
 Bobeyes 	A Magpie who competes with [CityFace](#cityface) for a bagel! [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bobeyes)
-Bones 	Calcified weight bearing structures in the body of vertebrates forming an endo-skeleton; represent death; includes skulls
+Bone	Calcified weight bearing structures in the body of vertebrates forming an endo-skeleton; represent death; includes skulls
 Bonus 	Extra pages at the end of the chapter [_{W}_](http://gunnerkrigg.wikia.com/wiki/Bonus_pages)
 Boots 	Made for walking
 Boxbot 	[A robot](#robots). [Terrible](#terrible). Not as good as [Robox](#robox) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Boxbot)
@@ -78,43 +79,43 @@ Buzz 	The buzzing in [Zimmy's](#zimmy) head when the stimuli get too much
 Buzzer 	Bug shaped device for fooling the court's student tracking system
 Caduceus	"Herald's staff" borne by Hermes/[Mercury](#mercury), symbol of commerce
 Camcorder	ancient 20th century technology records moving images on magnetic tape
+CanSheEvenSee	former fairy, now a female pupil in Gunnerkrigg Court, in same class as [JackalopeBoy](#jackalopeboy)
 CantRemember	The court functionary who names [Bugsy](#bugsy) from his DVD collection. She can't remember his name or face
 Canvey 	a [Canvey Island Monster](https://en.wikipedia.org/wiki/Canvey_Island_Monster)
-Cards 	A pack of playing cards
 Castle 	Where royalty live. Even space alien royalty
-ChandlerBot	A reference to Chandler in _Friends_ 
 Chemicals	May be used to perform terrifying skills of Chemistry or Alchemy
 CherryTree	Comes as advertised; lives in a [Habitat](#habitat)
 Chester 	One of the school Houses [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chester_House)
 Chickcharney	See [Hardwick &amp; Little's Bestiary](#hardwicklittlebestiary), p65 [_{W}_](http://gunnerkrigg.wikia.com/wiki/Chickcharney)
 Circus 	Creepy and filled with clowns
 CityFace	A pigeon [_{W}_](http://gunnerkrigg.wikia.com/wiki/City_Face)
+ClanglerBot	A reference to Chandler in _Friends_
 Classroom	Where they have classes
-Clowns 	Creepy, no-one likes them
+Clowns	Creepy, no-one likes them
 Computer	You're using one right now. The court keeps student records, and many other things on computers
-Cookie 	Cookie Monster aka Lily Cooke is an enthusiastic friend of [Parley](#parley) along with [January](#jan) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Lily_Cooke)
-Court 	Gunnerkrigg Court, a mysterious institution that includes a boarding school [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
+Cookie	Cookie Monster aka Lily Cooke is an enthusiastic friend of [Parley](#parley) along with [January](#jan) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Lily_Cooke)
+Court	Gunnerkrigg Court, a mysterious institution that includes a boarding school [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
 CourtHall	A large important hall for meetings
 CourtLogo	Gunnerkrigg Court logo (for the school); appears on detention slips and official school letters
 CourtSymbol	The symbol [Annie's](#annie) [Blinker Stone](#blinkerstone) makes; has a [Bismuth Symbol](#bismuthsymbol) within it
 Courtyard	A courtyard near the [library](#library)
-Cover 	A chapter cover [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chapter_Covers)
+Cover	A chapter cover [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Chapter_Covers)
 Coyote 	Trickster god; the creator of all; he does not exist, he says [_{W}_](http://gunnerkrigg.wikia.com/wiki/Coyote)
+CoyoteBranches	[Coyote] "created a series of interconnected systems that hold the fabric of the forest together. A series of branches..." –[Loup](#loup)
 CoyoteStories	Stories told about or by [Coyote](#coyote)
 CoyoteTooth	It's a tooth, or is it? [_{W}_](http://gunnerkrigg.wikia.com/wiki/Coyote's_Tooth)
 CreatorGlyph	Mark of the [robots'](#robots) creator: now associated with [Kat](#kat)
 Creeper 	Someone who is creeping
 CruiseLiner	a large, ocean-going, hotel ship
-Crying	When salty water with enzymes comes out of one's lacrimal ducts; also, a sign of sadness
 CrystalBall	A crystal ball is traditionally used for scrying, future-telling or other Gypsy/Roma past-times
 CurlyFae	'this girl too' -- short curly blue hair, red dot below right eye [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
 CwnAnnwn	the Cŵn Annwn, spectral hounds of Annwn (the underworld), black dogs/[psychopomps](#psychopomps) of Wales; red ears
 DanielRSchiff	[Rey's](#rey) victim [_{W}_](http://gunnerkrigg.wikia.com/wiki/Daniel_R_Schiff)
 DeathsHead	admissions clerk to the [Realm of the Dead](#rotd), a 2 dimensional skull
 Desert 	No rain in here. Where [Coyotes](#coyote) live, sometimes
-DeigoDesigns	Designs and blueprints for [robot](#robots) and others of [Diego's](#diego) works
 Diego 	Creepy robotics expert / magician of the Court's early days; maker of the original [robots](#robots) and referred to as "The Creator" by them. Implicated in the [Jeanne](#jeanne) affair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Diego)
 DiegoBot	One of the original [robots](#robots) created by Diego many years ago [_{W}_](http://gunnerkrigg.wikia.com/wiki/Old_Robot)
+DiegoDesigns	Designs and blueprints for [robot](#robots) and others of [Diego's](#diego) works
 DiegoStudy	Home of all things ancient [robot](#robots)
 Dirty 	What you become when you don't wash for a while
 Divide 	The division between the Court and the [Forest](#gillitie) caused by [Coyote](#coyote)
@@ -124,8 +125,8 @@ DonlanSymbol	A symbol found in the Donlan house and in [Anja](#anja) &amp; [Donn
 Donny 	Donald Donlan, [Kat's](#kat) father, [Anja's](#anja) partner [_{W}_](http://gunnerkrigg.wikia.com/wiki/Donald_Donlan)
 DoorBot 	A cranky old man [robot](#robots) who guards the door to the [RobotHQ](#robothq) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Doorbot)
 Dorm 	Living quarters at school
-Dracula 	the stereotypical [vampire](#vampire) count 
 DrDisaster	Dr Randy Disaster sends the students on hologram simulation adventures and woos [Jones](#jones)! [_{W}_](http://gunnerkrigg.wikia.com/wiki/Randy_Disaster)
+Dracula 	the stereotypical [vampire](#vampire) count 
 Drone 	a small, remotely guided flying machine
 Dryad 	Folk who can control and travel through the trees themselves, [Marcia](#marcia) is one
 Earth 	Ancient element; the planet on which we live; the great mother and life-giver
@@ -136,19 +137,19 @@ EglamoreOffice	Where [Eglamore](#eglamore) hangs out; contains [swords](#sword),
 Employees	Miscellaneous Court employees; includes security staff, gardeners, scientists, [power station](#powerstation) operators and even mysterious dudes who take [Gamma](#gamma) and [Zimmy](#zimmy) from [Birmingham](#birmingham) to the Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Court_Employees)
 EnigmaronLair	Where the [Enigmarons](#enigmarons) from a [Dr. Disaster](#drdisaster) [simulation](#simulation) hang out
 Enigmarons	Bad guy aliens in a [Dr Disaster](#drdisaster) [simulation](#simulation)
-Etherics	Manipulation of the Ether -- "magic" [_{W}_](http://gunnerkrigg.wikia.com/wiki/Etheric_Sciences)
-EthericShield	An [Etheric](#etherics)/magical shield
-Etherium	The world/realm of the Ether [_{W}_](http://gunnerkrigg.wikia.com/wiki/Etheric_Sciences)
 EtherSymbol	A symbol for phlogiston or ether
+EthericShield	An [Etheric](#etherics)/magical shield
+Etherics	Manipulation of the Ether -- "magic" [_{W}_](http://gunnerkrigg.wikia.com/wiki/Etheric_Sciences)
+Etherium	The world/realm of the Ether [_{W}_](http://gunnerkrigg.wikia.com/wiki/Etheric_Sciences)
 EugeneGould	Explorer after whom a psychic challenge is named; once won by [Parley's](#parley) father)
 EyeCrossed	A crossed out eye that is a complex warding sign, made by [Anja](#anja) and [Donny](#donny) to bind [Rey](#rey)
 EyeGunk 	[Etheric](#etherics) eye-gunk possessed by [Zimmy](#zimmy) and others affected by [Zimmingham](#zimmingham)
-Eyes 	When seeing is important
 EyeSymbol	An eye symbol associated with [Coyote](#coyote) and [Gillitie](#gillitie) Forest
+Eyes 	When seeing is important
 FacelessPeople	People without faces who [Zimmy](#zimmy) sometimes sees
 Fairies 	[Gillitie](#gillitie) Wood is full of them [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
-FencingHall	Where [sword](#sword)-fighting, fencing, sparring are taught
 Fencer	a fuzzily defined etheric illusion by [Red's Friend](#redsfriend) to distract [Jeanne](#jeanne).
+FencingHall	Where [sword](#sword)-fighting, fencing, sparring are taught
 Fight 	When two people have a disagreement, violently
 Filler 	Not a mainstream story comic
 FinalRecords	A part of the [Realm of the Dead](#rotd)
@@ -176,16 +177,18 @@ Glass 	A transparent silicon oxide substance used to make windows and the water 
 GlassFiber	Strands of glass used in insulation. Exposure causes itchiness and respiratory problems.
 God 	What is god?
 Gol-shogeg	Big worm slug monster. An etheric illusion by [Red's Friend](#redsfriend)
-GoldenHair	a former fairy, manipulates the Ether to "make you believe things that ain't even real"; now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 GoldSymbol	Alchemical symbol for gold, or sometimes for the Sun (see also [SunSymbol](#sunsymbol))
+GoldenHair	a former fairy, manipulates the Ether to "make you believe things that ain't even real"; now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 GolemHeart	The core that makes the [robot](#robots) "work", if you will. Perhaps [etheric](#etherics)?
 GoodHope	Good Hope Hospital is where [Surma](#surma) was before she died [_{W}_](http://gunnerkrigg.wikia.com/wiki/Good_Hope_Hospital)
+GooseBone	bone from a goose, a souvenir from Coyote
 GraveYard	a field of the dead
 GreatSecret	[Coyote's](#coyote) Great Secret.
 GreenArrow	Green arrow with horseshoe tip. Created by [Diego](#diego), shot by [Steadman](#steadman), hit [Jeanne's Lover](#jeanneslover) swimming the [Annan](#annan) to her
 GreenFae	'this other one' -- long straight green hair [_{W}_](http://gunnerkrigg.wikia.com/wiki/Category:Fairies)
-Grounds 	The grounds/gardens of Gunnerkrigg Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
+GrowthTank	what the [Court](#gunnerkrigg) uses to grow human bodies for former [forest](#gillitie) residents
 GroundSymbol	The electronic symbol for ground
+Grounds 	The grounds/gardens of Gunnerkrigg Court [_{W}_](http://gunnerkrigg.wikia.com/wiki/Gunnerkrigg_Court)
 GuestComic	Guest comic strips from end of Year 7/Book one
 GurtDog 	A black dog/[psychopomp](#psychopomps) of Somerset; protects children and travellers
 Gym 	School gymnasium
@@ -205,6 +208,7 @@ HedgehogFae	'and him' -- dreads, former hedgehog
 Hetty	a small animate devil doll inhabited by a shrimp-like spirit, victimising [Adam](#adam) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hetty)
 HettySymbol	sometimes visible on [Hetty's](#hetty) forehead [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hetty#Symbol)
 Hexagram	Means the art of alchemy, the quintessence or "fire-water"/alcohol; the Jewish Kingdom (Star of David)
+HippyLookingGirl	former fairy, now a blue haired female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 Homework	School work done outside class hours
 Horsebot	H model [robot](#robots) in a horse frame, as motive power for carriages, carts etc [_{W}_](http://gunnerkrigg.wikia.com/wiki/H_Model)
 Hospital	The hospital/infirmary within the court
@@ -212,13 +216,13 @@ Hyland 	[Jack's](#jack) father and classmate of [Eglamore](#eglamore), [Donny](#
 Iota 	Greek letter, speculated to symbolise [Jack](#jack) or [Jenny](#jenny) when it appeared in a treatise with [Gamma](#gamma) and [Zeta](#zeta)
 Irial 	[Kamlen's](#kamlen) [Anwyn](#anwyn) love
 Jack 	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jack_Hyland)
+JackOLantern	A carved, decorative pumpkin used for Hallowe'en/Halloween as a lantern
 Jackalope	appears as a rabbit with stub horns, a denizen of [Gillite Wood](#gillitie); friend of [GreenFairy](#greenfairy); wishes to become human, reincarnated as [JackalopeBoy](#jackalopeboy)
 JackalopeBoy	vat-grown, slightly rabbity-looking boy, personality transferred from [Jackalope](#jackalope) via a [Totem](#totem)
-JackOLantern	A carved, decorative pumpkin used for Hallowe'en/Halloween as a lantern
 Jan	January, curt friend of [Parley](#parley) [_{W}_](http://gunnerkrigg.wikia.com/wiki/January)
 Janet	Janet Llanwellyn; fierce daughter of the [Headmaster](#headmaster); dating [William Winsbury](#winsbury) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Janet_Llanwellyn)
 Jeanne	Vengeful ghost and guardian of the [Annan](#annan) waters, originally a fencer at the early court. _"She died and we did nothing"_ [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jeanne)
-JeannesLover	Jeanne's [Anwyn](#anwyn) [forest](#gillitie) lover, name unknown. Struck by the [Green Arrow](#greenarrow) crossing the Annan [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn#Jeanne.27s_lover)
+JeannesLover	Jeanne's [Anwyn](#anwyn) [forest](#gillitie) lover, name unknown. Struck by the [Green Arrow](#greenarrow) crossing the Annan [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn#jeanneslover)
 Jem	a credulous young [Anwyn](#anwyn)
 Jenny	goth cruise-companion of [Jack's](#jack), apprentice witch
 JoeyBot	A reference to Joey Tribbiani in _Friends_ 
@@ -228,12 +232,12 @@ JollyElfsberry	A prancing elf, and alias of [Coyote](#coyote)
 Jones	A mysterious court lady; a name of [Wandering Eye](#wanderingeye) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jones)
 JonesFootprints	Ancient footprints that appear to belong to [a human](#jones); how can this be?
 Juliette	member of the [Shadow Men](#shadowmenorg). Qualified to run the [Ether station](#powerstation). Close to [Arthur](#arthur) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Juliette)
-JumpersPool	waterfall into a small lake in an open part of Gillitie
+JumpersPool	waterfall into a small lake in an open part of Gillitie Wood
 JupiterMoonMartians	Friendly aliens in one of [Dr Disaster's](#drdisaster) [simulations](#simulation)
 Kamlen	[Anwyn](#anwyn) boy about [Annie's](#annie) and [Kat's](#kat) age [_{W}_](http://gunnerkrigg.wikia.com/wiki/Anwyn#Kamlen)
 Kat	Katerina Donlan, the scientifically inclined best friend of [Annie](#annie), also close to [Paz](#paz); [Anja](#anja) & [Donny](#donny) Donlan's daughter, sometimes called Katja by her mother [_{W}_](http://gunnerkrigg.wikia.com/wiki/Katerina_Donlan)
 KatsHomework	A thing that [Annie](#annie) copies
-KatsWorkshop	Where [Kat](#kat) indulges her hobbies, formerly her [mother's](#anya); by the West Canals; has a [basement](#robottomb) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Kat's_Storage_Room)
+KatsWorkshop	Where [Kat](#kat) indulges her hobbies, formerly her [mother's](#anja); by the West Canals; has a [basement](#robottomb) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Kat's_Storage_Room)
 KershawHouse	Where [Aly](#aly) and his parents Mr and Mrs [Kershaw](#kershaws) used to live.
 Kershaws	[Aly's](#aly) parents. [birds](#birds).
 Ketrak	[Psychopomp](#psychopomps) to the insects! [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps#Ketrak)
@@ -260,6 +264,7 @@ Lindsey	[dorm](#subdorm) monitor, PhD Structural Engineering, accredited couples
 LindseyComputer	[Lindsey's](#lindsey) computer translates for her
 Lockpicks	[Annie](#annie) has some lock-picks which she stores in the WolfToy/[Rey's](#rey) body
 LoveLetter	A written expression of love; may be anonymous
+Loup	the successor entity created when [Ysengrin](#ysengrin) ate [Coyote](#coyote)
 MachineMaze	An etheric component of the [GreenArrow](#greenarrow), trapping the [victim spirit](#jeanneslover)
 MainGauche	A dagger used in the left hand in sword fighting, for parrying or close attacks
 MakeUp	Cosmetics to define or enhance appearance, particularly of the face, eyes and mouth
@@ -303,6 +308,7 @@ Ocean	A whole bunch of [water](#water)
 Octopus	A flying / floating octopus
 Ogee	A city fairy with the power of rusting, who hangs out with a magpie called [BobEyes](#bobeyes). Sister of [Torus](#torus)
 OldCourt	Parts of Gunnerkrigg Court that used to be in [Gillitie Forest](#gillitie) before the division by [Coyote](#coyote).
+OneOfThoseThings	mostly blue, may have formed out of water, a scorpion / fish hybrid
 Ooze	What [Martin's](#martin), lizard turns into when it hits the floor
 Orb	The _Globus cruciger_, a Christian symbol of power, wielded by monarchs and Christ
 PadComp	a slate/tablet/pad computer or interface device seen in the [Transfer Clinic](#transferclinic)
@@ -311,12 +317,14 @@ PartyHat	A Party hat, hats are fun!
 Paz	Paz Cadena-Blanco, Spanish, (forename is pronounced "Path") can talk to animals; is raising [CityFace](#cityface) with [Bobby](#bobby); becomes close to [Kat](#kat). [_{W}_](http://gunnerkrigg.wikia.com/wiki/Paz)
 Photo	A photograph of [Anja](#anja), [Donny](#donny), [Eglamore](#eglamore), [Surma](#surma), [Tony](#tony) and [Brinnie](#brinnie) from their school days [_{W}_](http://gunnerkrigg.wikia.com/wiki/That_Photo)
 PlanTheta	[Baking Distraction](#bakingdistraction) for when others are sneaking around
+PlayingCards 	A pack of playing cards
 Pliers	Used for manipulating wire; may include wire-strippers or wire-cutters
 PowerStation	A Court system to extract energy from the [Etherium](#etherium) on an industrial scale [_{W}_](http://gunnerkrigg.wikia.com/wiki/The_Power_Station)
 PrincessMononoke	Animated movie by Hayao Miyazaki
 Psychopomps	Escort the dead to the afterlife/[Ether](#etherium) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Psychopomps)
 PurpleHair	a former fairy, manipulates the Ether to create plant and woodland scenes; now a female pupil in the same class as [JackalopeBoy](#jackalopeboy)
 Queslett	[Annie](#annie) &amp; [Kat's](#kat) school House [_{W}_](http://gunnerkrigg.wikia.com/wiki/Queslett)
+ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them. (see also the [Vasty Hall of Death](#vastyhall))
 Rain	[water](#water), falling from the sky
 Rats	There are no rats in the Court...
 Red	A crazy and abrasive fairy [_{W}_](http://gunnerkrigg.wikia.com/wiki/Red)
@@ -326,18 +334,17 @@ ReyComic	A comic page authored by [Reynardine](#rey)
 River	Comes as advertised
 RobotCode	A cube with the [Robots'](#robots) instruction code transcribed onto it, see also [DiegoDesigns](#diegodesigns)
 RobotHQ	Where the [robots](#robots) hang out
-Robotics	Like [Etherics](#etherics) but with metal
 RobotKing	A [robot](#robots) with a crown, blank face, and a pen
 RobotParts	Bits of [robot](#robots) currently not attached
-Robots	A collective noun
 RobotS13	originally S-13, a messianic [Seraph](#seraph) class [robot](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Robot)
 RobotTomb	Tomb/theatre full of [robots](#robots) [_{W}_](http://gunnerkrigg.wikia.com/wiki/The_Tomb)
+Robotics	Like [Etherics](#etherics) but with metal
+Robots	A collective noun
 Robox	Has no hands; awesome; everybody loves Robox. The opposite of [terrible](#terrible) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Robox)
 Rocket	A cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents.
 RogatOrjak	Dragon-like giant [_{W}_](http://gunnerkrigg.wikia.com/wiki/Rogat_Orjak)
 Rolodex	the scryer, for incantations pertaining to names
 Roof	The top of the court
-ROTD	Realm of the Dead. In charge of dead people and ghosts. [Mort](#mort) was sent on a pretty important mission by them. (see also the [Vasty Hall of Death](#vastyhall))
 S1	Original [Seraph](#seraph) [robot](#robots) made by [Diego](#diego); predecessor of [Robot](#robots13) [_{W}_](http://gunnerkrigg.wikia.com/wiki/S1)
 SailorBot	A class of robot encountered on the [cruise liner](#cruiseliner). Unusually, these are networked "fingers" of the Liner Bot itself
 Salon	Court hair salon, staffed by the [HairdresserBot](#hairdresserbot)
@@ -352,9 +359,9 @@ Seeds	Some seeds that [Ysengrin](#ysengrin) uses for his terrifying skills of ga
 Seraph	Generic member of the [Seraph](#seraph) model of [robot](#robots). [Robot](#robots13) was one originally [_{W}_](http://gunnerkrigg.wikia.com/wiki/S_Models)
 Shadow	a [shadowman](#shadowmen) lost in the Court as a child [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_2) become close friend of RobotS13
 Shadow3	a 'wild' [shadow man](#shadowmen) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_3)
-Shadowmen	aka the glass-eyed men, live shadows living in Gillitie Forest; creations of [Coyote](#coyote) according to himself [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_People)
 ShadowMenOrg	a 'secret' organisation within the court watching special events and creatures
 ShadowMenSymbol	a horizontal line with a dot below each end, all in red; symbol of the [Shadow Men](ShadowMenOrg) group within the Court
+Shadowmen	aka the glass-eyed men, live shadows living in Gillitie Forest; creations of [Coyote](#coyote) according to himself [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shadow_People)
 Shell	A tall, thin member of the [Shadow Men](ShadowMenOrg), seen with [Aata](#aata) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Shell)
 SimRocket	A rocket/spaceship in [Dr. Disaster's](#drdisaster) [simulation](#simulation)
 Simulation	One of [Dr. Disaster's](#drdisaster) holographic adventures
@@ -393,11 +400,11 @@ Sweets	Tasty and sugary
 Sword	A long weapon with a blade held in one or two hands. Sometimes magical. Wielded by [Eglamore](#eglamore), [Parley](#parley), [Jeanne](#jeanne) among others
 Symbol	some unidentified symbol (please help identify!)
 Tea	a white-haired woman who explains things between chapters or books and introduces breaks in the story
-Teacher	A miscellaneous teacher
-Tears	In the eyes, visibly crying, _etc_
+Teacher	a miscellaneous teacher
+Tears	in the eyes, visibly crying, when salty water with enzymes comes out of one's lacrimal ducts; also, a sign of sadness
 Telescope	Good for seeing celestial bodies, satellites and other things that are far away
 Tents	For sleeping inside, outside
-Terrible	[BoxBot](#boxbot)
+Terrible	see [BoxBot](#boxbot)
 Thief	A robber, burglar, stealer.
 Thornhill	One of the other school Houses
 TicToc	Birdlike robotic watchers: the "Thousand Eyes"; [Zimmy](#zimmy) can feel its stare
@@ -422,17 +429,17 @@ TreeDog	They usually go woof, unless created by the [forest](#gillitie)
 Trees	Come as advertised (usually)
 Umbrella	Hand-held cover to keep the [rain](#rain) off.
 Uniform	An outfit one wears when on official business
+VHStape	video tape cartridge, a.k.a.: the Vault of Memory
+VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 Valknut	A Norse triangular knot symbol, indicates a form of teleport/gateway such as that used by [Brinnie](#brinnie) or the [beacon](#beacon) that [Eglamore](#eglamore) gave to [Annie](#annie)
 Vampire	a creature, perhaps undead, which exists by sucking the blood (and life) of the living
 VastyHall	the Vasty Hall of Death, an alternative visualisation of the [Realm of the Dead](#rotd) to a fairground fright house
 Veles	Ancient Slav snake-like god who guards the underworld; [psychopomp](#psychopomps)
 VenusFigurine	a stone woman, in the manner of a [prehistoric stylised female figure](https://en.wikipedia.org/wiki/Venus_figurines) -- a reference to Jones according to Tom Siddell's [restrospective](https://youtu.be/ETZqrN27irQ)
 VenusSymbol	A symbol for Venus/Aphrodite; also the symbol of females/femininity
-VHStape	video tape cartridge, a.k.a.: the Vault of Memory
 VideoPlayer	VHS tape player; a magical mystery memory machine
-VII	The number seven, numerologically symbolises virginity, change, completion of a cycle, luck, perfection
 VincentPrice	A famous actor
-WalkInPicture	Framed glowing pictures with footprints leading into the scene -- a discarded plot according to Tom Siddell [{Y}](http://youtu.be/t48sqVVkd0A)
+WalkInPicture	Framed glowing pictures with footprints leading into the scene -- a discarded plot according to Tom Siddell [YT](http://youtu.be/t48sqVVkd0A)
 WanderingEye	Symbol of that which calls itself [Jones](#jones), currently
 Ward	a magical protection
 Warehouse113	Warehouse [113](#113) is Not a secret base at Long Acre
@@ -458,6 +465,10 @@ Zeta	A Greek letter &Zeta;/&zeta; corresponding to our "Z"; [Zimmy's](#zimmy) re
 Zimmingham	[Zimmy's](#zimmy) nightmarish version of Birmingham, which is where she and [Gamma](#gamma) are originally (?) from
 Zimmy	aka [Zeta](#zeta), a strange girl who is friends with [Gamma](#gamma); from Birmingham originally; an etheric generator
 ; --- Chapter TAGS ---
+ch-68	Neither
+ch-67	Evac
+ch-66	Memories Of The Worthless
+ch-65	Katerday
 ch-64	Get Lost
 ch-63	The Shadow Men
 ch-62	And Then Coyote Said...
@@ -476,57 +487,57 @@ ch-50	Totem
 ch-49a	Intermission: City Face's Book of Birds
 ch-49	The Torn Sea
 ch-48	Tall Tales
-ch-47	See Ya!
-ch-46	The Realm of the Dead
-ch-45	Thread
-ch-44	Crash Course
-ch-43	Quicksilver [{Y}](https://youtu.be/mqjemuTekXo)
-ch-42	Catalyst [{Y}](https://youtu.be/dJbLGjymKfA)
+ch-47	See Ya! [YT](https://youtu.be/w-yE5eS60JI)
+ch-46	The Realm of the Dead [YT](https://youtu.be/3nqw2rKQtik)
+ch-45	Thread [YT](https://youtu.be/e3XN51lKfOM)
+ch-44	Crash Course [YT](https://youtu.be/3YEt898VU-8)
+ch-43	Quicksilver [YT](https://youtu.be/mqjemuTekXo)
+ch-42	Catalyst [YT](https://youtu.be/dJbLGjymKfA)
 ch-41a	Intermission: City Face guest comics
-ch-41	Changes [{Y}](https://youtu.be/8AQF3TXyU6M)
-ch-40	The Stone [{Y}](https://youtu.be/87py46Dvwzo)
-ch-39	The Great Secret [{Y}](https://youtu.be/1AI2y9Q11Ao)
-ch-38	Divine [{Y}](https://youtu.be/WbDMLkci9hY)
-ch-37	Microsat 5 [{Y}](https://youtu.be/qm_fFuk9ky0)
-ch-36	Red Gets a Name [{Y}](https://youtu.be/8zOjhd1-J4s)
-ch-35	Parley and Smitty Are In This One [{Y}](https://youtu.be/agTp-68G-hE)
-ch-34	Faraway Morning (and three short tales) [{Y}](https://youtu.be/TEguWvEAvoc)
-ch-33	Give and Take [{Y}](https://youtu.be/Kd-CpZJuSYU)
-ch-32	From the Forest She Came [{Y}](https://youtu.be/1sv9tYVUvnU)
+ch-41	Changes [YT](https://youtu.be/8AQF3TXyU6M)
+ch-40	The Stone [YT](https://youtu.be/87py46Dvwzo)
+ch-39	The Great Secret [YT](https://youtu.be/1AI2y9Q11Ao)
+ch-38	Divine [YT](https://youtu.be/WbDMLkci9hY)
+ch-37	Microsat 5 [YT](https://youtu.be/qm_fFuk9ky0)
+ch-36	Red Gets a Name [YT](https://youtu.be/8zOjhd1-J4s)
+ch-35	Parley and Smitty Are In This One [YT](https://youtu.be/agTp-68G-hE)
+ch-34	Faraway Morning (and three short tales) [YT](https://youtu.be/TEguWvEAvoc)
+ch-33	Give and Take [YT](https://youtu.be/Kd-CpZJuSYU)
+ch-32	From the Forest She Came [YT](https://youtu.be/1sv9tYVUvnU)
 ch-31c	Annie in the Forest, part 2
 ch-31b	Annie in the Forest, part 1
 ch-31a	Intermission: City Face 2
-ch-31	Fire Spike [{Y}](https://youtu.be/MoIRDw2xuAM)
-ch-30	The Coward Heart [{Y}](https://youtu.be/4v_eLpuUzo0)
-ch-29	A Bad Start [{Y}](https://youtu.be/75mlrei1DTY)
-ch-28	Spring Heeled Part 2 [{Y}](https://youtu.be/qF-mrQUbQc4)
-ch-27	Spring Heeled [{Y}](https://youtu.be/Q66FN07bMf8)
-ch-26	The Old Dog's Tricks [{Y}](https://youtu.be/I8mA0KaX8h8)
-ch-25	Sky Watcher And The Angel [{Y}](https://youtu.be/BU4VhtsJInI)
-ch-24	Residential [{Y}](https://youtu.be/9wOhmBHUbmc)
-ch-23	Terror Castle of the Jupiter Moon Martians! A spacemonauts adventure! [{Y}](https://youtu.be/Z_TsUlHat0s)
+ch-31	Fire Spike [YT](https://youtu.be/MoIRDw2xuAM)
+ch-30	The Coward Heart [YT](https://youtu.be/4v_eLpuUzo0)
+ch-29	A Bad Start [YT](https://youtu.be/75mlrei1DTY)
+ch-28	Spring Heeled Part 2 [YT](https://youtu.be/qF-mrQUbQc4)
+ch-27	Spring Heeled [YT](https://youtu.be/Q66FN07bMf8)
+ch-26	The Old Dog's Tricks [YT](https://youtu.be/I8mA0KaX8h8)
+ch-25	Sky Watcher And The Angel [YT](https://youtu.be/BU4VhtsJInI)
+ch-24	Residential [YT](https://youtu.be/9wOhmBHUbmc)
+ch-23	Terror Castle of the Jupiter Moon Martians! A spacemonauts adventure! [YT](https://youtu.be/Z_TsUlHat0s)
 ch-22a	Intermission: City Face
-ch-22	Ties [{Y}](http://youtu.be/ETZqrN27irQ)
-ch-21	Blinking [{Y}](http://youtu.be/ru5BEUlslMQ)
-ch-20	Coyote Stories [{Y}](http://youtu.be/2CiKLCERprA)
-ch-19	Power Station [{Y}](http://youtu.be/wXiHFd_SB9c)
-ch-18	S1 [{Y}](http://youtu.be/fDZWjC341oc)
-ch-17	The Medium Beginning [{Y}](http://youtu.be/NbVAIt7VJzY)
-ch-16	A Ghost Story [{Y}](http://youtu.be/d5agOAjjJsc)
-ch-15	Red Returns [{Y}](http://youtu.be/zRAI9RrOL4c)
+ch-22	Ties [YT](http://youtu.be/ETZqrN27irQ)
+ch-21	Blinking [YT](http://youtu.be/ru5BEUlslMQ)
+ch-20	Coyote Stories [YT](http://youtu.be/2CiKLCERprA)
+ch-19	Power Station [YT](http://youtu.be/wXiHFd_SB9c)
+ch-18	S1 [YT](http://youtu.be/fDZWjC341oc)
+ch-17	The Medium Beginning [YT](http://youtu.be/NbVAIt7VJzY)
+ch-16	A Ghost Story [YT](http://youtu.be/d5agOAjjJsc)
+ch-15	Red Returns [YT](http://youtu.be/zRAI9RrOL4c)
 ch-14a	Intermission: A Selection of Guest Comics and Other Surprises
-ch-14	The Fangs Of Summertime [{Y}](http://youtu.be/yJMW-dn7qD0)
-ch-13	A Week For Kat [{Y}](http://youtu.be/MA6RdGS8YRo)
-ch-12	Mainly Involves Robots [{Y}](http://youtu.be/gMsc0Aqapvk)
-ch-11	Dobranoc, Gamma [{Y}](http://youtu.be/GXeILNEigjc)
-ch-10	Doctor Disaster versus the Creepy Space Aliens from Outer Space [{Y}](http://youtu.be/MliJpVzKEsw)
-ch-09	Questions and Answers [{Y}](http://youtu.be/RfpVdfLXydI)
-ch-08	Broken Glass and Other Things [{Y}](http://youtu.be/Lp-YIsNiOCQ)
-ch-07	Of New and Old [{Y}](http://youtu.be/jgbRFdOa1OM)
-ch-06	A Handful of Dirt [{Y}](http://youtu.be/9GMaSm_jFdA)
-ch-05	Two Strange girls [{Y}](http://youtu.be/hgRSPQTvdn8)
-ch-04	Not Very Scary [{Y}](http://youtu.be/WRy0msan9rQ)
-ch-03	Reynardine [{Y}](http://youtu.be/kQhsa8Ldf3c)
-ch-02	Schoolyard Myths [{Y}](http://youtu.be/t48sqVVkd0A)
-ch-01	The Shadow and The Robot [{Y}](http://youtu.be/I9oF6ogesUA)
+ch-14	The Fangs Of Summertime [YT](http://youtu.be/yJMW-dn7qD0)
+ch-13	A Week For Kat [YT](http://youtu.be/MA6RdGS8YRo)
+ch-12	Mainly Involves Robots [YT](http://youtu.be/gMsc0Aqapvk)
+ch-11	Dobranoc, Gamma [YT](http://youtu.be/GXeILNEigjc)
+ch-10	Doctor Disaster versus the Creepy Space Aliens from Outer Space [YT](http://youtu.be/MliJpVzKEsw)
+ch-09	Questions and Answers [YT](http://youtu.be/RfpVdfLXydI)
+ch-08	Broken Glass and Other Things [YT](http://youtu.be/Lp-YIsNiOCQ)
+ch-07	Of New and Old [YT](http://youtu.be/jgbRFdOa1OM)
+ch-06	A Handful of Dirt [YT](http://youtu.be/9GMaSm_jFdA)
+ch-05	Two Strange girls [YT](http://youtu.be/hgRSPQTvdn8)
+ch-04	Not Very Scary [YT](http://youtu.be/WRy0msan9rQ)
+ch-03	Reynardine [YT](http://youtu.be/kQhsa8Ldf3c)
+ch-02	Schoolyard Myths [YT](http://youtu.be/t48sqVVkd0A)
+ch-01	The Shadow and The Robot [YT](http://youtu.be/I9oF6ogesUA)
 ; ---TAGS EOF ---
