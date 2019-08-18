@@ -29,14 +29,846 @@
 ; TODO: page numbers
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:2188
+	date: 2019-08-16
+	desc: Annie2: Something must be blocking our abilities....
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: Blush
+	tag: Eglamore
+	tag: Etherium
+	tag: GiantTree
+	tag: LEAP
+	tag: MercurySymbol
+	tag: RedZone
+	tag: Rey
+	tag: Ward
+	tag: WispNest
+	tag: ch-72
+	tag: p-19
+page:2187
+	date: 2019-08-14
+	desc: Eglamore: Here.
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: Blush
+	tag: Eglamore
+	tag: Etherium
+	tag: GiantTree
+	tag: MercurySymbol
+	tag: RedZone
+	tag: Rey
+	tag: WispNest
+	tag: ch-72
+	tag: p-19
+page:2186
+	date: 2019-08-12
+	desc: Annie: Reynard, that makes no sense!
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: Eglamore
+	tag: Etherium
+	tag: GiantFigure
+	tag: GiantTree
+	tag: MercurySymbol
+	tag: Parley
+	tag: RedZone
+	tag: Rey
+	tag: Roots
+	tag: WispNest
+	tag: ch-72
+	tag: p-18
+page:2185
+	date: 2019-08-09
+	desc: Rey: What? It's headed towards you?!
+	tag: Annie
+	tag: AntimonySymbol
+	tag: Boom
+	tag: Etherium
+	tag: Fist
+	tag: GiantFigure
+	tag: GiantTree
+	tag: MercurySymbol
+	tag: Parley
+	tag: RedZone
+	tag: Rey
+	tag: Roots
+	tag: WispNest
+	tag: ch-72
+	tag: p-17
+page:2184
+	date: 2019-08-07
+	desc: Annie: Parley says she isn't able to teleport!
+	tag: Annie
+	tag: CourtSecurity
+	tag: Cvet
+	tag: GiantFigure
+	tag: GiantTree
+	tag: RedZone
+	tag: Roots
+	tag: WispNest
+	tag: ch-72
+	tag: p-16
+page:2183
+	date: 2019-08-05
+	desc: Parley: Rey! Tell Annie to tell Cvet to fly over to that thing!
+	tag: AntimonySymbol
+	tag: GiantFigure
+	tag: GiantTree
+	tag: MercurySymbol
+	tag: Parley
+	tag: RedZone
+	tag: Rey
+	tag: Roots
+	tag: WispNest
+	tag: ch-72
+	tag: p-15
+page:2182
+	date: 2019-08-02
+	desc: Cvet: And I hear that Steve, that man I mentioned before, he ask Lisa to dinner, but remeber she recently ended relationship with Anders.
+	tag: Annie
+	tag: Annie2
+	tag: Etherium
+	tag: GiantFigure
+	tag: GiantTree
+	tag: RedZone
+	tag: Rey
+	tag: Roots
+	tag: WispNest
+	tag: ch-72
+	tag: p-14
+page:2181
+	date: 2019-07-31
+	desc: Cvet: And I hear that Steve, that man I mentioned fore, he ask Lisa to dinner, but remeber she recently ended relationship with Anders
+	tag: Annie
+	tag: CourtSecurity
+	tag: GiantFigure
+	tag: GiantTree
+	tag: RedZone
+	tag: Rey
+	tag: Roots
+	tag: Rumble
+	tag: WispNest
+	tag: ch-72
+	tag: p-13
+page:2180
+	date: 2019-07-29
+	desc: Parley: You can use some of their fire powers too, right? Could be useful.
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: Etherium
+	tag: GiantTree
+	tag: MercurySymbol
+	tag: Parley
+	tag: RedZone
+	tag: Rey
+	tag: Roots
+	tag: Rumble
+	tag: WispNest
+	tag: ch-72
+	tag: p-12
+page:2179
+	date: 2019-07-26
+	desc: Parley: Okay, north is that way. What else are they saying?
+	tag: AntimonySymbol
+	tag: GiantTree
+	tag: MercurySymbol
+	tag: Parley
+	tag: RedZone
+	tag: Rey
+	tag: Roots
+	tag: WispNest
+	tag: ch-72
+	tag: p-11
+page:2178
+	date: 2019-07-24
+	desc: Eglamore: Strange... These hives are empty
+	tag: Annie2
+	tag: Eglamore
+	tag: GiantTree
+	tag: RedZone
+	tag: Roots
+	tag: WispNest
+	tag: WispHives
+	tag: ch-72
+	tag: p-10
+page:2177
+	date: 2019-07-22
+	desc: Eglamore: [Clap] That way's north.
+	tag: Annie2
+	tag: Eglamore
+	tag: GiantTree
+	tag: RedZone
+	tag: Roots
+	tag: WispNest
+	tag: ch-72
+	tag: p-09
+page:2176
+	date: 2019-07-19
+	desc: Annie: How did we lose right of each other?
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: Eglamore
+	tag: Etherium
+	tag: Flashback
+	tag: GiantTree
+	tag: MercurySymbol
+	tag: RedZone
+	tag: Reynard
+	tag: Wisp
+	tag: WispNest
+	tag: ch-72
+	tag: p-08
+page:2175
+	date: 2019-07-17
+	desc: Annie: Cvet says this is a wisp next.
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: Etherium
+	tag: Flashback
+	tag: Gurdig
+	tag: MercurySymbol
+	tag: Parley
+	tag: RedZone
+	tag: Reynard
+	tag: Wisp
+	tag: WispNest
+	tag: ch-72
+	tag: p-07
+page:2174
+	auth: Tom: Not quite the ether.
+	date: 2019-07-15
+	desc: Reynard: Don't shout so loud!
+	tag: Annie
+	tag: Annie2
+	tag: CourtSecurity
+	tag: Cvet
+	tag: Eglamore
+	tag: Etherium
+	tag: RedZone
+	tag: Reynard
+	tag: WispNest
+	tag: ch-72
+	tag: p-06
+page:2173
+	date: 2019-07-12
+	desc: Annies: **REYNARD!**
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: Gurdig
+	tag: MercurySymbol
+	tag: Parley
+	tag: RedZone
+	tag: Reynard
+	tag: WispNest
+	tag: ch-72
+	tag: p-05
+page:2172
+	date: 2019-07-10
+	desc: Cvet: Ah. This is a wisp nest.
+	tag: Annie
+	tag: Cvet
+	tag: CourtSecurity
+	tag: KatsTracker
+	tag: WispNest
+	tag: RedZone
+	tag: ch-72
+	tag: p-04
+page:2171
+	date: 2019-07-08
+	desc: Eglamore: It was a trap! It looks like we've been separated by whatever creature made this place.
+	tag: Annie2
+	tag: Eglamore
+	tag: RedZone
+	tag: WispNest
+	tag: ch-72
+	tag: p-03
+page:2170
+	date: 2019-07-05
+	desc: What happened to the others?!
+	tag: Annie
+	tag: Annie2
+	tag: Cvet
+	tag: Eglamore
+	tag: Parley
+	tag: Rey
+	tah: RedZone
+	tag: ch-72
+	tag: p-02
+page:2169
+	date: 2019-07-03
+	desc: Chapter 72<br><br>**Perspective**
+	tag: ch-72
+	tag: p-01
+page:2168
+	date: 2019-07-01
+	desc: Bonus Page 71: The New Arthur
+	tag: Arthur
+	tag: Bonus
+	tag: Juliette
+	tag: LeopardPrint
+	tag: Steam
+page:2167
+	date: 2019-06-28
+	desc: [Hug (Juliette & Arthur) and a thoughtful glance (Kat at an Annie)]
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: Arthur
+	tag: GrowthTank
+	tag: Juliette
+	tag: Kat
+	tag: MercurySymbol
+	tag: Rey
+	tag: RobotS13
+	tag: Shadow
+	tag: RobotTomb
+	tag: ch-71
+	tag: p-32
+page:2166
+	date: 2019-06-26
+	desc: Robot: You are the first of us, Arthur. Free from the reaches of the Court. Free from the limits of metal and plastic
+	tag: Arthur
+	tag: GrowthTank
+	tag: Juliette
+	tag: Kat
+	tag: RobotS13
+	tag: RobotTomb
+	tag: ch-71
+	tag: p-32
+page:2165
+	date: 2019-06-24
+	desc: Arthur: Juliette...
+	tag: Annie
+	tag: Annie2
+	tag: Arthur
+	tag: GrowthTank
+	tag: Juliette
+	tag: Kat
+	tag: RobotTomb
+	tag: ch-71
+	tag: p-31
+page:2164
+	date: 2019-06-21
+	desc: [Arthur awakes]
+	tag: Arthur
+	tag: Blush
+	tag: GrowthTank
+	tag: Juliette
+	tag: RobotTomb
+	tag: Steam
+	tag: ch-71
+	tag: p-30
+page:2163
+	date: 2019-06-19
+	desc: Kat: What do you mean?!
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: GrowthTank
+	tag: Juliette
+	tag: Kat
+	tag: RobotS13
+	tag: RobotTomb
+	tag: Shadow
+	tag: Steam
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-29
+page:2162
+	date: 2019-06-17
+	desc: The Interpreter: Well, it seems that neither of them should be here.
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: Kat
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-28
+page:2161
+	date: 2019-06-14
+	desc: The Interpreter: Well, Miss Antimony, it seems that you have been shifted out of your timeline and brought here.
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: Kat
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-27
+page:2160
+	date: 2019-06-12
+	desc: The Interpreter: All finished.
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: Contract
+	tag: Kat
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-26
+page:2159
+	date: 2019-06-10
+	desc: The Interpreter: And this is for you Miss Antimony.
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: Contract
+	tag: FamiliarQuickStartGuide
+	tag: Fire
+	tag: Kat
+	tag: Rey
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-25
+page:2158
+	date: 2019-06-07
+	desc: The Interpreter: Here we go then.
+	tag: AntimonySymbol
+	tag: ArbiterSaslamel
+	tag: Fire
+	tag: MercurySymbol
+	tag: Rey
+	tag: RobotTomb
+	tag: Snap
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-24
+page:2157
+	date: 2019-06-05
+	desc: The Interpreter: The Arbiter is willing to change Reynard's status from "owned object" to "familiar", given your circumstances.
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: Kat
+	tag: Rey
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-23
+page:2156
+	date: 2019-06-03
+	desc: The Interpreter: The Arbiter says we can only change the contract if the original owner agrees.
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: Rey
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-22
+page:2155
+	date: 2019-05-31
+	desc: Annies: Huh?
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: ArbiterSaslamel
+	tag: Rey
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-21
+page:2154
+	date: 2019-05-29
+	desc: The Interpreter: Inside this capsule is a mindless body created by you, Miss Katrina, and you were about to bring it to life with the mind of a golem called... Arthur?
+	tag: Annie
+	tag: AntimonySymbol
+	tag: ArbiterSaslamel
+	tag: GreenArrow
+	tag: Rey
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-20
+page:2153
+	date: 2019-05-27
+	desc: The Interpreter: since the beginning of time, any object that comes into the posession by an individual enters into a contract of ownership.
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: ArbiterSaslamel
+	tag: JewelPendant
+	tag: Rey
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Wallet
+	tag: Warp
+	tag: ch-71
+	tag: p-19
+page:2152
+	date: 2019-05-24
+	desc: Annies, flaming: What?!
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: Kat
+	tag: Rey
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-18
+page:2151
+	date: 2019-05-22
+	desc: Kat: Oh! Yeah, I know what this is about!
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: Boat
+	tag: CircuitDiagram
+	tag: Flashback
+	tag: GreenArrow
+	tag: Jeanne
+	tag: JeannesLover
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-17
+page:2150
+	date: 2019-05-20
+	desc: The Interpreter: Arbiter Saslamel doesn't get called very often and his language was forgotten a long time ago. And he's too stubborn to keep up with modern languages.
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: GreenArrow
+	tag: GrowthTank
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotTomb
+	tag: TheInterpreter
+	tag: Warp
+	tag: ch-71
+	tag: p-16
+page:2149
+	date: 2019-05-17
+	desc: The Interpreter: It looks like you were about to cause a breach of contract! But don't worry, Miss, we're here to help!
+	note: Arbiter Saslamel named here. Saslamel via The Interpreter describes the Annies as 'shifted' to explain her duplication.
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: GrowthTank
+	tag: Interpreter
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotTomb
+	tag: Warp
+	tag: ch-71
+	tag: p-15
+page:2148
+	date: 2019-05-15
+	desc: Annie: Kat... are you seeing all this?
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: GrowthTank
+	tag: Interpreter
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotTomb
+	tag: Warp
+	tag: ch-71
+	tag: p-14
+page:2147
+	date: 2019-05-13
+	desc: [ominous warping]
+	note: Robot, Shadow and Juliette are present but greyed-out
+	tag: Annie
+	tag: Annie2
+	tag: ArbiterSaslamel
+	tag: GrowthTank
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotTomb
+	tag: Warp
+	tag: ch-71
+	tag: p-13
+page:2146
+	date: 2019-05-10
+	desc: Kat: All you have to do now is wake him up!
+	note: 'Steam' may be BlueSmoke; Keystone of Warped archway marked D presumably for Diego
+	tag: Annie
+	tag: Annie2
+	tag: DiegoMark	
+	tag: GrowthTank
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotTomb
+	tag: Steam
+	tag: SweatDrop
+	tag: Warp
+	tag: ch-71
+	tag: p-12
+page:2145
+	date: 2019-05-08
+	desc: Kat: The first thing we have to do is initiate the transfer of Arthur's mind from his old body
+	tag: Arthur
+	tag: GrowthTank
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: RobotTomb
+	tag: ch-71
+	tag: p-11
+page:2144
+	date: 2019-05-06
+	desc: Juliette: Okay... I'm ready.
+	tag: Annie
+	tag: Annie2
+	tag: GrowthTank
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotS13
+	tag: RobotTomb
+	tag: Shadow
+	tag: ch-71
+	tag: p-10
+page:2143
+	date: 2019-05-03
+	desc: Kat: You'll have to be kinda close to get a reading, but it should detect any object similar to the tooth I scanned.
+	tag: Annie
+	tag: Annie2
+	tag: DetectorPhone
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotTomb
+	tag: ch-71
+	tag: p-09
+page:2142
+	date: 2019-05-01
+	desc: Kat: And Arthur is over there!
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: CoyoteTooth
+	tag: GrowthTank
+	tag: Kat
+	tag: KatComputer
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotTomb
+	tag: ch-71
+	tag: p-08
+page:2141
+	date: 2019-04-29
+	desc: Kat: And Arthur is over there!
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: CoyoteTooth
+	tag: GrowthTank
+	tag: Juliette
+	tag: Kat
+	tag: KatComputer
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotS13
+	tag: RobotTomb
+	tag: Shadow
+	tag: ch-71
+	tag: p-07
+page:2140
+	date: 2019-04-26
+	desc: Annie: Umm... Kat, I've noticed some of the Seraph robots lurking around the place...
+	tag: Annie
+	tag: Annie2
+	tag: CreatorGlyph
+	tag: DiegoBot
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: Rey
+	tag: RobotS13
+	tag: RobotTomb
+	tag: Seraph
+	tag: Shadow
+	tag: ch-71
+	tag: p-06
+page:2139
+	date: 2019-04-24
+	desc: Annie: Umm... Kat, I've noticed some of the Seraph robots lurking around the place...
+	tag: Annie
+	tag: Annie2
+	tag: Seraph
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: RobotS13
+	tag: Shadow
+	tag: Rey
+	tag: ch-71
+	tag: p-05
+page:2138
+	date: 2019-04-22
+	desc: Annie: Does this mean your work is finished, Kat?
+	tag: Annie
+	tag: Arthur
+	tag: CPU
+	tag: Juliette
+	tag: Kat
+	tag: KatsWorkshop
+	tag: RobotS13
+	tag: ch-71
+	tag: p-04
+page:2137
+	date: 2019-04-19
+	desc: RobotS13: This is a happy occasion, so I will make smile attempt number 3028.
+	tag: Annie
+	tag: Annie2
+	tag: Shadow
+	tag: RobotS13
+	tag: Kat
+	tag: KatsWorkshop
+	tag: ch-71
+	tag: p-03
+page:2136
+	date: 2019-04-17
+	desc: Annie: And this lets you control the whole train?
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: Computer
+	tag: Kat
+	tag: Rey
+	tag: Train
+	tag: ch-71
+	tag: p-02
+page:2135
+	date: 2019-04-15
+	desc: Chapter 71:<br><br>New Contract
+	tag: ch-71
+	tag: p-01
+page:2134
+	date: 2019-04-12
+	desc: Bonus Page 70
+	tag: Bonus
+	tag: AntimonySymbol
+	tag: Cvet
+	tag: KatsHouse
+	tag: ch-70
+page:2133
+	date: 2019-04-10
+	desc: Annie: The Goose Bone and Water! We were going to talk about that.
+	tag: Annie
+	tag: Annie2
+	tag: CoyoteWater
+	tag: Cvet
+	tag: GooseBone
+	tag: Kat
+	tag: KatsHouse
+	tag: Parley
+	tag: Paz
+	tag: Rey
+	tag: ch-70
+	tag: p-41
+page:2132
+	date: 2019-04-08
+	desc: Parley: I'm so sorry guys... I would never have approved this if I knew a forest creature would reach you all the way out here.
+	tag: Annie
+	tag: Annie2
+	tag: Cvet
+	tag: Kat
+	tag: KatsHouse
+	tag: Parley
+	tag: Paz
+	tag: Rey
+	tag: ch-70
+	tag: p-40
+page:2131
+	date: 2019-04-05
+	desc: Annie: So **this** was the mission you were away on?
+	tag: Andrew
+	tag: Annie
+	tag: Annie2
+	tag: Blush
+	tag: Cvet
+	tag: Kat
+	tag: KatsHouse
+	tag: Parley
+	tag: ch-70
+	tag: p-39
+page:2130
+	date: 2019-04-03
+	desc: Cvet: Ashray attack, yes, but girls look after selves
+	tag: Annie
+	tag: Annie2
+	tag: Clud
+	tag: Cvet
+	tag: KatsHouse
+	tag: Parley
+	tag: ch-70
+	tag: p-38
+page:2129
+	date: 2019-04-01
+	desc: Parley: Haha! you made it out did you?
+	note: [Cvet a voice from out-of-frame]
+	tag: Annie
+	tag: Annie2
+	tag: Cvet
+	tag: Kat
+	tag: KatsHouse
+	tag: Parley
+	tag: ch-70
+	tag: p-37
+page:2128
+	date: 2019-03-29
+	desc: [The Return]
+	tag: Annie
+	tag: Annie2
+	tag: Bam
+	tag: Bunker
+	tag: Kat
+	tag: KatsHouse
+	tag: Margo
+	tag: Parley
+	tag: Paz
+	tag: Rey
+	tag: Steam
+	tag: ch-70
+	tag: p-36
 page:2127
-	date: 2019-03-25
+	date: 2019-03-27
 	desc: [punching a  hole]
 	tag: Annie
 	tag: Annie2
 	tag: Ashray
 	tag: Bunker
 	tag: FireElemental
+	tag: Steam
 	tag: ch-70
 	tag: p-35
 page:2126
@@ -47,6 +879,7 @@ page:2126
 	tag: Ashray
 	tag: Bunker
 	tag: FireElemental
+	tag: Steam
 	tag: ch-70
 	tag: p-34
 page:2125
@@ -4852,22 +5685,24 @@ page:1686
 	desc: Parley: We spent most of our time out in the mountains
 	tag: Annie
 	tag: Burger
-	tag: ch-58
 	tag: JackalopeBoy
-	tag: p-29
 	tag: Parley
 	tag: Smitty
 	tag: Snuffle
+	tag: ch-58
+	tag: p-29
 page:1685
 	date: 2016-06-17
 	desc: Parley: The training I was on wasn't exactly... normal
 	tag: Annie
-	tag: ch-58
-	tag: p-28
 	tag: Parley
 	tag: Punch
+	tag: POW
 	tag: Smitty
 	tag: Tattoo
+	tag: Ward
+	tag: ch-58
+	tag: p-28
 page:1684
 	date: 2016-06-15
 	desc: Parley: The training I was on wasn't exactly... normal
@@ -5160,13 +5995,13 @@ page:1661
 	desc: The Welcome Wagon
 	tag: Annie
 	tag: Bridge
-	tag: ch-58
 	tag: Court
 	tag: Coyote
 	tag: DecontaminationUnit
 	tag: Gillitie
-	tag: p-04
 	tag: Snuffle
+	tag: ch-58
+	tag: p-04
 page:1660
 	date: 2016-04-20
 	desc: Coyote: On this day, daughter of the forest, < Snuffle > has been granted entry into the Court!
@@ -5174,24 +6009,25 @@ page:1660
 	tag: Annie
 	tag: Anwyn
 	tag: Canvey
-	tag: ch-58
 	tag: Coyote
 	tag: Fairies
 	tag: Gillitie
 	tag: Music
-	tag: p-03
+	tag: Sareed
 	tag: Snuffle
 	tag: Streamers
 	tag: Ysengrin
+	tag: ch-58
+	tag: p-03
 page:1659
 	date: 2016-04-18
 	desc: "This really is a BIG DAY"
-	tag: ch-58
 	tag: Coyote
 	tag: Gillitie
-	tag: p-02
 	tag: Streamers
 	tag: Ysengrin
+	tag: ch-58
+	tag: p-02
 page:1658
 	date: 2016-04-15
 	desc: Chapter 58:<br><br>**A Big Day!**<br><br>Icon: Three stones?
@@ -9949,111 +10785,112 @@ page:1233
 	tag: ch-43
 page:1232
 	date: 2013-08-05
-	tag: ch-43
+	desc: I was out earlier, had to cover for some classes at the last minute
 	tag: AntimonySymbol
 	tag: Eglamore
 	tag: Rey
 	tag: StepsHouse
-	desc: I was out earlier, had to cover for some classes at the last minute
-page:1231
-	date: 2013-08-02
 	tag: ch-43
+page:1231
+	auth: Tom: Bye, Hetty
+	date: 2013-08-02
 	tag: Fire
 	tag: Hetty
 	tag: Rey
 	tag: StepsHouse
-	auth: Tom: Bye, Hetty
+	tag: ch-43
 page:1230
 	date: 2013-07-31
-	tag: ch-43
+	desc: _CRUNCH_
 	tag: AntimonySymbol
 	tag: Fire
 	tag: Hetty
 	tag: Rey
-	desc: _CRUNCH_
+	tag: ch-43
 page:1229
 	date: 2013-07-29
-	tag: ch-43
+	desc: _Flick_
 	tag: Fire
 	tag: Hetty
-	tag: HettySymbol
 	tag: Matches
+	tag: PhosphorusSymbol
 	tag: Rey
-	desc: _Flick_
+	tag: ch-43
 page:1228
 	date: 2013-07-26
-	tag: ch-43
+	desc: Reynardine! You've dropped all my things!
 	tag: Hetty
-	tag: HettySymbol
 	tag: LighterFuel
 	tag: Matches
+	tag: PhosphorusSymbol
 	tag: Rey
-	desc: Reynardine! You've dropped all my things!
+	tag: ch-43
 page:1227
 	date: 2013-07-24
-	tag: ch-43
-	tag: AntimonySymbol
+	desc: You were stupid to let the opportunity slip by!
 	tag: Annie
+	tag: AntimonySymbol
 	tag: Armour
 	tag: Eglamore
 	tag: Hetty
 	tag: Rey
 	tag: WolfToy
-	desc: You were stupid to let the opportunity slip by!
+	tag: ch-43
 page:1226
 	date: 2013-07-22
-	tag: ch-43
+	desc: But then I knew Surma had passed away
 	tag: AnimalCells
 	tag: Annie
 	tag: AntimonySymbol
 	tag: EyeCrossed
-	tag: Sivo
+	tag: MercurySymbol
 	tag: Rey
-	desc: But then I knew Surma had passed away
+	tag: Sivo
+	tag: ch-43
 page:1225
 	date: 2013-07-19
-	tag: ch-43
+	desc: And that's where I met Antimony.
 	tag: Annie
 	tag: Court
 	tag: Hetty
-	tag: HettySymbol
 	tag: Moon
+	tag: PhosphorusSymbol
 	tag: Rey
 	tag: Sivo
 	tag: Sky
 	tag: WolfToy
-	desc: And that's where I met Antimony.
+	tag: ch-43
 page:1224
 	date: 2013-07-17
-	tag: ch-43
+	desc: I have recently learned the location of a substance called arsenic...
 	tag: Arsenic
 	tag: Court
 	tag: Hetty
-	tag: HettySymbol
+	tag: PhosphorusSymbol
 	tag: Rey
-	desc: I have recently learned the location of a substance called arsenic...
+	tag: ch-43
 page:1223
 	date: 2013-07-15
-	tag: ch-43
+	desc: This is your terrible Adam?
 	tag: Adam
 	tag: AntimonySymbol
 	tag: Court
 	tag: GlassFiber
 	tag: Hetty
-	tag: HettySymbol
 	tag: MercurySymbol
+	tag: PhosphorusSymbol
 	tag: Rey
-	desc: This is your terrible Adam?
-page:1222
-	date: 2013-07-12
 	tag: ch-43
+page:1222
+	auth: Tom: The monster, revealed!
+	date: 2013-07-12
+	desc: I'm sure you'd cut a handsome figure if you just _try!_
 	tag: Adam
 	tag: AntimonySymbol
 	tag: Hetty
 	tag: Rey
 	tag: SchoolYard
-	desc: I'm sure you'd cut a handsome figure if you just _try!_
-	auth: Tom: The monster, revealed!
+	tag: ch-43
 page:1221
 	date: 2013-07-10
 	tag: ch-43
@@ -10073,39 +10910,39 @@ page:1220
 	desc: Pins are always useful! / Matches are of course essential
 page:1219
 	date: 2013-07-05
-	tag: ch-43
-	tag: Hetty
-	tag: HettySymbol
-	tag: Rey
 	desc: And then, when I have had my fun...
+	tag: Hetty
+	tag: PhosphorusSymbol
+	tag: Rey
+	tag: ch-43
 page:1218
 	date: 2013-07-03
-	tag: ch-43
+	desc: Oh! You should kill her!
 	tag: Hetty
 	tag: Rey
-	desc: Oh! You should kill her!
+	tag: ch-43
 page:1217
 	date: 2013-07-01
-	tag: ch-43
+	desc: A mere slave
 	tag: GraveYard
 	tag: Hetty
-	tag: HettySymbol
 	tag: MercurySymbol
+	tag: PhosphorusSymbol
 	tag: Rey
 	tag: Tombstone
-	desc: A mere slave
+	tag: ch-43
 page:1216
 	date: 2013-06-28
-	tag: ch-43
+	desc: How long are you going to feel sorry for yourself over this man?
 	tag: AntimonySymbol
 	tag: GraveYard
 	tag: Hetty
 	tag: Rey
 	tag: Tombstone
-	desc: How long are you going to feel sorry for yourself over this man?
+	tag: ch-43
 page:1215
 	date: 2013-06-26
-	tag: ch-43
+	desc: Danny? / No, it's me... Reynardine! / SIGH.
 	tag: Anja
 	tag: Court
 	tag: DanielRSchiff
@@ -10118,10 +10955,10 @@ page:1215
 	tag: Rey
 	tag: Sivo
 	tag: Surma
-	desc: Danny? / No, it's me... Reynardine! / SIGH.
+	tag: ch-43
 page:1214
 	date: 2013-06-24
-	tag: ch-43
+	desc: but if I take his body... he could die!
 	tag: AntimonySymbol
 	tag: Coyote
 	tag: DanielRSchiff
@@ -10129,7 +10966,7 @@ page:1214
 	tag: Gillitie
 	tag: Sky
 	tag: Stars
-	desc: but if I take his body... he could die!
+	tag: ch-43
 page:1213
 	date: 2013-06-21
 	tag: ch-43
@@ -19876,7 +20713,7 @@ page:410
 	tag: Shadow
 page:409
 	date: 2008-05-30
-	desc: Watch as human technology crumbles before me! / Hmm, an ominous passage that plunges into an inky blackness, sealed behind lock and chain
+	desc: Rey: Watch as human technology crumbles before me! / Hmm, an ominous passage that plunges into an inky blackness, sealed behind lock and chain
 	tag: Annie
 	tag: ch-18
 	tag: Kat
