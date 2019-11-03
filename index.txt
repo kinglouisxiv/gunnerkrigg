@@ -29,6 +29,444 @@
 ; TODO: page numbers
 baseurl: http://www.gunnerkrigg.com/?p={0}
 ;
+page:2221
+	date: 2019-11-01
+	desc: Loup: And you, Reynard?  Are you content being their slave? You know you can have your body back when you return my gift!
+	tag: Annie
+	tag: AntimonySymbol
+	tag: Etherium
+	tag: FireHair
+	tag: Gillitie
+	tag: Loup
+	tag: MercurySymbol
+	tag: Rey
+	tag: BloodShotEye
+	tag: ch-73
+	tag: p-12
+page:2220
+	date: 2019-10-30
+	desc: Loup: The two of them? I don't see why I should have to do anything! Until my gifts are returned, two fire head girls are better than one!
+	tag: Annie
+	tag: AntimonySymbol
+	tag: Etherium
+	tag: FireHair
+	tag: Gillitie
+	tag: Loup
+	tag: MercurySymbol
+	tag: Rey
+	tag: ch-73
+	tag: p-11
+page:2219
+	date: 2019-10-28
+	desc: Rey: Ah... you must be Loup.
+	tag: Annie
+	tag: AntimonySymbol
+	tag: Etherium
+	tag: FireHair
+	tag: Gillitie
+	tag: Loup
+	tag: MercurySymbol
+	tag: Rey
+	tag: ch-73
+	tag: p-10
+page:2218
+	date: 2019-10-25
+	desc: Loup: Ah! You're linked to Reynard!
+	tag: Annie
+	tag: Annie2
+	tag: Gillitie
+	tag: Loup
+	tag: ch-73
+	tag: p-09
+page:2217
+	date: 2019-10-23
+	desc: Loup: Welcome, welcome! I am happy to see you firehead girl
+	note: Annies are separated, in parallel encounters with Loup
+	tag: Annie
+	tag: Annie2
+	tag: BloodShotEye
+	tag: Gillitie
+	tag: Loup
+	tag: ch-73
+	tag: p-08
+page:2216
+	date: 2019-10-21
+	desc: Loup: Do not worry, time will pass as normal! Hehe!
+	note: Annies are separated, in individual parallel encounters with Loup
+	tag: Annie
+	tag: Annie2
+	tag: Gillitie
+	tag: Loup
+	tag: ch-73
+	tag: p-07
+page:2215
+	date: 2019-10-18
+	desc: Annie: Loup? We're here!
+	tag: Annie
+	tag: Annie2
+	tag: AnnanBed
+	tag: Gillitie
+	tag: Loup
+	tag: ch-73
+	tag: p-06
+page:2214
+	date: 2019-10-16
+	desc: [Annies ride train to the frontier]
+	tag: Annie
+	tag: Annie2
+	tag: CourtSecurity
+	tag: Kat
+	tag: RedZone
+	tag: Rey
+	tag: Robots
+	tag: Rubble
+	tag: Train
+	tag: TrainStation
+	tag: ch-73
+	tag: p-05
+page:2213
+	date: 2019-10-14
+	desc: Kat: You're with me today, Rey??
+	tag: Annie
+	tag: Annie2
+	tag: CoastalSettlement
+	tag: Kat
+	tag: Rey
+	tag: Tony
+	tag: TonyHouse
+	tag: KatJoke
+	tag: ch-73
+	tag: p-04
+page:2212
+	date: 2019-10-11
+	desc: Annies: So you're off to the forest today?
+	tag: Annie
+	tag: Annie2
+	tag: CoastalSettlement
+	tag: FireHair
+	tag: Rey
+	tag: Tony
+	tag: TonyHouse
+	tag: TonyJoke
+	tag: ch-73
+	tag: p-03
+page:2211
+	date: 2019-10-09
+	desc: Annies: Just let me do it / No it's my turn
+	tag: Annie
+	tag: Annie2
+	tag: Rey
+	tag: Tony
+	tag: Syringe
+	tag: Injection
+	tag: TonyHand
+	tag: TonyHouse
+	tag: CoastalSettlement
+	tag: ch-73
+	tag: p-02
+page:2210
+	date: 2019-10-07
+	desc: Chapter 73:<br><br>**The Goose Bone**
+	tag: Annie
+	tag: Annie2
+	tag: ch-73
+	tag: p-01
+page:2209
+	date: 2019-10-04
+	desc: Advert: Volume 7 Synthesis
+	tag: Filler
+	tag: Mort
+	tag: Coyote
+page:2208
+	date: 2019-10-02
+	desc: Bonus 72: Idra in the Court
+	tag: Bonus
+	tag: GiantTree
+	tag: Hair
+	tag: Idra
+	tag: RedZone
+	tag: VendingMachine
+	tag: WispNest
+page:2207
+	date: 2019-09-30
+	desc: Annie: It looks like the lake water is still a few hundred meters that way.
+	tag: Annie
+	tag: Annie2
+	tag: Eglamore
+	tag: GiantTree
+	tag: GooseBone
+	tag: Idra
+	tag: RedZone
+	tag: Rey
+	tag: ch-72
+	tag: p-38
+page:2206
+	date: 2019-09-27
+	desc: Annie2: I don't think I can get us any further.
+	tag: Annie
+	tag: Annie2
+	tag: Fire
+	tag: FireHair
+	tag: GiantTree
+	tag: GooseBone
+	tag: Idra
+	tag: KatsTracker
+	tag: RedZone
+	tag: WispNest
+	tag: ch-72
+	tag: p-38
+page:2205
+	date: 2019-09-25
+	desc: Idra: Aye, it's Ironwood and it'll get thicker the deeper you dig. No gettin' through with no amount of fire
+	tag: Annie
+	tag: Annie2
+	tag: Fire
+	tag: FireHair
+	tag: GiantTree
+	tag: GooseBone
+	tag: Idra
+	tag: KatsTracker
+	tag: RedZone
+	tag: WispNest
+	tag: ch-72
+	tag: p-37
+page:2204
+	date: 2019-09-23
+	desc: Idra: So I guess I'm found out now. And you'll be lockin' me up?
+	tag: Annie
+	tag: Annie2
+	tag: Fire
+	tag: GiantTree
+	tag: Idra
+	tag: KatsTracker
+	tag: RedZone
+	tag: WispNest
+	tag: ch-72
+	tag: p-36
+page:2203
+	date: 2019-09-20
+	desc: Idra: I was all ready to leave you to ’em, ’til I recognised **you**, girl. You came to our village some years ago.
+	note: see [Annie in the Forest](https://www.gunnerkrigg.com/extracomics/)
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: Blush
+	tag: GiantTree
+	tag: Idra
+	tag: RedZone
+	tag: Rey
+	tag: Wisp
+	tag: WispNest
+	tag: ch-72
+	tag: p-35
+page:2202
+	date: 2019-09-18
+	desc: Idra: I been stuck here in the blasted Court for months! I was in the deep forest when everythin' froze. Likely Coyote's doin' right?
+	tag: Annie
+	tag: Annie2
+	tag: AntimonySymbol
+	tag: CHOMP
+	tag: Cvet
+	tag: Flashback
+	tag: CourtSecurity
+	tag: GiantTree
+	tag: Idra
+	tag: RedZone
+	tag: Rey
+	tag: Sword
+	tag: Tunnel
+	tag: Wisp
+	tag: WispNest
+	tag: ch-72
+	tag: p-34
+page:2201
+	date: 2019-09-16
+	desc: Eglamore: Uh... Who's that?
+	tag: Annie
+	tag: AntimonySymbol
+	tag: Cvet
+	tag: Fight
+	tag: Fire
+	tag: FireElemental
+	tag: GiantTree
+	tag: Idra
+	tag: MercurySymbol
+	tag: RedZone
+	tag: Rey
+	tag: Sword
+	tag: Web
+	tag: Wisp
+	tag: WispNest
+	tag: ch-72
+	tag: p-33
+page:2200
+	date: 2019-09-13
+	desc: Annie2: God... / damn... / wisps!
+	tag: Annie
+	tag: Annie2
+	tag: Idra
+	tag: AntimonySymbol
+	tag: Fight
+	tag: FireElemental
+	tag: GiantTree
+	tag: MercurySymbol
+	tag: Parley
+	tag: RedZone
+	tag: Rey
+	tag: Web
+	tag: Wisp
+	tag: WispNest
+	tag: ch-72
+	tag: p-32
+page:2199
+	date: 2019-09-11
+	desc: Annwyn Girl: ’bout time ya woke up!
+	tag: Annie
+	tag: Annie2
+	tag: Idra
+	tag: GiantTree
+	tag: Parley
+	tag: RedZone
+	tag: Web
+	tag: Wisp
+	tag: WispNest
+	tag: ch-72
+	tag: p-31
+page:2198
+	date: 2019-09-09
+	desc: [Wisps revealed]
+	note: MudFigure becomes Idra, an Anwyn woman
+	tag: Idra
+	tag: CourtSecurity
+	tag: GiantTree
+	tag: Fight
+	tag: MudFigure
+	tag: RedZone
+	tag: Wisp
+	tag: WispNest
+	tag: ch-72
+	tag: p-30
+page:2197
+	date: 2019-09-06
+	desc: [Spiked monster leaps away from Parley, reverts to MudFigure]
+	tag: Annie
+	tag: Annie2
+	tag: CourtSecurity
+	tag: Cvet
+	tag: Eglamore
+	tag: Fight
+	tag: GiantTree
+	tag: Monsters
+	tag: MudFigure
+	tag: RedZone
+	tag: SpikedMonster
+	tag: WispNest
+	tag: ch-72
+	tag: p-29
+page:2196
+	date: 2019-09-04
+	desc: Annie2: Annie and Renard are saying that any other monster we might seecould be the rest of our group...
+	tag: Annie2
+	tag: Eglamore
+	tag: GiantTree
+	tag: Monsters
+	tag: ParleyMonster
+	tag: RedZone
+	tag: ReynardMonster
+	tag: SpikedMonster
+	tag: WispNest
+	tag: ch-72
+	tag: p-28
+page:2195
+	date: 2019-09-02
+	desc: Eglamore: Let's just press on for now...
+	tag: Annie2
+	tag: Eglamore
+	tag: GiantTree
+	tag: LightStone
+	tag: Monsters
+	tag: RedZone
+	tag: WispNest
+	tag: ch-72
+	tag: p-27
+page:2194
+	date: 2019-08-30
+	desc: Annie2: Only because you've been treating me like a child! You don't have to be so protective of me, I **choose** to come here.
+	tag: Annie2
+	tag: Eglamore
+	tag: GiantTree
+	tag: LightStone
+	tag: RedZone
+	tag: WispNest
+	tag: ch-72
+	tag: p-26
+page:2193
+	date: 2019-08-28
+	desc: Eglamore: Careful, the whole place looks unstable.
+	tag: Annie2
+	tag: Eglamore
+	tag: GiantTree
+	tag: LightStone
+	tag: RedZone
+	tag: WispNest
+	tag: ch-72
+	tag: p-25
+page:2192
+	date: 2019-08-26
+	desc: Parley: Woah there... I won't fight if you don't...
+	note: MudFigure transforms into SpikedMonster
+	tag: GiantFigure
+	tag: GiantTree
+	tag: SpikedMonster
+	tag: MudFigure
+	tag: Parley
+	tag: RedZone
+	tag: Rey
+	tag: WispNest
+	tag: ch-72
+	tag: p-24
+page:2191
+	date: 2019-08-23
+	desc: Parley: Did someone just throw a rock at me?!.
+	tag: GiantTree
+	tag: Fight
+	tag: MudFigure
+	tag: Parley
+	tag: RedZone
+	tag: Rey
+	tag: WispNest
+	tag: ch-72
+	tag: p-23
+page:2190
+	date: 2019-08-21
+	desc: Cvet: Reynard says Parley is fighting.
+	tag: Annie
+	tag: AntimonySymbol
+	tag: Clud
+	tag: Fight
+	tag: GiantTree
+	tag: MudFigure
+	tag: Parley
+	tag: RedZone
+	tag: WispNest
+	tag: ch-72
+	tag: p-22
+page:2189
+	date: 2019-08-19
+	desc: Cvet: Bah! Not fair I cannot join in on fight.
+	tag: Annie
+	tag: AntimonySymbol
+	tag: Etherium
+	tag: Fight
+	tag: GiantTree
+	tag: MercurySymbol
+	tag: MudFigure
+	tag: Parley
+	tag: RedZone
+	tag: Rey
+	tag: WispNest
+	tag: ch-72
+	tag: p-21
 page:2188
 	date: 2019-08-16
 	desc: Annie2: Something must be blocking our abilities....
@@ -40,13 +478,14 @@ page:2188
 	tag: Etherium
 	tag: GiantTree
 	tag: LEAP
+	tag: LightStone
 	tag: MercurySymbol
 	tag: RedZone
 	tag: Rey
 	tag: Ward
 	tag: WispNest
 	tag: ch-72
-	tag: p-19
+	tag: p-20
 page:2187
 	date: 2019-08-14
 	desc: Eglamore: Here.
@@ -71,6 +510,7 @@ page:2186
 	tag: AntimonySymbol
 	tag: Eglamore
 	tag: Etherium
+	tag: Fight
 	tag: GiantFigure
 	tag: GiantTree
 	tag: MercurySymbol
@@ -88,6 +528,7 @@ page:2185
 	tag: AntimonySymbol
 	tag: Boom
 	tag: Etherium
+	tag: Fight
 	tag: Fist
 	tag: GiantFigure
 	tag: GiantTree
@@ -128,7 +569,7 @@ page:2183
 	tag: p-15
 page:2182
 	date: 2019-08-02
-	desc: Cvet: And I hear that Steve, that man I mentioned before, he ask Lisa to dinner, but remeber she recently ended relationship with Anders.
+	desc: Cvet: And I hear that Steve, that man I mentioned before, he ask Lisa to dinner, but remember she recently ended relationship with Anders.
 	tag: Annie
 	tag: Annie2
 	tag: Etherium
@@ -4592,7 +5033,7 @@ page:1781
 	tag: p-29
 page:1780
 	date: 2017-01-16
-	desc: [Jeanne and the Annwyn man float away and dissolve into the Ether]
+	desc: [Jeanne and her Annwyn man float away and dissolve into the Ether]
 	tag: Annan
 	tag: Annie
 	tag: Boat
@@ -4759,7 +5200,7 @@ page:1768
 	tag: p-16
 page:1767
 	date: 2016-12-16
-	desc: [Annie telekinetically recovers the arrow to the boat]
+	desc: [Annie telekinetically recovers the green arrow into the boat]
 	tag: Annan
 	tag: Annie
 	tag: Boat

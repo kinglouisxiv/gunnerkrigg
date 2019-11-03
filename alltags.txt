@@ -214,6 +214,7 @@ Homework	School work done outside class hours.
 Horsebot	H model [robot](#robots) in a horse frame, as motive power for carriages, carts etc [_{W}_](http://gunnerkrigg.wikia.com/wiki/H_Model).
 Hospital	The hospital/infirmary within the court.
 Hyland 	[Jack's](#jack) father and classmate of [Eglamore](#eglamore), [Donny](#donny), [Anja](#anja) and [Surma](#surma). Not very nice to [Anja](#anja) or [Surma](#surma). [_{W}_](http://gunnerkrigg.wikia.com/wiki/Hyland).
+Idra	Annwyn woman from the forest village Annie visited in [Annie in the Forest](https://www.gunnerkrigg.com/extracomics/comic.php?c=Annie%20in%20the%20Forest%20Part%201)
 Iota 	Greek letter, speculated to symbolise [Jack](#jack) or [Jenny](#jenny) when it appeared in a treatise with [Gamma](#gamma) and [Zeta](#zeta).
 Irial 	[Kamlen's](#kamlen) [Anwyn](#anwyn) love.
 Jack 	Jack [Hyland](#hyland), in the same year as [Annie](#annie) and [Kat](#kat) [_{W}_](http://gunnerkrigg.wikia.com/wiki/Jack_Hyland).
@@ -472,12 +473,12 @@ ch-71	New Contract
 ch-70	Dealing with HER
 ch-69	Loup's Trick
 ch-68	Neither
-ch-67	Evac
-ch-66	Memories Of The Worthless
-ch-65	Katerday
-ch-64	Get Lost
-ch-63	The Shadow Men
-ch-62	And Then Coyote Said...
+ch-67	Evac [YT](https://youtu.be/GmJbBnPEReE)
+ch-66	Memories Of The Worthless [YT](https://youtu.be/I4xSF3e6yTo)
+ch-65	Katerday [YT](https://youtu.be/ByXS2VMqxTg)
+ch-64	Get Lost [YT](https://youtu.be/ilXOVxah-_U)
+ch-63	The Shadow Men [YT](https://youtu.be/s6prOn4mXbo)
+ch-62	And Then Coyote Said... [YT](https://youtu.be/hJzaYfF0f9k) 
 ch-61	Red's Friend Gets A Name Too I Suppose [YT](https://youtu.be/tIQaTXuD-sE)
 ch-60	The Other Shore [YT](https://youtu.be/Ci1Q7Yl-N2Q)
 ch-59	Jeanne [YT](https://youtu.be/s5QkZlHrIak)
